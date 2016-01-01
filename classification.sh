@@ -1,12 +1,15 @@
 #filename="$1"
 #filename="classificacao.csv"
 
+
+rm -Rf /output/* /pretext/textos/* /pretext/textos_Maid
+
 python pos_extractor.py
 perl pretext/Start.pl
 
 echo "\"classification\"," >> discover.csv
 # sed s/:[^:]*$/,/g pretext/discover/discover.names | tr '\n' ' ' >> discover.csv
-# sed s/_[^_]*$//g pretext/discover/discover.names | sed s/:[^:]*$/,/g | tr '\n' ' ' >> discover.csv
+# sed s/__[^__]*$//g pretext/discover/discover.names | sed s/:[^:]*$/,/g | tr '\n' ' ' >> discover.csv
 
 filename="discover.csv"
 

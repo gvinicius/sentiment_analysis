@@ -899,3 +899,84 @@ Number of Stems                                              103
 Total Time: 0
 #-------------------#
 
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../output
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stemming     = ENABLED
+  > directory = steminfo
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+ Taxonomy     = taxonomia.txt
+  1-Gram      = ENABLED
+   > Max      = 50
+   > Min      = 1
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Cut with user defined restriction max = 50                  1
+ Cut with user defined restriction min = 1                   0
+ Number of 1-gram loaded from ngraminfo/1Gram.all            100
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 100
+Total Texts : 24
+-----------------------
+
+Matrix Density                                               138.71
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              24
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              100
+
+#-------------------#
+Total Time: 1
+#-------------------#
+

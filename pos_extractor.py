@@ -23,14 +23,15 @@ def generate_bases():
             lowers = text.read().lower()
             tokenizer = RegexpTokenizer(r'\w+') 
             tokens = tokenizer.tokenize(lowers)
-            classification = tokens(1)
+            classification = tokens[0]
             tokens.remove(classification)
+            print (classification)
 #            filtered_tokens = [w for w in tokens if not w in stopwords.words('english')]
             tagged = nltk.pos_tag(tokens)
             selected_tokens = [word for word,pos in tagged if pos =='JJ' or pos =='RB' or pos =='CC' ]
-            filename = classification + "_" + counter
+            filename = str(counter) + "_" + classification
             counter += 1
-            open("output/tagged_file".replace('file',filename), "w").write(str(selected_tokens))
+            open("output/file".replace('file',filename), "w").write(str(selected_tokens))
 
 def main():
     generate_bases()

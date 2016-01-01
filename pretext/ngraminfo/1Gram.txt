@@ -1,28 +1,33 @@
-textos_Maid/tagged_01.txt
+../output_Maid/tagged_the_1
        democrat:1
        modern:1
        nuclear:1
        there:1
-textos_Maid/tagged_02.txt
+       u:4
+../output_Maid/tagged_the_2
        nation:1
        new:1
        next:1
-textos_Maid/tagged_03.txt
+       u:3
+../output_Maid/tagged_the_3
        and:1
        but:1
        controversi:1
        econom:1
        nation:1
+       pacif:1
        popular:1
+       u:8
        variou:1
-textos_Maid/tagged_04.txt
+../output_Maid/tagged_a_4
        free:1
        import:1
        individu:1
        or:2
        own:1
        same:1
-textos_Maid/tagged_05.txt
+       u:7
+../output_Maid/tagged_the_5
        ancient:1
        and:4
        as:1
@@ -35,9 +40,8 @@ textos_Maid/tagged_05.txt
        or:2
        so:1
        th:2
-textos_Maid/tagged_06.txt
-       weak:1
-textos_Maid/tagged_07.txt
+       u:17
+../output_Maid/tagged_democracy_7
        and:2
        current:1
        elector:1
@@ -47,8 +51,9 @@ textos_Maid/tagged_07.txt
        popular:2
        second:1
        strongli:1
+       u:13
        unit:2
-textos_Maid/tagged_08.txt
+../output_Maid/tagged_there_8
        and:4
        first:1
        former:1
@@ -58,7 +63,8 @@ textos_Maid/tagged_08.txt
        nation:1
        polit:1
        popular:1
-textos_Maid/tagged_09.txt
+       u:12
+../output_Maid/tagged_some_9
        and:2
        black:1
        but:1
@@ -69,7 +75,8 @@ textos_Maid/tagged_09.txt
        own:1
        seriou:1
        so:1
-textos_Maid/tagged_10.txt
+       u:11
+../output_Maid/tagged_democracy_10
        democrat:1
        extrem:1
        first:2
@@ -78,27 +85,29 @@ textos_Maid/tagged_10.txt
        now:1
        old:1
        popular:1
+       u:10
        unit:1
-textos_Maid/tagged_11.txt
+../output_Maid/tagged_new_11
        and:1
        countroversi:1
-       new:1
        polit:1
-textos_Maid/tagged_12.txt
+       u:3
+../output_Maid/tagged_in_12
        democrat:1
        ellector:1
        execut:1
        mandatori:1
        not:1
-textos_Maid/tagged_13.txt
+       u:5
+../output_Maid/tagged_illegal_13
        and:2
        but:1
        huge:1
-       illeg:1
        larg:2
        not:1
        right:1
-textos_Maid/tagged_14.txt
+       u:8
+../output_Maid/tagged_other_14
        and:3
        but:1
        good:1
@@ -107,17 +116,19 @@ textos_Maid/tagged_14.txt
        major:1
        much:1
        not:1
-       other:2
+       other:1
        particular:1
        polit:1
        short:1
        then:1
+       u:16
        unit:1
-textos_Maid/tagged_15.txt
+../output_Maid/tagged_youg_15
        gener:1
        power:1
        same:1
-textos_Maid/tagged_16.txt
+       u:3
+../output_Maid/tagged_economy_16
        bad:1
        current:1
        determin:1
@@ -127,8 +138,9 @@ textos_Maid/tagged_16.txt
        often:1
        or:2
        top:1
+       u:12
        usual:1
-textos_Maid/tagged_17.txt
+../output_Maid/tagged_there_17
        and:2
        black:2
        littl:1
@@ -139,16 +151,18 @@ textos_Maid/tagged_17.txt
        poor:1
        seriou:1
        social:1
-textos_Maid/tagged_18.txt
+       u:12
+../output_Maid/tagged_the_18
        and:2
        radic:1
        strict:1
-textos_Maid/tagged_19.txt
-       big:1
+       u:4
+../output_Maid/tagged_big_19
        power:1
        real:1
        sometim:1
-textos_Maid/tagged_20.txt
+       u:3
+../output_Maid/tagged_china_20
        and:2
        but:1
        chines:1
@@ -158,8 +172,9 @@ textos_Maid/tagged_20.txt
        new:1
        not:1
        strongli:1
+       u:11
        unit:1
-textos_Maid/tagged_21.txt
+../output_Maid/tagged_we_21
        and:1
        conserv:2
        democrat:1
@@ -169,28 +184,31 @@ textos_Maid/tagged_21.txt
        particularli:1
        primari:1
        republican:1
-textos_Maid/tagged_22.txt
+       u:10
+../output_Maid/tagged_1_22
        and:2
        poor:1
        rich:1
-textos_Maid/tagged_23.txt
+       u:4
+../output_Maid/tagged_it_23
        and:1
        authent:1
        foreign:1
        howev:1
        huge:1
        north:1
-textos_Maid/tagged_24.txt
+       u:6
+../output_Maid/tagged_digital_24
        also:1
        and:1
        as:1
        but:1
-       digit:1
        not:1
        onli:1
        suspect:1
+       u:8
        whole:1
-textos_Maid/tagged_25.txt
+../output_Maid/tagged_corruption_25
        and:1
        entir:1
        polit:1
@@ -198,4 +216,5 @@ textos_Maid/tagged_25.txt
        popular:1
        public:2
        so:1
+       u:9
        worst:1
