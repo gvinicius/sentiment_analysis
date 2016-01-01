@@ -1,0 +1,1 @@
+[u'and', u'strict', u'radical', u'and']

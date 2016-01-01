@@ -1,0 +1,1 @@
+['not', 'mandatory', 'democratic', 'executive', 'ellectoral']

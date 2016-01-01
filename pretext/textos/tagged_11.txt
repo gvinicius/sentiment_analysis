@@ -1,0 +1,1 @@
+['new', 'political', 'countroversial', 'and']

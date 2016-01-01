@@ -1,0 +1,201 @@
+textos_Maid/tagged_01.txt
+       democrat:1
+       modern:1
+       nuclear:1
+       there:1
+textos_Maid/tagged_02.txt
+       nation:1
+       new:1
+       next:1
+textos_Maid/tagged_03.txt
+       and:1
+       but:1
+       controversi:1
+       econom:1
+       nation:1
+       popular:1
+       variou:1
+textos_Maid/tagged_04.txt
+       free:1
+       import:1
+       individu:1
+       or:2
+       own:1
+       same:1
+textos_Maid/tagged_05.txt
+       ancient:1
+       and:4
+       as:1
+       asid:1
+       athenian:1
+       democrat:1
+       even:1
+       larg:1
+       modern:1
+       or:2
+       so:1
+       th:2
+textos_Maid/tagged_06.txt
+       weak:1
+textos_Maid/tagged_07.txt
+       and:2
+       current:1
+       elector:1
+       first:1
+       kei:1
+       nation:1
+       popular:2
+       second:1
+       strongli:1
+       unit:2
+textos_Maid/tagged_08.txt
+       and:4
+       first:1
+       former:1
+       futur:1
+       liber:1
+       main:1
+       nation:1
+       polit:1
+       popular:1
+textos_Maid/tagged_09.txt
+       and:2
+       black:1
+       but:1
+       democrat:1
+       develop:1
+       even:1
+       onli:1
+       own:1
+       seriou:1
+       so:1
+textos_Maid/tagged_10.txt
+       democrat:1
+       extrem:1
+       first:2
+       initi:1
+       late:1
+       now:1
+       old:1
+       popular:1
+       unit:1
+textos_Maid/tagged_11.txt
+       and:1
+       countroversi:1
+       new:1
+       polit:1
+textos_Maid/tagged_12.txt
+       democrat:1
+       ellector:1
+       execut:1
+       mandatori:1
+       not:1
+textos_Maid/tagged_13.txt
+       and:2
+       but:1
+       huge:1
+       illeg:1
+       larg:2
+       not:1
+       right:1
+textos_Maid/tagged_14.txt
+       and:3
+       but:1
+       good:1
+       green:1
+       import:1
+       major:1
+       much:1
+       not:1
+       other:2
+       particular:1
+       polit:1
+       short:1
+       then:1
+       unit:1
+textos_Maid/tagged_15.txt
+       gener:1
+       power:1
+       same:1
+textos_Maid/tagged_16.txt
+       bad:1
+       current:1
+       determin:1
+       econom:2
+       elector:1
+       highli:1
+       often:1
+       or:2
+       top:1
+       usual:1
+textos_Maid/tagged_17.txt
+       and:2
+       black:2
+       littl:1
+       mean:1
+       north:1
+       not:1
+       now:1
+       poor:1
+       seriou:1
+       social:1
+textos_Maid/tagged_18.txt
+       and:2
+       radic:1
+       strict:1
+textos_Maid/tagged_19.txt
+       big:1
+       power:1
+       real:1
+       sometim:1
+textos_Maid/tagged_20.txt
+       and:2
+       but:1
+       chines:1
+       classic:1
+       cold:1
+       highli:1
+       new:1
+       not:1
+       strongli:1
+       unit:1
+textos_Maid/tagged_21.txt
+       and:1
+       conserv:2
+       democrat:1
+       hillari:1
+       major:1
+       north:1
+       particularli:1
+       primari:1
+       republican:1
+textos_Maid/tagged_22.txt
+       and:2
+       poor:1
+       rich:1
+textos_Maid/tagged_23.txt
+       and:1
+       authent:1
+       foreign:1
+       howev:1
+       huge:1
+       north:1
+textos_Maid/tagged_24.txt
+       also:1
+       and:1
+       as:1
+       but:1
+       digit:1
+       not:1
+       onli:1
+       suspect:1
+       whole:1
+textos_Maid/tagged_25.txt
+       and:1
+       entir:1
+       polit:1
+       politician:1
+       popular:1
+       public:2
+       so:1
+       worst:1

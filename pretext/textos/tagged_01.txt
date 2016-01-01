@@ -1,0 +1,1 @@
+['nuclear', 'modern', 'there', 'democratic']
