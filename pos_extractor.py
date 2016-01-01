@@ -16,16 +16,21 @@ path = 'gesteira_corpus/'
 
 def generate_bases():
     for subdir, dirs, files in os.walk(path):
+        counter = 1
         for file in files:
             file_path = subdir + os.path.sep + file
             text = codecs.open(file_path, 'r',encoding='utf-8', errors='ignore' )
             lowers = text.read().lower()
             tokenizer = RegexpTokenizer(r'\w+') 
             tokens = tokenizer.tokenize(lowers)
-            filtered_tokens = [w for w in tokens if not w in stopwords.words('english')]
+            classification = tokens(1)
+            tokens.remove(classification)
+#            filtered_tokens = [w for w in tokens if not w in stopwords.words('english')]
             tagged = nltk.pos_tag(tokens)
             selected_tokens = [word for word,pos in tagged if pos =='JJ' or pos =='RB' or pos =='CC' ]
-            open("output/tagged_file".replace('file',file), "w").write(str(selected_tokens))
+            filename = classification + "_" + counter
+            counter += 1
+            open("output/tagged_file".replace('file',filename), "w").write(str(selected_tokens))
 
 def main():
     generate_bases()
