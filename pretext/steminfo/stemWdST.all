@@ -16,6 +16,8 @@ authent : 1(1/25)
        authentic:1
 bad : 1(1/25)
        bad:1
+big : 1(1/25)
+       big:1
 black : 3(2/25)
        black:3
 but : 6(6/25)
@@ -42,6 +44,8 @@ determin : 1(1/25)
        determinant:1
 develop : 1(1/25)
        developed:1
+digit : 1(1/25)
+       digital:1
 econom : 3(2/25)
        economic:1
        economical:2
@@ -81,6 +85,8 @@ howev : 1(1/25)
        however:1
 huge : 2(2/25)
        huge:2
+illeg : 1(1/25)
+       illegal:1
 import : 2(2/25)
        important:2
 individu : 1(1/25)
@@ -111,8 +117,8 @@ much : 1(1/25)
        much:1
 nation : 4(4/25)
        national:4
-new : 2(2/25)
-       new:2
+new : 3(3/25)
+       new:3
 next : 1(1/25)
        next:1
 north : 3(3/25)
@@ -131,12 +137,10 @@ onli : 2(2/25)
        only:2
 or : 6(3/25)
        or:6
-other : 1(1/25)
-       other:1
+other : 2(1/25)
+       other:2
 own : 2(2/25)
        own:2
-pacif : 1(1/25)
-       pacific:1
 particular : 1(1/25)
        particular:1
 particularli : 1(1/25)
@@ -193,14 +197,16 @@ there : 1(1/25)
        there:1
 top : 1(1/25)
        top:1
-u : 199(24/25)
-       u:199
+u : 204(25/25)
+       u:204
 unit : 5(4/25)
        united:5
 usual : 1(1/25)
        usually:1
 variou : 1(1/25)
        various:1
+weak : 1(1/25)
+       weak:1
 whole : 1(1/25)
        whole:1
 worst : 1(1/25)

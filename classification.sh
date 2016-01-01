@@ -1,26 +1,30 @@
 #filename="$1"
 #filename="classificacao.csv"
 
-
-rm -Rf /output/* /pretext/textos/* /pretext/textos_Maid
-
-python pos_extractor.py
-perl pretext/Start.pl
-
-echo "\"classification\"," >> discover.csv
-# sed s/:[^:]*$/,/g pretext/discover/discover.names | tr '\n' ' ' >> discover.csv
-# sed s/__[^__]*$//g pretext/discover/discover.names | sed s/:[^:]*$/,/g | tr '\n' ' ' >> discover.csv
-
 filename="discover.csv"
 
-$result_filename = result.txt
+result_filename="result.txt"
 
+rm -Rf output/* output_Maid/*
 rm -Rf $result_filename
+rm -Rf $filename
+
+python pos_extractor.py
+cd pretext
+perl Start.pl
+cd ..
+
+echo "\"classification\", " | tr '\n' ' '  >> discover.csv 
+tail -n +2 pretext/discover/discover.names  | sed s/:[^:]*$/,/g  | sed '$ s/.$//' | tr '\n' ' '  >> discover.csv
+echo -e "\n"  | tr '\n' ' ' >> discover.csv
+sed s/...\output_Maid\.[0-9]*-//g pretext/discover/discover.data | sed s/,output_Maid//g >> discover.csv
+
+
 
 echo "Beginning the classification"
 
 echo "NaiveBayes" >> $result_filename
-java -cp $CLASSPATH weka.classifiers.bayes.NaiveBayes -c 1 -o -t $filename >>  $result_filename
+java -cp $CLASSPATH weka.classifiers.bayes.NaiveBayes -c 1 -o -t "discover.csv" >>  $result_filename
 echo "--- end of NaiveBayes ---" >> $result_filename
 
 echo "NaiveBayesMultinomial" >> $result_filename
