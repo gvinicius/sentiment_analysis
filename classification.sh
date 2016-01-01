@@ -14,10 +14,11 @@ cd pretext
 perl Start.pl
 cd ..
 
-echo "\"classification\", " | tr '\n' ' '  >> discover.csv 
-tail -n +2 pretext/discover/discover.names  | sed s/:[^:]*$/,/g  | sed '$ s/.$//' | tr '\n' ' '  >> discover.csv
-echo -e "\n"  | tr '\n' ' ' >> discover.csv
-sed s/...\output_Maid\.[0-9]*-//g pretext/discover/discover.data | sed s/,output_Maid//g >> discover.csv
+echo "classification," | tr '\n' ' '  >> discover.csv 
+tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed s/:[^:]*$/,/g  | sed '$ s/.$//' | tr '\n' ' '  >> discover.csv
+echo -e "\n" >> discover.csv
+sed '2d' discover.csv
+sed s/...\output_Maid\.[0-9]*_//g pretext/discover/discover.data | sed s/,output_Maid//g >> discover.csv
 
 
 
