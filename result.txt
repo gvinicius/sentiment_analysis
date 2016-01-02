@@ -1,6 +1,50 @@
 NaiveBayes
 
-Time taken to build model: 0.02 seconds
+Time taken to build model: 0.03 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances          25              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0036
+Root mean squared error                  0.0153
+Relative absolute error                  2.1042 %
+Root relative squared error              5.5876 %
+Total Number of Instances               25     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 23  0 |  a = cfb
+  0  2 |  b = noncfb
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances          21               84      %
+Incorrectly Classified Instances         4               16      %
+Kappa statistic                         -0.087 
+Mean absolute error                      0.1453
+Root mean squared error                  0.3431
+Relative absolute error                 80.8737 %
+Root relative squared error            121.5135 %
+Total Number of Instances               25     
+
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 21  2 |  a = cfb
+  2  0 |  b = noncfb
+
+--- end of NaiveBayes ---
+NaiveBayesMultinomial
+
+Time taken to build model: 0.01 seconds
 Time taken to test model on training data: 0.06 seconds
 
 === Error on training data ===
@@ -8,10 +52,10 @@ Time taken to test model on training data: 0.06 seconds
 Correctly Classified Instances          25              100      %
 Incorrectly Classified Instances         0                0      %
 Kappa statistic                          1     
-Mean absolute error                      0.0126
-Root mean squared error                  0.0628
-Relative absolute error                  7.2527 %
-Root relative squared error             22.9967 %
+Mean absolute error                      0.0637
+Root mean squared error                  0.0841
+Relative absolute error                 36.7246 %
+Root relative squared error             30.7814 %
 Total Number of Instances               25     
 
 
@@ -19,76 +63,32 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  23  0 |  a = cfb
-  0  2 |  b = non
+  0  2 |  b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances          23               92      %
-Incorrectly Classified Instances         2                8      %
-Kappa statistic                          0     
-Mean absolute error                      0.0973
-Root mean squared error                  0.2898
-Relative absolute error                 54.1362 %
-Root relative squared error            102.648  %
+Correctly Classified Instances           5               20      %
+Incorrectly Classified Instances        20               80      %
+Kappa statistic                         -0.0638
+Mean absolute error                      0.7693
+Root mean squared error                  0.8025
+Relative absolute error                428.2075 %
+Root relative squared error            284.213  %
 Total Number of Instances               25     
 
 
 === Confusion Matrix ===
 
   a  b   <-- classified as
- 23  0 |  a = cfb
-  2  0 |  b = non
-
---- end of NaiveBayes ---
-NaiveBayesMultinomial
-
-Time taken to build model: 0.01 seconds
-Time taken to test model on training data: 0.04 seconds
-
-=== Error on training data ===
-
-Correctly Classified Instances          25              100      %
-Incorrectly Classified Instances         0                0      %
-Kappa statistic                          1     
-Mean absolute error                      0.0584
-Root mean squared error                  0.0787
-Relative absolute error                 33.6679 %
-Root relative squared error             28.8243 %
-Total Number of Instances               25     
-
-
-=== Confusion Matrix ===
-
-  a  b   <-- classified as
- 23  0 |  a = cfb
-  0  2 |  b = non
-
-
-
-=== Stratified cross-validation ===
-
-Correctly Classified Instances           7               28      %
-Incorrectly Classified Instances        18               72      %
-Kappa statistic                         -0.0514
-Mean absolute error                      0.7065
-Root mean squared error                  0.7488
-Relative absolute error                393.2505 %
-Root relative squared error            265.2078 %
-Total Number of Instances               25     
-
-
-=== Confusion Matrix ===
-
-  a  b   <-- classified as
-  6 17 |  a = cfb
-  1  1 |  b = non
+  4 19 |  a = cfb
+  1  1 |  b = noncfb
 
 --- end of NaiveBayesMultinominal ---
 SVM
 
-Time taken to build model: 0.07 seconds
+Time taken to build model: 0.09 seconds
 Time taken to test model on training data: 0.02 seconds
 
 === Error on training data ===
@@ -107,7 +107,7 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  23  0 |  a = cfb
-  0  2 |  b = non
+  0  2 |  b = noncfb
 
 
 
@@ -127,13 +127,13 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  23  0 |  a = cfb
-  2  0 |  b = non
+  2  0 |  b = noncfb
 
 --- end of SVM ---
 KNN
 
-Time taken to build model: 0 seconds
-Time taken to test model on training data: 0.06 seconds
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 0.12 seconds
 
 === Error on training data ===
 
@@ -151,7 +151,7 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  23  0 |  a = cfb
-  0  2 |  b = non
+  0  2 |  b = noncfb
 
 
 
@@ -160,10 +160,10 @@ Total Number of Instances               25
 Correctly Classified Instances          22               88      %
 Incorrectly Classified Instances         3               12      %
 Kappa statistic                         -0.0563
-Mean absolute error                      0.2039
-Root mean squared error                  0.3761
-Relative absolute error                113.471  %
-Root relative squared error            133.2142 %
+Mean absolute error                      0.2322
+Root mean squared error                  0.3947
+Relative absolute error                129.2324 %
+Root relative squared error            139.793  %
 Total Number of Instances               25     
 
 
@@ -171,12 +171,12 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  22  1 |  a = cfb
-  2  0 |  b = non
+  2  0 |  b = noncfb
 
 --- end of KNN ---
 J48
 
-Time taken to build model: 0.05 seconds
+Time taken to build model: 0.07 seconds
 Time taken to test model on training data: 0.02 seconds
 
 === Error on training data ===
@@ -195,7 +195,7 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  23  0 |  a = cfb
-  2  0 |  b = non
+  2  0 |  b = noncfb
 
 
 
@@ -215,6 +215,6 @@ Total Number of Instances               25
 
   a  b   <-- classified as
  23  0 |  a = cfb
-  2  0 |  b = non
+  2  0 |  b = noncfb
 
 --- end of J48  ---
