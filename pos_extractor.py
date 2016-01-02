@@ -12,8 +12,8 @@ import codecs
 from nltk.corpus import treebank
 
 
-path = 'gesteira_corpus/'
-#path = '../dataset/test/'
+#path = 'gesteira_corpus/'
+path = '../dataset/test/'
 
 def generate_bases():
     for subdir, dirs, files in os.walk(path):
@@ -27,7 +27,7 @@ def generate_bases():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(lowers)
             for word in raw_tokens:
-                if (tokens == " " and classification == "") or word == "cfb":
+                if (tokens == " " and classification == ""): # or word == "cfb":
                     classification += word
                 else:
                     tokens += str(word) + " "
