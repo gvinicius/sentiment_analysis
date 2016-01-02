@@ -12,7 +12,7 @@ import codecs
 from nltk.corpus import treebank
 
 path = 'gesteira_corpus/'
-
+#path = '../dataset/test/'
 
 def generate_bases():
     for subdir, dirs, files in os.walk(path):
@@ -22,12 +22,14 @@ def generate_bases():
             text = codecs.open(file_path, 'r',encoding='utf-8', errors='ignore' )
             lowers = text.read().lower()
             tokenizer = RegexpTokenizer(r'\w+') 
-            tokens = tokenizer.tokenize(lowers)
-            classification = tokens[0]
-            tokens.remove(classification)
+            raw_tokens = tokenizer.tokenize(lowers)
+            tokens = " "
+            for word in raw_tokens:
+                tokens += str(word) + " "
+            classification = tokens.split(' ', 1)[0]
 #            filtered_tokens = [w for w in tokens if not w in stopwords.words('english')]
             tagged = nltk.pos_tag(tokens)
-            selected_tokens = [word for word,pos in tagged if pos =='JJ' or pos =='RB' or pos =='CC' ]
+            selected_tokens = [word for word,pos in tagged if pos =='JJ' or pos =='RB' or pos =='CC' and word != "and" ]
             filename = str(counter) + "_" + classification
             counter += 1
             open("output/file".replace('file',filename), "w").write(str(selected_tokens))

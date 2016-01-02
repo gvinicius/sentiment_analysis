@@ -1,7 +1,7 @@
 #filename="$1"
 #filename="classificacao.csv"
 
-filename="discover.csv"
+filename="discover.arff"
 
 
 rm -Rf output/* output_Maid/*
@@ -12,9 +12,9 @@ cd pretext
 perl Start.pl
 cd ..
 
-echo "classification," | tr '\n' ' '  >> discover.csv 
-tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed s/:[^:]*$/,/g  | sed '$ s/.$//' | tr '\n' ' '  >> discover.csv
-echo -e "\n" >> discover.csv
-sed -i '2d' discover.csv
-sed s/...\output_Maid\.[0-9]*_//g pretext/discover/discover.data | sed s/,output_Maid//g >> discover.csv
+echo -e "@relation sentiment \n@classification {\"pos\", \"neg\"}\n"  >> $filename 
+tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/:[^:]*$/ REAL/g'  | sed '$ s/.$//'   >> $filename
+echo -e "\n@data\n" >> $filename
+sed -i '2d' $filename
+sed s/...\output_Maid\.[0-9]*_//g pretext/discover/discover.data | sed s/,output_Maid//g >> $filename
 
