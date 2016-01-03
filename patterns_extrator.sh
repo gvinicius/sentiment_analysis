@@ -15,7 +15,7 @@ echo "--- end of NaiveBayes ---" >> $result_filename
 
 echo "NaiveBayesMultinomial" >> $result_filename
 java  -Xms512m -Xmx2048m -cp /usr/share/java/weka.jar  weka.classifiers.bayes.NaiveBayesMultinomial -c 1 -t $filename -o >>  $result_filename
-echo "--- end of NaiveBayesMultinominal ---" >> $result_filename
+echo "--- end of NaiveBayesMultinomial ---" >> $result_filename
 
 echo "SVM" >> $result_filename
 java  -Xms512m -Xmx2048m -cp  /usr/share/java/weka.jar  weka.classifiers.functions.SMO -c 1 -t $filename -o >>  $result_filename
