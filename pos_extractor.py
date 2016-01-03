@@ -10,7 +10,7 @@ import os
 import codecs
 
 from nltk.corpus import treebank
-
+# -*- coding: latin-1 -*-
 
 #path = 'gesteira_corpus/'
 path = '../dataset/test/'
@@ -20,7 +20,7 @@ def generate_bases():
         counter = 1
         for file in files:
             file_path = subdir + os.path.sep + file
-            text = codecs.open(file_path, 'r',encoding='utf-8', errors='ignore' )
+            text = codecs.open(file_path, 'r',encoding='ascii', errors='ignore' )
             lowers = text.read().lower()
             tokens = " "
             classification = ""
