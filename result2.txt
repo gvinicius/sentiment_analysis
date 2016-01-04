@@ -1,0 +1,10 @@
+NaiveBayes
+--- end of NaiveBayes ---
+NaiveBayesMultinomial
+--- end of NaiveBayesMultinomial ---
+SVM
+--- end of SVM ---
+KNN
+--- end of KNN ---
+J48
+--- end of J48  ---

@@ -18,4 +18,4 @@ echo -e "$a \t J48" | tr -s "\n" "\t"  >>  $chart_dataset
 a=$((a+1))
 grep ^J48 -A 40 result.txt | awk '/^Correctly/{i++}i==2' | grep -o '.\{9\}$' | head -1 | tr "%" " " >>  $chart_dataset
 
-gnuplot -e set boxwidth 0.5; set style fill solid; plot "$filename" using 1:3:xtic(2) with boxes;
+#/usr/share/gnuplot/gnuplot/4.6/app-defaults/ -e set boxwidth 0.5; set style fill solid; plot "$filename" using 1:3:xtic\(2\) with boxes

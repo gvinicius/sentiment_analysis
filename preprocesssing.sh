@@ -1,19 +1,20 @@
 #filename="$1"
 #filename="classificacao.csv"
 
-filename="discover.arff"
+filename="discover2.arff"
 
-
+: << END
 rm -Rf output/* output_Maid/*
 rm -Rf $filename
 
 python pos_extractor.py
+END
 cd pretext
 perl Start.pl
 cd ..
 
 echo -e "@relation sentiment \n"  >> $filename 
-echo -e "@attribute classification {\"cfb\", \"noncfb\"}"  >> $filename 
+echo -e "@attribute classification {\"neg\", \"pos\"}"  >> $filename 
 #echo -e "@relation sentiment \n@classification {\"pos\", \"neg\"}\n"  >> $filename 
 tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/^/@attribute /g' | sed 's/:[^:]*$/ REAL/g'  >> $filename
 echo -e "\n@data\n" >> $filename

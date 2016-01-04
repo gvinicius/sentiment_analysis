@@ -1,0 +1,5 @@
+0 	 NaiveBayes	57.4526  
+1 	 NaiveBayesMultinomial	58.1447  
+2 	 SVM	57.9846  
+3 	 KNN	55.0884  
+4 	 J48	57.4486  

@@ -42,7 +42,7 @@ def generate_bases():
                 final_tokens += word +" "
             filename = str(counter) + "_" + classification
             counter += 1
-            open("output/file".replace('file',filename), "w").write(str(final_tokens))
+            open("../output/file".replace('file',filename), "w").write(str(final_tokens))
 
 
 def main():

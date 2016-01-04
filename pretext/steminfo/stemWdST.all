@@ -195,8 +195,8 @@ acerb : 6(6/25000)
 achenbach : 1(1/25000)
        achenbach:1
 achiev : 5(5/25000)
-       achieved:1
        achievement:1
+       achieved:1
        achieve:3
 achil : 1(1/25000)
        achille:1
@@ -410,8 +410,8 @@ aerial : 52(47/25000)
 aeronaut : 2(2/25000)
        aeronautical:2
 aesthet : 86(80/25000)
-       aesthetical:1
        aesthete:1
+       aesthetical:1
        aesthetically:20
        aesthetic:64
 afar : 1(1/25000)
@@ -424,8 +424,8 @@ affabl : 16(16/25000)
 affair : 13(13/25000)
        affair:13
 affect : 10(10/25000)
-       affective:2
        affected:2
+       affective:2
        affect:6
 affection : 22(22/25000)
        affectionately:8
@@ -435,8 +435,8 @@ affili : 1(1/25000)
 affirm : 4(4/25000)
        affirmative:4
 affluent : 2(2/25000)
-       affluent:1
        affluently:1
+       affluent:1
 afford : 8(8/25000)
        afford:1
        affordable:7
@@ -553,8 +553,8 @@ air : 34(31/25000)
        aired:1
        air:33
 airhead : 2(2/25000)
-       airhead:1
        airheaded:1
+       airhead:1
 airi : 2(2/25000)
        airy:2
 airili : 1(1/25000)
@@ -779,8 +779,8 @@ amazingli : 203(199/25000)
 amazinli : 1(1/25000)
        amazinly:1
 amazon : 2(2/25000)
-       amazonic:1
        amazon:1
+       amazonic:1
 amazonian : 4(4/25000)
        amazonian:4
 amber : 1(1/25000)
@@ -903,8 +903,8 @@ analog : 2(2/25000)
 analogu : 1(1/25000)
        analoguous:1
 analyt : 4(4/25000)
-       analytically:1
        analytic:1
+       analytically:1
        analytical:2
 anamorph : 8(7/25000)
        anamorphic:8
@@ -1659,8 +1659,8 @@ atmospher : 392(369/25000)
 atom : 73(55/25000)
        atomic:73
 aton : 2(2/25000)
-       atonal:1
        atonement:1
+       atonal:1
 atonom : 1(1/25000)
        atonomically:1
 atop : 3(3/25000)
@@ -1697,8 +1697,8 @@ attic : 40(31/25000)
        attic:40
 attract : 334(315/25000)
        attract:1
-       attractively:2
        attracted:2
+       attractively:2
        attractive:329
 attribut : 1(1/25000)
        attribute:1
@@ -1769,8 +1769,8 @@ authent : 160(150/25000)
        authentically:8
        authentic:152
 author : 2(2/25000)
-       authorative:1
        authorized:1
+       authorative:1
 authorit : 8(8/25000)
        authoritatively:1
        authoritative:7
@@ -1978,8 +1978,8 @@ baghban : 1(1/25000)
 bah : 4(4/25000)
        bah:4
 bail : 2(2/25000)
-       bailed:1
        bail:1
+       bailed:1
 baili : 1(1/25000)
        baily:1
 baird : 5(1/25000)
@@ -3835,8 +3835,8 @@ carrei : 3(3/25000)
 carrer : 6(5/25000)
        carrere:6
 carri : 5(5/25000)
-       carrie:1
        carried:1
+       carrie:1
        carry:3
 carribean : 1(1/25000)
        carribean:1
@@ -3877,8 +3877,8 @@ cashen : 1(1/25000)
 casper : 1(1/25000)
        casper:1
 cassel : 2(2/25000)
-       cassel:1
        cassell:1
+       cassel:1
 casserol : 1(1/25000)
        casserole:1
 cassi : 4(4/25000)
@@ -3925,8 +3925,8 @@ catdog : 1(1/25000)
 cate : 1(1/25000)
        cate:1
 categor : 2(2/25000)
-       categorically:1
        categorical:1
+       categorically:1
 categori : 2(2/25000)
        category:2
 caterpillar : 1(1/25000)
@@ -4090,8 +4090,8 @@ certain : 810(736/25000)
 certainli : 1507(1351/25000)
        certainly:1507
 certifi : 5(5/25000)
-       certifiable:1
        certifiably:1
+       certifiable:1
        certified:3
 cevic : 2(2/25000)
        cevic:2
@@ -4100,8 +4100,8 @@ ceylan : 1(1/25000)
 cg : 4(4/25000)
        cg:4
 cgi : 2(2/25000)
-       cgied:1
        cgi:1
+       cgied:1
 chabat : 2(1/25000)
        chabat:2
 chad : 3(3/25000)
@@ -4390,8 +4390,8 @@ choregraphi : 1(1/25000)
        choregraphy:1
 choreograph : 10(10/25000)
        choreograph:1
-       choreographically:1
        choreographer:1
+       choreographically:1
        choreographed:7
 choreographi : 2(2/25000)
        choreography:2
@@ -4538,8 +4538,8 @@ clare : 1(1/25000)
 claret : 1(1/25000)
        claret:1
 clarifi : 2(2/25000)
-       clarified:1
        clarify:1
+       clarified:1
 clark : 2(2/25000)
        clark:2
 clash : 2(2/25000)
@@ -4665,8 +4665,8 @@ close : 1083(1012/25000)
 closest : 1(1/25000)
        closest:1
 closet : 6(6/25000)
-       closet:3
        closeted:3
+       closet:3
 closur : 1(1/25000)
        closure:1
 cloud : 8(7/25000)
@@ -4822,16 +4822,16 @@ colombo : 1(1/25000)
        colombo:1
 colon : 3(3/25000)
        colonic:1
-       colonized:1
        colonal:1
+       colonized:1
 colonel : 1(1/25000)
        colonel:1
 coloni : 7(7/25000)
        colony:1
        colonial:6
 color : 139(132/25000)
-       coloric:2
        colored:2
+       coloric:2
        colorized:3
        color:6
        colorful:126
@@ -5085,8 +5085,8 @@ confess : 5(5/25000)
 confession : 13(12/25000)
        confessional:13
 confid : 36(35/25000)
-       confidant:1
        confide:1
+       confidant:1
        confidently:4
        confident:30
 confidenti : 15(13/25000)
@@ -5097,8 +5097,8 @@ confin : 2(2/25000)
 confirmatori : 1(1/25000)
        confirmatory:1
 conflict : 6(6/25000)
-       conflictive:1
        conflict:1
+       conflictive:1
        conflicted:4
 conflictu : 1(1/25000)
        conflictual:1
@@ -5139,8 +5139,8 @@ conn : 3(3/25000)
        connative:1
        connely:2
 connect : 10(10/25000)
-       connective:1
        connecting:1
+       connective:1
        connect:8
 connelli : 23(16/25000)
        connelly:23
@@ -5548,8 +5548,8 @@ cr : 2(2/25000)
 crabbi : 2(2/25000)
        crabby:2
 crack : 2(2/25000)
-       cracked:1
        crack:1
+       cracked:1
 cracki : 1(1/25000)
        cracky:1
 crackin : 1(1/25000)
@@ -6008,8 +6008,8 @@ damon : 8(8/25000)
 dan : 37(31/25000)
        dan:37
 danc : 2(2/25000)
-       dance:1
        dancing:1
+       dance:1
 dandi : 5(5/25000)
        dandy:5
 dandifi : 1(1/25000)
@@ -6029,8 +6029,8 @@ danglard : 1(1/25000)
 dani : 1(1/25000)
        daniely:1
 daniel : 10(9/25000)
-       danielle:5
        daniel:5
+       danielle:5
 danilo : 1(1/25000)
        danilo:1
 danilow : 1(1/25000)
@@ -6210,8 +6210,8 @@ decept : 42(42/25000)
        deceptively:17
        deceptive:25
 decid : 29(29/25000)
-       decided:2
        decidely:2
+       decided:2
        decide:25
 decidedli : 56(56/25000)
        decidedly:56
@@ -6430,15 +6430,15 @@ demonian : 1(1/25000)
 demonoid : 1(1/25000)
        demonoid:1
 demonstr : 10(10/25000)
-       demonstrably:1
        demonstrated:1
-       demonstrative:4
+       demonstrably:1
        demonstrate:4
+       demonstrative:4
 demor : 1(1/25000)
        demoralized:1
 demot : 2(2/25000)
-       demoted:1
        demotic:1
+       demoted:1
 demur : 1(1/25000)
        demure:1
 den : 3(3/25000)
@@ -6470,8 +6470,8 @@ dens : 7(7/25000)
        densely:3
        dense:4
 dent : 2(2/25000)
-       dent:1
        dented:1
+       dent:1
 dental : 10(10/25000)
        dental:10
 dentellier : 1(1/25000)
@@ -6486,8 +6486,8 @@ depend : 45(44/25000)
        dependable:19
        dependent:23
 depict : 6(6/25000)
-       depicted:3
        depict:3
+       depicted:3
 deplor : 24(23/25000)
        deplorably:1
        deplorable:23
@@ -6503,8 +6503,8 @@ depth : 39(37/25000)
 der : 1(1/25000)
        der:1
 derail : 2(2/25000)
-       derail:1
        derailed:1
+       derail:1
 deran : 1(1/25000)
        deran:1
 derang : 54(51/25000)
@@ -6517,8 +6517,8 @@ deris : 6(6/25000)
 derisori : 1(1/25000)
        derisory:1
 deriv : 79(78/25000)
-       derive:2
        derived:2
+       derive:2
        derivative:75
 dermal : 1(1/25000)
        dermal:1
@@ -6642,8 +6642,8 @@ determinedli : 3(3/25000)
 determinist : 3(3/25000)
        deterministic:3
 deterr : 2(2/25000)
-       deterrant:1
        deterrent:1
+       deterrant:1
 detest : 12(11/25000)
        detestable:12
 detriment : 3(3/25000)
@@ -6653,8 +6653,8 @@ deutsch : 1(1/25000)
 dev : 2(2/25000)
        dev:2
 devast : 4(4/25000)
-       devastating:2
        devastated:2
+       devastating:2
 devastatingli : 9(8/25000)
        devastatingly:9
 develop : 17(17/25000)
@@ -6729,8 +6729,8 @@ diahann : 1(1/25000)
 dial : 18(14/25000)
        dial:18
 dialect : 6(5/25000)
-       dialectically:1
        dialect:1
+       dialectically:1
        dialectic:4
 dialog : 15(14/25000)
        dialog:15
@@ -6807,8 +6807,8 @@ differ : 2270(1915/25000)
        differently:91
        different:2178
 differenti : 2(2/25000)
-       differential:1
        differentiated:1
+       differential:1
 difficult : 562(540/25000)
        difficult:562
 difficultli : 1(1/25000)
@@ -6891,8 +6891,8 @@ dire : 27(27/25000)
        dire:26
 direct : 279(261/25000)
        directive:1
-       directional:5
        directed:5
+       directional:5
        direct:268
 directionless : 3(3/25000)
        directionless:3
@@ -7018,8 +7018,8 @@ dishi : 2(2/25000)
 dishonest : 2(2/25000)
        dishonest:2
 dishonor : 2(2/25000)
-       dishonor:1
        dishonorable:1
+       dishonor:1
 dishonour : 1(1/25000)
        dishonourably:1
 disillus : 1(1/25000)
@@ -7052,8 +7052,8 @@ dismal : 58(55/25000)
        dismal:55
 dismiss : 17(17/25000)
        dismissable:1
-       dismissively:2
        dismissible:2
+       dismissively:2
        dismissive:4
        dismiss:8
 disneyfi : 2(2/25000)
@@ -7089,8 +7089,8 @@ disproportion : 4(4/25000)
 disquietingli : 1(1/25000)
        disquietingly:1
 disregard : 2(2/25000)
-       disregardful:1
        disregard:1
+       disregardful:1
 disrepectfulli : 1(1/25000)
        disrepectfully:1
 disreput : 3(3/25000)
@@ -7099,8 +7099,8 @@ disrespect : 15(15/25000)
        disrespect:2
        disrespectful:13
 disrupt : 8(8/25000)
-       disrupted:1
        disrupt:1
+       disrupted:1
        disruptive:6
 dissatisfi : 3(3/25000)
        dissatisfied:3
@@ -7109,8 +7109,8 @@ dissatisfyingli : 1(1/25000)
 dissimilar : 9(9/25000)
        dissimilar:9
 dissip : 2(2/25000)
-       dissipated:1
        dissipate:1
+       dissipated:1
 dissoci : 2(2/25000)
        dissociative:2
 dissolut : 1(1/25000)
@@ -7137,8 +7137,8 @@ distinct : 109(105/25000)
 distinctli : 42(41/25000)
        distinctly:42
 distinguish : 29(28/25000)
-       distinguishable:5
        distinguish:5
+       distinguishable:5
        distinguished:19
 distort : 6(6/25000)
        distorted:6
@@ -7153,14 +7153,14 @@ distractingli : 7(7/25000)
 distraught : 4(4/25000)
        distraught:4
 distress : 2(2/25000)
-       distressful:1
        distress:1
+       distressful:1
 distressingli : 4(4/25000)
        distressingly:4
 distribut : 3(3/25000)
        distributive:1
-       distributing:1
        distribute:1
+       distributing:1
 distrust : 7(7/25000)
        distrustful:2
        distrust:5
@@ -7551,8 +7551,8 @@ drugstor : 1(1/25000)
 druid : 1(1/25000)
        druid:1
 druidic : 2(2/25000)
-       druidic:1
        druidical:1
+       druidic:1
 druish : 1(1/25000)
        druish:1
 drunk : 34(33/25000)
@@ -8321,8 +8321,8 @@ equal : 499(482/25000)
        equal:137
        equally:362
 equat : 5(5/25000)
-       equational:1
        equatable:1
+       equational:1
        equate:3
 equatori : 1(1/25000)
        equatorial:1
@@ -8432,8 +8432,8 @@ esteban : 1(1/25000)
 estel : 2(2/25000)
        estelle:2
 esthet : 2(2/25000)
-       esthetically:1
        esthetical:1
+       esthetically:1
 estim : 6(6/25000)
        estimate:2
        estimable:4
@@ -8613,8 +8613,8 @@ excess : 107(106/25000)
        excessively:22
        excessive:73
 exchang : 2(2/25000)
-       exchanged:1
        exchangeable:1
+       exchanged:1
 excit : 108(107/25000)
        excite:1
        excitable:2
@@ -8646,8 +8646,8 @@ execr : 13(13/25000)
        execrably:1
        execrable:12
 execut : 36(36/25000)
-       executively:1
        execute:1
+       executively:1
        executive:34
 exemplari : 14(14/25000)
        exemplary:14
@@ -9252,8 +9252,8 @@ fetishist : 2(2/25000)
 feudal : 7(7/25000)
        feudal:7
 fever : 8(8/25000)
-       feverous:1
        fevered:1
+       feverous:1
        fever:6
 feverish : 9(8/25000)
        feverish:9
@@ -9299,8 +9299,8 @@ fight : 20(19/25000)
 fighter : 1(1/25000)
        fighter:1
 figur : 23(23/25000)
-       figure:5
        figurative:5
+       figure:5
        figuratively:13
 figurativepeopl : 1(1/25000)
        figurativepeople:1
@@ -9507,8 +9507,8 @@ flinchingli : 1(1/25000)
 flinstoneish : 1(1/25000)
        flinstoneish:1
 flip : 2(2/25000)
-       flipped:1
        flip:1
+       flipped:1
 flippant : 2(2/25000)
        flippant:2
 flippin : 1(1/25000)
@@ -9643,8 +9643,8 @@ ford : 5(5/25000)
 fordian : 3(3/25000)
        fordian:3
 fore : 2(2/25000)
-       foree:1
        fore:1
+       foree:1
 forebear : 1(1/25000)
        forebear:1
 forebodingli : 1(1/25000)
@@ -9943,8 +9943,8 @@ frizzi : 2(2/25000)
 frizzli : 2(2/25000)
        frizzly:2
 frog : 2(2/25000)
-       frogged:1
        frog:1
+       frogged:1
 froggi : 1(1/25000)
        froggy:1
 frogland : 1(1/25000)
@@ -10024,8 +10024,8 @@ fumbl : 6(6/25000)
 fun : 123(120/25000)
        fun:123
 function : 12(12/25000)
-       functioning:1
        functionally:1
+       functioning:1
        functional:10
 fund : 1(1/25000)
        funded:1
@@ -10310,8 +10310,8 @@ genocid : 3(3/25000)
 genr : 14(14/25000)
        genre:14
 gent : 2(2/25000)
-       gent:1
        gente:1
+       gent:1
 genteel : 1(1/25000)
        genteel:1
 gentil : 2(2/25000)
@@ -11309,8 +11309,8 @@ harvil : 1(1/25000)
 hasbro : 1(1/25000)
        hasbro:1
 hash : 2(2/25000)
-       hashed:1
        hash:1
+       hashed:1
 hashish : 1(1/25000)
        hashish:1
 hasn : 12(12/25000)
@@ -11632,8 +11632,8 @@ hg : 1(1/25000)
 hiatu : 2(2/25000)
        hiatus:2
 hibern : 2(2/25000)
-       hibernated:1
        hibernal:1
+       hibernated:1
 hibernian : 1(1/25000)
        hibernian:1
 hicksvil : 1(1/25000)
@@ -12062,8 +12062,8 @@ hull : 6(6/25000)
        hull:6
 human : 1065(873/25000)
        humanized:1
-       humane:4
        humanely:4
+       humane:4
        human:1056
 humanist : 11(11/25000)
        humanist:1
@@ -12112,8 +12112,8 @@ humung : 1(1/25000)
 hunch : 1(1/25000)
        hunched:1
 hunchback : 2(2/25000)
-       hunchbacked:1
        hunchback:1
+       hunchbacked:1
 hundr : 1(1/25000)
        hundred:1
 hung : 26(25/25000)
@@ -12285,8 +12285,8 @@ ideolog : 17(16/25000)
        ideologically:4
        ideological:13
 idiomat : 2(2/25000)
-       idiomatic:1
        idiomatically:1
+       idiomatic:1
 idiosyncrat : 17(17/25000)
        idiosyncratic:17
 idiot : 167(160/25000)
@@ -12367,8 +12367,8 @@ illus : 2(2/25000)
 illusionari : 1(1/25000)
        illusionary:1
 illustr : 8(8/25000)
-       illustrated:1
        illustratively:1
+       illustrated:1
        illustrate:3
        illustrative:3
 illustri : 10(10/25000)
@@ -12390,16 +12390,16 @@ imaginari : 74(58/25000)
 imbd : 1(1/25000)
        imbd:1
 imbecil : 18(18/25000)
-       imbecilic:9
        imbecile:9
+       imbecilic:9
 imcomrepns : 1(1/25000)
        imcomrepnsible:1
 imho : 8(6/25000)
        imho:8
 imit : 10(9/25000)
        imitated:2
-       imitate:4
        imitative:4
+       imitate:4
 immacul : 16(16/25000)
        immaculately:5
        immaculate:11
@@ -12439,8 +12439,8 @@ immort : 54(48/25000)
        immortally:1
        immortal:53
 immov : 2(2/25000)
-       immoveable:1
        immovable:1
+       immoveable:1
 immun : 8(8/25000)
        immune:8
 imo : 8(8/25000)
@@ -12448,8 +12448,8 @@ imo : 8(8/25000)
 impacciator : 1(1/25000)
        impacciatore:1
 impact : 4(4/25000)
-       impactive:1
        impactful:1
+       impactive:1
        impact:2
 impalp : 1(1/25000)
        impalpable:1
@@ -12458,8 +12458,8 @@ imparti : 5(5/25000)
        impartial:4
 impass : 7(7/25000)
        impassively:1
-       impassioned:3
        impassive:3
+       impassioned:3
 impassion : 1(1/25000)
        impassionately:1
 impati : 11(11/25000)
@@ -12480,8 +12480,8 @@ impenetr : 12(12/25000)
 imper : 4(4/25000)
        imperative:4
 impercept : 2(2/25000)
-       imperceptibly:1
        imperceptible:1
+       imperceptibly:1
 imperfect : 3(3/25000)
        imperfect:3
 imperfectli : 3(2/25000)
@@ -12666,8 +12666,8 @@ incestu : 49(45/25000)
        incestual:1
        incestuous:48
 incid : 4(4/25000)
-       incidently:2
        incident:2
+       incidently:2
 incident : 110(104/25000)
        incidental:35
        incidentally:75
@@ -12679,8 +12679,8 @@ incit : 1(1/25000)
 inclin : 1(1/25000)
        inclined:1
 includ : 2(2/25000)
-       included:1
        include:1
+       included:1
 inclus : 6(6/25000)
        inclusive:6
 incognito : 1(1/25000)
@@ -13012,8 +13012,8 @@ ingrid : 21(17/25000)
 ingvar : 1(1/25000)
        ingvar:1
 inhabit : 4(4/25000)
-       inhabitant:1
        inhabited:1
+       inhabitant:1
        inhabitable:2
 inhal : 2(1/25000)
        inhale:2
@@ -13042,8 +13042,8 @@ initi : 351(334/25000)
        initial:171
        initially:172
 inject : 2(2/25000)
-       injected:1
        inject:1
+       injected:1
 injur : 3(3/25000)
        injured:3
 injuri : 4(4/25000)
@@ -13151,8 +13151,8 @@ insist : 6(6/25000)
 insofar : 2(2/25000)
        insofar:2
 insol : 2(2/25000)
-       insolently:1
        insolent:1
+       insolently:1
 insolubl : 1(1/25000)
        insoluble:1
 insomniat : 1(1/25000)
@@ -13183,8 +13183,8 @@ instead : 1992(1805/25000)
 instil : 1(1/25000)
        instill:1
 instinct : 14(12/25000)
-       instinct:4
        instinctive:4
+       instinct:4
        instinctively:6
 instinctu : 5(5/25000)
        instinctual:5
@@ -13211,8 +13211,8 @@ insuffici : 12(12/25000)
 insular : 6(6/25000)
        insular:6
 insult : 2(2/25000)
-       insult:1
        insulting:1
+       insult:1
 insultingli : 5(5/25000)
        insultingly:5
 insumaint : 1(1/25000)
@@ -13372,8 +13372,8 @@ intrigu : 74(74/25000)
 intriguingli : 5(5/25000)
        intriguingly:5
 intrins : 12(12/25000)
-       intrinsically:6
        intrinsic:6
+       intrinsically:6
 intro : 2(2/25000)
        intro:2
 introduc : 1(1/25000)
@@ -13788,8 +13788,8 @@ jess : 7(7/25000)
        jess:2
        jesse:5
 jessi : 2(2/25000)
-       jessy:1
        jessie:1
+       jessy:1
 jesu : 17(17/25000)
        jesus:17
 jeunet : 1(1/25000)
@@ -14493,8 +14493,8 @@ l : 5(5/25000)
 la : 5(5/25000)
        las:5
 label : 2(2/25000)
-       labelle:1
        label:1
+       labelle:1
 labori : 9(9/25000)
        laboriously:3
        laborious:6
@@ -14961,8 +14961,8 @@ light : 516(478/25000)
        lighting:3
        light:512
 lighten : 2(2/25000)
-       lightened:1
        lighten:1
+       lightened:1
 lightheart : 6(6/25000)
        lighthearted:6
 lightheartedli : 2(2/25000)
@@ -15163,8 +15163,8 @@ logic : 169(159/25000)
        logical:109
 logist : 5(5/25000)
        logistically:1
-       logistic:2
        logistical:2
+       logistic:2
 loi : 8(7/25000)
        loy:8
 loincloth : 1(1/25000)
@@ -15356,8 +15356,8 @@ lumin : 33(32/25000)
        luminously:3
        luminous:30
 luminesc : 2(2/25000)
-       luminescently:1
        luminescent:1
+       luminescently:1
 luminoso : 1(1/25000)
        luminoso:1
 lumlei : 1(1/25000)
@@ -15526,8 +15526,8 @@ magilicutti : 1(1/25000)
 magistr : 1(1/25000)
        magistral:1
 magnanim : 2(2/25000)
-       magnanimously:1
        magnanimous:1
+       magnanimously:1
 magnet : 23(19/25000)
        magnetically:1
        magnetized:1
@@ -15591,8 +15591,8 @@ maling : 1(1/25000)
 malkovich : 10(8/25000)
        malkovich:10
 mall : 2(2/25000)
-       malle:1
        mall:1
+       malle:1
 mallarino : 1(1/25000)
        mallarino:1
 mallei : 1(1/25000)
@@ -15661,8 +15661,8 @@ maniac : 28(27/25000)
        maniacally:7
        maniacal:21
 manic : 42(41/25000)
-       manical:1
        manically:1
+       manical:1
        manic:40
 manifestli : 3(3/25000)
        manifestly:3
@@ -15745,8 +15745,8 @@ marigold : 6(4/25000)
 marilyn : 3(3/25000)
        marilyn:3
 marin : 2(2/25000)
-       marine:1
        marinated:1
+       marine:1
 mario : 2(2/25000)
        mario:2
 marit : 22(22/25000)
@@ -16115,8 +16115,8 @@ melodramat : 145(138/25000)
 melros : 3(3/25000)
        melrose:3
 melt : 2(2/25000)
-       melted:1
        melt:1
+       melted:1
 meltdown : 1(1/25000)
        meltdown:1
 melti : 1(1/25000)
@@ -16487,8 +16487,8 @@ miracul : 62(60/25000)
 mirren : 1(1/25000)
        mirren:1
 mirror : 2(2/25000)
-       mirrored:1
        mirror:1
+       mirrored:1
 mirth : 10(10/25000)
        mirth:5
        mirthful:5
@@ -16748,8 +16748,8 @@ monot : 1(1/25000)
 monotheist : 5(3/25000)
        monotheistic:5
 monoton : 40(40/25000)
-       monotonic:1
        monotonically:1
+       monotonic:1
        monotonously:4
        monotonous:34
 monsoon : 2(2/25000)
@@ -17083,8 +17083,8 @@ mute : 17(17/25000)
 muthamitt : 1(1/25000)
        muthamittal:1
 mutil : 2(2/25000)
-       mutilated:1
        mutilate:1
+       mutilated:1
 mutilatingli : 1(1/25000)
        mutilatingly:1
 mutin : 1(1/25000)
@@ -17273,8 +17273,8 @@ natuch : 1(1/25000)
        natuch:1
 natur : 664(599/25000)
        naturalized:1
-       nature:1
        naturely:1
+       nature:1
        naturally:275
        natural:386
 naturalist : 25(25/25000)
@@ -17633,8 +17633,8 @@ nomad : 5(4/25000)
 nomin : 17(17/25000)
        nominated:1
        nominate:2
-       nominal:7
        nominally:7
+       nominal:7
 non : 85(85/25000)
        non:85
 nonanim : 1(1/25000)
@@ -17781,8 +17781,8 @@ nott : 4(3/25000)
 nou : 4(3/25000)
        nous:4
 nourish : 2(2/25000)
-       nourished:1
        nourish:1
+       nourished:1
 nouvel : 2(2/25000)
        nouvelle:2
 novel : 9(9/25000)
@@ -17827,8 +17827,8 @@ numbingli : 32(31/25000)
 numbl : 1(1/25000)
        numbly:1
 numer : 258(248/25000)
-       numerically:1
        numerable:1
+       numerically:1
        numerous:256
 numin : 1(1/25000)
        numinous:1
@@ -17918,9 +17918,9 @@ obscur : 15(15/25000)
 obsequi : 4(4/25000)
        obsequious:4
 observ : 22(22/25000)
-       observer:1
        observable:1
        observed:1
+       observer:1
        observant:8
        observational:11
 obsess : 61(59/25000)
@@ -18263,8 +18263,8 @@ ornat : 1(1/25000)
 ororigin : 1(1/25000)
        ororiginal:1
 orphan : 2(2/25000)
-       orphan:1
        orphaned:1
+       orphan:1
 orr : 1(1/25000)
        orr:1
 orri : 6(4/25000)
@@ -18537,8 +18537,8 @@ paganographi : 1(1/25000)
 pageant : 2(2/25000)
        pageant:2
 pain : 379(361/25000)
-       pained:2
        pain:2
+       pained:2
        painful:375
 painfulli : 186(178/25000)
        painfully:186
@@ -18967,8 +18967,8 @@ pepper : 1(1/25000)
 peppi : 4(4/25000)
        peppy:4
 perceiv : 8(8/25000)
-       perceived:1
        perceivably:1
+       perceived:1
        perceive:6
 percept : 15(15/25000)
        perceptively:1
@@ -19135,8 +19135,8 @@ phenomen : 70(69/25000)
        phenomenally:6
        phenomenal:64
 phenomin : 2(2/25000)
-       phenominal:1
        phenominally:1
+       phenominal:1
 phew : 1(1/25000)
        phew:1
 phil : 7(6/25000)
@@ -19188,8 +19188,8 @@ photograph : 30(29/25000)
 photographi : 19(19/25000)
        photography:19
 photoshop : 2(2/25000)
-       photoshopped:1
        photoshop:1
+       photoshopped:1
 phycadelic : 1(1/25000)
        phycadelic:1
 physcial : 1(1/25000)
@@ -19460,8 +19460,8 @@ plush : 2(2/25000)
 pluto : 1(1/25000)
        pluto:1
 plutocrat : 2(2/25000)
-       plutocratic:1
        plutocrat:1
+       plutocratic:1
 ply : 2(2/25000)
        ply:2
 pneumat : 2(2/25000)
@@ -19623,8 +19623,8 @@ porki : 9(9/25000)
 porno : 12(11/25000)
        porno:12
 pornograph : 44(34/25000)
-       pornographically:1
        pornographer:1
+       pornographically:1
        pornographic:42
 pornographi : 13(13/25000)
        pornography:13
@@ -19668,8 +19668,8 @@ posit : 531(498/25000)
 possabl : 1(1/25000)
        possable:1
 possess : 14(13/25000)
-       possessing:1
        possess:1
+       possessing:1
        possessed:1
        possessive:11
 possibi : 1(1/25000)
@@ -19698,8 +19698,8 @@ postmodern : 2(2/25000)
 postmodernist : 1(1/25000)
        postmodernistically:1
 pot : 2(2/25000)
-       pot:1
        potted:1
+       pot:1
 potabl : 1(1/25000)
        potable:1
 potboilerinvent : 1(1/25000)
@@ -19849,8 +19849,8 @@ presbyterian : 1(1/25000)
 prescient : 6(6/25000)
        prescient:6
 present : 198(195/25000)
-       presented:1
        presentable:1
+       presented:1
        presently:13
        present:183
 preserv : 1(1/25000)
@@ -19893,8 +19893,8 @@ preval : 23(22/25000)
        prevalently:1
        prevalent:22
 prevent : 4(4/25000)
-       prevented:1
        prevent:1
+       prevented:1
        preventable:2
 previou : 649(583/25000)
        previous:649
@@ -19907,8 +19907,8 @@ pricelessli : 1(1/25000)
 prickli : 5(5/25000)
        prickly:5
 pride : 2(2/25000)
-       pride:1
        prideful:1
+       pride:1
 priestli : 6(5/25000)
        priestly:6
 priggish : 2(2/25000)
@@ -20164,8 +20164,8 @@ proverbi : 24(24/25000)
 provid : 5(5/25000)
        provide:5
 providenti : 2(2/25000)
-       providential:1
        providentially:1
+       providential:1
 provin : 1(1/25000)
        provine:1
 provinci : 12(10/25000)
@@ -20319,9 +20319,9 @@ puni : 2(2/25000)
        puny:2
 punish : 13(12/25000)
        punished:1
+       punishment:2
        punish:2
        punisher:2
-       punishment:2
        punishable:6
 punit : 1(1/25000)
        punitive:1
@@ -20478,8 +20478,8 @@ quirki : 122(112/25000)
 quirkili : 1(1/25000)
        quirkily:1
 quit : 3401(2785/25000)
-       quitely:1
        quit:1
+       quitely:1
        quite:3399
 quiver : 1(1/25000)
        quiver:1
@@ -20488,8 +20488,8 @@ quixot : 1(1/25000)
 quiza : 1(1/25000)
        quizas:1
 quot : 4(4/25000)
-       quoted:2
        quote:2
+       quoted:2
 quotabl : 16(15/25000)
        quotable:16
 quotidian : 2(2/25000)
@@ -20859,8 +20859,8 @@ recogn : 5(5/25000)
        recognize:1
        recognized:4
 recognis : 19(19/25000)
-       recognise:1
        recognisably:1
+       recognise:1
        recognisable:17
 recogniz : 61(58/25000)
        recognizably:2
@@ -20985,8 +20985,8 @@ refug : 3(3/25000)
 refurbish : 2(2/25000)
        refurbished:2
 refus : 3(3/25000)
-       refusing:1
        refuse:1
+       refusing:1
        refused:1
 regal : 6(6/25000)
        regale:1
@@ -21000,8 +21000,8 @@ regardless : 36(36/25000)
 reggi : 1(1/25000)
        reggie:1
 regiment : 2(2/25000)
-       regimented:1
        regimental:1
+       regimented:1
 regina : 1(1/25000)
        regina:1
 reginald : 3(3/25000)
@@ -21090,8 +21090,8 @@ relief : 7(7/25000)
 reliev : 20(20/25000)
        relieved:20
 relig : 2(2/25000)
-       religous:1
        religeous:1
+       religous:1
 religi : 326(276/25000)
        religiously:14
        religious:312
@@ -21219,8 +21219,8 @@ replet : 17(17/25000)
 repli : 19(16/25000)
        reply:19
 replic : 2(2/25000)
-       replicant:1
        replicate:1
+       replicant:1
 reportedli : 19(19/25000)
        reportedly:19
 repossesin : 1(1/25000)
@@ -21352,8 +21352,8 @@ restiv : 1(1/25000)
 restless : 3(3/25000)
        restless:3
 restor : 5(5/25000)
-       restorative:1
        restore:1
+       restorative:1
        restored:3
 restrain : 3(3/25000)
        restrained:3
@@ -21706,8 +21706,8 @@ roi : 19(18/25000)
 role : 4(4/25000)
        role:4
 roll : 4(4/25000)
-       rolling:1
        rolled:1
+       rolling:1
        roll:2
 rollerbal : 1(1/25000)
        rollerball:1
@@ -22095,8 +22095,8 @@ sandwich : 4(4/25000)
        sandwiched:1
        sandwich:3
 sane : 19(19/25000)
-       sanely:1
        saneful:1
+       sanely:1
        sane:17
 sang : 10(10/25000)
        sang:10
@@ -22194,8 +22194,8 @@ savannnah : 1(1/25000)
 savant : 3(3/25000)
        savant:3
 save : 24(24/25000)
-       saved:1
        saving:1
+       saved:1
        save:22
 savior : 8(8/25000)
        savior:8
@@ -22289,8 +22289,8 @@ scenic : 17(17/25000)
        scenically:1
        scenic:16
 scent : 2(2/25000)
-       scented:1
        scent:1
+       scented:1
 sceptic : 12(12/25000)
        sceptical:12
 schaech : 4(3/25000)
@@ -22383,8 +22383,8 @@ scrap : 1(1/25000)
 scrappi : 1(1/25000)
        scrappy:1
 scratch : 4(4/25000)
-       scratch:2
        scratched:2
+       scratch:2
 scratchi : 9(9/25000)
        scratchy:9
 scrawni : 2(2/25000)
@@ -22865,8 +22865,8 @@ sharon : 2(2/25000)
 sharp : 203(183/25000)
        sharp:203
 sharpen : 2(2/25000)
-       sharpen:1
        sharpened:1
+       sharpen:1
 sharper : 1(1/25000)
        sharper:1
 sharpish : 1(1/25000)
@@ -22876,8 +22876,8 @@ sharpli : 18(17/25000)
 shat : 1(1/25000)
        shat:1
 shatter : 2(2/25000)
-       shatter:1
        shattered:1
+       shatter:1
 shatteringli : 1(1/25000)
        shatteringly:1
 shaudenfraud : 1(1/25000)
@@ -23605,8 +23605,8 @@ sneakili : 3(3/25000)
 sness : 1(1/25000)
        sness:1
 snide : 2(2/25000)
-       snidely:1
        snide:1
+       snidely:1
 snip : 1(1/25000)
        snipped:1
 sniper : 1(1/25000)
@@ -24678,8 +24678,8 @@ subsequ : 123(120/25000)
        subsequent:61
        subsequently:62
 subservi : 2(2/25000)
-       subservient:1
        subserviently:1
+       subservient:1
 subsidiari : 1(1/25000)
        subsidiary:1
 substandard : 8(8/25000)
@@ -24855,8 +24855,8 @@ supercraptast : 1(1/25000)
 superdup : 1(1/25000)
        superduper:1
 superfici : 114(111/25000)
-       superficious:1
        superficiality:1
+       superficious:1
        superficially:18
        superficial:94
 superfli : 4(4/25000)
@@ -25278,8 +25278,8 @@ tangenti : 9(8/25000)
 tangibl : 16(16/25000)
        tangible:16
 tangl : 4(4/25000)
-       tangle:2
        tangled:2
+       tangle:2
 tantalisingli : 1(1/25000)
        tantalisingly:1
 tantoo : 11(9/25000)
@@ -26093,8 +26093,8 @@ tortuous : 1(1/25000)
        tortuously:1
 tortur : 14(14/25000)
        torturously:1
-       torture:2
        tortured:2
+       torture:2
        torturous:9
 toss : 2(2/25000)
        tossed:2
@@ -26285,8 +26285,8 @@ tremend : 181(170/25000)
        tremendously:57
        tremendous:124
 tremul : 2(2/25000)
-       tremulously:1
        tremulous:1
+       tremulously:1
 trench : 1(1/25000)
        trench:1
 trenchant : 2(2/25000)
@@ -26357,8 +26357,8 @@ triumvir : 1(1/25000)
 trivett : 2(2/25000)
        trivette:2
 trivial : 56(54/25000)
-       trivialized:1
        trivially:1
+       trivialized:1
        trivial:54
 trodden : 1(1/25000)
        trodden:1
@@ -26404,8 +26404,8 @@ trulli : 2(2/25000)
 trump : 2(2/25000)
        trumped:2
 trumpet : 2(2/25000)
-       trumpet:1
        trumpeted:1
+       trumpet:1
 trust : 26(26/25000)
        trusting:1
        trusted:1
@@ -26884,8 +26884,8 @@ undecipher : 1(1/25000)
 undef : 2(2/25000)
        undefeated:2
 undefin : 2(2/25000)
-       undefinably:1
        undefinable:1
+       undefinably:1
 undemocrat : 1(1/25000)
        undemocratic:1
 undeni : 79(78/25000)
@@ -27255,8 +27255,8 @@ uninspiringli : 1(1/25000)
 unintellectu : 1(1/25000)
        unintellectual:1
 unintellig : 35(34/25000)
-       unintelligently:1
        unintelligeable:1
+       unintelligently:1
        unintelligent:4
        unintelligible:29
 unintend : 3(3/25000)
@@ -27268,8 +27268,8 @@ unintent : 102(100/25000)
 unintention : 118(116/25000)
        unintentionally:118
 uninterest : 2(2/25000)
-       uninterested:1
        uninteresting:1
+       uninterested:1
 uninterestingli : 4(4/25000)
        uninterestingly:4
 uninterrupt : 2(2/25000)
@@ -27303,8 +27303,8 @@ unjust : 9(9/25000)
        unjust:9
 unjustifi : 9(9/25000)
        unjustifiably:1
-       unjustified:4
        unjustifiable:4
+       unjustified:4
 unjustli : 19(18/25000)
        unjustly:19
 unkiddi : 1(1/25000)
@@ -27610,8 +27610,8 @@ unskil : 1(1/25000)
        unskilled:1
 unsoci : 3(3/25000)
        unsocial:1
-       unsocialized:1
        unsociable:1
+       unsocialized:1
 unsold : 1(1/25000)
        unsold:1
 unsolicit : 1(1/25000)
@@ -27846,8 +27846,8 @@ urec : 1(1/25000)
 urg : 1(1/25000)
        urge:1
 urgent : 6(6/25000)
-       urgent:3
        urgently:3
+       urgent:3
 urich : 1(1/25000)
        urich:1
 urin : 3(3/25000)
@@ -27967,8 +27967,8 @@ vanish : 12(12/25000)
        vanished:3
        vanish:9
 vanquish : 2(2/25000)
-       vanquish:1
        vanquished:1
+       vanquish:1
 vapid : 28(28/25000)
        vapid:28
 vapor : 1(1/25000)
@@ -28820,8 +28820,8 @@ widmark : 1(1/25000)
 wierd : 3(3/25000)
        wierd:3
 wife : 2(2/25000)
-       wife:1
        wifely:1
+       wife:1
 wig : 9(9/25000)
        wig:9
 wiggl : 3(3/25000)
@@ -28921,8 +28921,8 @@ wist : 19(19/25000)
 wistfulli : 3(3/25000)
        wistfully:3
 wit : 13(13/25000)
-       witful:1
        wit:1
+       witful:1
        witted:1
        witness:10
 witch : 2(2/25000)
