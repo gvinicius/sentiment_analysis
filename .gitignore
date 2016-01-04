@@ -5,4 +5,5 @@ pretext/ngraminfo/1Gram.txt
 pretext/pretext.log
 pretext/steminfo/stemWdST.all
 pretext/steminfo/stemWdTF.all
-
+/*.arff
+/*.csv
