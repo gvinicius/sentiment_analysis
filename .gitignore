@@ -1,2 +1,8 @@
 pretext/discover/discover.data
 pretext/discover/discover.names
+pretext/ngraminfo/1Gram.all
+pretext/ngraminfo/1Gram.txt
+pretext/pretext.log
+pretext/steminfo/stemWdST.all
+pretext/steminfo/stemWdTF.all
+
