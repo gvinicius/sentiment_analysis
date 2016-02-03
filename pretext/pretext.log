@@ -3515,3 +3515,80 @@ Number of Stems                                              10
 Total Time: 69
 #-------------------#
 
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-2011
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stemming     = ENABLED
+  > directory = steminfo
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tflinear
+   > Smooth   = ENABLED
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1132
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-Linear
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1132
+Total Texts : 3937
+-----------------------
+
+Matrix Density                                               175.36
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              3937
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1132
+
+#-------------------#
+Total Time: 27
+#-------------------#
+

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <pretext
     lang="en"
-    dir="../../dataset/output"
+    dir="../../dataset/output-g-2011"
     log="pretext.log"
     silence="off">
 
@@ -19,14 +19,10 @@
     <report
         ngramdir="ngraminfo"
         discover="discover"
-        graphics="graphics"
-        taxonomy="taxonomia.txt"
         transpose="disabled">
 
         <gram n="1"
-            max="1000"
-            min="900"
-            measure="tfidf"
-            smooth="disabled"/>
+            measure="tflinear"
+            smooth="enabled"/>
     </report>
 </pretext>
