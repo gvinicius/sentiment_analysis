@@ -5,6 +5,8 @@ from nltk.corpus import stopwords
 
 from nltk.tokenize import RegexpTokenizer
 
+import time
+
 import os
 
 import codecs
@@ -34,15 +36,16 @@ def generate_bases():
                 final_tokens += word +" "
             filename = str(counter) + "_" + classification
             counter += 1
-            print '{0}\r'.format(counter/len(files)),
-            print
+            percentual = counter/len(files)
+            print_no_newline '{0}\r'.format(percentual)
+            time.sleep(2)
             open(destination_path_file.replace('file',filename), "w").write(str(final_tokens))
 
 def main():
+    delection_command = 'rm -Rf ' destination_path + '/*'
+    os.system(delection_command)
     generate_bases()
     print ("Selected only words of desired POS.")
 
 if __name__ == "__main__":
-    delection_command = 'rm -Rf ' destination_path + '/*'
-
     main()
