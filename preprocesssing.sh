@@ -1,7 +1,5 @@
 filename="discover.arff"
 
-rm -Rf ../dataset/output/* ../dataset/output_Maid/*
-
 cd pretext
 perl Start.pl
 cd ..

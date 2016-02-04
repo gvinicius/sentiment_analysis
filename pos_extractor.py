@@ -23,26 +23,24 @@ def generate_bases():
     counter = 1
     for subdir, dirs, files in os.walk(path):
         for file in files:
-            classification = "noncfb" if "noncfb" in os.path.dirname(subdir) else "cfb"
+            classification = "noncfb" if "non-CFB" in os.path.dirname(subdir) else "cfb"
             file_path = subdir + os.path.sep + file
-            text = codecs.open(file_path, 'r',encoding='ascii', errors='ignore' )
+            text = codecs.open(file_path, 'r',encoding='utf-8', errors='ignore' )
             lowers = text.read().lower()
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(lowers)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos =='JJ' or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'however']) ]
-            final_tokens = " "
+            selected_tokens = [word for word,pos in tagged if pos =='JJ' or pos =='RB' or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'however']) ]
+            final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word +" "
             filename = str(counter) + "_" + classification
             counter += 1
-            percentual = counter/len(files)
-            print_no_newline '{0}\r'.format(percentual)
-            time.sleep(2)
+            print (counter)
             open(destination_path_file.replace('file',filename), "w").write(str(final_tokens))
 
 def main():
-    delection_command = 'rm -Rf ' destination_path + '/*'
+    delection_command = 'rm -Rf ' + destination_path + '/* -v'
     os.system(delection_command)
     generate_bases()
     print ("Selected only words of desired POS.")

@@ -9,6 +9,9 @@
         <number/>
         <html/>
         <simbols/>
+        <stoplist dir="stoplist">
+            <stopfile>ingl.xml</stopfile>
+        </stoplist>
         <stemming dir="steminfo"/>
     </maid>
 

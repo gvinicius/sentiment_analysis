@@ -1,6 +1,6 @@
-filename="discover2.arff"
+filename="discover.arff"
 
-result_filename="result2.txt"
+result_filename="result.txt"
 
 rm -Rf $result_filename
 
