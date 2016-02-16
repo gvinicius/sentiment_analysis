@@ -1,220 +1,220 @@
 NaiveBayes
 
-Time taken to build model: 0.92 seconds
-Time taken to test model on training data: 6.76 seconds
+Time taken to build model: 0.2 seconds
+Time taken to test model on training data: 0.34 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances        2582               72.244  %
-Incorrectly Classified Instances       992               27.756  %
-Kappa statistic                          0.1248
-Mean absolute error                      0.3473
-Root mean squared error                  0.4294
-Relative absolute error                 88.3153 %
-Root relative squared error             96.8359 %
-Total Number of Instances             3574     
+Correctly Classified Instances         369               82.3661 %
+Incorrectly Classified Instances        79               17.6339 %
+Kappa statistic                          0.3668
+Mean absolute error                      0.2331
+Root mean squared error                  0.3402
+Relative absolute error                 70.1266 %
+Root relative squared error             83.543  %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  171  790 |    a = cfb
-  202 2411 |    b = noncfb
+   a   b   <-- classified as
+  34  60 |   a = cfb
+  19 335 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances        2563               71.7124 %
-Incorrectly Classified Instances      1011               28.2876 %
-Kappa statistic                          0.1025
-Mean absolute error                      0.3536
-Root mean squared error                  0.4364
-Relative absolute error                 89.9299 %
-Root relative squared error             98.4146 %
-Total Number of Instances             3574     
+Correctly Classified Instances         356               79.4643 %
+Incorrectly Classified Instances        92               20.5357 %
+Kappa statistic                          0.2228
+Mean absolute error                      0.2692
+Root mean squared error                  0.3865
+Relative absolute error                 80.9652 %
+Root relative squared error             94.908  %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  154  807 |    a = cfb
-  204 2409 |    b = noncfb
+   a   b   <-- classified as
+  22  72 |   a = cfb
+  20 334 |   b = noncfb
 
 --- end of NaiveBayes ---
 NaiveBayesMultinomial
 
-Time taken to build model: 0.11 seconds
-Time taken to test model on training data: 1.93 seconds
+Time taken to build model: 0.07 seconds
+Time taken to test model on training data: 0.09 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances        2948               82.4846 %
-Incorrectly Classified Instances       626               17.5154 %
-Kappa statistic                          0.4722
-Mean absolute error                      0.2602
-Root mean squared error                  0.3576
-Relative absolute error                 66.1683 %
-Root relative squared error             80.6549 %
-Total Number of Instances             3574     
+Correctly Classified Instances         420               93.75   %
+Incorrectly Classified Instances        28                6.25   %
+Kappa statistic                          0.8022
+Mean absolute error                      0.0944
+Root mean squared error                  0.2165
+Relative absolute error                 28.3999 %
+Root relative squared error             53.1597 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  411  550 |    a = cfb
-   76 2537 |    b = noncfb
+   a   b   <-- classified as
+  74  20 |   a = cfb
+   8 346 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances        2654               74.2585 %
-Incorrectly Classified Instances       920               25.7415 %
-Kappa statistic                          0.1981
-Mean absolute error                      0.3189
-Root mean squared error                  0.4225
-Relative absolute error                 81.1007 %
-Root relative squared error             95.2987 %
-Total Number of Instances             3574     
+Correctly Classified Instances         336               75      %
+Incorrectly Classified Instances       112               25      %
+Kappa statistic                          0.3523
+Mean absolute error                      0.2726
+Root mean squared error                  0.4248
+Relative absolute error                 81.9992 %
+Root relative squared error            104.3178 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  222  739 |    a = cfb
-  181 2432 |    b = noncfb
+   a   b   <-- classified as
+  59  35 |   a = cfb
+  77 277 |   b = noncfb
 
 --- end of NaiveBayesMultinomial ---
 SVM
 
-Time taken to build model: 70.1 seconds
-Time taken to test model on training data: 1.28 seconds
+Time taken to build model: 0.53 seconds
+Time taken to test model on training data: 0.12 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances        3016               84.3872 %
-Incorrectly Classified Instances       558               15.6128 %
-Kappa statistic                          0.5296
-Mean absolute error                      0.1561
-Root mean squared error                  0.3951
-Relative absolute error                 39.7036 %
-Root relative squared error             89.1175 %
-Total Number of Instances             3574     
+Correctly Classified Instances         419               93.5268 %
+Incorrectly Classified Instances        29                6.4732 %
+Kappa statistic                          0.7837
+Mean absolute error                      0.0647
+Root mean squared error                  0.2544
+Relative absolute error                 19.4776 %
+Root relative squared error             62.4842 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  445  516 |    a = cfb
-   42 2571 |    b = noncfb
+   a   b   <-- classified as
+  67  27 |   a = cfb
+   2 352 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances        2613               73.1114 %
-Incorrectly Classified Instances       961               26.8886 %
-Kappa statistic                          0.1434
-Mean absolute error                      0.2689
-Root mean squared error                  0.5185
-Relative absolute error                 68.3773 %
-Root relative squared error            116.9519 %
-Total Number of Instances             3574     
+Correctly Classified Instances         360               80.3571 %
+Incorrectly Classified Instances        88               19.6429 %
+Kappa statistic                          0.1933
+Mean absolute error                      0.1964
+Root mean squared error                  0.4432
+Relative absolute error                 59.0859 %
+Root relative squared error            108.8378 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  174  787 |    a = cfb
-  174 2439 |    b = noncfb
+   a   b   <-- classified as
+  16  78 |   a = cfb
+  10 344 |   b = noncfb
 
 --- end of SVM ---
 KNN
 
-Time taken to build model: 0.03 seconds
-Time taken to test model on training data: 278.35 seconds
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 1.2 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances        3335               93.3128 %
-Incorrectly Classified Instances       239                6.6872 %
-Kappa statistic                          0.8269
-Mean absolute error                      0.0914
-Root mean squared error                  0.2136
-Relative absolute error                 23.2486 %
-Root relative squared error             48.1802 %
-Total Number of Instances             3574     
+Correctly Classified Instances         442               98.6607 %
+Incorrectly Classified Instances         6                1.3393 %
+Kappa statistic                          0.9599
+Mean absolute error                      0.0194
+Root mean squared error                  0.0943
+Relative absolute error                  5.8255 %
+Root relative squared error             23.1643 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  815  146 |    a = cfb
-   93 2520 |    b = noncfb
+   a   b   <-- classified as
+  92   2 |   a = cfb
+   4 350 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances        2458               68.7745 %
-Incorrectly Classified Instances      1116               31.2255 %
-Kappa statistic                          0.1365
-Mean absolute error                      0.3258
-Root mean squared error                  0.494 
-Relative absolute error                 82.8588 %
-Root relative squared error            111.4182 %
-Total Number of Instances             3574     
+Correctly Classified Instances         324               72.3214 %
+Incorrectly Classified Instances       124               27.6786 %
+Kappa statistic                          0.2529
+Mean absolute error                      0.2513
+Root mean squared error                  0.4393
+Relative absolute error                 75.586  %
+Root relative squared error            107.8851 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-  281  680 |    a = cfb
-  436 2177 |    b = noncfb
+   a   b   <-- classified as
+  47  47 |   a = cfb
+  77 277 |   b = noncfb
 
 --- end of KNN ---
 J48
 
-Time taken to build model: 15.42 seconds
-Time taken to test model on training data: 0.98 seconds
+Time taken to build model: 0.25 seconds
+Time taken to test model on training data: 0.08 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances        2655               74.2865 %
-Incorrectly Classified Instances       919               25.7135 %
-Kappa statistic                          0.0967
-Mean absolute error                      0.3781
-Root mean squared error                  0.4348
-Relative absolute error                 96.1432 %
-Root relative squared error             98.0601 %
-Total Number of Instances             3574     
+Correctly Classified Instances         354               79.0179 %
+Incorrectly Classified Instances        94               20.9821 %
+Kappa statistic                          0     
+Mean absolute error                      0.3316
+Root mean squared error                  0.4072
+Relative absolute error                 99.7748 %
+Root relative squared error             99.9995 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-   82  879 |    a = cfb
-   40 2573 |    b = noncfb
+   a   b   <-- classified as
+   0  94 |   a = cfb
+   0 354 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances        2593               72.5518 %
-Incorrectly Classified Instances       981               27.4482 %
-Kappa statistic                          0.0106
-Mean absolute error                      0.3907
-Root mean squared error                  0.445 
-Relative absolute error                 99.3669 %
-Root relative squared error            100.3747 %
-Total Number of Instances             3574     
+Correctly Classified Instances         354               79.0179 %
+Incorrectly Classified Instances        94               20.9821 %
+Kappa statistic                          0     
+Mean absolute error                      0.3316
+Root mean squared error                  0.4072
+Relative absolute error                 99.75   %
+Root relative squared error             99.9994 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
-    a    b   <-- classified as
-   23  938 |    a = cfb
-   43 2570 |    b = noncfb
+   a   b   <-- classified as
+   0  94 |   a = cfb
+   0 354 |   b = noncfb
 
 --- end of J48  ---
