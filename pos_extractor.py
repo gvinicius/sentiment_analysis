@@ -60,8 +60,10 @@ def generate_bases_common():
 def main():
     delection_command = 'rm -Rf ' + destination_path + '/* -v'
     os.system(delection_command)
-#    generate_bases()
-    generate_bases_common()
+    if(sys.argv[2]=='tag'):
+        generate_bases()
+    elif(sys.argv[2]=='nontag'):
+        generate_bases_common()
     print ("Selected only words of desired POS.")
     run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
     os.system(run_classification)

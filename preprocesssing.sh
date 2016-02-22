@@ -10,12 +10,12 @@ echo -e "@relation sentiment \n"  >> $filename
 echo -e '@attribute classification {"cfb", "noncfb"}'  >> $filename 
 tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/^/@attribute /g' | sed 's/:[^:]*$/ REAL/g'  >> $filename
 echo -e "\n@data\n" >> $filename
-a=sed "s/^\".*$1\_Maid\/[0-9]*\_/\"/g"
+a="s/^\".*$1\_Maid\/[0-9]*\_/\"/g"
+b="s/,\".*$1\_Maid\/[0-9]*\_/\/g"
 
-echo "$a"
-grep $a pretext/discover/discover.data
+sed -e "s/^\".*$1\_Maid\/[0-9]*\_/\"/g" pretext/discover/discover.data | sed -e "s/,\\.\\.\\/dataset\\/output-g-$1\\_Maid//g" >> $filename 
 #sed -i 's/^.*output-g-'"$1"'\\_Maid\.[0-9]*_/\"/g' pretext/discover/discover.data 
 #sed -i 's/,\\.\\.\\/dataset\\/output-g-'"$1"'\\_Maid//g' pretext/discover/discover.data 
 #cat pretext/discover/discover.data >> $filename 
-#bash patterns_extrator.sh
+bash patterns_extrator.sh
 git checkout -- pretext/config.xml
