@@ -1,5 +1,1 @@
-0 	 NaiveBayes	79.4643  
-1 	 NaiveBayesMultinomial	75       
-2 	 SVM	80.3571  
-3 	 KNN	72.3214  
-4 	 J48	79.0179  
+0 	 NaiveBayes	1 	 NaiveBayesMultinomial	2 	 SVM	3 	 KNN	4 	 J48	

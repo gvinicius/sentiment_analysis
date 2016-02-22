@@ -35,4 +35,5 @@ echo "J48" >> $result_filename
 java  -Xms512m -Xmx2048m -cp /usr/share/java/weka.jar weka.classifiers.trees.J48 -c 1 -t $filename -o >>  $result_filename
 echo "--- end of J48  ---" >> $result_filename
 
+bash chart_data_result.sh 
 echo "Classification ended and the output is set in $result_filename"

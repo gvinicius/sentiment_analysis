@@ -5726,3 +5726,812 @@ Number of Stems                                              319
 Total Time: 1
 #-------------------#
 
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-$1
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-$1
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-2012
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 572
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tflinear
+   > Smooth   = ENABLED
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            319
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-Linear
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 319
+Total Texts : 448
+-----------------------
+
+Matrix Density                                               112.65
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              448
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              319
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-2012
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 572
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tflinear
+   > Smooth   = ENABLED
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            319
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-Linear
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 319
+Total Texts : 448
+-----------------------
+
+Matrix Density                                               112.65
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              448
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              319
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-2012
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 572
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tflinear
+   > Smooth   = ENABLED
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            319
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-Linear
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 319
+Total Texts : 448
+-----------------------
+
+Matrix Density                                               112.65
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              448
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              319
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-2012
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 572
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tflinear
+   > Smooth   = ENABLED
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            319
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-Linear
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 319
+Total Texts : 448
+-----------------------
+
+Matrix Density                                               112.65
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              448
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              319
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-ANNO
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-2011
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
+
+    ### STOP LIST ###
+    Total StopWords 572
+    Total StopFiles 1
+
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tflinear
+   > Smooth   = ENABLED
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            4767
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-Linear
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 4767
+Total Texts : 4701
+-----------------------
+
+Matrix Density                                               367.63
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              4701
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              4767
+
+#-------------------#
+Total Time: 150
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/output-g-
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+ stoplist     = ENABLED
+  > directory = stoplist
+  > stopfile  = stoplist/ingl.xml
+ stemming     = ENABLED
+  > directory = steminfo
