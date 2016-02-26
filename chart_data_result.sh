@@ -5,10 +5,10 @@ a=0
 rm -Rf $chart_dataset
 
 
-echo -e "$a \t NaiveBayes" | tr -s "\n" "\t" >>  $chart_dataset
+echo -e "$a \t NB" | tr -s "\n" "\t" >>  $chart_dataset
 a=$((a+1))
 grep ^NaiveBayes -A 40 $result_filename | awk '/^Correctly/{i++}i==2' | grep -o '.\{9\}$' | head -1 | tr "%" " " >>  $chart_dataset
-echo -e "$a \t NaiveBayesMultinomial" | tr -s "\n" "\t" >>  $chart_dataset
+echo -e "$a \t NBM" | tr -s "\n" "\t" >>  $chart_dataset
 a=$((a+1))
 grep ^NaiveBayesMultinomial -A 40 $result_filename | awk '/^Correctly/{i++}i==2' | grep -o '.\{9\}$' | head -1 | tr "%" " " >>  $chart_dataset
 echo -e "$a \t SVM" | tr -s "\n" "\t" >>  $chart_dataset

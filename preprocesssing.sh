@@ -2,7 +2,7 @@ filename="discover.arff"
 
 cd pretext
 sed -i 's/ANNO/'"$1"'/g' config.xml
-#perl Start.pl
+perl Start.pl
 cd ..
 
 rm -Rf $filename -v
