@@ -1,5 +1,6 @@
 filename="discover.arff"
 
+python pos_extractor.py $1 $2
 cd pretext
 sed -i 's/ANNO/'"$1"'/g' config.xml
 perl Start.pl
@@ -14,8 +15,7 @@ a="s/^\".*$1\_Maid\/[0-9]*\_/\"/g"
 b="s/,\".*$1\_Maid\/[0-9]*\_/\/g"
 
 sed -e "s/^\".*$1\_Maid\/[0-9]*\_/\"/g" pretext/discover/discover.data | sed -e "s/,\\.\\.\\/dataset\\/output-g-$1\\_Maid//g" >> $filename 
-#sed -i 's/^.*output-g-'"$1"'\\_Maid\.[0-9]*_/\"/g' pretext/discover/discover.data 
-#sed -i 's/,\\.\\.\\/dataset\\/output-g-'"$1"'\\_Maid//g' pretext/discover/discover.data 
-#cat pretext/discover/discover.data >> $filename 
+
 bash patterns_extrator.sh
-git checkout -- pretext/config.xml
+sed -i 's/'"$1"'/ANNO/g' pretext/config.xml
+#git checkout -- pretext/config.xml

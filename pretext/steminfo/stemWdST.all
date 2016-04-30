@@ -5,9 +5,9 @@ abus : 12(12/656)
 ac : 1(1/656)
        ace:1
 accept : 3(3/656)
-       accept:1
-       acceptability:1
        acceptance:1
+       acceptability:1
+       accept:1
 access : 4(4/656)
        accessible:1
        access:3
@@ -24,8 +24,8 @@ ad : 1(1/656)
 add : 5(5/656)
        add:5
 addict : 2(2/656)
-       addiction:1
        addictive:1
+       addiction:1
 addit : 7(6/656)
        additional:1
        addition:6
@@ -87,8 +87,8 @@ anemia : 3(3/656)
        anemia:3
 annual : 1(1/656)
        annual:1
-answer : 3(3/656)
-       answer:3
+answer : 4(3/656)
+       answer:4
 anti : 2(2/656)
        anti:2
 antiarrhym : 1(1/656)
@@ -137,8 +137,8 @@ attent : 1(1/656)
 atypic : 1(1/656)
        atypical:1
 author : 2(2/656)
-       authorization:1
        author:1
+       authorization:1
 avaialbl : 1(1/656)
        avaialble:1
 avail : 1(1/656)
@@ -161,8 +161,8 @@ back : 2(2/656)
 baclofen : 1(1/656)
        baclofen:1
 balanc : 2(2/656)
-       balance:1
        balanced:1
+       balance:1
 barrier : 1(1/656)
        barrier:1
 basi : 1(1/656)
@@ -253,6 +253,8 @@ channel : 1(1/656)
        channel:1
 chart : 1(1/656)
        chart:1
+cheaper : 3(3/656)
+       cheaper:3
 chf : 1(1/656)
        chf:1
 chief : 1(1/656)
@@ -331,8 +333,8 @@ concis : 6(6/656)
 condit : 7(7/656)
        condition:7
 confid : 2(2/656)
-       confident:1
        confidence:1
+       confident:1
 confirm : 2(2/656)
        confirmation:1
        confirm:1
@@ -458,8 +460,8 @@ dhp : 1(1/656)
 diabrib : 1(1/656)
        diabribe:1
 diagnos : 2(2/656)
-       diagnose:1
        diagnosing:1
+       diagnose:1
 diagnosi : 16(12/656)
        diagnosis:16
 diagnosit : 1(1/656)
@@ -663,6 +665,8 @@ famili : 14(14/656)
        family:14
 familiar : 4(4/656)
        familiar:4
+faster : 1(1/656)
+       faster:1
 fatal : 1(1/656)
        fatal:1
 fatti : 1(1/656)
@@ -776,6 +780,8 @@ gp : 1(1/656)
        gp:1
 great : 20(20/656)
        great:20
+greater : 2(2/656)
+       greater:2
 greatli : 3(3/656)
        greatly:3
 green : 1(1/656)
@@ -883,6 +889,8 @@ idea : 6(6/656)
        idea:6
 idiopath : 2(2/656)
        idiopathic:2
+ignor : 1(1/656)
+       ignore:1
 ill : 4(4/656)
        ill:1
        illness:3
@@ -941,9 +949,9 @@ informit : 1(1/656)
 inhibitor : 1(1/656)
        inhibitor:1
 initi : 5(5/656)
-       initiating:1
        initiate:1
        initiation:1
+       initiating:1
        initially:2
 injuri : 1(1/656)
        injury:1
@@ -1059,8 +1067,8 @@ lone : 1(1/656)
        lone:1
 long : 9(9/656)
        long:9
-longer : 2(2/656)
-       longer:2
+longer : 4(4/656)
+       longer:4
 longterm : 1(1/656)
        longterm:1
 loop : 1(1/656)
@@ -1073,6 +1081,8 @@ lot : 4(4/656)
        lot:4
 low : 3(3/656)
        low:3
+lower : 6(6/656)
+       lower:6
 lv : 1(1/656)
        lv:1
 magnesium : 1(1/656)
@@ -1177,8 +1187,8 @@ neurologist : 1(1/656)
        neurologist:1
 neurotransmitt : 1(1/656)
        neurotransmitter:1
-newer : 1(1/656)
-       newer:1
+newer : 3(3/656)
+       newer:3
 nice : 13(13/656)
        nice:13
 nnt : 1(1/656)
@@ -1216,8 +1226,8 @@ ointment : 1(1/656)
        ointment:1
 olanzapin : 1(1/656)
        olanzapine:1
-older : 1(1/656)
-       older:1
+older : 3(3/656)
+       older:3
 omega : 2(2/656)
        omega:2
 onset : 2(2/656)
@@ -1287,8 +1297,8 @@ period : 2(2/656)
 persist : 1(1/656)
        persistent:1
 person : 2(2/656)
-       person:1
        personally:1
+       person:1
 perspect : 1(1/656)
        perspective:1
 pertin : 1(1/656)
@@ -1479,9 +1489,9 @@ realiz : 1(1/656)
 realm : 1(1/656)
        realm:1
 reason : 3(3/656)
-       reason:1
        reasonable:1
        reasoning:1
+       reason:1
 reassur : 2(2/656)
        reassured:1
        reassuring:1
@@ -1500,8 +1510,8 @@ reduc : 1(1/656)
 reduct : 3(3/656)
        reduction:3
 refer : 6(6/656)
-       referring:1
        refer:1
+       referring:1
        reference:4
 referr : 5(3/656)
        referral:5
@@ -1522,8 +1532,8 @@ reinforc : 1(1/656)
 relaps : 2(2/656)
        relapse:2
 relat : 2(2/656)
-       relation:1
        related:1
+       relation:1
 relationship : 1(1/656)
        relationship:1
 releas : 1(1/656)
@@ -1549,8 +1559,8 @@ request : 1(1/656)
 research : 6(4/656)
        research:6
 resolv : 2(2/656)
-       resolving:1
        resolve:1
+       resolving:1
 resourc : 1(1/656)
        resource:1
 resp : 1(1/656)
@@ -1671,8 +1681,8 @@ spastic : 10(10/656)
        spastic:1
        spasticity:9
 special : 2(2/656)
-       special:1
        specially:1
+       special:1
 specialist : 13(13/656)
        specialist:13
 specialti : 3(3/656)
@@ -1722,8 +1732,8 @@ stress : 1(1/656)
 stroke : 1(1/656)
        stroke:1
 structur : 2(2/656)
-       structural:1
        structure:1
+       structural:1
 studi : 3(3/656)
        study:3
 stuff : 1(1/656)
@@ -1743,11 +1753,11 @@ succinct : 3(3/656)
 sud : 1(1/656)
        sud:1
 suffer : 2(2/656)
-       suffer:1
        suffering:1
+       suffer:1
 suggest : 2(2/656)
-       suggestion:1
        suggested:1
+       suggestion:1
 suitabl : 1(1/656)
        suitable:1
 summari : 15(15/656)
@@ -1795,8 +1805,8 @@ tach : 9(5/656)
 tailor : 1(1/656)
        tailoring:1
 tca : 2(2/656)
-       tca:1
        tcas:1
+       tca:1
 technic : 1(1/656)
        technical:1
 teen : 2(2/656)
@@ -1855,8 +1865,8 @@ transfut : 2(1/656)
 transposit : 1(1/656)
        transposition:1
 treat : 2(2/656)
-       treating:1
        treat:1
+       treating:1
 treatment : 42(41/656)
        treatment:42
 trial : 5(5/656)

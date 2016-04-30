@@ -1,61 +1,61 @@
 NaiveBayes
 
-Time taken to build model: 0.21 seconds
-Time taken to test model on training data: 1 seconds
+Time taken to build model: 0.27 seconds
+Time taken to test model on training data: 1.43 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances         495               84.3271 %
-Incorrectly Classified Instances        92               15.6729 %
-Kappa statistic                          0.5092
-Mean absolute error                      0.1846
-Root mean squared error                  0.3348
-Relative absolute error                 59.6604 %
-Root relative squared error             85.2047 %
+Correctly Classified Instances         496               84.4974 %
+Incorrectly Classified Instances        91               15.5026 %
+Kappa statistic                          0.5161
+Mean absolute error                      0.1813
+Root mean squared error                  0.332 
+Relative absolute error                 58.5835 %
+Root relative squared error             84.4872 %
 Total Number of Instances              587     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  71  41 |   a = cfb
+  72  40 |   a = cfb
   51 424 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         457               77.8535 %
-Incorrectly Classified Instances       130               22.1465 %
-Kappa statistic                          0.2414
-Mean absolute error                      0.2454
-Root mean squared error                  0.4143
-Relative absolute error                 79.269  %
-Root relative squared error            105.425  %
+Correctly Classified Instances         459               78.1942 %
+Incorrectly Classified Instances       128               21.8058 %
+Kappa statistic                          0.2584
+Mean absolute error                      0.2427
+Root mean squared error                  0.4126
+Relative absolute error                 78.4162 %
+Root relative squared error            104.9896 %
 Total Number of Instances              587     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  39  73 |   a = cfb
+  41  71 |   a = cfb
   57 418 |   b = noncfb
 
 --- end of NaiveBayes ---
 NaiveBayesMultinomial
 
-Time taken to build model: 0.06 seconds
-Time taken to test model on training data: 0.3 seconds
+Time taken to build model: 0.07 seconds
+Time taken to test model on training data: 0.34 seconds
 
 === Error on training data ===
 
 Correctly Classified Instances         554               94.3782 %
 Incorrectly Classified Instances        33                5.6218 %
 Kappa statistic                          0.7995
-Mean absolute error                      0.0914
-Root mean squared error                  0.2042
-Relative absolute error                 29.5432 %
-Root relative squared error             51.9585 %
+Mean absolute error                      0.0905
+Root mean squared error                  0.2039
+Relative absolute error                 29.2394 %
+Root relative squared error             51.8996 %
 Total Number of Instances              587     
 
 
@@ -72,10 +72,10 @@ Total Number of Instances              587
 Correctly Classified Instances         501               85.3492 %
 Incorrectly Classified Instances        86               14.6508 %
 Kappa statistic                          0.4832
-Mean absolute error                      0.2009
-Root mean squared error                  0.3442
-Relative absolute error                 64.9097 %
-Root relative squared error             87.5919 %
+Mean absolute error                      0.1987
+Root mean squared error                  0.343 
+Relative absolute error                 64.1921 %
+Root relative squared error             87.2874 %
 Total Number of Instances              587     
 
 
@@ -88,14 +88,14 @@ Total Number of Instances              587
 --- end of NaiveBayesMultinomial ---
 SVM
 
-Time taken to build model: 1.03 seconds
-Time taken to test model on training data: 0.32 seconds
+Time taken to build model: 1.32 seconds
+Time taken to test model on training data: 0.35 seconds
 
 === Error on training data ===
 
 Correctly Classified Instances         574               97.7853 %
 Incorrectly Classified Instances        13                2.2147 %
-Kappa statistic                          0.925 
+Kappa statistic                          0.9255
 Mean absolute error                      0.0221
 Root mean squared error                  0.1488
 Relative absolute error                  7.1569 %
@@ -106,8 +106,8 @@ Total Number of Instances              587
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  99  13 |   a = cfb
-   0 475 |   b = noncfb
+ 100  12 |   a = cfb
+   1 474 |   b = noncfb
 
 
 
@@ -133,7 +133,7 @@ Total Number of Instances              587
 KNN
 
 Time taken to build model: 0.02 seconds
-Time taken to test model on training data: 4.78 seconds
+Time taken to test model on training data: 5.59 seconds
 
 === Error on training data ===
 
@@ -157,27 +157,27 @@ Total Number of Instances              587
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         434               73.9353 %
-Incorrectly Classified Instances       153               26.0647 %
-Kappa statistic                          0.1292
-Mean absolute error                      0.271 
-Root mean squared error                  0.5071
-Relative absolute error                 87.5519 %
-Root relative squared error            129.0417 %
+Correctly Classified Instances         431               73.4242 %
+Incorrectly Classified Instances       156               26.5758 %
+Kappa statistic                          0.109 
+Mean absolute error                      0.276 
+Root mean squared error                  0.5126
+Relative absolute error                 89.17   %
+Root relative squared error            130.4387 %
 Total Number of Instances              587     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  31  81 |   a = cfb
-  72 403 |   b = noncfb
+  29  83 |   a = cfb
+  73 402 |   b = noncfb
 
 --- end of KNN ---
 J48
 
-Time taken to build model: 0.77 seconds
-Time taken to test model on training data: 0.26 seconds
+Time taken to build model: 1.06 seconds
+Time taken to test model on training data: 0.29 seconds
 
 === Error on training data ===
 

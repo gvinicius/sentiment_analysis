@@ -30,7 +30,7 @@ def generate_bases():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(lowers)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos in ['NN', 'RB', 'JJ'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'however']) ]
+            selected_tokens = [word for word,pos in tagged if pos in ['RB', 'JJ', 'QL' ] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'though', 'however']) or word in ['question', 'questionnaire', 'q'] ]
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word +" "
