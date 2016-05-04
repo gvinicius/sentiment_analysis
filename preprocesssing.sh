@@ -1,4 +1,4 @@
-filename="discover.arff"
+filename="discover3.arff"
 
 # python pos_extractor.py
 cd pretext
@@ -12,6 +12,9 @@ tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/^/@attribut
 echo -e "\n@data\n" >> $filename
 
 #sed -e "s/^\\/result\\_Maid\/[0-9]*\_/\"/g" pretext/discover/discover.data | sed -e "s/,\\.\\.\\/dataset\\/economics\\/result/\\_Maid//g" >> $filename 
+
+# sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//" testing])
+# sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//"  | sed "s/\.txt\.swp//" | sed 's/,\.\/dataset\/economics\/result\_Maid//' >> discover2.arff
 
 # bash patterns_extrator.sh
 # sed -i 's/'"$1"'/ANNO/g' pretext/config.xml

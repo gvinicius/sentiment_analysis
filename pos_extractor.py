@@ -26,21 +26,23 @@ destination_path_file = '../dataset/economics/result/file'
 
 def generate_bases():
     counter = 1
-    with open('../dataset/economics/Full-Economic-News-DFE-839861.csv', 'rU') as csvfile:
+    with open('../dataset/economics/Full-Economic-News-DFE-839861.csv', 'r', encoding="latin1") as csvfile:
+        csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
             text = row['headline'] + ' ' + row['text']
             classification = row['relevance']
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
+            tagged = nltk.tag.pos_tag(raw_tokens)
+            selected_tokens = [word for word,pos in tagged if pos in ['RB', 'JJ'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'however']) ]
             final_tokens = ""
-            for word in raw_tokens:
-                final_tokens += word +" "
+            for word in selected_tokens:
+                final_tokens += word + " " 
             filename = str(counter) + "_" + classification
             counter += 1
             print (counter)
             open(destination_path_file.replace('file',filename), "w").write(str(final_tokens))
-
 
 def main():
     generate_bases()
