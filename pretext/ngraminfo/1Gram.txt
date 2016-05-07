@@ -3,2872 +3,1310 @@
 ../../dataset/output-g-2012_Maid/2_cfb
        clinical:1
        clinically:1
-       many:1
-       probably:1
        significant:1
 ../../dataset/output-g-2012_Maid/3_cfb
        generic:1
-       much:1
 ../../dataset/output-g-2012_Maid/4_cfb
-       available:1
        branded:1
-       but:1
        multiple:1
-       new:2
-       other:1
        potential:1
        subliminal:1
 ../../dataset/output-g-2012_Maid/5_cfb
        superfisial:1
 ../../dataset/output-g-2012_Maid/6_cfb
        google:1
-       never:1
-       now:1
        roflumilast:1
-../../dataset/output-g-2012_Maid/7_cfb
-       not:1
-       probably:1
-../../dataset/output-g-2012_Maid/8_cfb
-       other:2
-       question:1
 ../../dataset/output-g-2012_Maid/10_cfb
-       not:1
        possibly:1
-../../dataset/output-g-2012_Maid/11_cfb
-       available:1
-       not:1
 ../../dataset/output-g-2012_Maid/12_cfb
-       but:1
        helpful:1
        local:1
-       not:1
-       sure:1
 ../../dataset/output-g-2012_Maid/13_cfb
        copd:1
        expensive:1
-       many:1
-       new:1
        psychiatric:1
 ../../dataset/output-g-2012_Maid/14_cfb
        expensive:1
-       new:1
-       useful:1
-../../dataset/output-g-2012_Maid/15_cfb
-       not:1
-../../dataset/output-g-2012_Maid/16_cfb
-       new:1
-       too:1
 ../../dataset/output-g-2012_Maid/17_cfb
        general:1
        helpful:1
-       however:1
-       never:1
-       new:1
        nice:1
-       well:1
 ../../dataset/output-g-2012_Maid/18_cfb
-       already:1
-       but:1
        hesitant:1
-       many:1
-       new:1
        roflumilast:1
        stable:1
-       t:1
-       well:1
 ../../dataset/output-g-2012_Maid/19_cfb
        long:1
 ../../dataset/output-g-2012_Maid/21_cfb
        great:1
        medical:1
-       well:1
 ../../dataset/output-g-2012_Maid/22_cfb
-       cannot:1
        good:1
-       still:1
 ../../dataset/output-g-2012_Maid/23_cfb
        expensive:1
        human:1
-       new:1
 ../../dataset/output-g-2012_Maid/24_cfb
        completely:1
        curious:1
-       new:1
-       probably:1
 ../../dataset/output-g-2012_Maid/25_cfb
        completely:1
        curious:1
-       new:1
-       probably:1
 ../../dataset/output-g-2012_Maid/26_cfb
-       few:1
-       first:1
        minimal:1
-       not:1
        pulmonary:1
 ../../dataset/output-g-2012_Maid/27_cfb
-       available:2
        familiar:1
-       not:1
        provincial:1
 ../../dataset/output-g-2012_Maid/28_cfb
-       adding:1
-       advair:1
-       combination:1
-       drug:1
-       first:1
-       new:2
-       not:2
        partially:1
-       point:1
-       specialist:1
-       spiriva:1
-       symbicort:1
        uncomfortable:1
        usual:1
-       ventolin:1
 ../../dataset/output-g-2012_Maid/29_cfb
-       changing:1
        comfortable:2
-       course:1
-       feel:1
-       flare:1
-       gi:1
-       ibd:1
        initially:1
        oral:1
-       patient:1
        short:1
-       specialist:1
-       starting:1
-       yet:1
 ../../dataset/output-g-2012_Maid/30_cfb
-       cause:1
        common:1
-       diabribe:1
-       diarrhea:1
-       etiology:1
-       experience:1
        gluten:1
-       ignore:1
-       intolerance:1
-       lactose:1
 ../../dataset/output-g-2012_Maid/31_cfb
-       benefit:1
        helpful:1
-       patient:1
-       research:1
        roflumilast:1
-../../dataset/output-g-2012_Maid/32_cfb
-       not:1
 ../../dataset/output-g-2012_Maid/33_cfb
-       always:1
-       anyone:1
-       article:1
-       assessment:1
-       but:1
-       change:1
-       crohn:1
        immunosupressant:1
-       practice:1
-       really:1
-       so:1
-       specialist:1
-       t:1
-../../dataset/output-g-2012_Maid/34_cfb
-       article:1
-       help:1
-       much:1
-       not:1
 ../../dataset/output-g-2012_Maid/35_cfb
-       copd:1
        elderly:1
        roflumilast:1
        severe:1
 ../../dataset/output-g-2012_Maid/36_cfb
        clinical:1
        clinically:1
-       gi:1
-       medication:1
-       more:1
-       point:1
-       sfx:1
-       trial:1
-       use:2
        wary:1
-../../dataset/output-g-2012_Maid/37_cfb
-       cd:1
-       don:1
-       gp:1
-       ibd:1
-       licence:1
-       not:2
-       really:1
-       t:1
 ../../dataset/output-g-2012_Maid/38_cfb
-       activity:1
-       evidence:1
        homeopathic:1
-       hyper:1
-       not:1
-       stuff:1
-       sure:1
-       there:1
-../../dataset/output-g-2012_Maid/39_cfb
-       control:1
-       non:1
-       pharmacologic:1
-       sx:1
 ../../dataset/output-g-2012_Maid/40_cfb
-       answer:1
-       clicking:1
-       error:1
-       just:1
        possibly:1
-       programme:1
-       response:1
-       still:1
        unable:1
 ../../dataset/output-g-2012_Maid/41_cfb
-       answer:1
-       choice:1
        possibly:1
        unable:1
 ../../dataset/output-g-2012_Maid/42_cfb
-       response:1
        unable:1
 ../../dataset/output-g-2012_Maid/43_cfb
-       but:1
        cognitive:1
        due:1
-       else:1
-       headache:1
        hesitant:1
-       option:1
-       risk:1
-       side:1
-       still:1
-       topiramate:1
-       useful:1
 ../../dataset/output-g-2012_Maid/44_cfb
-       adhd:1
-       case:1
        inadequate:1
-       old:1
-       parenting:1
-       problem:2
        social:1
 ../../dataset/output-g-2012_Maid/45_cfb
-       enough:1
-       fa:1
        info:1
-       more:1
-       not:1
-       omega:1
-       only:1
-       trial:1
-../../dataset/output-g-2012_Maid/46_cfb
-       atropine:1
-       cholestyramine:1
-       diphenoxylate:1
-       please:1
-       use:1
 ../../dataset/output-g-2012_Maid/47_cfb
-       acting:1
        adhd:1
        current:1
-       different:1
-       evidence:1
-       g:1
-       i:1
-       information:1
        interested:1
-       m:1
-       methylphenidate:1
-       more:1
-       seeing:1
        short:2
-       summary:1
-       use:1
 ../../dataset/output-g-2012_Maid/48_cfb
        adequately:1
-       adhd:1
        helpful:1
-       incidence:1
-       sud:1
-../../dataset/output-g-2012_Maid/49_cfb
-       abuse:1
-       am:1
-       but:1
-       longterm:1
-       lower:1
-       more:2
-       risk:1
-       substance:1
-       tell:1
-       treatment:1
-../../dataset/output-g-2012_Maid/50_cfb
-       not:1
 ../../dataset/output-g-2012_Maid/51_cfb
-       error:1
        green:1
-       information:1
-       multiple:1
-       psyllium:1
-       statement:1
-       sure:1
-       t:1
        top:1
-       transposition:1
-../../dataset/output-g-2012_Maid/52_cfb
-       exercise:1
-       role:1
 ../../dataset/output-g-2012_Maid/53_cfb
-       child:1
-       depression:1
-       diagnosis:1
        great:1
        long:1
        longer:1
-       more:1
-       no:1
-       often:1
-       psychiatrist:1
-       referral:2
-       then:1
+       referral:1
        typically:1
        unipolar:1
-       year:1
 ../../dataset/output-g-2012_Maid/54_cfb
        bipolar:1
-       borderline:1
        common:1
-       dd:1
-       dx:1
-       pd:1
-       thing:1
-       very:1
 ../../dataset/output-g-2012_Maid/55_cfb
        absolutely:1
-       advice:1
-       available:1
-       consultation:1
-       country:1
        dearth:1
-       especially:2
-       family:1
-       physician:1
-       piece:1
        psychiatric:1
        rural:2
        useless:1
 ../../dataset/output-g-2012_Maid/56_cfb
-       appropriate:1
-       input:1
-       problem:1
        pyschiatric:1
        timely:1
 ../../dataset/output-g-2012_Maid/57_cfb
        bipolar:1
-       but:1
-       e:2
        elderly:1
        euthymic:1
        helpful:1
        long:1
-       more:1
-       new:1
-       period:1
-       pregnant:1
-       still:1
        theraputic:2
-       thing:1
-       treating:1
 ../../dataset/output-g-2012_Maid/58_cfb
-       actually:1
-       article:1
        bipolar:2
        bp:1
-       depression:1
-       dx:1
-       lifetime:1
-       really:1
-       risk:1
-       sense:1
-       still:1
-       then:1
        verfy:1
-../../dataset/output-g-2012_Maid/59_cfb
-       advice:1
-       considering:1
-       consultant:1
-       gastroenterologist:1
-       not:1
-       other:1
-       possible:1
-       useful:1
 ../../dataset/output-g-2012_Maid/60_cfb
-       alone:1
-       am:1
        bipolar:1
-       therapy:1
 ../../dataset/output-g-2012_Maid/61_cfb
-       child:1
-       diagnosing:1
-       diagnosis:1
-       environment:1
-       harm:1
-       not:1
-       place:1
        proper:1
-       role:1
-       stable:1
-       therapy:1
-       treatment:1
        young:1
 ../../dataset/output-g-2012_Maid/62_cfb
-       advice:1
        due:1
-       however:1
-       immunization:1
-       manufacture:1
-       new:1
-       not:1
-       once:1
        technical:1
-       twice:1
-       vaccine:1
 ../../dataset/output-g-2012_Maid/63_cfb
-       cause:1
-       depression:1
-       less:1
-       little:1
        med:1
-       now:1
-       prevention:1
        recently:1
-       there:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/64_cfb
-       component:1
-       definition:1
-       depression:1
-       different:1
-       hypomania:1
-       i:1
-       importance:1
        important:1
-       irritability:2
-       mania:1
-       particularly:1
-       really:1
-       term:1
        unipolar:1
-       wonder:1
        young:1
 ../../dataset/output-g-2012_Maid/65_cfb
-       age:1
-       almost:1
-       always:1
-       article:1
        bipolar:1
-       case:1
-       diagnosis:1
-       disorder:1
        early:1
-       firm:1
-       non:1
-       not:1
        reliably:1
-       superhuman:1
-       very:2
        young:1
-../../dataset/output-g-2012_Maid/66_cfb
-       bit:1
-       not:1
-       sure:1
-       treatment:1
-       wordy:1
 ../../dataset/output-g-2012_Maid/67_cfb
        dietician:1
-       role:1
 ../../dataset/output-g-2012_Maid/68_cfb
-       abuse:1
-       adhd:1
-       adult:1
-       already:1
-       drug:1
        epidemic:1
-       less:1
-       perhaps:1
-       reason:1
-       speed:1
-       there:1
 ../../dataset/output-g-2012_Maid/69_cfb
-       also:1
-       first:1
        good:1
        helpful:1
-       line:2
-       second:1
-       side:1
        table:1
        therapeutic:1
-       useful:1
-       very:1
 ../../dataset/output-g-2012_Maid/70_cfb
-       as:1
-       child:1
-       evidence:1
        family:1
-       not:1
-       practice:1
-       psychiatry:1
-       really:1
-       specialty:1
-       sub:1
        thin:1
-       very:1
 ../../dataset/output-g-2012_Maid/71_cfb
-       addition:1
-       cost:1
-       coverage:1
-       depend:1
-       medication:1
-       plus:1
-       respirologist:1
        severe:1
-       something:1
-       usually:1
 ../../dataset/output-g-2012_Maid/72_cfb
-       always:1
-       application:1
        bipolar:1
-       but:1
-       debate:1
-       depth:1
-       exuberant:1
        happy:1
-       health:1
-       just:1
        mental:1
-       much:1
        overly:1
-       quality:1
-       review:1
-       so:1
 ../../dataset/output-g-2012_Maid/73_cfb
-       divalproex:1
        effective:1
-       evidence:1
        good:1
        helpful:1
-       howe:1
-       lamotrigine:1
-       lithium:1
-       maintenance:1
-       medication:1
-       olanzapine:1
-       paragraph:1
-       prevention:1
-       relapse:1
-       review:1
-       table:2
-       therapy:1
-       there:1
+       table:1
 ../../dataset/output-g-2012_Maid/74_cfb
        bipolar:1
-       family:1
-       guidance:1
-       mood:1
-       more:1
-       patient:1
-       practice:1
-       psychiatrist:1
-       reading:1
-       see:1
-       still:1
-       t:1
 ../../dataset/output-g-2012_Maid/75_cfb
        important:1
-       info:1
-       more:1
-       re:1
-       realm:1
-       specialist:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/76_cfb
        addictive:1
-       agonist:1
-       con:1
-       opiod:1
        potentially:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/77_cfb
-       already:1
        avaialble:1
-       benefit:2
-       but:1
-       copd:1
-       currently:1
-       drug:1
-       little:2
-       offer:1
-       position:1
-       sam:1
-       smoking:1
-       trial:1
+       benefit:1
 ../../dataset/output-g-2012_Maid/78_cfb
        basically:1
-       cause:1
-       chf:1
-       death:1
        generally:1
-       life:1
        low:1
-       population:1
-       quality:1
-       quick:1
        unhealthy:1
-       very:1
 ../../dataset/output-g-2012_Maid/79_cfb
-       already:1
        arrhythmic:1
-       combination:1
-       cost:2
        follow:1
-       however:1
-       more:1
-       not:1
-       potential:1
-       pro:1
-       so:1
-       specialty:1
-       study:1
-       surprise:1
 ../../dataset/output-g-2012_Maid/80_cfb
-       already:1
        arrhythmic:1
-       combination:1
-       cost:2
        follow:1
-       however:1
-       more:1
-       not:1
-       potential:1
-       pro:1
-       so:1
-       specialty:1
-       study:1
-       surprise:1
 ../../dataset/output-g-2012_Maid/81_cfb
-       few:1
        formulary:1
        harm:1
-       icp:1
-       medication:1
        minimal:1
-       more:1
-       not:1
-       relief:1
-       topiramate:1
 ../../dataset/output-g-2012_Maid/82_cfb
-       adenosine:1
-       amiodarone:1
-       away:1
-       def:1
-       glad:1
-       mention:1
-       move:1
-       non:1
-       not:1
        symptomatic:1
-       tach:4
-       th:1
-       tr:1
-       v:4
 ../../dataset/output-g-2012_Maid/83_cfb
-       almost:1
-       finding:1
        impossible:1
-       little:1
-       point:2
 ../../dataset/output-g-2012_Maid/84_cfb
-       advice:1
        appropriately:1
        comfortable:1
        family:1
-       information:1
-       more:1
-       neurologist:1
-       new:1
-       not:2
-       starting:1
 ../../dataset/output-g-2012_Maid/85_cfb
-       allocation:1
-       care:1
-       demand:1
-       increase:1
-       more:1
        potential:1
        primary:1
-       resource:1
 ../../dataset/output-g-2012_Maid/86_cfb
-       away:1
-       better:1
-       done:1
-       efficacy:1
-       more:2
-       research:2
        standard:1
-       time:1
-../../dataset/output-g-2012_Maid/87_cfb
-       diversion:1
-../../dataset/output-g-2012_Maid/88_cfb
-       more:1
 ../../dataset/output-g-2012_Maid/89_cfb
-       cord:1
        curious:1
        effective:1
-       entirely:1
-       injury:1
-       not:1
-       other:1
-       resolving:1
-       sativex:1
-       spasticity:1
        spinal:1
-       use:1
 ../../dataset/output-g-2012_Maid/90_cfb
-       agent:1
-       already:1
        alternative:1
        apparently:1
-       available:1
-       cesamet:1
-       doubt:1
-       faster:1
        highly:1
-       more:1
-       nabilone:1
-       odb:1
-       spasticity:1
-       tx:1
-       use:1
-       useful:1
 ../../dataset/output-g-2012_Maid/91_cfb
-       alternative:1
-       benefit:1
-       better:1
-       cheaper:1
        expenisive:1
        major:1
-       medicine:1
-       not:1
 ../../dataset/output-g-2012_Maid/92_cfb
-       analog:1
-       blood:1
-       cesamet:1
        constant:1
-       face:1
-       indeed:1
-       more:1
-       not:1
        oral:1
-       rather:1
-       sativex:1
-       sense:1
        steady:1
-       sure:1
-       symptomatology:1
-       thc:1
 ../../dataset/output-g-2012_Maid/93_cfb
        cannabinoid:1
-       diazepam:1
-       especially:1
-       extract:1
-       gabapentin:1
        helpful:1
-       nonpharmacologic:1
-       other:1
-       sativex:1
-       spasticity:1
-../../dataset/output-g-2012_Maid/94_cfb
-       not:1
-       yet:1
 ../../dataset/output-g-2012_Maid/95_cfb
-       canada:1
-       cheaper:1
-       comparison:1
-       cost:1
-       exemption:1
-       health:1
        high:1
        medical:1
-       more:1
-       option:1
-       question:1
-       rather:1
-       sativex:2
-       th:1
-../../dataset/output-g-2012_Maid/96_cfb
-       apart:1
-       cme:1
-       lithium:1
-       many:1
-       mood:1
-       not:1
 ../../dataset/output-g-2012_Maid/97_cfb
        illegal:1
-       quit:1
 ../../dataset/output-g-2012_Maid/98_cfb
-       again:1
-       article:1
-       not:2
        properly:1
-       time:1
        unprofitable:1
 ../../dataset/output-g-2012_Maid/99_cfb
        completely:1
-       conjuction:1
-       experience:1
-       further:1
        happy:1
-       input:1
-       medication:1
-       new:1
-       specialist:1
-       use:1
 ../../dataset/output-g-2012_Maid/100_cfb
-       cost:1
-       not:1
        table:1
 ../../dataset/output-g-2012_Maid/101_cfb
        ahead:1
-       experiment:1
-       family:1
        hesitate:1
-       life:1
        mental:1
-       part:1
        pediatric:1
-       physician:1
-       psychiatry:1
        skilled:1
-       t:1
-       treat:1
 ../../dataset/output-g-2012_Maid/102_cfb
-       benefit:1
-       company:1
        costly:1
        curious:1
        great:1
-       less:1
-       likely:1
-       much:1
        pharmaceutical:1
        positive:1
-       research:2
-       sativex:1
-       thc:1
-       then:1
-       use:1
 ../../dataset/output-g-2012_Maid/103_cfb
        aware:1
        cover:1
-       few:1
-       health:1
-       not:2
 ../../dataset/output-g-2012_Maid/104_cfb
-       access:1
-       but:1
-       figure:1
-       little:1
-       lot:1
-       see:1
-       so:1
-       t:1
        topic:1
        unable:1
-       useful:1
 ../../dataset/output-g-2012_Maid/105_cfb
-       but:1
        comfortable:1
-       information:1
-       not:1
-       using:1
 ../../dataset/output-g-2012_Maid/106_cfb
        buccal:1
        good:1
-       have:1
        informative:1
-       new:1
-       something:1
-       spray:1
-       summary:1
-       very:1
 ../../dataset/output-g-2012_Maid/107_cfb
        medical:1
-       still:1
-../../dataset/output-g-2012_Maid/108_cfb
-       concern:1
-       cost:1
-       coverage:1
-       drug:1
-       odsp:1
-       only:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/109_cfb
        bullish:1
-       but:1
        good:1
-       not:1
-       review:1
-       spasticity:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/110_cfb
        comfortable:1
-       erythropoetin:1
-       ever:1
-       knowing:1
-       likely:1
-       never:1
-       not:1
-       side:1
-       sure:1
-       therefore:1
 ../../dataset/output-g-2012_Maid/111_cfb
-       blood:2
-       but:1
-       done:1
-       erythropotin:1
-       even:1
-       ex:1
-       frequent:1
-       highlight:1
-       lot:1
-       more:1
-       n:1
-       not:1
-       other:2
-       practice:1
        risky:1
-       sever:1
-       so:1
-       there:1
-       transfution:2
 ../../dataset/output-g-2012_Maid/112_cfb
-       but:1
        careful:1
-       consequence:1
-       handling:1
-       manage:1
-       p:1
-       prca:1
-       right:2
-       serious:1
-       specialist:1
-       treatment:1
-       use:1
-       useful:1
 ../../dataset/output-g-2012_Maid/113_cfb
-       fp:1
        general:1
-       practice:1
-       value:1
-../../dataset/output-g-2012_Maid/114_cfb
-       able:1
-       access:1
-       not:1
-       still:1
 ../../dataset/output-g-2012_Maid/115_cfb
-       but:1
-       likely:1
        limited:1
-       new:1
-       price:1
-       product:1
-       re:1
-       review:1
-       use:1
 ../../dataset/output-g-2012_Maid/116_cfb
-       already:1
        avoid:1
-       nt:1
-       sure:1
-       thta:1
 ../../dataset/output-g-2012_Maid/117_cfb
-       erythropoetin:1
-       referr:1
+       referral:1
 ../../dataset/output-g-2012_Maid/118_noncfb
-       credit:1
-       gener:1
-       highlight:1
-       inform:3
+       general:1
        long:1
-       practic:2
-       relev:1
-       therapeut:1
-       wealth:1
+       relevant:1
+       therapeutic:1
 ../../dataset/output-g-2012_Maid/119_noncfb
-       gener:1
+       general:1
        good:1
-       highlight:1
-       inform:1
-       practic:1
-       summari:1
-       therapeut:1
+       therapeutic:1
 ../../dataset/output-g-2012_Maid/120_noncfb
        good:1
-       highlight:1
-       infect:1
-       inform:1
-       practic:1
-       summari:1
-       therapeut:1
+       therapeutic:1
 ../../dataset/output-g-2012_Maid/121_noncfb
-       appropri:1
-       biochem:1
-       chang:1
+       appropriately:1
+       biochemical:1
        give:1
-       hypercalcaemia:1
-       inform:1
-       number:1
-       present:1
-       review:1
-       specifi:1
-       thiazid:1
 ../../dataset/output-g-2012_Maid/122_noncfb
-       gener:1
+       general:1
        hypovolemic:1
-       knowledg:1
-       manag:1
 ../../dataset/output-g-2012_Maid/123_noncfb
-       comprehens:1
-       descript:1
-       fairli:1
-       help:1
-       medic:1
-       overview:1
-       pharmacolog:1
-       treatment:1
+       comprehensive:1
+       fairly:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/124_noncfb
-       content:1
-       hyponatremia:1
-       iv:2
-       remot:1
-       resuscit:1
-       risk:1
-       succinct:1
+       remotely:1
 ../../dataset/output-g-2012_Maid/125_noncfb
        common:1
-       fp:1
-       manag:1
 ../../dataset/output-g-2012_Maid/126_noncfb
-       import:1
-       inform:1
+       important:1
 ../../dataset/output-g-2012_Maid/127_noncfb
-       inform:1
-       succinct:1
+       informative:1
 ../../dataset/output-g-2012_Maid/128_noncfb
-       copd:1
-       interest:1
-       unawar:1
-../../dataset/output-g-2012_Maid/129_noncfb
-       doctor:1
-       er:1
-       inform:2
-       practis:1
+       interesting:1
+       unaware:1
 ../../dataset/output-g-2012_Maid/130_noncfb
-       barrier:1
        huge:1
-       implement:1
-       price:1
 ../../dataset/output-g-2012_Maid/131_noncfb
-       enthusiast:1
-       inform:1
-../../dataset/output-g-2012_Maid/132_noncfb
-       evid:1
-       summari:1
-../../dataset/output-g-2012_Maid/134_noncfb
-       excel:1
+       enthusiastic:1
 ../../dataset/output-g-2012_Maid/135_noncfb
-       flu:1
        good:1
-       inform:1
-       newer:1
-       older:1
-       review:1
-       season:1
-       time:1
+       timely:1
 ../../dataset/output-g-2012_Maid/136_noncfb
-       avail:1
-       cost:1
-       coverag:1
-       doubtless:1
-       drug:2
-       expens:1
-       huge:1
-       msi:1
-       plan:1
-       usag:1
-../../dataset/output-g-2012_Maid/137_noncfb
-       class:1
-       inform:1
-       medic:1
+       expensive:1
+       hugely:1
 ../../dataset/output-g-2012_Maid/138_noncfb
-       addit:1
-       formulari:1
        forward:1
-       medic:1
-       provinci:1
-../../dataset/output-g-2012_Maid/139_noncfb
-       inform:1
+       provincial:1
 ../../dataset/output-g-2012_Maid/141_noncfb
-       drug:1
-       fact:1
        haven:1
-       unawar:1
-../../dataset/output-g-2012_Maid/142_noncfb
-       excel:1
-       summmari:1
+       unaware:1
 ../../dataset/output-g-2012_Maid/143_noncfb
-       greatli:1
-       inform:1
-../../dataset/output-g-2012_Maid/144_noncfb
-       medic:1
-       wait:1
-../../dataset/output-g-2012_Maid/145_noncfb
-       glad:1
-       info:1
-       longer:1
-       practis:1
-       scope:1
+       greatly:1
+       informative:1
 ../../dataset/output-g-2012_Maid/147_noncfb
-       addit:2
-       agent:1
-       armamentarium:1
        basic:1
        chronic:1
-       copd:1
-       excel:1
-       laac:1
-       laba:2
-       newer:1
-       practic:1
-       present:1
-       read:1
-       review:1
-       roflumilast:1
 ../../dataset/output-g-2012_Maid/148_noncfb
-       area:1
        familiar:1
-       process:1
-       pulmonologist:1
 ../../dataset/output-g-2012_Maid/149_noncfb
-       affluent:1
-       class:1
-       coverag:1
-       dedic:1
-       formulari:1
-       practic:1
+       dedicated:1
+       formulary:1
 ../../dataset/output-g-2012_Maid/150_noncfb
        good:1
-       refresh:1
 ../../dataset/output-g-2012_Maid/151_noncfb
        add:1
        chronic:1
-       copd:1
-       daili:1
-       mcg:1
+       daily:1
        roflumilast:1
-       sever:1
-       therapi:1
+       severe:1
 ../../dataset/output-g-2012_Maid/152_noncfb
        good:1
        roflumilast:1
 ../../dataset/output-g-2012_Maid/153_noncfb
-       inform:1
-../../dataset/output-g-2012_Maid/154_noncfb
-       todai:1
+       informative:1
 ../../dataset/output-g-2012_Maid/155_noncfb
-       copd:2
-       fairli:1
-       frequent:1
+       fairly:1
        good:1
-       inform:1
-       introduct:1
-       review:1
 ../../dataset/output-g-2012_Maid/157_noncfb
-       awar:1
-       canada:1
        great:1
-       metoprolol:1
-       point:1
-       version:1
-       wasn:1
 ../../dataset/output-g-2012_Maid/158_noncfb
-       addit:1
        great:1
-       laba:1
-       option:1
-../../dataset/output-g-2012_Maid/159_noncfb
-       approach:1
-       ne:1
-       treatment:1
-../../dataset/output-g-2012_Maid/160_noncfb
-       info:1
-../../dataset/output-g-2012_Maid/161_noncfb
-       idea:1
-       progress:1
-       therapi:1
 ../../dataset/output-g-2012_Maid/162_noncfb
-       esp:1
        good:1
 ../../dataset/output-g-2012_Maid/163_noncfb
-       copd:1
-       drug:1
-       fairli:1
-       highlight:1
-       import:2
-       manag:1
+       fairly:1
+       important:1
 ../../dataset/output-g-2012_Maid/164_noncfb
-       medic:1
-       newer:1
-       practic:1
-       refresh:1
-       routin:1
-       succinct:1
-../../dataset/output-g-2012_Maid/165_noncfb
-       drug:1
+       routinely:1
 ../../dataset/output-g-2012_Maid/166_noncfb
-       care:1
-       excel:1
-       interest:1
-       mind:1
-       physician:1
-       practic:1
-       primari:1
-       respiratori:2
-       topic:1
-       updat:1
-../../dataset/output-g-2012_Maid/167_noncfb
-       drug:1
-       uk:1
+       primary:1
+       updated:1
 ../../dataset/output-g-2012_Maid/168_noncfb
-       acyclovir:1
-       cream:1
-       differ:1
-       evid:1
-       gener:1
+       generally:1
        good:1
-       intuit:1
-       ointment:1
+       intuitively:1
        oral:2
-       review:1
-       sens:1
-       updat:1
-../../dataset/output-g-2012_Maid/169_noncfb
-       dha:1
-       epa:1
-       evid:1
-       failur:1
-       fatti:1
-       heart:1
-       inform:1
-       omega:1
 ../../dataset/output-g-2012_Maid/170_noncfb
        good:1
-       refresh:1
 ../../dataset/output-g-2012_Maid/171_noncfb
-       azathioprin:1
-       interest:1
-       memori:1
-       pt:1
-       recent:1
+       interesting:1
+       recently:1
 ../../dataset/output-g-2012_Maid/172_noncfb
-       articl:1
-       cmaj:1
-       fall:1
-       interest:1
-       spirometri:1
+       interesting:1
 ../../dataset/output-g-2012_Maid/173_noncfb
        forward:1
-       medic:1
-../../dataset/output-g-2012_Maid/174_noncfb
-       increas:2
-       ml:2
-../../dataset/output-g-2012_Maid/175_noncfb
-       inform:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/176_noncfb
        good:1
-       overview:1
 ../../dataset/output-g-2012_Maid/177_noncfb
-       concis:1
-       evid:1
        good:1
-       help:1
-       highlight:1
-       info:1
-       initi:1
-       lack:1
-       retrospect:1
-       specif:1
-       studi:1
-       tiotropium:2
-../../dataset/output-g-2012_Maid/179_noncfb
-       roflumilast:1
+       helpful:1
+       initially:1
+       retrospective:1
+       specifically:1
 ../../dataset/output-g-2012_Maid/180_noncfb
        topic:1
 ../../dataset/output-g-2012_Maid/181_noncfb
-       import:1
-       inform:1
-       older:1
-       review:1
-       theophyliine:1
+       important:1
        topic:1
 ../../dataset/output-g-2012_Maid/182_noncfb
-       ceri:1
-       comprehens:1
-       dose:1
+       comprehensive:1
        good:1
 ../../dataset/output-g-2012_Maid/183_noncfb
-       complet:1
-       coverag:1
+       complete:1
        topic:1
 ../../dataset/output-g-2012_Maid/184_noncfb
        good:1
-       hypercalcemia:1
-       review:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/185_noncfb
-       assess:1
-       cancer:1
-       dermatolog:1
-       increas:1
-       nonmelanoma:1
-       recommend:1
-       skin:1
-       yearli:1
+       dermatological:1
+       yearly:1
 ../../dataset/output-g-2012_Maid/186_noncfb
-       condit:1
-       copd:1
-       detail:1
-       easi:1
-       habit:1
-       heavi:1
-       inform:1
-       main:1
-       major:1
-       moder:1
-       problem:1
-       tobacco:1
+       detailed:1
+       easy:1
+       heavy:1
+       moderate:1
 ../../dataset/output-g-2012_Maid/187_noncfb
        annual:1
        good:1
-       idea:1
-       skin:1
 ../../dataset/output-g-2012_Maid/188_noncfb
-       administr:1
-       chang:1
        fluid:1
        hear:1
-       nice:1
-       postur:1
-       rate:1
-       read:1
-       refer:1
+       postural:1
 ../../dataset/output-g-2012_Maid/189_noncfb
-       info:1
-       lettl:1
+       lettle:1
        past:1
 ../../dataset/output-g-2012_Maid/190_noncfb
        good:1
-../../dataset/output-g-2012_Maid/191_noncfb
-       articl:1
-       inform:1
 ../../dataset/output-g-2012_Maid/194_noncfb
-       chief:1
        common:1
-       complaint:1
-       help:1
-       remind:1
-../../dataset/output-g-2012_Maid/195_noncfb
-       decis:1
-       lower:1
-       request:1
-       spirometri:1
-       threshold:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/196_noncfb
-       adjunct:1
        current:1
-       migrain:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/197_noncfb
-       immunosuppress:1
-       import:1
-       pt:1
-       skin:1
-       tx:1
+       immunosuppressive:1
 ../../dataset/output-g-2012_Maid/198_noncfb
        hypovolemic:1
-       min:1
 ../../dataset/output-g-2012_Maid/199_noncfb
-       immedi:1
-       infect:1
-       onset:1
+       immediately:1
        oral:1
-       recurr:1
-       stand:1
 ../../dataset/output-g-2012_Maid/200_noncfb
-       light:1
-       posit:1
-       potenti:1
-       previous:1
-../../dataset/output-g-2012_Maid/201_noncfb
-       accept:1
-       differ:1
-       medic:1
-       odb:1
-       patient:1
-../../dataset/output-g-2012_Maid/202_noncfb
-       inform:1
-../../dataset/output-g-2012_Maid/203_noncfb
-       info:1
+       positive:1
+       potentially:1
+       previously:1
 ../../dataset/output-g-2012_Maid/204_noncfb
        great:1
-../../dataset/output-g-2012_Maid/205_noncfb
-       excel:1
 ../../dataset/output-g-2012_Maid/206_noncfb
-       bowel:1
        good:1
-       irrit:1
-       review:1
-       syndrome:1
-       treatment:1
+       irritable:1
 ../../dataset/output-g-2012_Maid/207_noncfb
-       diagnosi:2
-       exclus:1
-       offer:1
-       posit:1
-       specif:1
-../../dataset/output-g-2012_Maid/208_noncfb
-       excel:1
+       positive:1
+       specific:1
 ../../dataset/output-g-2012_Maid/209_noncfb
-       context:1
-       format:1
-       help:1
-       medic:1
-       specif:1
-../../dataset/output-g-2012_Maid/210_noncfb
-       inform:1
-../../dataset/output-g-2012_Maid/211_noncfb
-       brand:1
-       calcium:1
-       differ:1
-       info:1
-       polycarbophil:1
-       prodiem:1
-       psyllium:1
+       helpful:1
+       specific:1
 ../../dataset/output-g-2012_Maid/212_noncfb
-       approach:1
-       practic:1
-../../dataset/output-g-2012_Maid/213_noncfb
-       advic:1
-       highlight:1
-../../dataset/output-g-2012_Maid/214_noncfb
-       inform:1
+       practical:1
 ../../dataset/output-g-2012_Maid/215_noncfb
        good:1
-       review:1
 ../../dataset/output-g-2012_Maid/216_noncfb
-       approach:1
        basic:1
        good:1
-       pharmacolog:1
 ../../dataset/output-g-2012_Maid/217_noncfb
-       diarrhea:1
        dont:1
-       longer:1
-       loperamid:1
-       reason:1
-       time:1
-../../dataset/output-g-2012_Maid/219_noncfb
-       bienkowski:1
-       credit:1
-       fd:1
-       insult:1
-       intellig:1
+       reasonable:1
 ../../dataset/output-g-2012_Maid/220_noncfb
-       bran:1
        common:1
-       condit:1
-       constip:1
-       gener:1
-       help:1
-       metamucil:1
-       practic:1
-       raw:1
-       type:1
+       general:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/221_noncfb
-       care:1
-       primari:1
+       primary:1
        topic:1
 ../../dataset/output-g-2012_Maid/222_noncfb
-       articl:1
-       easi:1
+       easy:1
 ../../dataset/output-g-2012_Maid/224_noncfb
        good:1
-       summari:1
 ../../dataset/output-g-2012_Maid/225_noncfb
-       atropin:1
-       balanc:1
+       balanced:1
        clear:1
        common:1
-       diphenoxyl:1
-       disord:1
-       domp:1
-       idea:1
-       import:1
-       patient:1
-       person:1
-       present:1
-       tca:1
+       diphenoxylate:1
+       important:1
+       personally:1
 ../../dataset/output-g-2012_Maid/226_noncfb
        good:1
-       review:1
-../../dataset/output-g-2012_Maid/227_noncfb
-       dicetel:1
-       success:1
 ../../dataset/output-g-2012_Maid/229_noncfb
-       drug:1
        good:1
-       review:1
 ../../dataset/output-g-2012_Maid/230_noncfb
-       atropin:1
-       bisacodyl:1
        bran:1
-       cholestyramin:1
-       constip:1
-       diarrhea:1
-       diphenoxyl:1
-       hydrox:1
-       lactulos:1
-       loperamid:1
-       magnesium:1
-       predomin:2
-       prn:1
-       psyllium:1
+       loperamide:1
 ../../dataset/output-g-2012_Maid/231_noncfb
        current:2
-       danger:1
+       dangerous:1
        hard:1
-       learn:1
-       manag:1
-       previou:1
-       reason:1
-       time:1
-../../dataset/output-g-2012_Maid/232_noncfb
-       approach:1
-       bit:1
-       condit:1
-       control:1
-       domin:1
-       fibr:1
-       hadn:1
-       idea:1
-       kind:1
        previous:1
-       symptom:1
+../../dataset/output-g-2012_Maid/232_noncfb
+       dominant:1
+       previously:1
 ../../dataset/output-g-2012_Maid/233_noncfb
-       addit:1
-       cholestyramin:1
-       freeli:1
-       loperamid:1
-       manag:1
-       nervou:1
-       slightli:1
+       freely:1
+       loperamide:1
+       nervous:1
+       slightly:1
 ../../dataset/output-g-2012_Maid/234_noncfb
-       cme:1
        good:1
-../../dataset/output-g-2012_Maid/235_noncfb
-       relev:1
 ../../dataset/output-g-2012_Maid/236_noncfb
-       easi:1
-       educ:1
+       easy:1
+       educational:1
        quick:1
 ../../dataset/output-g-2012_Maid/237_noncfb
        good:1
-       remind:1
-../../dataset/output-g-2012_Maid/238_noncfb
-       excel:1
 ../../dataset/output-g-2012_Maid/239_noncfb
-       framework:1
        good:1
-       manag:1
-       simpl:1
 ../../dataset/output-g-2012_Maid/240_noncfb
-       arsen:1
+       arsenal:1
        diet:1
-       interest:1
-       lifestyl:1
-       manag:1
-       medic:1
-       practic:1
-       wil:1
+       interested:1
 ../../dataset/output-g-2012_Maid/241_noncfb
-       confirm:1
        good:1
 ../../dataset/output-g-2012_Maid/242_noncfb
-       complic:1
-       constip:1
-       diarrhea:1
-       inconti:1
-       process:1
-       treatment:2
+       complicated:1
 ../../dataset/output-g-2012_Maid/243_noncfb
-       fiber:1
-       increas:1
-       intak:1
-       lifestyl:1
-       moder:1
-       pariet:1
-       ppi:1
-       water:1
+       moderate:1
 ../../dataset/output-g-2012_Maid/244_noncfb
        good:1
        high:3
-       limit:1
-       preval:1
-       rate:1
-       relaps:1
-       respons:1
-       rx:1
-       sibo:1
-       xifaxan:1
-../../dataset/output-g-2012_Maid/245_noncfb
-       amitriptylin:1
 ../../dataset/output-g-2012_Maid/246_noncfb
        good:1
-       overview:1
 ../../dataset/output-g-2012_Maid/247_noncfb
        good:1
-       info:1
 ../../dataset/output-g-2012_Maid/248_noncfb
-       articl:1
-       confid:1
-       continu:1
-       fre:1
-       manag:1
-       patient:1
-       relationship:1
-       resolv:1
-       specialist:1
+       continually:1
 ../../dataset/output-g-2012_Maid/250_noncfb
        difficult:1
-       diseas:1
-       greatli:1
-       life:1
-       manag:1
-       patient:1
-       qualiti:1
+       greatly:1
 ../../dataset/output-g-2012_Maid/251_noncfb
-       applic:1
+       applicable:1
        good:1
-       inform:1
-       practic:1
+       practical:1
 ../../dataset/output-g-2012_Maid/252_noncfb
        common:1
-       excel:1
-       famili:1
-       medicin:1
-       problem:1
        psychosocial:1
 ../../dataset/output-g-2012_Maid/253_noncfb
        difficult:1
        insight:1
-       manag:1
 ../../dataset/output-g-2012_Maid/254_noncfb
-       gener:1
+       general:1
        good:1
-       highli:1
-       highlight:1
-       inform:1
-       practic:2
-       relev:1
-       summari:1
-       therapeut:1
+       highly:1
+       relevant:1
+       therapeutic:1
 ../../dataset/output-g-2012_Maid/255_noncfb
        good:1
-       inform:1
+       informative:1
 ../../dataset/output-g-2012_Maid/256_noncfb
-       comprehens:1
-       consider:1
+       comprehensive:1
        due:1
-       famili:1
-       help:1
-       hsv:2
-       indic:1
-       inocul:1
-       iv:1
-       review:1
-       sever:1
-       therapi:2
+       helpful:1
+       severe:1
 ../../dataset/output-g-2012_Maid/258_noncfb
-       bodi:1
-       distribut:1
        good:1
-       iv:1
-       refresh:1
 ../../dataset/output-g-2012_Maid/259_noncfb
-       pt:1
-       sever:1
-       todai:1
-../../dataset/output-g-2012_Maid/260_noncfb
-       practic:1
-       relev:1
-../../dataset/output-g-2012_Maid/261_noncfb
-       bone:1
-../../dataset/output-g-2012_Maid/262_noncfb
-       excel:1
+       severe:1
 ../../dataset/output-g-2012_Maid/263_noncfb
        copd:1
-       help:1
-       knowleg:1
-       practis:1
-       relev:1
+       helpful:1
+       relevant:1
        topic:1
 ../../dataset/output-g-2012_Maid/264_noncfb
-       manag:1
-       practic:1
+       practical:1
 ../../dataset/output-g-2012_Maid/265_noncfb
-       constip:1
-       diarrhea:1
        good:1
-       help:1
-       ibd:1
-       medic:1
-       review:1
-       section:1
-../../dataset/output-g-2012_Maid/266_noncfb
-       drug:1
-       info:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/268_noncfb
-       point:1
-       suggest:1
-       treatment:1
+       suggested:1
 ../../dataset/output-g-2012_Maid/269_noncfb
-       issu:1
-       useful:1
-../../dataset/output-g-2012_Maid/270_noncfb
-       medic:1
-       time:1
-../../dataset/output-g-2012_Maid/271_noncfb
-       excel:1
+       usefull:1
 ../../dataset/output-g-2012_Maid/272_noncfb
-       articl:1
        great:1
 ../../dataset/output-g-2012_Maid/273_noncfb
-       articl:1
-       interest:1
+       interesting:1
 ../../dataset/output-g-2012_Maid/274_noncfb
        good:1
-       remind:1
 ../../dataset/output-g-2012_Maid/275_noncfb
-       close:1
-       gasteoenterolog:1
+       closely:1
        good:1
-       summari:1
 ../../dataset/output-g-2012_Maid/276_noncfb
        good:1
-       inform:1
+       informative:1
 ../../dataset/output-g-2012_Maid/277_noncfb
        good:1
-       info:1
 ../../dataset/output-g-2012_Maid/279_noncfb
-       knowledg:1
        nice:1
        topic:1
 ../../dataset/output-g-2012_Maid/280_noncfb
-       class:1
-       futur:1
-       mind:1
-       unawar:1
+       unaware:1
 ../../dataset/output-g-2012_Maid/281_noncfb
        basic:1
        common:1
-       highlight:1
-       knowledg:1
-       practic:1
        standard:1
 ../../dataset/output-g-2012_Maid/282_noncfb
-       averi:1
-       group:1
-       persist:1
        real:1
-       sever:1
+       severe:1
 ../../dataset/output-g-2012_Maid/283_noncfb
        great:1
-       interest:1
-       review:1
-../../dataset/output-g-2012_Maid/284_noncfb
-       didn:1
-       read:1
-       realiz:1
-       time:1
+       interesting:1
 ../../dataset/output-g-2012_Maid/285_noncfb
-       excel:1
-       review:1
-       time:1
-../../dataset/output-g-2012_Maid/286_noncfb
-       child:1
-       drug:1
-       esteem:1
-       expand:1
-       focu:1
-       help:1
+       excellent:1
+       timely:1
 ../../dataset/output-g-2012_Maid/288_noncfb
        add:1
-       interest:1
+       interesting:1
 ../../dataset/output-g-2012_Maid/289_noncfb
-       help:1
-       inform:1
-       older:1
-../../dataset/output-g-2012_Maid/290_noncfb
-       alreai:1
-       nice:1
-       support:1
-       ti:1
-       treatment:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/291_noncfb
        good:1
-       point:1
 ../../dataset/output-g-2012_Maid/292_noncfb
-       discuss:1
        great:1
-       inform:1
-       isn:1
-       potenti:1
-       practic:1
-       prescrib:1
 ../../dataset/output-g-2012_Maid/294_noncfb
-       condit:1
-       famili:1
-       help:1
-       inform:1
+       family:1
 ../../dataset/output-g-2012_Maid/295_noncfb
-       articl:1
        good:1
 ../../dataset/output-g-2012_Maid/296_noncfb
-       abus:1
-       control:1
        dg:1
-       gener:1
-       inform:1
-       lif:1
+       generally:1
        long:1
-       perspect:1
-       sens:1
-       substanc:1
-       term:1
 ../../dataset/output-g-2012_Maid/297_noncfb
-       abus:1
-       adequ:1
-       adhd:2
-       control:1
-       life:1
-       lower:1
-       risk:1
-       substanc:1
-../../dataset/output-g-2012_Maid/299_noncfb
+       adequately:1
        adhd:1
-       excel:1
-       manag:1
-       summari:1
+       controlled:1
 ../../dataset/output-g-2012_Maid/300_noncfb
-       author:1
-       bristol:1
-       consist:1
-       consult:1
-       form:1
-       gi:1
        great:1
-       help:1
-       letter:1
-       scale:1
-       specialist:1
-       standard:1
-       stool:2
+       helpful:1
 ../../dataset/output-g-2012_Maid/301_noncfb
-       everytim:1
-       import:1
-       place:1
+       important:1
 ../../dataset/output-g-2012_Maid/302_noncfb
-       abus:1
        good:1
-       lower:1
-       risk:1
 ../../dataset/output-g-2012_Maid/305_noncfb
-       adhd:1
-       articl:1
        great:1
-       knowleg:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/307_noncfb
        adhd:1
-       benefit:1
-       condit:1
-       critera:1
-       diagnosit:1
-       fact:1
+       diagnositic:1
        long:1
-       posit:1
-       prescrib:1
-       skeptic:1
-       term:1
+       positive:1
+       skeptical:1
        young:1
-../../dataset/output-g-2012_Maid/308_noncfb
-       practic:1
 ../../dataset/output-g-2012_Maid/309_noncfb
-       drug:1
-       interest:1
+       interesting:1
        short:1
-       summer:1
 ../../dataset/output-g-2012_Maid/310_noncfb
-       dai:1
-       don:1
-       evid:1
        heard:1
-       medicin:1
-       mind:1
-       pt:1
-       specif:1
+       specific:1
 ../../dataset/output-g-2012_Maid/311_noncfb
-       address:1
-       biolog:1
-       highlight:1
-       issu:1
-       purpos:1
-       substanc:1
+       biological:1
 ../../dataset/output-g-2012_Maid/312_noncfb
-       adhd:1
-       chanc:1
        low:1
-       mild:1
-       threshold:1
 ../../dataset/output-g-2012_Maid/313_noncfb
-       abus:1
-       adhd:1
-       altern:1
-       atomoxetin:1
-       fact:1
        good:1
-       info:1
-       inform:1
-       interest:1
-       potenti:1
-       review:1
-       substanc:1
-       treatment:1
-../../dataset/output-g-2012_Maid/314_noncfb
-       add:1
-       manag:1
+       interesting:1
+       potential:1
 ../../dataset/output-g-2012_Maid/316_noncfb
        good:1
-       point:1
-../../dataset/output-g-2012_Maid/317_noncfb
-       anti:1
 ../../dataset/output-g-2012_Maid/318_noncfb
-       drug:1
-       earli:1
-       geriatr:1
-       interest:1
+       early:1
+       geriatric:1
+       interesting:1
        main:1
-       materi:1
-       medic:1
-       practic:3
-       present:2
-       refresh:1
-       ritalin:1
-       valuabl:1
+       medical:1
+       refreshed:1
+       valuable:1
 ../../dataset/output-g-2012_Maid/319_noncfb
-       awar:1
-       drug:1
-       wasn:1
+       aware:1
 ../../dataset/output-g-2012_Maid/322_noncfb
-       gener:1
-       practic:1
+       general:1
 ../../dataset/output-g-2012_Maid/323_noncfb
-       articl:3
-       comfort:1
-       coupl:1
-       equali:1
+       comfortable:1
+       equaly:1
        good:1
-       inform:1
-       manag:1
-       pharmacotherapi:1
-       pt:1
+       informative:1
 ../../dataset/output-g-2012_Maid/324_noncfb
        physician:1
 ../../dataset/output-g-2012_Maid/325_noncfb
-       articl:1
-       preciou:1
+       precious:1
 ../../dataset/output-g-2012_Maid/326_noncfb
-       chanc:1
        good:1
-       inform:1
-       inpati:1
-       medicin:1
-       patient:1
-       primarili:1
-       set:1
+       primarily:1
 ../../dataset/output-g-2012_Maid/327_noncfb
        great:1
-       review:1
-../../dataset/output-g-2012_Maid/328_noncfb
-       excel:1
-       remind:1
 ../../dataset/output-g-2012_Maid/329_noncfb
-       respons:1
-       unabl:1
-../../dataset/output-g-2012_Maid/330_noncfb
-       case:1
+       unable:1
 ../../dataset/output-g-2012_Maid/331_noncfb
-       approach:1
        correct:1
-       larg:1
-       reassur:1
+       largely:1
 ../../dataset/output-g-2012_Maid/332_noncfb
-       concis:1
        good:1
-       review:1
-../../dataset/output-g-2012_Maid/333_noncfb
-       dont:1
-       forum:1
-       time:1
-       vert:1
-       writeup:1
 ../../dataset/output-g-2012_Maid/334_noncfb
        adhd:1
-       alert:1
-       side:1
-       viovanc:1
 ../../dataset/output-g-2012_Maid/335_noncfb
        good:1
-       inform:1
-../../dataset/output-g-2012_Maid/337_noncfb
-       manag:1
 ../../dataset/output-g-2012_Maid/338_noncfb
        good:1
-       review:1
 ../../dataset/output-g-2012_Maid/339_noncfb
        basic:1
-       diarrhea:1
-       loperimid:1
-       nonpharma:1
-       prn:1
-       subtype:1
-../../dataset/output-g-2012_Maid/340_noncfb
-       balanc:1
-       choic:1
-       evid:1
-       lifestyl:1
-       medic:1
-       patient:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/341_noncfb
-       clonidin:1
-       inform:2
-       previous:1
-       refresh:1
-       review:1
-       suitabl:1
-       tca:1
-       ttt:1
+       previously:1
+       suitable:1
+       tcas:1
 ../../dataset/output-g-2012_Maid/342_noncfb
        good:1
-       overview:1
 ../../dataset/output-g-2012_Maid/343_noncfb
        good:1
-       review:1
 ../../dataset/output-g-2012_Maid/344_noncfb
-       diseas:2
-       health:1
-       heart:2
        mental:1
-       pharmacolog:1
-       practic:1
 ../../dataset/output-g-2012_Maid/345_noncfb
-       help:1
-       patient:1
-       review:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/346_noncfb
-       help:1
-       patient:1
-       review:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/347_noncfb
        common:1
        great:1
-       issu:1
-       ueri:1
-       updat:1
-../../dataset/output-g-2012_Maid/348_noncfb
-       inform:1
-../../dataset/output-g-2012_Maid/349_noncfb
-       foundat:1
-       lifestyl:1
-       stress:1
 ../../dataset/output-g-2012_Maid/350_noncfb
        due:1
-       edema:1
-       idiopath:1
-       obes:1
-       part:1
-       practic:1
-       section:1
+       idiopathic:1
 ../../dataset/output-g-2012_Maid/351_noncfb
        due:1
-       edema:1
-       idiopath:1
-       issu:1
-       obes:1
-       part:1
-       practic:1
-       section:1
-../../dataset/output-g-2012_Maid/352_noncfb
-       pregnanc:1
-       section:1
-../../dataset/output-g-2012_Maid/353_noncfb
-       care:1
-       info:1
-       standard:1
+       idiopathic:1
 ../../dataset/output-g-2012_Maid/354_noncfb
        clear:2
-       diagnosi:2
-       emphasi:1
-       exclus:1
-       forthright:1
        good:1
-       posit:1
-       practic:1
-       review:1
-../../dataset/output-g-2012_Maid/355_noncfb
-       accept:1
-       info:1
-       parent:1
-       treatment:1
+       positive:1
+       practical:1
 ../../dataset/output-g-2012_Maid/357_noncfb
        good:1
-       review:1
-       short:1
 ../../dataset/output-g-2012_Maid/358_noncfb
-       articl:1
-       structur:1
        topic:1
 ../../dataset/output-g-2012_Maid/359_noncfb
        good:1
-       topic:1
 ../../dataset/output-g-2012_Maid/360_noncfb
        good:1
-       patient:1
 ../../dataset/output-g-2012_Maid/361_noncfb
-       awar:1
-../../dataset/output-g-2012_Maid/362_noncfb
-       articl:1
-       lot:1
-       read:1
+       aware:1
 ../../dataset/output-g-2012_Maid/363_noncfb
-       adhd:1
-       awar:1
-       care:1
+       aware:1
        good:1
-       primari:1
-       thing:1
-../../dataset/output-g-2012_Maid/365_noncfb
-       review:1
-../../dataset/output-g-2012_Maid/366_noncfb
-       highlight:1
-       practic:1
+       primary:1
 ../../dataset/output-g-2012_Maid/367_noncfb
        good:1
-       lifestyl:1
-       medic:1
-       overview:1
-       patholog:1
+       medical:1
        psychosocial:1
 ../../dataset/output-g-2012_Maid/368_noncfb
-       abus:1
-       clonidin:1
-       drug:1
-       potenti:1
-       strattera:1
+       potential:1
 ../../dataset/output-g-2012_Maid/369_noncfb
-       abus:1
-       addict:1
-       adequ:1
+       adequately:1
        adhd:2
-       interest:1
-       life:1
-       lower:1
-       risk:1
-       substanc:1
-../../dataset/output-g-2012_Maid/370_noncfb
-       concis:1
+       interested:1
 ../../dataset/output-g-2012_Maid/372_noncfb
        adhd:1
        chldren:1
-       excel:1
-       relat:1
-       sporad:1
+       related:1
+       sporadically:1
 ../../dataset/output-g-2012_Maid/373_noncfb
-       adult:1
-       basi:1
-       concerta:1
-       diagnos:1
-       diagnosi:1
-       ican:1
-       immensli:1
-       invari:1
-       prescrib:1
-       ritalin:1
-       summari:1
+       diagnose:1
+       immensly:1
+       invariably:1
 ../../dataset/output-g-2012_Maid/374_noncfb
-       add:1
-       adhd:2
-       adult:1
        don:1
-       feder:1
+       federal:1
        high:1
-       methadon:1
-       penitentiari:1
-       percentag:1
-       program:1
-       usu:1
+       penitentiary:1
 ../../dataset/output-g-2012_Maid/375_noncfb
-       abus:1
-       adhd:1
-       convinc:1
-       futur:1
+       future:1
        good:1
-       reduct:1
-       substanc:1
-       trial:1
 ../../dataset/output-g-2012_Maid/376_noncfb
-       concis:1
-       inform:1
-       practic:1
+       practical:1
 ../../dataset/output-g-2012_Maid/377_noncfb
        clear:1
-       concis:1
-       overview:1
        topic:1
 ../../dataset/output-g-2012_Maid/378_noncfb
-       adhd:1
-       commonli:1
-       help:1
-       inform:1
-       regard:1
+       commonly:1
+       helpful:1
        site:1
        young:1
 ../../dataset/output-g-2012_Maid/379_noncfb
        good:1
-       review:1
 ../../dataset/output-g-2012_Maid/380_noncfb
-       info:1
-       reinforc:1
-       sourc:1
-       stimul:1
+       stimulate:1
 ../../dataset/output-g-2012_Maid/382_noncfb
-       diarrhea:1
        past:1
 ../../dataset/output-g-2012_Maid/383_noncfb
-       famili:1
-       offic:1
-       practic:1
-       relev:1
-       urban:1
-../../dataset/output-g-2012_Maid/384_noncfb
-       cancer:1
-       info:1
-       skin:1
+       relevant:1
 ../../dataset/output-g-2012_Maid/385_noncfb
-       essenti:1
+       essential:1
 ../../dataset/output-g-2012_Maid/386_noncfb
-       articl:1
-       hel:1
-../../dataset/output-g-2012_Maid/390_noncfb
-       exel:1
+       helful:1
 ../../dataset/output-g-2012_Maid/391_noncfb
        topic:1
 ../../dataset/output-g-2012_Maid/393_noncfb
        bipolar:2
-       disord:1
-       gener:1
-       inform:1
+       general:1
+       informative:1
 ../../dataset/output-g-2012_Maid/394_noncfb
        bipolar:1
-       diseas:1
-       earli:1
-       time:1
+       early:1
+       timely:1
 ../../dataset/output-g-2012_Maid/395_noncfb
        difficult:1
        good:1
-       inform:1
-       person:1
 ../../dataset/output-g-2012_Maid/396_noncfb
-       child:1
-       depress:1
-       highlight:1
-       psychiatrist:1
+       depressive:1
        young:1
-../../dataset/output-g-2012_Maid/397_noncfb
-       practic:1
 ../../dataset/output-g-2012_Maid/398_noncfb
        bipolar:1
-       depress:3
-       disord:2
-       fa:1
        good:1
-       includ:1
        low:1
-       mood:1
        pyschotic:1
-       sever:1
+       severe:1
        unipolar:1
 ../../dataset/output-g-2012_Maid/399_noncfb
        good:1
-       point:1
 ../../dataset/output-g-2012_Maid/400_noncfb
        short:1
 ../../dataset/output-g-2012_Maid/401_noncfb
-       diagnosi:1
-       excel:1
-       missout:1
-       preferenti:1
-       suspicion:1
+       preferential:1
 ../../dataset/output-g-2012_Maid/402_noncfb
-       bi:1
-       disord:1
-       interest:1
-       polar:1
-       review:1
+       interesting:1
 ../../dataset/output-g-2012_Maid/403_noncfb
-       inform:1
+       informative:1
 ../../dataset/output-g-2012_Maid/404_noncfb
-       access:1
+       accessible:1
        clear:1
        good:1
-       modul:1
 ../../dataset/output-g-2012_Maid/405_noncfb
-       info:1
-       practic:1
+       practical:1
 ../../dataset/output-g-2012_Maid/406_noncfb
-       adult:1
        bipolar:1
-       disord:1
        good:1
-       quitiepin:1
-       respons:1
        young:1
 ../../dataset/output-g-2012_Maid/407_noncfb
        good:1
-       updat:1
 ../../dataset/output-g-2012_Maid/408_noncfb
        bipolar:1
-       choic:1
-       compon:1
-       depress:1
-       drug:1
-       genet:1
-       lithium:1
-       mania:1
-../../dataset/output-g-2012_Maid/409_noncfb
-       updat:1
+       genetic:1
 ../../dataset/output-g-2012_Maid/410_noncfb
-       awar:1
-       earli:1
-       learn:1
+       early:1
        main:1
-       onset:1
 ../../dataset/output-g-2012_Maid/411_noncfb
        felt:1
-       lithium:1
-       lone:1
        long:1
-       time:1
-       voic:1
-       wilder:1
-../../dataset/output-g-2012_Maid/412_noncfb
-       problem:1
-       psychiatrist:1
 ../../dataset/output-g-2012_Maid/413_noncfb
        good:1
 ../../dataset/output-g-2012_Maid/415_noncfb
        good:1
-       refresh:1
 ../../dataset/output-g-2012_Maid/416_noncfb
-       advanc:1
-       care:1
-       direct:1
-       efficaci:1
-       health:1
-       idea:1
-       ill:1
-       review:1
-       vulner:1
+       directive:1
+       vulnerable:1
 ../../dataset/output-g-2012_Maid/417_noncfb
        good:1
 ../../dataset/output-g-2012_Maid/418_noncfb
        good:1
-       overview:1
 ../../dataset/output-g-2012_Maid/419_noncfb
-       abus:1
        accept:1
        adhd:1
-       assess:1
-       diagnosi:1
-       domain:1
-       dont:1
-       drug:1
        due:1
-       fam:1
-       health:1
        mental:1
-       regina:1
-       retalin:1
-       sk:1
 ../../dataset/output-g-2012_Maid/420_noncfb
-       except:1
+       exceptional:1
        good:1
-       inform:1
-       modul:1
 ../../dataset/output-g-2012_Maid/421_noncfb
-       adult:1
-       articl:1
-       drug:1
-       mdq:1
-       monitor:1
-       read:1
-       routin:1
-       side:1
        standard:1
        usual:1
 ../../dataset/output-g-2012_Maid/422_noncfb
-       calcium:1
-       channel:1
-       dhp:1
-       failur:1
-       heart:1
-       hf:1
-       highlight:1
-       lv:1
-       manag:1
-       risk:1
-       summari:1
-       suppress:1
+       summary:1
        systoic:1
 ../../dataset/output-g-2012_Maid/423_noncfb
-       copd:1
-       help:1
-       manag:1
-       practic:1
+       helpful:1
+       practical:1
 ../../dataset/output-g-2012_Maid/424_noncfb
-       adolesc:1
        difficul:1
        difficult:2
-       health:1
-       impuls:1
-       lobe:1
        mental:1
-       pharmacolog:1
-       prefront:1
-       psychotherapi:1
-       reliev:1
+       prefrontal:1
+       relieved:1
 ../../dataset/output-g-2012_Maid/425_noncfb
        bipolar:1
-       ill:1
-       popul:1
-       teen:1
-       watch:1
 ../../dataset/output-g-2012_Maid/426_noncfb
-       consult:1
-       depress:1
-       inform:1
-       lower:1
-       mania:1
-       present:1
-       previous:1
-       psychiatri:1
-       refer:1
-       threshold:1
+       previously:1
 ../../dataset/output-g-2012_Maid/427_noncfb
-       help:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/428_noncfb
-       help:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/429_noncfb
-       idea:1
-       ill:1
        mental:1
-       psychiatrist:1
-       teen:1
 ../../dataset/output-g-2012_Maid/430_noncfb
        good:1
-       tip:1
 ../../dataset/output-g-2012_Maid/431_noncfb
-       abus:1
-       adhd:1
-       interest:1
-       relat:1
-       search:1
-       substanc:1
+       interesting:1
        topic:1
 ../../dataset/output-g-2012_Maid/432_noncfb
-       abus:1
-       adhd:1
-       earli:1
-       excel:1
-       life:1
-       substanc:1
+       early:1
 ../../dataset/output-g-2012_Maid/433_noncfb
        great:1
-       info:1
-../../dataset/output-g-2012_Maid/434_noncfb
-       posit:2
-       treatment:1
-../../dataset/output-g-2012_Maid/435_noncfb
-       loop:1
-../../dataset/output-g-2012_Maid/436_noncfb
-       classif:1
-       practic:1
-       schneider:1
 ../../dataset/output-g-2012_Maid/437_noncfb
        bipolar:1
-       case:1
-       disordw:1
-       histori:1
-       mainten:1
-       occasion:1
-       patient:1
-       psychiatrist:1
-       therapi:1
-       type:1
+       occasionally:1
 ../../dataset/output-g-2012_Maid/438_noncfb
-       inform:1
-../../dataset/output-g-2012_Maid/439_noncfb
-       confirm:1
-       current:1
-       practic:1
+       informative:1
 ../../dataset/output-g-2012_Maid/440_noncfb
        good:1
-       incid:1
-       length:1
-       pertin:1
 ../../dataset/output-g-2012_Maid/441_noncfb
-       articl:1
-       atypic:1
-       confid:1
+       atypical:1
+       confident:1
        hypomanic:1
-       initi:1
-       knowledg:1
        manic:1
-       patient:1
-       treatment:1
 ../../dataset/output-g-2012_Maid/442_noncfb
-       articl:1
        bipolar:1
-       contract:1
-       coupl:1
-       diagnosi:2
-       diff:1
        good:1
-       present:1
-       pt:1
 ../../dataset/output-g-2012_Maid/443_noncfb
-       articl:1
-       atropin:1
-       diphenoxyl:1
+       diphenoxylate:1
 ../../dataset/output-g-2012_Maid/444_noncfb
-       adjunct:1
-       copd:1
        good:1
-       help:1
-       inhibitor:1
-       introduct:1
-       link:1
-       phosphodiesteras:1
-       review:1
-       treatment:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/445_noncfb
-       evid:1
-       interest:1
-       manag:1
-       medic:1
-       pauciti:1
+       interesting:1
 ../../dataset/output-g-2012_Maid/446_noncfb
-       awar:1
+       aware:1
        british:1
-       columbia:1
-       formulari:1
-       medic:1
-../../dataset/output-g-2012_Maid/447_noncfb
-       articl:1
-       summari:1
+       formulary:1
 ../../dataset/output-g-2012_Maid/448_noncfb
        add:1
        adhd:1
        behavior:1
        bipolar:1
-       dr:1
-       er:1
-       recurr:1
+       recurrent:1
        young:1
 ../../dataset/output-g-2012_Maid/449_noncfb
-       highli:1
+       highly:1
 ../../dataset/output-g-2012_Maid/450_noncfb
-       approach:1
        copd:1
-       emr:1
-       guidlin:1
-       help:1
-       initi:1
-       mild:1
-       practis:1
-       stage:1
-       templat:1
-       therapeut:1
-       treatment:1
-../../dataset/output-g-2012_Maid/451_noncfb
-       nice:1
+       helpful:1
+       therapeutic:1
 ../../dataset/output-g-2012_Maid/452_noncfb
-       appli:1
-       cardiologist:1
-       decis:1
-       directli:1
-       discuss:1
-       gener:1
-       highlight:1
-       icd:1
-       medic:1
-       practic:1
-       treatment:1
+       apply:1
+       directly:1
+       generally:1
+       medical:1
 ../../dataset/output-g-2012_Maid/453_noncfb
-       clinic:1
-       disabl:1
-       efficaci:1
-       practic:1
-       treatment:1
+       clinical:1
 ../../dataset/output-g-2012_Maid/454_noncfb
        good:1
-       overview:1
 ../../dataset/output-g-2012_Maid/455_noncfb
-       field:1
        good:1
-       practis:1
 ../../dataset/output-g-2012_Maid/456_noncfb
-       cardiologist:1
-       condit:1
-       directli:1
-       er:1
-       famili:1
+       directly:1
        good:1
-       listen:1
-       part:1
-       physician:1
-       promptli:1
-       refer:1
-       summari:1
-       time:1
+       promptly:1
        topic:1
-       vigil:1
+       vigilant:1
 ../../dataset/output-g-2012_Maid/457_noncfb
-       articl:1
        asymptomatic:1
-       awar:1
-       diseaseparticularli:1
-       dysfunction:1
-       heart:1
-       inform:1
+       aware:1
+       diseaseparticularly:1
+       informative:1
        interestind:1
-       structur:1
+       structural:1
        systolic:1
-       vent:1
-       vt:2
 ../../dataset/output-g-2012_Maid/458_noncfb
-       er:1
-       hospit:2
        pt:1
        rural:1
-       specialist:1
 ../../dataset/output-g-2012_Maid/459_noncfb
-       arrest:1
-       health:1
-       icd:1
-       info:1
-       occup:1
-       patient:1
-       recent:1
-       situat:1
-       tach:1
-       treatment:1
-       understand:1
+       occupational:1
+       recently:1
 ../../dataset/output-g-2012_Maid/460_noncfb
-       behalf:1
-       futur:1
+       future:1
        ventricular:1
 ../../dataset/output-g-2012_Maid/461_noncfb
-       articl:1
-       basic:1
-       consult:1
-       defribril:1
-       letter:1
-       patient:1
+       basically:1
 ../../dataset/output-g-2012_Maid/464_noncfb
        good:1
-       practic:1
        rare:1
 ../../dataset/output-g-2012_Maid/465_noncfb
-       antiarrythm:1
+       antiarrythmic:1
        clear:1
-       ef:1
-       fib:1
-       icd:1
-       inform:1
-       recommend:1
-       tach:1
-../../dataset/output-g-2012_Maid/469_noncfb
-       relev:1
-../../dataset/output-g-2012_Maid/470_noncfb
-       therapi:1
-../../dataset/output-g-2012_Maid/471_noncfb
-       therapi:1
-../../dataset/output-g-2012_Maid/472_noncfb
-       therapi:1
-../../dataset/output-g-2012_Maid/473_noncfb
-       therapi:1
 ../../dataset/output-g-2012_Maid/474_noncfb
-       excel:1
        good:1
-       inform:1
 ../../dataset/output-g-2012_Maid/475_noncfb
        great:1
-       highlight:1
-       therapeut:1
+       therapeutic:1
 ../../dataset/output-g-2012_Maid/476_noncfb
-       hospit:1
-       manag:1
-       mi:1
-       occasion:1
-       post:1
-       rare:1
-       situat:1
-       stemi:1
-       tach:2
+       hospital:1
+       occasional:1
+       tach:1
 ../../dataset/output-g-2012_Maid/477_noncfb
-       excel:1
-       inform:1
-       problem:1
-       review:1
        uncommon:1
 ../../dataset/output-g-2012_Maid/478_noncfb
-       acut:1
-       help:1
-       manag:1
-       tach:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/479_noncfb
-       depress:1
-       mind:1
+       depressive:1
 ../../dataset/output-g-2012_Maid/480_noncfb
-       amiodaron:1
-       arrest:1
-       cardiac:1
        current:1
-       greater:1
-       icd:2
-       mortal:1
-       revers:1
-       vf:2
-       vt:2
+       icd:1
+       reversible:1
 ../../dataset/output-g-2012_Maid/481_noncfb
-       amiodaron:1
        nice:1
-       vf:1
-       vt:1
 ../../dataset/output-g-2012_Maid/482_noncfb
        good:1
-       manag:1
-       review:1
-       vt:1
 ../../dataset/output-g-2012_Maid/483_noncfb
-       case:1
        great:1
-       write:1
 ../../dataset/output-g-2012_Maid/486_noncfb
-       cardiolog:1
-       help:1
-       pacemak:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/490_noncfb
-       help:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/491_noncfb
-       impress:1
-       mortal:1
-       reduct:1
-       year:1
+       impressive:1
 ../../dataset/output-g-2012_Maid/492_noncfb
-       help:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/494_noncfb
-       articl:1
        good:1
 ../../dataset/output-g-2012_Maid/495_noncfb
-       articl:1
-       help:1
-../../dataset/output-g-2012_Maid/496_noncfb
-       amiodron:1
-       icd:1
-       vf:1
-       vt:1
+       helpful:1
 ../../dataset/output-g-2012_Maid/500_noncfb
-       care:1
        good:1
-       interest:1
-       primari:1
-       problem:1
+       interesting:1
+       primary:1
 ../../dataset/output-g-2012_Maid/501_noncfb
-       effect:1
+       effective:1
        good:1
-       icd:1
-       vf:1
-       vt:1
 ../../dataset/output-g-2012_Maid/502_noncfb
-       antiarrhym:1
+       antiarrhymic:1
        back:1
-       cardiologist:1
-       decis:2
-       defibril:1
-       inplant:1
-       input:1
-       pt:1
-       situat:1
+       inplantable:1
        topic:1
 ../../dataset/output-g-2012_Maid/503_noncfb
        current:1
-       info:1
-       inform:1
        nice:1
 ../../dataset/output-g-2012_Maid/504_noncfb
-       context:1
-       frequent:1
+       frequently:1
        good:1
-       practic:1
-       remind:1
-       specialist:1
 ../../dataset/output-g-2012_Maid/505_noncfb
-       case:1
-       diagnosi:2
        difficult:1
-       fact:1
        good:1
-       help:1
-       option:1
-       reassur:1
-       referr:2
+       helpful:1
+       reassured:1
+       referral:2
+../../dataset/output-g-2012_Maid/508_noncfb
+       detailed:1
+       good:1
+       yo:1
+../../dataset/output-g-2012_Maid/512_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/513_noncfb
+       future:1
+       good:1
+       recently:1
+../../dataset/output-g-2012_Maid/515_noncfb
+       practical:1
+       theraputic:1
+../../dataset/output-g-2012_Maid/516_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/517_noncfb
+       good:2
+../../dataset/output-g-2012_Maid/519_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/521_noncfb
+       great:1
+../../dataset/output-g-2012_Maid/522_noncfb
+       current:2
+../../dataset/output-g-2012_Maid/524_noncfb
+       entire:1
+../../dataset/output-g-2012_Maid/526_noncfb
+       concisely:1
+       relevant:1
+       terribly:1
+../../dataset/output-g-2012_Maid/527_noncfb
+       common:1
+../../dataset/output-g-2012_Maid/528_noncfb
+       daily:1
+       relevant:1
+../../dataset/output-g-2012_Maid/529_noncfb
+       gabaminergic:1
+../../dataset/output-g-2012_Maid/530_noncfb
+       partucularly:1
+       periodically:1
+       relevant:1
+../../dataset/output-g-2012_Maid/531_noncfb
+       effective:1
+../../dataset/output-g-2012_Maid/533_noncfb
+       apply:1
+       interesting:1
+../../dataset/output-g-2012_Maid/534_noncfb
+       adequately:1
+       adhd:1
+       good:1
+../../dataset/output-g-2012_Maid/536_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/537_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/538_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/542_noncfb
+       great:1
+../../dataset/output-g-2012_Maid/543_noncfb
+       informitive:1
+../../dataset/output-g-2012_Maid/544_noncfb
+       opposed:1
+       past:1
+       worth:1
+../../dataset/output-g-2012_Maid/545_noncfb
+       opposed:1
+       past:1
+       worth:1
+../../dataset/output-g-2012_Maid/546_noncfb
+       helpful:1
+../../dataset/output-g-2012_Maid/547_noncfb
+       chronic:1
+       important:1
+../../dataset/output-g-2012_Maid/549_noncfb
+       interesting:1
+../../dataset/output-g-2012_Maid/552_noncfb
+       familiar:1
+       previously:1
+../../dataset/output-g-2012_Maid/553_noncfb
+       arrhythmic:1
+       medical:1
+../../dataset/output-g-2012_Maid/554_noncfb
+       mental:1
+../../dataset/output-g-2012_Maid/557_noncfb
+       spastic:1
+../../dataset/output-g-2012_Maid/558_noncfb
+       familiar:1
+../../dataset/output-g-2012_Maid/560_noncfb
+       therapeutic:1
+../../dataset/output-g-2012_Maid/562_noncfb
+       goo:1
+../../dataset/output-g-2012_Maid/564_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/566_noncfb
+       clear:1
+../../dataset/output-g-2012_Maid/567_noncfb
+       unaware:1
+       uncommon:1
+../../dataset/output-g-2012_Maid/568_noncfb
+       common:1
+       good:1
+       specially:1
+       therapeutic:1
+../../dataset/output-g-2012_Maid/569_noncfb
+       helpful:1
+       mine:1
+       multiple:1
+       palliative:1
+../../dataset/output-g-2012_Maid/575_noncfb
+       cardiac:1
+       great:1
+       happy:1
+../../dataset/output-g-2012_Maid/577_noncfb
+       bipolar:1
+       complex:1
+       vigilant:1
+../../dataset/output-g-2012_Maid/582_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/586_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/587_noncfb
+       aware:1
+       chronic:1
+       nice:1
+../../dataset/output-g-2012_Maid/588_noncfb
+       buccal:1
+../../dataset/output-g-2012_Maid/589_noncfb
+       icd:1
+       nice:1
+../../dataset/output-g-2012_Maid/590_noncfb
+       bipolar:1
+       differential:1
+       important:1
+       practical:1
+../../dataset/output-g-2012_Maid/591_noncfb
+       common:1
+../../dataset/output-g-2012_Maid/592_noncfb
+       educational:1
+       informative:1
+../../dataset/output-g-2012_Maid/593_noncfb
+       bipolar:1
+       difficult:1
+       educational:1
+       informative:1
+../../dataset/output-g-2012_Maid/594_noncfb
+       difficult:1
+       huge:1
+../../dataset/output-g-2012_Maid/595_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/596_noncfb
+       additional:1
+       important:2
+       long:1
+../../dataset/output-g-2012_Maid/597_noncfb
+       informative:1
+       short:1
+../../dataset/output-g-2012_Maid/600_noncfb
+       aware:1
+../../dataset/output-g-2012_Maid/601_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/602_noncfb
+       rarely:1
+../../dataset/output-g-2012_Maid/603_noncfb
+       acute:1
+       primary:1
+../../dataset/output-g-2012_Maid/604_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/605_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/606_noncfb
+       usefull:1
+../../dataset/output-g-2012_Maid/608_noncfb
+       alcoholic:1
+       recently:1
+       unaware:1
+../../dataset/output-g-2012_Maid/611_noncfb
+       glad:1
+       greatly:1
+../../dataset/output-g-2012_Maid/613_noncfb
+       relevant:1
+       topic:1
+../../dataset/output-g-2012_Maid/617_noncfb
+       aware:1
+../../dataset/output-g-2012_Maid/618_noncfb
+       small:1
+../../dataset/output-g-2012_Maid/619_noncfb
+       high:1
+       long:1
+       parenteral:1
+../../dataset/output-g-2012_Maid/621_noncfb
+       aware:1
+       largely:1
+       rapid:1
+       renal:1
+../../dataset/output-g-2012_Maid/624_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/625_noncfb
+       potential:1
+../../dataset/output-g-2012_Maid/626_noncfb
+       aware:1
+       difficult:1
+       fatal:1
+../../dataset/output-g-2012_Maid/627_noncfb
+       helpful:1
+       practical:1
+../../dataset/output-g-2012_Maid/628_noncfb
+       comprehensive:1
+       informative:1
+       vast:1
+../../dataset/output-g-2012_Maid/631_noncfb
+       helpful:1
+../../dataset/output-g-2012_Maid/634_noncfb
+       good:1
+       important:1
+../../dataset/output-g-2012_Maid/635_noncfb
+       commonly:1
+../../dataset/output-g-2012_Maid/636_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/637_noncfb
+       rx:1
+../../dataset/output-g-2012_Maid/638_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/640_noncfb
+       good:1
+../../dataset/output-g-2012_Maid/642_noncfb
+       avid:1
+       unaware:1
+../../dataset/output-g-2012_Maid/643_noncfb
+       chronic:1
+       normal:1
+       renal:1
+../../dataset/output-g-2012_Maid/644_noncfb
+       timely:1
+       topic:1
+../../dataset/output-g-2012_Maid/647_noncfb
+       red:1
+../../dataset/output-g-2012_Maid/649_noncfb
+       hihgh:1
+../../dataset/output-g-2012_Maid/650_noncfb
+       hihgh:1
+../../dataset/output-g-2012_Maid/652_noncfb
+       relevant:1
+../../dataset/output-g-2012_Maid/654_noncfb
+       early:1
+       occupational:1
+       recently:1
+       timely:1
+../../dataset/output-g-2012_Maid/655_noncfb
+       great:1
+../../dataset/output-g-2012_Maid/656_noncfb
+       interesting:1
+       topic:1

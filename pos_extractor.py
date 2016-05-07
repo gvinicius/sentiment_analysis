@@ -30,7 +30,7 @@ def generate_bases():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(lowers)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos in ['RB', 'JJ', 'QL' ] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'though', 'however']) or word in ['question', 'questionnaire', 'q'] ]
+            selected_tokens = [word for word,pos in tagged if pos in ['RB', 'JJ'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'though', 'however'])]
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word +" "
@@ -67,6 +67,6 @@ def main():
         generate_bases_common()
     print ("Selected only words of desired POS.")
     run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
-    os.system(run_classification)
+   # os.system(run_classification)
 if __name__ == "__main__":
     main()

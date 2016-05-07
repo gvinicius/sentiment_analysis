@@ -1,220 +1,240 @@
 NaiveBayes
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11850
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
-Time taken to build model: 0.27 seconds
-Time taken to test model on training data: 1.43 seconds
+
+Time taken to build model: 0.13 seconds
+Time taken to test model on training data: 0.31 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances         496               84.4974 %
-Incorrectly Classified Instances        91               15.5026 %
-Kappa statistic                          0.5161
-Mean absolute error                      0.1813
-Root mean squared error                  0.332 
-Relative absolute error                 58.5835 %
-Root relative squared error             84.4872 %
-Total Number of Instances              587     
+Correctly Classified Instances         367               81.9196 %
+Incorrectly Classified Instances        81               18.0804 %
+Kappa statistic                          0.3055
+Mean absolute error                      0.2386
+Root mean squared error                  0.3402
+Relative absolute error                 71.8023 %
+Root relative squared error             83.5509 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  72  40 |   a = cfb
-  51 424 |   b = noncfb
+  26  68 |   a = cfb
+  13 341 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         459               78.1942 %
-Incorrectly Classified Instances       128               21.8058 %
-Kappa statistic                          0.2584
-Mean absolute error                      0.2427
-Root mean squared error                  0.4126
-Relative absolute error                 78.4162 %
-Root relative squared error            104.9896 %
-Total Number of Instances              587     
+Correctly Classified Instances         355               79.2411 %
+Incorrectly Classified Instances        93               20.7589 %
+Kappa statistic                          0.2026
+Mean absolute error                      0.2747
+Root mean squared error                  0.3866
+Relative absolute error                 82.6371 %
+Root relative squared error             94.9331 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  41  71 |   a = cfb
-  57 418 |   b = noncfb
+  20  74 |   a = cfb
+  19 335 |   b = noncfb
 
 --- end of NaiveBayes ---
 NaiveBayesMultinomial
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11862
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
-Time taken to build model: 0.07 seconds
-Time taken to test model on training data: 0.34 seconds
+
+Time taken to build model: 0.06 seconds
+Time taken to test model on training data: 0.09 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances         554               94.3782 %
-Incorrectly Classified Instances        33                5.6218 %
-Kappa statistic                          0.7995
-Mean absolute error                      0.0905
-Root mean squared error                  0.2039
-Relative absolute error                 29.2394 %
-Root relative squared error             51.8996 %
-Total Number of Instances              587     
+Correctly Classified Instances         398               88.8393 %
+Incorrectly Classified Instances        50               11.1607 %
+Kappa statistic                          0.5897
+Mean absolute error                      0.1683
+Root mean squared error                  0.2671
+Relative absolute error                 50.6297 %
+Root relative squared error             65.5879 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  82  30 |   a = cfb
-   3 472 |   b = noncfb
+  46  48 |   a = cfb
+   2 352 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         501               85.3492 %
-Incorrectly Classified Instances        86               14.6508 %
-Kappa statistic                          0.4832
-Mean absolute error                      0.1987
-Root mean squared error                  0.343 
-Relative absolute error                 64.1921 %
-Root relative squared error             87.2874 %
-Total Number of Instances              587     
+Correctly Classified Instances         366               81.6964 %
+Incorrectly Classified Instances        82               18.3036 %
+Kappa statistic                          0.3073
+Mean absolute error                      0.2596
+Root mean squared error                  0.3678
+Relative absolute error                 78.0974 %
+Root relative squared error             90.3178 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  57  55 |   a = cfb
-  31 444 |   b = noncfb
+  27  67 |   a = cfb
+  15 339 |   b = noncfb
 
 --- end of NaiveBayesMultinomial ---
 SVM
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11874
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
-Time taken to build model: 1.32 seconds
-Time taken to test model on training data: 0.35 seconds
+
+Time taken to build model: 0.43 seconds
+Time taken to test model on training data: 0.12 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances         574               97.7853 %
-Incorrectly Classified Instances        13                2.2147 %
-Kappa statistic                          0.9255
-Mean absolute error                      0.0221
-Root mean squared error                  0.1488
-Relative absolute error                  7.1569 %
-Root relative squared error             37.8733 %
-Total Number of Instances              587     
+Correctly Classified Instances         424               94.6429 %
+Incorrectly Classified Instances        24                5.3571 %
+Kappa statistic                          0.8247
+Mean absolute error                      0.0536
+Root mean squared error                  0.2315
+Relative absolute error                 16.1194 %
+Root relative squared error             56.843  %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
- 100  12 |   a = cfb
-   1 474 |   b = noncfb
+  72  22 |   a = cfb
+   2 352 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         485               82.6235 %
-Incorrectly Classified Instances       102               17.3765 %
-Kappa statistic                          0.3044
-Mean absolute error                      0.1738
-Root mean squared error                  0.4169
-Relative absolute error                 56.1398 %
-Root relative squared error            106.0834 %
-Total Number of Instances              587     
+Correctly Classified Instances         364               81.25   %
+Incorrectly Classified Instances        84               18.75   %
+Kappa statistic                          0.246 
+Mean absolute error                      0.1875
+Root mean squared error                  0.433 
+Relative absolute error                 56.4002 %
+Root relative squared error            106.3354 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  33  79 |   a = cfb
-  23 452 |   b = noncfb
+  20  74 |   a = cfb
+  10 344 |   b = noncfb
 
 --- end of SVM ---
 KNN
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11886
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
-Time taken to build model: 0.02 seconds
-Time taken to test model on training data: 5.59 seconds
+
+Time taken to build model: 0.01 seconds
+Time taken to test model on training data: 1.18 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances         584               99.4889 %
-Incorrectly Classified Instances         3                0.5111 %
-Kappa statistic                          0.9835
-Mean absolute error                      0.0078
-Root mean squared error                  0.0563
-Relative absolute error                  2.5239 %
-Root relative squared error             14.3203 %
-Total Number of Instances              587     
+Correctly Classified Instances         442               98.6607 %
+Incorrectly Classified Instances         6                1.3393 %
+Kappa statistic                          0.9599
+Mean absolute error                      0.0186
+Root mean squared error                  0.0923
+Relative absolute error                  5.6029 %
+Root relative squared error             22.6748 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
- 111   1 |   a = cfb
-   2 473 |   b = noncfb
+  92   2 |   a = cfb
+   4 350 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         431               73.4242 %
-Incorrectly Classified Instances       156               26.5758 %
-Kappa statistic                          0.109 
-Mean absolute error                      0.276 
-Root mean squared error                  0.5126
-Relative absolute error                 89.17   %
-Root relative squared error            130.4387 %
-Total Number of Instances              587     
+Correctly Classified Instances         328               73.2143 %
+Incorrectly Classified Instances       120               26.7857 %
+Kappa statistic                          0.277 
+Mean absolute error                      0.2709
+Root mean squared error                  0.4995
+Relative absolute error                 81.487  %
+Root relative squared error            122.6632 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  29  83 |   a = cfb
-  73 402 |   b = noncfb
+  49  45 |   a = cfb
+  75 279 |   b = noncfb
 
 --- end of KNN ---
 J48
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   11898
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
 
-Time taken to build model: 1.06 seconds
-Time taken to test model on training data: 0.29 seconds
+
+Time taken to build model: 0.22 seconds
+Time taken to test model on training data: 0.09 seconds
 
 === Error on training data ===
 
-Correctly Classified Instances         487               82.9642 %
-Incorrectly Classified Instances       100               17.0358 %
-Kappa statistic                          0.1712
-Mean absolute error                      0.2798
-Root mean squared error                  0.3741
-Relative absolute error                 90.4303 %
-Root relative squared error             95.1945 %
-Total Number of Instances              587     
+Correctly Classified Instances         354               79.0179 %
+Incorrectly Classified Instances        94               20.9821 %
+Kappa statistic                          0     
+Mean absolute error                      0.3316
+Root mean squared error                  0.4072
+Relative absolute error                 99.7748 %
+Root relative squared error             99.9995 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-  13  99 |   a = cfb
-   1 474 |   b = noncfb
+   0  94 |   a = cfb
+   0 354 |   b = noncfb
 
 
 
 === Stratified cross-validation ===
 
-Correctly Classified Instances         478               81.431  %
-Incorrectly Classified Instances       109               18.569  %
-Kappa statistic                          0.063 
-Mean absolute error                      0.2938
-Root mean squared error                  0.3904
-Relative absolute error                 94.9085 %
-Root relative squared error             99.3458 %
-Total Number of Instances              587     
+Correctly Classified Instances         354               79.0179 %
+Incorrectly Classified Instances        94               20.9821 %
+Kappa statistic                          0     
+Mean absolute error                      0.3316
+Root mean squared error                  0.4072
+Relative absolute error                 99.75   %
+Root relative squared error             99.9994 %
+Total Number of Instances              448     
 
 
 === Confusion Matrix ===
 
    a   b   <-- classified as
-   5 107 |   a = cfb
-   2 473 |   b = noncfb
+   0  94 |   a = cfb
+   0 354 |   b = noncfb
 
 --- end of J48  ---
