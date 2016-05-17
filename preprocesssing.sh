@@ -1,21 +1,24 @@
 filename="discover3.arff"
 
-# python pos_extractor.py
+python3 pos_extractor.py
 cd pretext
 perl Start.pl
 cd ..
 
 rm -Rf $filename -v
-echo -e "@relation sentiment \n"  >> $filename 
-echo -e '@attribute classification {"yes", "no"}'  >> $filename 
+echo "@relation sentiment "  >> $filename 
+echo '@attribute classification_name {"Negative","Neutral__author_is_just_sharing_information","Positive", "Tweet_NOT_related_to_nuclear_energy"}'  >> $filename 
 tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/^/@attribute /g' | sed 's/:[^:]*$/ REAL/g'  >> $filename
-echo -e "\n@data\n" >> $filename
+echo "@data" >> $filename
+
+# working on terminal
+sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//" pretext/discover/discover.data  | sed "s/\.txt\.swp//" | sed 's/,\.\.\/dataset\/economics\/result\_Maid//' >> discover3.arff
 
 #sed -e "s/^\\/result\\_Maid\/[0-9]*\_/\"/g" pretext/discover/discover.data | sed -e "s/,\\.\\.\\/dataset\\/economics\\/result/\\_Maid//g" >> $filename 
 
 # sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//" testing])
-# sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//"  | sed "s/\.txt\.swp//" | sed 's/,\.\/dataset\/economics\/result\_Maid//' >> discover2.arff
+# sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//"  | sed "s/\.txt\.swp//" | sed 's/,\.\/dataset\/economics\/result\_Maid//' >> discover3.arff
 
-# bash patterns_extrator.sh
+bash patterns_extrator.sh
 # sed -i 's/'"$1"'/ANNO/g' pretext/config.xml
 #git checkout -- pretext/config.xml

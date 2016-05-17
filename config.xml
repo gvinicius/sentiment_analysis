@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <pretext
-    lang="pt"
-    dir="textos"
+    lang="en"
+    dir="../../dataset/economics/result"
     log="pretext.log"
     silence="off">
 
@@ -18,8 +18,6 @@
 
     <ngram dir="ngraminfo">
         <gram n="1"/>
-        <gram n="4"/>
-        <gram n="9"/>
     </ngram>
 
     <report
@@ -30,21 +28,7 @@
         transpose="disabled">
 
         <gram n="1"
-            max="500"
-            min="10"
-            measure="tf"
-            smooth="disabled"/>
-        <gram n="4"
-            maxfiles="100"
-            minfiles="5"
             measure="tfidf"
-            normalize="qua"
-            normalizetype="c"/>
-        <gram n="9"
-            std_dev="0.5"
-            measure="tflinear"
-            smooth="enabled"
-            normalize="lin"
-            normalizetype="l"/>
+            smooth="disabled"/>
     </report>
 </pretext>

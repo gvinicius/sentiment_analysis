@@ -1,4 +1,4 @@
-result_filename="result.txt"
+result_filename="result4.txt"
 
 chart_dataset=comparaison.dat
 a=0

@@ -1,9 +1,194 @@
 NaiveBayes
 --- end of NaiveBayes ---
 NaiveBayesMultinomial
+
+Time taken to build model: 0.05 seconds
+Time taken to test model on training data: 0.1 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         160               84.2105 %
+Incorrectly Classified Instances        30               15.7895 %
+Kappa statistic                          0.0471
+Mean absolute error                      0.1366
+Root mean squared error                  0.259 
+Relative absolute error                 94.9417 %
+Root relative squared error             98.1896 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   1  18   0   0 |   a = Negative
+   1 159   0   0 |   b = Neutral__author_is_just_sharing_information
+   0  10   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         154               81.0526 %
+Incorrectly Classified Instances        36               18.9474 %
+Kappa statistic                         -0.0004
+Mean absolute error                      0.1418
+Root mean squared error                  0.2671
+Relative absolute error                 98.1855 %
+Root relative squared error            101.2408 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   0  18   1   0 |   a = Negative
+   6 154   0   0 |   b = Neutral__author_is_just_sharing_information
+   1   9   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
 --- end of NaiveBayesMultinomial ---
 SVM
+
+Time taken to build model: 0.85 seconds
+Time taken to test model on training data: 0.07 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         160               84.2105 %
+Incorrectly Classified Instances        30               15.7895 %
+Kappa statistic                          0     
+Mean absolute error                      0.2675
+Root mean squared error                  0.3388
+Relative absolute error                185.9289 %
+Root relative squared error            128.4429 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   0  19   0   0 |   a = Negative
+   0 160   0   0 |   b = Neutral__author_is_just_sharing_information
+   0  10   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         160               84.2105 %
+Incorrectly Classified Instances        30               15.7895 %
+Kappa statistic                          0     
+Mean absolute error                      0.2693
+Root mean squared error                  0.3414
+Relative absolute error                186.4286 %
+Root relative squared error            129.3837 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   0  19   0   0 |   a = Negative
+   0 160   0   0 |   b = Neutral__author_is_just_sharing_information
+   0  10   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
 --- end of SVM ---
 KNN
+
+Time taken to build model: 0.04 seconds
+Time taken to test model on training data: 0.28 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         177               93.1579 %
+Incorrectly Classified Instances        13                6.8421 %
+Kappa statistic                          0.7169
+Mean absolute error                      0.055 
+Root mean squared error                  0.1601
+Relative absolute error                 38.2409 %
+Root relative squared error             60.7195 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+  13   6   0   0 |   a = Negative
+   2 158   0   0 |   b = Neutral__author_is_just_sharing_information
+   0   5   5   0 |   c = Positive
+   0   0   0   1 |   d = Tweet_NOT_related_to_nuclear_energy
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         154               81.0526 %
+Incorrectly Classified Instances        36               18.9474 %
+Kappa statistic                          0.0392
+Mean absolute error                      0.1262
+Root mean squared error                  0.3054
+Relative absolute error                 87.3563 %
+Root relative squared error            115.7585 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   2  17   0   0 |   a = Negative
+   7 152   1   0 |   b = Neutral__author_is_just_sharing_information
+   0  10   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
 --- end of KNN ---
 J48
+
+Time taken to build model: 0.26 seconds
+Time taken to test model on training data: 0.04 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances         160               84.2105 %
+Incorrectly Classified Instances        30               15.7895 %
+Kappa statistic                          0     
+Mean absolute error                      0.139 
+Root mean squared error                  0.2637
+Relative absolute error                 96.6188 %
+Root relative squared error             99.9639 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   0  19   0   0 |   a = Negative
+   0 160   0   0 |   b = Neutral__author_is_just_sharing_information
+   0  10   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
+
+
+=== Stratified cross-validation ===
+
+Correctly Classified Instances         159               83.6842 %
+Incorrectly Classified Instances        31               16.3158 %
+Kappa statistic                         -0.0068
+Mean absolute error                      0.1406
+Root mean squared error                  0.2687
+Relative absolute error                 97.3262 %
+Root relative squared error            101.8439 %
+Total Number of Instances              190     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   <-- classified as
+   0  19   0   0 |   a = Negative
+   0 159   1   0 |   b = Neutral__author_is_just_sharing_information
+   0  10   0   0 |   c = Positive
+   0   1   0   0 |   d = Tweet_NOT_related_to_nuclear_energy
+
+--- end of J48  ---

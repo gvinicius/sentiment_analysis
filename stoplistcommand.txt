@@ -1,0 +1,5 @@
+
+        <stoplist dir="stoplist">
+            <stopfile>port.xml</stopfile>
+            <stopfile>ingl.xml</stopfile>
+        </stoplist>

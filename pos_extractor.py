@@ -26,16 +26,17 @@ destination_path_file = '../dataset/economics/result/file'
 
 def generate_bases():
     counter = 1
-    with open('../dataset/economics/Full-Economic-News-DFE-839861.csv', 'r', encoding="latin1") as csvfile:
+    with open('../dataset/economics/1377191648_sentiment_nuclear_power.csv', 'r', encoding="latin1") as csvfile:
         csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
-            text = row['headline'] + ' ' + row['text']
-            classification = row['relevance']
+            text = row['tweet_text']
+            classification = str(row['sentiment']).replace(" ","_").replace("/","").replace("'","")
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
-            tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos in ['RB', 'JJ'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'however']) ]
+#            tagged = nltk.tag.pos_tag(raw_tokens)
+#            selected_tokens = [word for word,pos in tagged if pos in ['JJ', 'NN', 'NNP', 'RBR' ] ]
+            selected_tokens = raw_tokens
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word + " " 
@@ -47,7 +48,5 @@ def generate_bases():
 def main():
     generate_bases()
     print ("Selected only words of desired POS.")
-    # run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
-    # os.system(run_classification)
 if __name__ == "__main__":
     main()

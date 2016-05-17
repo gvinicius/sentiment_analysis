@@ -1,0 +1,563 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.SMO -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0"
+Relation:     sentiment
+Instances:    974
+Attributes:   54
+              classification_name
+              pretti
+              yeah
+              forecast
+              tomorrow
+              shit
+              home
+              mph
+              chilli
+              long
+              work
+              hous
+              afternoon
+              expir
+              car
+              enjoi
+              gonna
+              crazi
+              cool
+              cloudi
+              tornado
+              perfect
+              tonight
+              final
+              windi
+              humid
+              week
+              back
+              bad
+              weekend
+              time
+              lol
+              morn
+              good
+              beauti
+              sever
+              night
+              great
+              snow
+              warm
+              pm
+              cold
+              nice
+              rain
+              raini
+              todai
+              sunshin
+              dai
+              hot
+              sunni
+              rt
+              storm
+              link
+              weather
+Test mode:10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: Negative, Neutral__author_is_just_sharing_information
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0      * (normalized) yeah
+ +      -0.1548 * (normalized) forecast
+ +       1.9778 * (normalized) tomorrow
+ +      -0.0642 * (normalized) shit
+ +       0.0014 * (normalized) home
+ +       1.9998 * (normalized) mph
+ +      -0.0208 * (normalized) chilli
+ +      -0.135  * (normalized) work
+ +      -1      * (normalized) hous
+ +       1.9992 * (normalized) afternoon
+ +       0      * (normalized) expir
+ +      -0.0776 * (normalized) car
+ +      -0.0005 * (normalized) enjoi
+ +      -0.0011 * (normalized) gonna
+ +      -0.0641 * (normalized) crazi
+ +       0.7381 * (normalized) cloudi
+ +       0.5012 * (normalized) tornado
+ +      -0.1548 * (normalized) perfect
+ +       0.0006 * (normalized) tonight
+ +      -0.0002 * (normalized) windi
+ +       0.0002 * (normalized) humid
+ +      -0.0004 * (normalized) week
+ +      -0.006  * (normalized) back
+ +      -1      * (normalized) bad
+ +      -0.0007 * (normalized) weekend
+ +       0      * (normalized) time
+ +      -0.1339 * (normalized) lol
+ +      -0.045  * (normalized) morn
+ +       0.4985 * (normalized) good
+ +      -0.3691 * (normalized) beauti
+ +       1.9993 * (normalized) sever
+ +       1      * (normalized) night
+ +       0      * (normalized) great
+ +       0      * (normalized) snow
+ +      -0.0018 * (normalized) warm
+ +       2.0003 * (normalized) pm
+ +      -0.0009 * (normalized) cold
+ +       0.2692 * (normalized) nice
+ +       0.0001 * (normalized) rain
+ +      -0.0005 * (normalized) raini
+ +       0.0004 * (normalized) todai
+ +       0.0005 * (normalized) sunshin
+ +       0.0006 * (normalized) dai
+ +      -0.001  * (normalized) hot
+ +       0.0217 * (normalized) sunni
+ +       0      * (normalized) rt
+ +       0.1286 * (normalized) storm
+ +       3.9992 * (normalized) link
+ +      -0.0003 * (normalized) weather
+ -       0.9999
+
+Number of kernel evaluations: 61581 (91.282% cached)
+
+Classifier for classes: Negative, Positive
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.9974 * (normalized) pretti
+ +      -0.1321 * (normalized) forecast
+ +       1      * (normalized) tomorrow
+ +      -0.1463 * (normalized) shit
+ +      -1      * (normalized) home
+ +      -1.6937 * (normalized) chilli
+ +      -0.1478 * (normalized) long
+ +      -0.9858 * (normalized) work
+ +      -0.1995 * (normalized) hous
+ +       1      * (normalized) afternoon
+ +      -0.3478 * (normalized) car
+ +       1.8685 * (normalized) enjoi
+ +      -0.0564 * (normalized) gonna
+ +      -0.1473 * (normalized) crazi
+ +       0      * (normalized) cool
+ +       0.1531 * (normalized) cloudi
+ +       0      * (normalized) tornado
+ +       1.8692 * (normalized) perfect
+ +       1      * (normalized) tonight
+ +       1.8531 * (normalized) final
+ +      -0.1306 * (normalized) windi
+ +      -0.2641 * (normalized) humid
+ +       0.6092 * (normalized) week
+ +      -0.9436 * (normalized) back
+ +      -0.9844 * (normalized) bad
+ +       0.8829 * (normalized) weekend
+ +       0.4002 * (normalized) time
+ +       0.0013 * (normalized) lol
+ +       0.0012 * (normalized) morn
+ +       1.966  * (normalized) good
+ +       1.8692 * (normalized) beauti
+ +      -0.3563 * (normalized) sever
+ +       2.0007 * (normalized) night
+ +       1.7432 * (normalized) great
+ +       1.0565 * (normalized) snow
+ +       0.2642 * (normalized) warm
+ +      -0.6932 * (normalized) cold
+ +       3.3177 * (normalized) nice
+ +      -0.1517 * (normalized) rain
+ +      -0.262  * (normalized) raini
+ +       0.1329 * (normalized) todai
+ +       1.8697 * (normalized) sunshin
+ +      -0.2652 * (normalized) dai
+ +      -0.2617 * (normalized) hot
+ +       1.8685 * (normalized) sunni
+ +      -0.1314 * (normalized) rt
+ +       0.0313 * (normalized) storm
+ +       0.4193 * (normalized) link
+ +       0.0011 * (normalized) weather
+ -       0.8694
+
+Number of kernel evaluations: 45264 (84.214% cached)
+
+Classifier for classes: Negative, Tweet_not_related_to_weather_condition
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         1      * (normalized) pretti
+ +       0.1293 * (normalized) yeah
+ +       0.2399 * (normalized) forecast
+ +       0.0851 * (normalized) tomorrow
+ +      -0.4381 * (normalized) shit
+ +      -1      * (normalized) home
+ +      -1.8714 * (normalized) chilli
+ +      -1.419  * (normalized) long
+ +       0.129  * (normalized) work
+ +      -1.5801 * (normalized) hous
+ +      -1      * (normalized) car
+ +      -1      * (normalized) enjoi
+ +       0.1065 * (normalized) gonna
+ +       0.0008 * (normalized) crazi
+ +       0.1055 * (normalized) cool
+ +      -0.9975 * (normalized) tornado
+ +       0.1287 * (normalized) perfect
+ +      -1      * (normalized) tonight
+ +      -1      * (normalized) final
+ +      -1.8708 * (normalized) windi
+ +      -1.8699 * (normalized) humid
+ +       0.1047 * (normalized) week
+ +      -2.0005 * (normalized) back
+ +      -0.419  * (normalized) bad
+ +      -0.2694 * (normalized) weekend
+ +      -0.79   * (normalized) time
+ +       0.257  * (normalized) lol
+ +      -0.4986 * (normalized) morn
+ +       0.0525 * (normalized) good
+ +      -1      * (normalized) beauti
+ +      -2      * (normalized) sever
+ +       0.0426 * (normalized) night
+ +       0.4794 * (normalized) great
+ +       0.2562 * (normalized) snow
+ +      -1.0811 * (normalized) warm
+ +      -2.6693 * (normalized) cold
+ +       0.2139 * (normalized) nice
+ +      -1.8709 * (normalized) rain
+ +      -3.415  * (normalized) raini
+ +      -0.0011 * (normalized) todai
+ +       0.1289 * (normalized) sunshin
+ +      -0.1123 * (normalized) dai
+ +      -1.7361 * (normalized) hot
+ +       0.1293 * (normalized) sunni
+ +       0.1048 * (normalized) rt
+ +       0.0452 * (normalized) storm
+ +       0.8776 * (normalized) link
+ +      -3.952  * (normalized) weather
+ +       0.8709
+
+Number of kernel evaluations: 38504 (83.64% cached)
+
+Classifier for classes: Negative, I_cant_tell
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0      * (normalized) chilli
+ +       0      * (normalized) car
+ +       0      * (normalized) cool
+ +      -0.0014 * (normalized) tonight
+ +      -0.0014 * (normalized) humid
+ +       0      * (normalized) week
+ +       0      * (normalized) back
+ +       0      * (normalized) bad
+ +       0      * (normalized) weekend
+ +      -0.0014 * (normalized) time
+ +      -0.0025 * (normalized) lol
+ +       0      * (normalized) morn
+ +      -0.0004 * (normalized) beauti
+ +      -0.0014 * (normalized) sever
+ +       0      * (normalized) night
+ +       0      * (normalized) great
+ +      -0.0014 * (normalized) snow
+ +       0      * (normalized) warm
+ +       0      * (normalized) cold
+ +       0      * (normalized) rain
+ +       0      * (normalized) raini
+ +      -0.0014 * (normalized) todai
+ +      -0.0004 * (normalized) sunshin
+ +       0      * (normalized) dai
+ +       0      * (normalized) hot
+ +      -0.0008 * (normalized) sunni
+ +      -0.0009 * (normalized) rt
+ +      -0.0017 * (normalized) storm
+ +       0      * (normalized) link
+ +       0      * (normalized) weather
+ -       0.9993
+
+Number of kernel evaluations: 6156 (65.458% cached)
+
+Classifier for classes: Neutral__author_is_just_sharing_information, Positive
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.2974 * (normalized) pretti
+ +       1.9893 * (normalized) forecast
+ +      -0.7267 * (normalized) tomorrow
+ +      -0.0216 * (normalized) home
+ +      -1.0832 * (normalized) mph
+ +      -1      * (normalized) chilli
+ +       0.938  * (normalized) hous
+ +      -0.889  * (normalized) afternoon
+ +      -0.0009 * (normalized) expir
+ +       0      * (normalized) car
+ +       0.9369 * (normalized) enjoi
+ +       0.9376 * (normalized) cool
+ +       0      * (normalized) cloudi
+ +      -1.0618 * (normalized) tornado
+ +       1.0623 * (normalized) perfect
+ +      -0.0107 * (normalized) tonight
+ +       1.0391 * (normalized) final
+ +      -1.192  * (normalized) windi
+ +      -1.0617 * (normalized) humid
+ +       1.1865 * (normalized) week
+ +       0.5    * (normalized) back
+ +       0.5448 * (normalized) weekend
+ +       0.9164 * (normalized) time
+ +       1      * (normalized) lol
+ +       0.2597 * (normalized) morn
+ +       0.7413 * (normalized) good
+ +       1.8049 * (normalized) beauti
+ +      -1.0624 * (normalized) sever
+ +       1      * (normalized) night
+ +       1.6654 * (normalized) great
+ +       0.9376 * (normalized) snow
+ +       1.615  * (normalized) warm
+ +      -1.084  * (normalized) pm
+ +      -1.4952 * (normalized) cold
+ +       2      * (normalized) nice
+ +       0.0012 * (normalized) rain
+ +      -0.3447 * (normalized) raini
+ +      -0.1238 * (normalized) todai
+ +       0.9376 * (normalized) sunshin
+ +       0.0022 * (normalized) dai
+ +       0.2166 * (normalized) hot
+ +       0.9369 * (normalized) sunni
+ +      -0.9081 * (normalized) rt
+ +      -0.3086 * (normalized) storm
+ +      -2.1243 * (normalized) link
+ +       0.0435 * (normalized) weather
+ +       0.0622
+
+Number of kernel evaluations: 43742 (81.975% cached)
+
+Classifier for classes: Neutral__author_is_just_sharing_information, Tweet_not_related_to_weather_condition
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.7198 * (normalized) pretti
+ +      -0.0003 * (normalized) yeah
+ +       1      * (normalized) forecast
+ +       0      * (normalized) tomorrow
+ +       0.5106 * (normalized) shit
+ +      -1.9992 * (normalized) mph
+ +       0.2706 * (normalized) chilli
+ +       0.0004 * (normalized) work
+ +      -1.2975 * (normalized) afternoon
+ +      -1.3619 * (normalized) expir
+ +       0      * (normalized) car
+ +      -0.0001 * (normalized) gonna
+ +       0.0004 * (normalized) crazi
+ +      -1.5    * (normalized) cloudi
+ +      -1.9986 * (normalized) tornado
+ +      -0.7014 * (normalized) tonight
+ +      -1.3998 * (normalized) windi
+ +      -1.999  * (normalized) humid
+ +       0.0003 * (normalized) week
+ +       0      * (normalized) back
+ +       0.6002 * (normalized) bad
+ +      -0.5428 * (normalized) weekend
+ +      -0.5    * (normalized) time
+ +       0.2553 * (normalized) lol
+ +       0      * (normalized) morn
+ +      -0.5015 * (normalized) good
+ +      -1.9993 * (normalized) sever
+ +      -1.1994 * (normalized) night
+ +       1.2802 * (normalized) great
+ +       0.0016 * (normalized) snow
+ +      -0.5    * (normalized) warm
+ +      -1.3627 * (normalized) pm
+ +      -0.0001 * (normalized) cold
+ +      -0.0009 * (normalized) nice
+ +      -2.5    * (normalized) rain
+ +      -1.4    * (normalized) raini
+ +      -0.3666 * (normalized) todai
+ +       0.3672 * (normalized) sunshin
+ +      -0.0007 * (normalized) dai
+ +       1.277  * (normalized) hot
+ +      -0.0008 * (normalized) sunni
+ +       0      * (normalized) rt
+ +       0.0018 * (normalized) storm
+ +      -1.2756 * (normalized) link
+ +      -3.9998 * (normalized) weather
+ +       0.9996
+
+Number of kernel evaluations: 35212 (88.15% cached)
+
+Classifier for classes: Neutral__author_is_just_sharing_information, I_cant_tell
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0      * (normalized) mph
+ +       0      * (normalized) cloudi
+ +      -0.0001 * (normalized) tornado
+ +       0      * (normalized) windi
+ +       0      * (normalized) weekend
+ +      -0.0022 * (normalized) time
+ +       0      * (normalized) sever
+ +       0      * (normalized) night
+ +       0      * (normalized) snow
+ +      -0.0014 * (normalized) pm
+ +      -0.0006 * (normalized) raini
+ +       0      * (normalized) dai
+ +       0      * (normalized) hot
+ +      -0.0003 * (normalized) rt
+ +       0      * (normalized) storm
+ +      -0.0005 * (normalized) link
+ +       0.0001 * (normalized) weather
+ -       0.9993
+
+Number of kernel evaluations: 5482 (61.129% cached)
+
+Classifier for classes: Positive, Tweet_not_related_to_weather_condition
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0.1965 * (normalized) pretti
+ +       0.0001 * (normalized) yeah
+ +       0.1976 * (normalized) forecast
+ +       0.4023 * (normalized) shit
+ +      -0.0006 * (normalized) home
+ +       0.2718 * (normalized) chilli
+ +       0.2723 * (normalized) long
+ +       0      * (normalized) work
+ +      -1      * (normalized) hous
+ +      -1      * (normalized) afternoon
+ +      -0.5013 * (normalized) car
+ +      -1      * (normalized) enjoi
+ +      -0.1976 * (normalized) cool
+ +      -1.9569 * (normalized) cloudi
+ +      -2      * (normalized) perfect
+ +      -0.198  * (normalized) tonight
+ +      -1.9605 * (normalized) final
+ +      -1      * (normalized) windi
+ +      -0.1828 * (normalized) humid
+ +      -0.0382 * (normalized) week
+ +      -0.0051 * (normalized) back
+ +       0.8    * (normalized) bad
+ +      -0.5443 * (normalized) weekend
+ +      -0.5    * (normalized) time
+ +      -0.3943 * (normalized) lol
+ +      -0.0813 * (normalized) morn
+ +      -0.8013 * (normalized) good
+ +      -1.4236 * (normalized) beauti
+ +      -1.6    * (normalized) night
+ +       0.0005 * (normalized) great
+ +      -0.0007 * (normalized) snow
+ +      -0.3936 * (normalized) warm
+ +       0.0012 * (normalized) cold
+ +      -0.5457 * (normalized) nice
+ +      -0.9569 * (normalized) rain
+ +      -1.0811 * (normalized) raini
+ +       0.0007 * (normalized) todai
+ +      -1.7272 * (normalized) sunshin
+ +      -0.0011 * (normalized) dai
+ +       0.0009 * (normalized) hot
+ +      -1.9993 * (normalized) sunni
+ +       0.0036 * (normalized) rt
+ +       0.0017 * (normalized) storm
+ +       0.0002 * (normalized) link
+ +      -3.9993 * (normalized) weather
+ +       0.9998
+
+Number of kernel evaluations: 43347 (88.96% cached)
+
+Classifier for classes: Positive, I_cant_tell
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+        -0.001  * (normalized) yeah
+ +      -0.0005 * (normalized) enjoi
+ +      -0.0005 * (normalized) gonna
+ +       0      * (normalized) perfect
+ +       0      * (normalized) tonight
+ +       0      * (normalized) final
+ +      -0.0006 * (normalized) weekend
+ +      -0.0018 * (normalized) time
+ +      -0.002  * (normalized) good
+ +       0      * (normalized) beauti
+ +       0      * (normalized) night
+ +      -0.0006 * (normalized) great
+ +      -0.0028 * (normalized) warm
+ +      -0.0006 * (normalized) nice
+ +       0      * (normalized) rain
+ +       0      * (normalized) raini
+ +       0      * (normalized) todai
+ +       0      * (normalized) sunshin
+ +       0      * (normalized) dai
+ +       0      * (normalized) hot
+ +       0      * (normalized) sunni
+ +      -0.0031 * (normalized) link
+ +      -0.0006 * (normalized) weather
+ -       0.9991
+
+Number of kernel evaluations: 6044 (63.052% cached)
+
+Classifier for classes: Tweet_not_related_to_weather_condition, I_cant_tell
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         0      * (normalized) good
+ +       0      * (normalized) snow
+ +       0      * (normalized) dai
+ +       0      * (normalized) hot
+ +       0      * (normalized) storm
+ +       0      * (normalized) link
+ +       0      * (normalized) weather
+ -       1     
+
+Number of kernel evaluations: 1271 (65.87% cached)
+
+
+
+Time taken to build model: 0.69 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         509               52.2587 %
+Incorrectly Classified Instances       465               47.7413 %
+Kappa statistic                          0.365 
+Mean absolute error                      0.2697
+Root mean squared error                  0.3599
+Relative absolute error                 89.85   %
+Root relative squared error             92.918  %
+Total Number of Instances              974     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.556     0.209      0.493     0.556     0.523      0.728    Negative
+                 0.331     0.046      0.718     0.331     0.453      0.754    Neutral__author_is_just_sharing_information
+                 0.502     0.086      0.64      0.502     0.563      0.779    Positive
+                 0.722     0.294      0.431     0.722     0.54       0.774    Tweet_not_related_to_weather_condition
+                 0         0          0         0         0          0.5      I_cant_tell
+Weighted Avg.    0.523     0.157      0.57      0.523     0.517      0.757
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+ 145  14  26  76   0 |   a = Negative
+  61  84  13  96   0 |   b = Neutral__author_is_just_sharing_information
+  55  12 114  46   0 |   c = Positive
+  32   7  25 166   0 |   d = Tweet_not_related_to_weather_condition
+   1   0   0   1   0 |   e = I_cant_tell
+
