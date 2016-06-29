@@ -26,7 +26,7 @@ destination_path_file = '../dataset/economics/result/file'
 
 def generate_bases():
     counter = 1
-    with open('../dataset/economics/1377191648_sentiment_nuclear_power.csv', 'r', encoding="latin1") as csvfile:
+    with open('../dataset/economics/GOP_REL_ONLY.csv', 'r', encoding="latin1") as csvfile:
         csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -35,7 +35,7 @@ def generate_bases():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
 #            tagged = nltk.tag.pos_tag(raw_tokens)
-#            selected_tokens = [word for word,pos in tagged if pos in ['JJ', 'NN', 'NNP', 'RBR' ] ]
+#            selected_tokens = [word for word,pos in tagged if pos in ['JJ', 'NNP'] ]
             selected_tokens = raw_tokens
             final_tokens = ""
             for word in selected_tokens:

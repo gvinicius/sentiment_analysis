@@ -7,7 +7,7 @@ cd ..
 
 rm -Rf $filename -v
 echo "@relation sentiment "  >> $filename 
-echo '@attribute classification_name {"Negative","Neutral__author_is_just_sharing_information","Positive", "Tweet_NOT_related_to_nuclear_energy"}'  >> $filename 
+echo '@attribute classification_name {"Negative","Neutral","Positive"}'  >> $filename 
 tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/^/@attribute /g' | sed 's/:[^:]*$/ REAL/g'  >> $filename
 echo "@data" >> $filename
 
