@@ -9,10 +9,6 @@
         <number/>
         <html/>
         <simbols/>
-        <stoplist dir="stoplist">
-            <stopfile>ingl.xml</stopfile>
-        </stoplist>
-        <stemming dir="steminfo"/>
     </maid>
 
     <ngram dir="ngraminfo">
@@ -22,12 +18,9 @@
     <report
         ngramdir="ngraminfo"
         discover="discover"
-        taxonomy="taxonomia.txt"
         transpose="disabled">
 
         <gram n="1"
-            max="500"
-            min="10"
             measure="tfidf"
             smooth="disabled"/>
     </report>
