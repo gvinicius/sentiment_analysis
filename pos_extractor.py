@@ -30,7 +30,7 @@ def generate_bases():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(lowers)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos in ['RB', 'JJ'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'though', 'however'])]
+            selected_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJ', 'NNS', 'NNP'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'though', 'however'])]
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word +" "
@@ -58,7 +58,7 @@ def generate_bases_common():
             open(destination_path_file.replace('file',filename), "w").write(str(final_tokens))
 
 def main():
-    delection_command = 'rm -Rf ' + destination_path + '/* -v'
+    delection_command = 'rm -Rf ' + destination_path + '/* ' + destination_path + '_Maid/* -v' 
     os.system(delection_command)
     if(sys.argv[2]=='tag'):
         generate_bases()
@@ -66,7 +66,7 @@ def main():
     if(sys.argv[2]=='nontag'):
         generate_bases_common()
     print ("Selected only words of desired POS.")
-    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
-   # os.system(run_classification)
+#    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
+#    os.system(run_classification)
 if __name__ == "__main__":
     main()
