@@ -1,743 +1,1080 @@
 ../../dataset/economics/result_Maid/1_Negative
-       crisi:1
+       a:1
+       crisis:1
+       hello:1
+       is:1
        japan:1
        link:1
        nuclear:1
        plant:1
        power:1
-../../dataset/economics/result_Maid/2_Neutral__author_is_just_sharing_information
-       consumpt:1
-       energi:2
-       firsttim:1
+../../dataset/economics/result_Maid/2_Neutral
+       consumption:1
+       energy:2
+       firsttime:1
+       for:1
+       is:1
        link:1
        nuclear:2
-       renew:2
-       top:1
-../../dataset/economics/result_Maid/3_Neutral__author_is_just_sharing_information
-       danger:1
-       elimin:1
-       energi:1
+       renewable:2
+       tops:1
+../../dataset/economics/result_Maid/3_Neutral
+       dangerous:1
+       eliminate:1
+       energy:1
        green:1
-       liber:1
+       liberals:1
        link:1
-       new:1
+       news:1
+       now:1
        nuclear:1
-       plant:1
+       plants:1
        power:1
        seek:1
-../../dataset/economics/result_Maid/4_Neutral__author_is_just_sharing_information
+       to:1
+       will:1
+../../dataset/economics/result_Maid/4_Neutral
+       as:1
        aug:2
        daiichi:1
        fukushima:1
        japan:1
        link:1
        nuclear:1
+       of:2
        plant:1
        pm:1
        power:1
        station:1
-       statu:1
+       status:1
        tepco:1
-../../dataset/economics/result_Maid/5_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/5_Neutral
+       and:1
        ebook:1
-       energi:1
-       environ:1
+       energy:1
+       environment:1
        ess:1
        isbn:1
-       ivers:1
+       iversity:1
        link:1
        nuclear:1
        ord:1
        oxf:1
-       page:1
+       p:1
+       pages:1
        pr:1
-../../dataset/economics/result_Maid/6_Neutral__author_is_just_sharing_information
-       cambridg:1
+       the:1
+       un:1
+../../dataset/economics/result_Maid/6_Neutral
+       cambridge:1
        campaign:1
-       concern:1
-       gjob:1
+       concerned:1
+       gjobs:1
        link:1
        ma:1
        nuclear:1
-       organ:1
+       of:1
+       organizer:1
        power:1
-       safeti:1
-       scientist:1
-       temporari:1
+       safety:1
+       scientists:1
+       temporary:1
        union:1
-../../dataset/economics/result_Maid/7_Neutral__author_is_just_sharing_information
-       contamin:1
+../../dataset/economics/result_Maid/7_Neutral
+       contamination:1
+       in:1
        link:1
-       new:1
+       news:1
        nuclear:1
        nwo:1
        plant:1
        power:1
-       radioact:1
+       radioactive:1
        tritium:1
        vermont:1
-../../dataset/economics/result_Maid/8_Neutral__author_is_just_sharing_information
-       energi:1
-       environ:1
+../../dataset/economics/result_Maid/8_Neutral
+       and:1
+       energy:1
+       environment:1
        ess:1
        isbn:1
-       ivers:1
+       iversity:1
        link:1
        nuclear:1
        ord:1
        oxf:1
-       page:1
+       pages:1
        pr:1
-       scienc:1
-../../dataset/economics/result_Maid/9_Neutral__author_is_just_sharing_information
-       averag:1
+       science:1
+       the:1
+       un:1
+../../dataset/economics/result_Maid/9_Neutral
+       as:2
+       average:1
+       how:1
        link:1
+       many:1
+       much:1
+       need:1
        nuclear:1
+       one:1
+       p:1
        power:2
-       produc:1
+       produce:1
        station:1
-       windmil:2
+       to:1
+       windmills:2
+       would:1
+       you:1
 ../../dataset/economics/result_Maid/10_Positive
+       a:1
        built:1
-       correctli:1
-       energi:1
+       but:1
+       correctly:1
+       do:1
+       done:1
+       energy:1
+       for:1
+       i:1
        link:1
+       m:1
        nuclear:1
        plant:1
        quot:2
+       right:1
+       s:1
        standard:1
+       the:1
        thing:1
-../../dataset/economics/result_Maid/11_Neutral__author_is_just_sharing_information
+       this:1
+       to:2
+       was:1
+       when:1
+../../dataset/economics/result_Maid/11_Neutral
        aid:1
+       all:1
+       and:1
        current:1
        diichi:1
+       for:1
        fukushima:1
        link:1
        masao:1
        min:1
        nuclear:1
+       of:1
        progress:1
-       report:1
+       reports:1
        station:1
+       thanks:1
        video:1
        yoshida:1
-../../dataset/economics/result_Maid/12_Neutral__author_is_just_sharing_information
-       daili:1
+../../dataset/economics/result_Maid/12_Neutral
+       daily:1
        favor:1
        gradual:1
        link:1
        mainichi:2
-       new:1
+       news:1
        nuclear:1
+       of:1
        percent:1
-       plant:1
+       plants:1
        poll:1
        power:1
-       reduct:1
-../../dataset/economics/result_Maid/13_Neutral__author_is_just_sharing_information
-       altern:1
+       reduction:1
+../../dataset/economics/result_Maid/13_Neutral
+       alternative:1
+       as:1
        coal:1
        egat:1
        link:1
        nuclear:1
+       possible:1
        power:1
-../../dataset/economics/result_Maid/14_Neutral__author_is_just_sharing_information
-       econom:1
-       expert:1
+       seen:1
+       to:1
+../../dataset/economics/result_Maid/14_Neutral
+       are:1
+       economic:1
+       experts:1
        link:1
        lithuanian:1
+       not:1
        nuclear:1
+       of:2
        plant:1
        power:1
        project:1
        side:1
-../../dataset/economics/result_Maid/15_Neutral__author_is_just_sharing_information
-       enter:1
+       sure:1
+       the:2
+../../dataset/economics/result_Maid/15_Neutral
+       a:3
+       enters:1
+       five:1
        link:1
        market:1
        nuclear:1
        power:1
-       star:1
-       suppli:1
-../../dataset/economics/result_Maid/16_Neutral__author_is_just_sharing_information
-       enter:1
+       stara:1
+       supply:1
+../../dataset/economics/result_Maid/16_Neutral
+       a:3
+       enters:1
+       five:1
        link:1
        market:1
-       newswir:1
+       newswire:1
        nuclear:1
        power:1
        pr:1
        press:1
-       releas:1
-       star:1
-       suppli:1
-../../dataset/economics/result_Maid/17_Neutral__author_is_just_sharing_information
-       articl:1
-       complet:1
+       release:1
+       stara:1
+       supply:1
+../../dataset/economics/result_Maid/17_Neutral
+       a:1
+       articles:1
+       complete:1
        dollar:1
-       energi:1
+       energy:1
        health:1
-       inv:1
+       inves:1
        link:1
        million:1
        multi:1
-       newspap:1
+       newspaper:1
        nuclear:1
-       peac:1
-       reject:1
-       requir:1
-../../dataset/economics/result_Maid/18_Neutral__author_is_just_sharing_information
+       of:1
+       peaceful:1
+       rejection:1
+       require:1
+       will:1
+../../dataset/economics/result_Maid/18_Neutral
        accord:1
        civil:1
-       econom:1
-       energi:1
+       economic:1
+       energy:1
+       for:1
        highest:1
        india:1
        link:1
        nuclear:1
        pm:1
-       safeti:1
-       standard:1
-       time:1
-../../dataset/economics/result_Maid/19_Neutral__author_is_just_sharing_information
-       arni:1
+       safety:1
+       standards:1
+       times:1
+       to:1
+../../dataset/economics/result_Maid/19_Neutral
+       arnie:1
        gundersen:1
        link:1
        mention:1
-       nir:1
+       nirs:1
        nuclear:1
        power:1
-       resum:1
+       resume:1
        sccouncil:1
-../../dataset/economics/result_Maid/20_Neutral__author_is_just_sharing_information
-       bat:1
-       energi:1
+       via:1
+       w:1
+../../dataset/economics/result_Maid/20_Neutral
+       bats:1
+       energy:1
+       for:1
        india:1
        link:1
        nuclear:1
+       of:1
        pm:1
-       time:1
-../../dataset/economics/result_Maid/21_Neutral__author_is_just_sharing_information
-       ambit:1
+       times:1
+../../dataset/economics/result_Maid/21_Neutral
+       ambitions:1
        arabia:1
-       collect:1
-       energi:2
+       collective:1
+       energy:2
        link:1
        nuclear:1
+       s:1
        saudi:1
-../../dataset/economics/result_Maid/22_Neutral__author_is_just_sharing_information
-       consumpt:1
-       decreas:1
+../../dataset/economics/result_Maid/22_Neutral
+       consumption:1
+       decreased:1
        health:1
-       improv:1
+       improved:1
+       in:1
        link:2
        nuclear:1
-       olympic:1
+       olympics:1
+       per:1
        power:1
-       result:1
+       results:1
        rice:1
-../../dataset/economics/result_Maid/23_Neutral__author_is_just_sharing_information
+       the:1
+../../dataset/economics/result_Maid/23_Neutral
        fukushima:1
-       happen:1
+       happening:1
        link:1
        mention:1
        nuclear:1
        plant:1
        power:1
+       s:1
+       what:1
 ../../dataset/economics/result_Maid/24_Negative
+       a:2
        dozen:1
+       few:1
+       have:1
        home:1
        link:1
+       near:1
        nuclear:1
+       or:1
        plant:1
        power:2
-       turbin:2
+       rather:1
+       turbines:2
        wind:1
-../../dataset/economics/result_Maid/25_Neutral__author_is_just_sharing_information
+       would:1
+       you:1
+       your:1
+../../dataset/economics/result_Maid/25_Neutral
+       about:1
        feel:1
-       hydrofrack:1
+       how:1
+       hydrofracking:1
        link:1
        marist:1
+       new:1
        nuclear:1
        poll:1
        power:1
        ynn:1
-       yorker:1
-../../dataset/economics/result_Maid/26_Neutral__author_is_just_sharing_information
+       yorkers:1
+../../dataset/economics/result_Maid/26_Neutral
+       a:2
+       around:1
        bow:1
-       hear:1
-       hunt:1
+       ever:1
+       hears:1
+       hunting:1
+       in:1
+       is:1
        mention:1
        mi:1
        north:1
        nuclear:1
+       of:1
+       only:1
        place:1
        plant:1
        power:1
        talk:1
-../../dataset/economics/result_Maid/27_Neutral__author_is_just_sharing_information
+       that:1
+../../dataset/economics/result_Maid/27_Neutral
+       a:2
        ac:1
+       around:1
        bow:1
-       buddi:1
+       buddy:1
+       go:1
+       in:1
+       it:2
+       looking:1
        mention:1
        missouri:1
+       my:1
+       no:1
        north:1
        nuclear:1
+       only:1
        plant:1
        power:1
+       s:2
+       to:1
+       was:1
        west:1
        wma:1
-../../dataset/economics/result_Maid/28_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/28_Neutral
+       best:1
        bumper:1
        car:1
-       date:1
+       dates:1
+       ever:1
        guess:1
-       kennedi:1
+       i:2
+       is:1
+       kennedy:1
        lol:1
+       me:1
        mention:1
        nuclear:1
+       one:1
        power:1
        quot:2
+       s:1
        safer:1
+       saw:1
        sticker:1
        ted:1
-../../dataset/economics/result_Maid/29_Neutral__author_is_just_sharing_information
-       danger:1
-       energi:1
-       invest:1
+       than:1
+       that:1
+       the:1
+       was:1
+../../dataset/economics/result_Maid/29_Neutral
+       about:1
+       an:1
+       are:1
+       com:1
+       dangers:1
+       energy:1
+       investment:1
+       is:1
        mention:1
        newamerica:1
        nuclear:1
-       talk:1
-       websit:1
-../../dataset/economics/result_Maid/30_Neutral__author_is_just_sharing_information
-       adapt:1
-       cap:1
-       energi:1
+       or:1
+       talking:1
+       website:1
+       you:1
+../../dataset/economics/result_Maid/30_Neutral
+       adaptation:1
+       and:1
+       caps:1
+       energy:1
        human:1
-       ic:1
+       ice:1
        link:1
-       melt:1
+       melting:1
        mention:1
        nuclear:1
        rt:1
-       saturdai:1
-       scienc:1
-../../dataset/economics/result_Maid/31_Neutral__author_is_just_sharing_information
+       saturday:1
+       science:1
+../../dataset/economics/result_Maid/31_Neutral
        britain:1
-       hinklei:1
+       c:1
+       hinkley:1
        mention:1
        newest:1
        nuclear:2
        point:1
        power:1
        rt:1
+       s:1
        station:1
-../../dataset/economics/result_Maid/32_Tweet_NOT_related_to_nuclear_energy
+../../dataset/economics/result_Maid/32_Not_Related
+       a:1
+       after:1
+       am:1
+       another:1
        back:1
+       did:1
+       down:1
+       here:1
+       i:1
+       is:2
        link:1
        mention:2
        mess:1
-       move:1
-       think:1
-../../dataset/economics/result_Maid/33_Neutral__author_is_just_sharing_information
-       abort:1
+       moving:1
+       of:1
+       she:1
+       that:1
+       thinking:1
+       way:1
+       we:1
+../../dataset/economics/result_Maid/33_Neutral
+       a:1
+       abortion:1
        bigger:1
        corino:1
        death:1
        limerick:1
        mention:3
        nuclear:1
+       of:1
        plant:1
        power:1
        rt:1
-       surviv:1
+       surviving:1
+       than:1
+       the:1
        threat:1
-../../dataset/economics/result_Maid/34_Neutral__author_is_just_sharing_information
-       abort:1
+       you:1
+       your:1
+../../dataset/economics/result_Maid/34_Neutral
+       a:1
+       abortion:1
        bigger:1
        corino:1
        death:1
        limerick:1
        mention:2
        nuclear:1
+       of:1
        plant:1
        power:1
-       surviv:1
+       surviving:1
+       than:1
+       the:1
        threat:1
-../../dataset/economics/result_Maid/35_Neutral__author_is_just_sharing_information
+       you:1
+       your:1
+../../dataset/economics/result_Maid/35_Neutral
+       about:1
+       and:1
+       but:1
        cagov:1
-       concern:1
-       energi:1
+       concerned:1
+       energy:1
+       for:1
+       has:1
+       is:1
        mention:2
        mind:1
+       need:1
        nuclear:3
+       on:1
        open:1
        plant:1
        quot:2
        rt:1
        run:1
-       wast:1
+       the:1
+       to:1
+       waste:1
        water:1
 ../../dataset/economics/result_Maid/36_Negative
-       everydai:1
+       all:1
+       and:1
+       everyday:1
+       for:1
        heart:1
+       i:2
+       it:1
        mention:2
+       now:1
        nuclear:1
+       over:1
        plant:1
        power:1
        rt:2
        shout:1
+       so:2
        stop:1
+       thanks:1
+       the:2
+       to:1
+       want:1
        world:1
+       your:1
 ../../dataset/economics/result_Maid/37_Negative
-       energi:1
-       extrem:1
+       at:1
+       energy:1
+       extreme:1
        good:1
-       level:1
+       happens:1
+       is:2
+       it:1
+       levels:1
        mention:2
+       no:1
        nuclear:1
-       radiat:1
+       of:1
+       radiation:1
+       really:1
        risk:1
+       something:1
+       the:1
+       until:1
        worth:1
 ../../dataset/economics/result_Maid/38_Negative
+       and:1
+       are:1
        built:1
-       energi:1
+       energy:1
+       in:1
+       is:1
        mention:2
+       not:1
+       now:1
        nuclear:1
+       on:1
+       only:1
        problem:1
-       prosper:1
-       renew:1
-       troubl:1
-../../dataset/economics/result_Maid/39_Neutral__author_is_just_sharing_information
-       accid:1
+       prosperity:1
+       renewables:1
+       so:1
+       that:1
+       the:1
+       they:1
+       trouble:1
+       was:1
+../../dataset/economics/result_Maid/39_Neutral
+       a:1
+       accident:1
        case:1
-       citizen:1
-       countri:1
+       citizens:1
+       could:1
+       country:1
+       do:1
+       in:2
        indian:1
        link:1
        mention:2
        nuclear:1
+       of:1
        plant:1
        power:1
        rt:1
-       thing:1
+       the:1
+       things:1
        top:1
 ../../dataset/economics/result_Maid/40_Negative
-       endur:1
-       energi:1
+       all:1
+       and:1
+       down:1
+       endure:1
+       energy:1
+       for:1
        good:1
        gotta:1
+       help:1
        mention:2
+       new:1
        nuclear:1
        pioneer:1
-       plant:1
-       radiat:1
+       plants:1
+       radiation:1
        rt:1
        shut:1
-       technolog:1
+       technologies:1
        tesla:1
-../../dataset/economics/result_Maid/41_Neutral__author_is_just_sharing_information
-       crack:1
+       the:1
+       to:1
+       us:1
+       we:1
+../../dataset/economics/result_Maid/41_Neutral
+       cracking:1
        fukushima:2
        ground:1
+       is:1
        link:1
        mention:1
        nuclear:1
        rt:2
        russia:1
-       todai:1
+       today:1
        underneath:1
-../../dataset/economics/result_Maid/42_Neutral__author_is_just_sharing_information
-       corporateentitl:1
-       decis:1
-       evid:1
+../../dataset/economics/result_Maid/42_Neutral
+       a:1
+       and:1
+       can:1
+       corporateentitlement:1
+       decision:1
+       evidence:1
+       further:1
        good:1
        gt:1
+       like:1
        mention:1
        nuclear:1
        power:1
        smartgrid:1
-       surviv:1
+       survive:1
+       t:1
+       that:1
+       without:1
 ../../dataset/economics/result_Maid/43_Positive
-       afford:1
+       affordable:1
+       and:1
        cdnpoli:1
-       consid:1
+       considered:1
        green:1
        inharperstopsyturvycanada:1
+       is:2
        mention:1
+       not:1
        nuclear:1
        power:2
        rt:1
        safe:1
-../../dataset/economics/result_Maid/44_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/44_Neutral
+       after:1
+       an:1
        attack:1
-       dai:1
+       day:1
        defeat:1
        link:1
        marxism:1
        mention:1
        nuclear:1
-       pension:1
+       on:1
+       p:1
+       pensions:1
        plant:1
        power:1
        rebelleft:1
        rt:1
-       social:1
+       socialism:1
        strike:1
-       worker:1
-../../dataset/economics/result_Maid/45_Neutral__author_is_just_sharing_information
-       energi:1
-       gener:1
+       workers:1
+../../dataset/economics/result_Maid/45_Neutral
+       energy:1
+       generation:1
+       in:1
        link:1
        mention:1
        mw:1
-       new:1
+       news:1
        nuclear:1
        power:1
        rt:1
+       to:1
        touch:1
-       year:1
-../../dataset/economics/result_Maid/46_Neutral__author_is_just_sharing_information
-       gener:1
-       industrynew:1
+       years:1
+../../dataset/economics/result_Maid/46_Neutral
+       generation:1
+       in:1
+       industrynews:1
        link:1
        mention:1
        mw:1
-       new:1
+       news:1
        nuclear:1
        power:1
        rt:1
+       to:1
        touch:1
-       year:1
-../../dataset/economics/result_Maid/47_Neutral__author_is_just_sharing_information
-       energi:1
+       years:1
+../../dataset/economics/result_Maid/47_Neutral
+       energy:1
        forward:1
        link:1
-       marketplac:1
+       marketplace:1
        mention:1
-       move:1
+       moves:1
        nuclear:2
        org:1
-       plan:1
+       plans:1
        publicradio:1
        rt:1
-       turkei:1
-../../dataset/economics/result_Maid/48_Neutral__author_is_just_sharing_information
-       develop:1
-       energi:1
-       imped:1
-       import:2
+       turkey:1
+       with:1
+../../dataset/economics/result_Maid/48_Neutral
+       a:5
+       are:1
+       development:1
+       energy:1
+       impede:1
+       important:2
+       it:1
        link:1
        mention:1
+       not:1
        nuclear:2
-       possibl:1
+       possibly:1
        rt:1
+       s:1
        smr:1
-       technolog:1
-../../dataset/economics/result_Maid/49_Neutral__author_is_just_sharing_information
+       technology:1
+       their:1
+       to:1
+../../dataset/economics/result_Maid/49_Neutral
+       at:1
        daiichi:1
-       desalin:1
-       energi:1
-       facil:1
+       desalinate:1
+       energy:1
+       facility:1
        fuel:1
        fukushima:1
        link:1
        mention:1
        nuclear:1
-       pool:1
+       pools:1
        rt:1
        tepco:1
-../../dataset/economics/result_Maid/50_Neutral__author_is_just_sharing_information
+       to:1
+       used:1
+../../dataset/economics/result_Maid/50_Neutral
        closer:1
+       first:1
+       getting:1
+       its:1
        link:1
        mention:1
-       move:1
+       moving:1
        nuclear:1
        plant:1
        power:1
        rt:1
+       to:1
        utah:1
-../../dataset/economics/result_Maid/51_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/51_Neutral
        fight:1
-       group:1
+       groups:1
        link:1
        mention:1
        nuclear:2
        plant:1
        power:1
-       relicens:1
+       relicensing:1
        rt:1
        team:1
+       to:1
+       up:1
        vermont:2
-       yanke:1
+       yankee:1
 ../../dataset/economics/result_Maid/52_Negative
-       creat:1
-       dedic:1
-       energi:1
+       a:1
+       be:1
+       created:1
+       dedicated:1
+       energy:1
        french:1
+       has:1
        link:1
        mention:1
+       much:1
+       needs:1
        nuclear:1
+       of:1
        room:1
        rt:1
-       storag:1
-       wast:1
-       year:1
-../../dataset/economics/result_Maid/53_Neutral__author_is_just_sharing_information
+       so:1
+       storage:1
+       that:1
+       to:2
+       use:1
+       waste:1
+       whole:1
+       years:1
+../../dataset/economics/result_Maid/53_Neutral
        amp:1
+       at:1
        august:1
        channel:1
-       energi:1
+       energy:1
+       et:1
        florida:1
+       from:1
        hall:1
-       meet:1
+       meeting:1
        mention:1
        nuclear:1
+       on:1
        org:1
        pm:1
+       the:2
        thefloridachannel:1
        town:1
        watch:1
        web:1
-../../dataset/economics/result_Maid/54_Neutral__author_is_just_sharing_information
-       altern:1
-       instal:1
+../../dataset/economics/result_Maid/54_Neutral
+       alternatives:1
+       in:1
+       installations:1
        largest:1
        link:1
        mention:1
        nuclear:1
-       plant:1
+       plants:1
        power:1
-       promis:1
+       promising:1
        rt:1
        solar:1
+       the:1
+       to:1
        world:1
-../../dataset/economics/result_Maid/55_Neutral__author_is_just_sharing_information
-       an:1
-       blogger:1
+../../dataset/economics/result_Maid/55_Neutral
+       ans:1
+       at:1
+       bloggers:1
        cafe:1
-       carniv:1
-       energi:1
+       carnival:1
+       energy:1
        link:1
        mention:1
+       now:1
        nuclear:2
-       onlin:1
+       of:1
+       online:1
        rt:1
-../../dataset/economics/result_Maid/56_Neutral__author_is_just_sharing_information
-       an:1
-       blogger:1
+       th:1
+../../dataset/economics/result_Maid/56_Neutral
+       ans:1
+       at:1
+       bloggers:1
        cafe:1
-       carniv:1
-       energi:1
+       carnival:1
+       energy:1
        link:1
        mention:1
+       now:1
        nuclear:2
-       onlin:1
+       of:1
+       online:1
        rt:1
-../../dataset/economics/result_Maid/57_Neutral__author_is_just_sharing_information
+       th:1
+../../dataset/economics/result_Maid/57_Neutral
+       a:2
        ago:1
-       call:1
+       called:1
        cld:1
-       cube:1
+       cubes:1
+       few:1
+       for:1
+       me:1
        mention:1
        nuclear:1
+       of:1
        power:2
-       suffici:1
+       self:1
+       sufficient:1
+       that:1
+       they:1
        told:1
        town:1
+       were:1
+       what:1
        xm:1
-       year:2
-../../dataset/economics/result_Maid/58_Neutral__author_is_just_sharing_information
-       exclus:1
+       years:2
+       you:1
+../../dataset/economics/result_Maid/58_Neutral
+       a:1
+       exclusive:1
        fukushima:1
-       insid:1
+       inside:1
        link:1
        made:1
        mention:1
        nuclear:1
-       photograph:1
-       pictur:1
+       photographer:1
+       pictures:1
        plant:1
        power:1
        rt:1
-../../dataset/economics/result_Maid/59_Neutral__author_is_just_sharing_information
+       the:1
+../../dataset/economics/result_Maid/59_Neutral
+       a:1
+       by:1
+       could:1
        link:1
        mention:1
        nuclear:1
        planet:1
-       power:2
-       reactor:1
-       rescu:1
+       power:1
+       powered:1
+       reactors:1
+       rescue:1
        rt:1
        thorium:2
-../../dataset/economics/result_Maid/60_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/60_Neutral
        abbasi:1
-       build:1
-       cooper:1
-       countri:1
+       building:1
+       cooperating:1
+       country:1
+       has:1
+       in:1
        iran:1
        link:1
        mention:2
+       new:1
        nuclear:1
-       plant:1
+       on:1
+       plants:1
        power:1
-       propos:1
+       proposed:1
        rt:1
        russia:1
-../../dataset/economics/result_Maid/61_Neutral__author_is_just_sharing_information
-       activist:1
+       says:1
+       the:1
+       via:1
+       with:1
+../../dataset/economics/result_Maid/61_Neutral
+       activists:1
+       and:1
        citizen:1
-       climat:1
-       energi:1
-       fight:1
-       guid:1
+       climate:1
+       energy:1
+       fighting:1
+       guide:1
        link:1
        mention:2
        nuclear:1
        power:1
        public:1
        rt:1
-../../dataset/economics/result_Maid/62_Neutral__author_is_just_sharing_information
-       expos:1
+       to:1
+       via:1
+../../dataset/economics/result_Maid/62_Neutral
+       again:1
+       and:1
+       expose:1
        fit:1
+       how:1
+       into:1
        link:1
        mention:1
        nuclear:1
-       pipelin:1
+       overall:1
+       pipelines:1
        power:1
        rt:1
-       sand:1
-       strategi:1
+       sands:1
+       strategy:1
        tar:1
+       the:1
        transcanada:1
-../../dataset/economics/result_Maid/63_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/63_Neutral
        ahead:1
        alabama:1
-       construct:1
+       already:1
+       construction:1
+       enough:1
+       for:1
+       gets:1
+       go:1
+       it:1
        link:1
        mention:1
        nuclear:1
        plant:1
+       please:1
        power:1
        rt:2
-../../dataset/economics/result_Maid/64_Neutral__author_is_just_sharing_information
+       s:1
+../../dataset/economics/result_Maid/64_Neutral
+       a:4
+       an:1
+       and:1
+       from:1
+       have:1
+       how:1
        interview:1
+       is:1
+       it:1
        japan:1
-       learn:1
+       learned:1
        link:1
        mention:2
        nuclear:1
        power:1
        rt:1
        safe:1
-../../dataset/economics/result_Maid/65_Neutral__author_is_just_sharing_information
-       ambit:1
-       an:1
+       we:1
+       what:1
+       with:1
+../../dataset/economics/result_Maid/65_Neutral
+       ambitions:1
+       ans:1
        arabia:1
-       boost:1
+       boosts:1
        cafe:1
-       energi:1
+       energy:1
+       its:1
        link:1
        mention:1
        nuclear:2
@@ -747,101 +1084,124 @@
        anti:1
        link:1
        mention:1
-       nonuk:1
+       nonukes:1
        nuclear:1
        power:1
        rt:1
        shirt:1
-../../dataset/economics/result_Maid/67_Neutral__author_is_just_sharing_information
-       bui:1
+       t:1
+../../dataset/economics/result_Maid/67_Neutral
+       a:1
+       anybody:1
+       buy:1
        cheap:1
-       float:1
+       floating:1
        link:1
        mention:2
        nuclear:1
        plant:1
        power:1
        rt:1
-../../dataset/economics/result_Maid/68_Neutral__author_is_just_sharing_information
-       energi:1
-       gui:1
+       to:1
+       via:1
+       want:1
+../../dataset/economics/result_Maid/68_Neutral
+       are:1
+       be:1
+       energy:1
+       going:1
+       guys:1
        mention:1
        nuclear:1
-       phase:1
-../../dataset/economics/result_Maid/69_Neutral__author_is_just_sharing_information
+       out:1
+       phasing:1
+       then:1
+       to:1
+       you:1
+../../dataset/economics/result_Maid/69_Neutral
+       and:1
+       as:1
        back:1
+       by:1
        china:1
-       energi:1
+       energy:1
        fear:1
        forward:1
        held:1
-       irrat:1
+       irrational:1
+       is:1
        link:1
        mention:1
        nuclear:1
-       push:1
+       on:1
+       pushes:1
        red:1
        rt:1
+       s:1
        tape:1
-../../dataset/economics/result_Maid/70_Neutral__author_is_just_sharing_information
+       the:1
+       u:1
+../../dataset/economics/result_Maid/70_Neutral
+       a:1
+       about:1
        alabama:1
-       carri:1
-       knoxvil:1
+       all:1
+       best:1
+       carry:1
+       if:1
+       is:1
+       knoxville:1
        meltdown:1
        mention:1
+       new:1
        nuclear:1
        part:1
        plant:1
        power:1
-       radiat:1
+       radiation:1
        rt:1
+       the:3
+       there:1
+       to:1
+       will:1
        wind:1
-../../dataset/economics/result_Maid/76_Positive
-       altern:1
-       chang:1
-       climat:1
-       deni:1
-       fact:1
-       frustrat:1
-       group:1
-       mention:1
-       nuclear:1
-       power:1
-       real:1
-       safe:1
-       ultim:1
-../../dataset/economics/result_Maid/71_Neutral__author_is_just_sharing_information
-       applic:1
+../../dataset/economics/result_Maid/71_Neutral
+       application:1
        blue:1
-       castl:1
+       castle:1
        closer:1
-       electr:1
-       energi:1
-       file:1
-       licens:1
+       electricity:1
+       energy:1
+       filing:1
+       licensing:1
        link:1
        mention:1
        nuclear:2
        project:1
        rt:1
-       util:1
-../../dataset/economics/result_Maid/72_Neutral__author_is_just_sharing_information
-       approv:1
-       break:1
-       commerci:1
-       formal:1
+       to:1
+       utilities:1
+../../dataset/economics/result_Maid/72_Neutral
+       approves:1
+       at:1
+       breaking:1
+       commercial:1
+       formally:1
        governor:1
        hokkaido:1
        mention:1
+       no:1
        nuclear:1
-       oper:1
+       of:2
+       operations:1
        plant:1
        power:1
        reactor:1
        restart:1
        tomari:1
-../../dataset/economics/result_Maid/73_Neutral__author_is_just_sharing_information
-       ask:1
+../../dataset/economics/result_Maid/73_Neutral
+       asks:1
+       can:1
        function:1
        link:1
        mention:2
@@ -849,22 +1209,32 @@
        power:1
        rt:1
        tokyo:1
-../../dataset/economics/result_Maid/74_Neutral__author_is_just_sharing_information
-       acceler:1
+       without:1
+../../dataset/economics/result_Maid/74_Neutral
+       accelerate:1
+       become:1
        canada:1
        cfsfcee:1
-       energi:1
+       energy:1
+       first:1
        fossil:1
        fuel:1
+       in:1
+       may:1
        mention:1
        nation:1
        nuclear:1
-       product:1
+       production:1
        rt:1
+       the:2
+       to:2
+       use:1
        world:1
-../../dataset/economics/result_Maid/75_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/75_Neutral
        china:1
        clean:1
+       for:1
+       in:1
        lead:1
        link:1
        mention:1
@@ -872,155 +1242,260 @@
        power:1
        race:1
        rt:1
-       take:1
+       takes:1
        thorium:1
-../../dataset/economics/result_Maid/77_Neutral__author_is_just_sharing_information
-       altern:1
+../../dataset/economics/result_Maid/76_Positive
+       alternate:1
+       and:1
+       are:1
+       by:1
+       change:1
+       climate:1
+       denied:1
+       facts:1
+       frustration:1
+       groups:1
+       is:3
+       mention:1
+       nuclear:1
+       power:1
+       real:1
+       safe:1
+       that:1
+       these:1
+       ultimate:1
+../../dataset/economics/result_Maid/77_Neutral
+       alternative:1
+       as:1
        coal:1
        egat:1
        link:1
        mention:1
        nuclear:1
+       possible:1
        power:1
        rt:1
-../../dataset/economics/result_Maid/78_Neutral__author_is_just_sharing_information
+       seen:1
+       to:1
+../../dataset/economics/result_Maid/78_Neutral
+       a:1
+       and:2
        carbon:1
-       coupl:1
-       effici:1
-       electr:1
-       emiss:1
+       couple:1
+       efficient:1
+       electric:1
+       emission:1
+       have:1
        mention:1
-       motor:1
+       motors:1
+       near:2
+       no:1
        nuclear:1
        power:1
        process:1
        wasteless:1
-../../dataset/economics/result_Maid/79_Neutral__author_is_just_sharing_information
-       cucumb:1
+       with:1
+       you:1
+../../dataset/economics/result_Maid/79_Neutral
+       and:1
+       cucumbers:1
        mention:1
        nuclear:1
        power:1
-../../dataset/economics/result_Maid/80_Neutral__author_is_just_sharing_information
-       debat:1
-       energi:1
+../../dataset/economics/result_Maid/80_Neutral
+       debate:1
+       does:1
+       energy:1
        link:1
        mention:1
+       need:1
        nuclear:1
        rt:1
+       the:1
        world:1
-../../dataset/economics/result_Maid/81_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/81_Neutral
+       at:1
        barrel:1
        blog:1
-       devast:1
-       earthquak:1
-       energi:1
+       devastating:1
+       earthquake:1
+       energy:1
        fuel:1
+       its:1
        japan:1
-       leav:1
+       leaves:1
        link:1
        march:1
        mention:1
        mix:1
        nuclear:1
-       platt:1
-       ponder:1
+       platts:1
+       pondering:1
        rt:1
-../../dataset/economics/result_Maid/82_Neutral__author_is_just_sharing_information
-       alien:1
+       see:1
+       the:1
+../../dataset/economics/result_Maid/82_Neutral
+       aliens:1
+       all:1
        ancient:1
+       came:1
+       did:1
        earth:2
-       exist:1
+       exists:1
        gold:2
        mention:2
        mine:1
        nuclear:1
+       on:1
+       only:2
+       or:1
        power:1
-../../dataset/economics/result_Maid/83_Neutral__author_is_just_sharing_information
-       discuss:1
-       energi:1
+       the:1
+       they:1
+       to:2
+       used:1
+       way:1
+       why:1
+../../dataset/economics/result_Maid/83_Neutral
+       discussion:1
+       energy:1
+       is:1
        link:1
        mention:1
        nuclear:1
-       previous:1
+       previously:1
        rt:1
        safer:1
+       than:1
        thought:1
-../../dataset/economics/result_Maid/84_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/84_Neutral
+       about:1
        cheat:1
-       energi:1
-       fact:2
+       do:1
+       energy:1
+       facts:2
+       get:1
+       in:1
+       know:1
        link:1
        mention:1
        nuclear:1
-       product:1
+       of:1
+       our:1
+       production:1
        quick:1
        quot:2
        rt:1
        sheet:1
-       updat:1
-../../dataset/economics/result_Maid/85_Neutral__author_is_just_sharing_information
+       the:1
+       them:1
+       updated:1
+       us:1
+       you:1
+../../dataset/economics/result_Maid/85_Neutral
+       an:1
+       anyone:1
+       at:1
        clean:1
-       disappear:1
+       disappeared:1
+       does:1
+       from:1
        fukushima:1
-       inform:1
+       have:2
+       informed:1
+       it:1
        mention:1
-       new:1
+       news:1
        nuclear:1
+       on:1
        plant:1
        power:1
        progress:1
        rt:1
-       updat:1
-../../dataset/economics/result_Maid/86_Neutral__author_is_just_sharing_information
+       seems:1
+       the:2
+       to:1
+       up:1
+       update:1
+../../dataset/economics/result_Maid/86_Neutral
+       a:1
        american:1
+       been:1
+       could:1
        count:1
        don:1
-       energi:1
+       energy:1
+       have:1
+       just:1
        link:1
-       meet:1
+       meeting:1
        mention:1
        nuclear:2
+       of:1
+       out:1
        rt:1
-       societi:1
+       society:1
        summer:1
+       t:1
+       the:2
        wa:1
-../../dataset/economics/result_Maid/87_Neutral__author_is_just_sharing_information
-       an:1
+       yet:1
+../../dataset/economics/result_Maid/87_Neutral
+       ans:1
+       because:1
        ceo:1
-       dispens:1
-       energi:1
+       dispense:1
+       energy:1
        exelon:1
-       fear:1
+       fears:1
        fukushima:1
+       it:1
        link:1
        mention:1
+       must:1
        nation:1
+       needs:1
        nuclear:1
        rt:1
-../../dataset/economics/result_Maid/88_Neutral__author_is_just_sharing_information
-       commentari:1
-       energi:1
+       tell:1
+       with:1
+../../dataset/economics/result_Maid/88_Neutral
+       commentary:1
+       energy:1
        expert:1
        link:1
        mention:1
        nuclear:1
+       of:1
+       on:1
        rt:1
-       safeti:1
-../../dataset/economics/result_Maid/89_Neutral__author_is_just_sharing_information
+       safety:1
+       the:1
+../../dataset/economics/result_Maid/89_Neutral
+       a:1
+       all:1
        earth:1
        fission:1
+       from:1
+       how:1
+       it:1
+       less:1
        mention:1
-       mile:1
+       miles:1
        million:1
+       not:1
        nuclear:1
-       plant:1
+       plants:1
        power:1
-       theori:1
+       s:1
+       than:1
+       theory:1
        work:1
-../../dataset/economics/result_Maid/90_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/90_Neutral
        bit:1
+       by:1
        court:1
-       float:1
+       floating:1
        ly:1
        mention:2
        nuclear:1
@@ -1028,90 +1503,115 @@
        power:1
        qyrdxw:1
        rt:1
-       seiz:1
-../../dataset/economics/result_Maid/91_Neutral__author_is_just_sharing_information
-       challeng:1
+       seized:1
+       via:1
+../../dataset/economics/result_Maid/91_Neutral
+       again:1
+       challenges:1
        cost:1
        florida:1
        link:1
        mention:3
        nuclear:1
+       on:1
        power:1
-       recoveri:1
+       recovery:1
        rt:1
        sayfie:1
-       senat:1
-       util:1
-../../dataset/economics/result_Maid/92_Neutral__author_is_just_sharing_information
-       articl:1
+       senator:1
+       utilities:1
+../../dataset/economics/result_Maid/92_Neutral
+       article:1
+       d:1
        ed:1
-       editor:1
-       energi:1
+       editors:1
+       energy:1
        florida:1
+       from:1
        great:1
        link:1
        mention:1
        nuclear:2
+       of:1
+       on:1
        op:1
-       persever:1
-       plant:1
+       persevere:1
+       plants:1
        power:1
        rt:1
-../../dataset/economics/result_Maid/93_Neutral__author_is_just_sharing_information
+       should:1
+       the:2
+../../dataset/economics/result_Maid/93_Neutral
+       about:1
        amp:1
-       energi:1
-       fact:1
+       energy:1
+       facts:1
+       for:1
        gt:1
        info:1
        link:1
        mention:2
-       myth:1
+       myths:1
        nei:1
        nuclear:1
        rt:2
-       seek:1
-       soundbit:1
-       updat:1
+       seeking:1
+       soundbites:1
+       the:1
+       those:1
+       updated:1
        ve:1
-../../dataset/economics/result_Maid/94_Neutral__author_is_just_sharing_information
+       we:1
+../../dataset/economics/result_Maid/94_Neutral
        agenda:1
+       and:1
        ar:1
        board:1
-       construct:1
-       emiss:1
+       construction:1
+       emissions:1
        fossil:1
+       from:1
        fuel:1
        link:1
        mention:1
        nuclear:1
        nuke:1
+       on:1
        plant:1
        power:1
-       rate:1
+       rates:1
        rt:1
-       safeti:1
+       safety:1
        tva:1
        wsmv:1
-../../dataset/economics/result_Maid/95_Neutral__author_is_just_sharing_information
-       achiev:1
+../../dataset/economics/result_Maid/95_Neutral
+       achieve:1
+       as:2
        cold:1
        cont:1
        dai:1
        fukushima:1
        ichi:1
        link:1
+       may:1
        mention:1
+       not:1
        nuclear:1
-       plan:1
+       planned:1
        plant:1
        power:1
        rt:1
        shutdown:1
+       soon:1
        tokyo:1
-../../dataset/economics/result_Maid/96_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/96_Neutral
+       also:1
+       and:1
        breakthrough:1
        cost:1
-       energi:1
+       could:1
+       energy:1
+       for:1
        fossil:1
        fuel:1
        ge:1
@@ -1119,253 +1619,401 @@
        lead:1
        lower:1
        mention:1
-       motiv:1
+       motive:1
        nuclear:1
-       opposit:1
-       reduc:1
-       sale:1
-../../dataset/economics/result_Maid/97_Neutral__author_is_just_sharing_information
-       constitut:1
-       countri:1
-       energi:1
-       germani:1
+       opposition:1
+       reduced:1
+       sales:1
+       to:1
+../../dataset/economics/result_Maid/97_Neutral
+       a:3
+       away:1
+       constitutes:1
+       countrya:1
+       energy:1
+       from:1
+       germany:1
+       in:1
        mention:2
        move:1
        nuclear:1
-       plan:1
+       of:1
+       plans:1
        power:1
        rt:1
-       sourc:1
-       year:1
-../../dataset/economics/result_Maid/98_Neutral__author_is_just_sharing_information
-       anonym:2
+       s:1
+       source:1
+       to:1
+       via:1
+       which:1
+       years:1
+../../dataset/economics/result_Maid/98_Neutral
+       a:1
+       also:1
+       and:1
+       anonymous:2
+       by:1
        fbi:1
-       hack:2
+       got:1
+       hacked:2
        mention:1
        nuclear:1
        plant:1
        power:1
        russian:1
-../../dataset/economics/result_Maid/99_Neutral__author_is_just_sharing_information
+       the:1
+../../dataset/economics/result_Maid/99_Neutral
        civil:1
-       energi:1
-       expand:1
+       energy:1
+       expanding:1
        govt:1
        link:1
        mention:1
        nuclear:1
        pm:1
-       programm:1
+       programme:1
        rt:1
 ../../dataset/economics/result_Maid/100_Positive
+       a:1
+       about:1
        fine:1
-       happi:1
+       happy:1
        mention:1
        nuclear:1
        plant:1
        power:1
        spread:1
+       the:1
+       to:1
        word:1
-../../dataset/economics/result_Maid/101_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/101_Neutral
+       as:1
        board:1
-       chang:1
-       cite:1
-       climat:1
+       change:1
+       cites:1
+       climate:1
        edit:1
-       energi:1
-       fresbe:1
+       energy:1
+       fresbee:1
+       has:1
+       he:1
        major:1
        mention:1
        mind:1
        nuclear:1
+       on:1
        open:1
        quot:2
        reason:1
-       stanc:1
-       tell:1
+       stance:1
+       tells:1
        vote:1
-../../dataset/economics/result_Maid/102_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/102_Neutral
+       about:1
+       and:1
+       but:1
        cagov:1
-       concern:1
-       energi:1
+       concerned:1
+       energy:1
+       for:1
+       has:1
+       is:1
        mention:1
        mind:1
+       need:1
        nuclear:3
+       on:1
        open:1
        plant:1
        quot:2
        run:1
-       wast:1
+       the:1
+       to:1
+       waste:1
        water:1
-../../dataset/economics/result_Maid/103_Neutral__author_is_just_sharing_information
-       advic:1
-       energi:1
+../../dataset/economics/result_Maid/103_Neutral
+       about:1
+       advices:1
+       and:2
+       energy:1
        follow:1
+       has:1
+       his:1
        link:2
        mention:1
-       mistak:1
+       mistakes:1
        nuclear:1
-       recogn:1
-../../dataset/economics/result_Maid/104_Neutral__author_is_just_sharing_information
+       own:1
+       recognize:1
+       to:1
+../../dataset/economics/result_Maid/104_Neutral
+       among:1
        attend:1
-       energi:1
+       energy:1
        forum:1
        high:1
        hillsborough:2
-       jersei:1
+       jersey:1
        link:1
        mention:1
+       new:1
        nuclear:1
        rt:1
        school:1
        stu:1
-       student:1
-       teen:1
-../../dataset/economics/result_Maid/105_Neutral__author_is_just_sharing_information
-       energi:1
-       environment:1
+       students:1
+       teens:1
+       were:1
+../../dataset/economics/result_Maid/105_Neutral
+       about:1
+       and:1
+       energy:1
+       environmental:1
+       his:1
        hmmm:1
        mention:1
        nuclear:1
-       polici:1
+       on:1
+       policies:1
        read:1
-       view:1
-../../dataset/economics/result_Maid/106_Neutral__author_is_just_sharing_information
-       industri:1
-       kid:1
+       views:1
+../../dataset/economics/result_Maid/106_Neutral
+       are:1
+       being:1
+       by:1
+       how:1
+       industry:1
+       kids:1
        link:1
        mention:2
        nuclear:1
+       our:1
        rt:1
-       school:1
+       schooled:1
+       the:1
+       via:1
 ../../dataset/economics/result_Maid/107_Negative
+       am:1
        genpatsu:1
        give:1
+       i:1
        mention:1
+       my:1
+       no:1
        nuclear:1
-       nuke:1
+       nukes:1
        plant:1
+       please:1
        power:1
        quot:4
+       r:1
+       re:1
        rt:1
+       s:1
        stop:1
-       tweet:3
+       t:1
+       the:1
+       to:1
+       tweet:2
+       tweeting:1
 ../../dataset/economics/result_Maid/108_Negative
-       everydai:1
+       all:1
+       and:1
+       everyday:1
+       for:1
        heart:1
+       i:2
+       it:1
        mention:1
+       now:1
        nuclear:1
+       over:1
        plant:1
        power:1
        rt:1
        shout:1
+       so:2
        stop:1
+       thanks:1
+       the:2
+       to:1
+       want:1
        world:1
-../../dataset/economics/result_Maid/109_Neutral__author_is_just_sharing_information
-       energi:1
-       fuckthepolic:1
-       introduc:1
+       your:1
+../../dataset/economics/result_Maid/109_Neutral
+       and:2
+       d:1
+       energy:1
+       fuckthepolice:1
+       go:1
+       i:1
+       introduce:1
        mention:1
        mlp:1
        nuclear:1
-       poni:1
-       strategi:1
-       univers:1
-       warfar:1
-../../dataset/economics/result_Maid/110_Neutral__author_is_just_sharing_information
-       confus:1
-       energi:1
+       ponies:1
+       strategies:1
+       the:2
+       to:2
+       universe:1
+       warfare:1
+../../dataset/economics/result_Maid/110_Neutral
+       a:1
+       all:1
+       also:1
+       confused:1
+       does:1
+       energy:1
+       how:2
+       i:1
        iran:1
+       is:2
        japan:1
+       m:1
        mention:1
+       not:2
        nuclear:1
-       physic:1
+       over:1
+       physics:1
        rt:1
+       s:2
+       same:1
+       the:2
        threat:1
+       while:1
        work:1
        world:1
-../../dataset/economics/result_Maid/111_Neutral__author_is_just_sharing_information
-       assum:1
-       grow:1
-       industri:1
+../../dataset/economics/result_Maid/111_Neutral
+       a:1
+       assuming:1
+       growing:1
+       i:1
+       industry:1
+       is:1
+       m:1
        mention:1
+       now:1
        nuclear:1
        power:1
-../../dataset/economics/result_Maid/112_Neutral__author_is_just_sharing_information
-       energi:1
+       right:1
+../../dataset/economics/result_Maid/112_Neutral
+       about:1
+       apart:1
+       are:1
+       energy:1
+       from:1
+       he:1
+       i:1
+       it:1
+       knows:1
+       m:1
        mention:1
        nuclear:1
+       of:1
        public:1
        quot:2
-       scare:1
+       scared:1
        shit:1
        shitless:1
-       skeptic:1
-../../dataset/economics/result_Maid/113_Neutral__author_is_just_sharing_information
-       blogger:1
-       carniv:1
-       energi:1
+       skeptical:1
+       that:1
+       the:1
+../../dataset/economics/result_Maid/113_Neutral
+       bloggers:1
+       carnival:1
+       energy:1
        idaho:1
        link:1
        mention:1
-       note:1
+       notes:1
        nuclear:1
        nuke:1
+       of:1
        rt:1
        samizdat:1
-../../dataset/economics/result_Maid/114_Neutral__author_is_just_sharing_information
-       danger:1
-       energi:1
-       expens:1
-       ga:1
-       mcguinti:1
+       th:1
+../../dataset/economics/result_Maid/114_Neutral
+       and:2
+       be:1
+       dangerous:1
+       energy:1
+       expensive:1
+       gas:1
+       has:1
+       his:1
+       if:1
+       it:1
+       mcguinty:1
        mention:1
-       natur:1
+       natural:1
        nuclear:1
-       redund:1
-       replac:1
+       redundant:1
+       replace:1
        solar:1
+       way:1
+       will:2
        wind:1
 ../../dataset/economics/result_Maid/115_Negative
+       and:1
+       can:1
        clean:1
-       energi:1
+       energy:1
+       if:1
+       it:1
        mention:1
        nuclear:1
+       out:1
        phase:1
        power:1
-       replac:1
+       replace:1
        rt:1
+       together:1
+       we:2
+       with:1
        work:1
 ../../dataset/economics/result_Maid/116_Positive
-       energi:1
+       and:1
+       energy:1
+       for:1
        growth:1
+       in:1
        mention:1
-       nation:1
-       new:1
+       national:1
+       news:1
        nuclear:1
        pm:1
-       polit:1
+       politics:1
        rt:1
-       scienc:1
+       says:1
+       science:1
        vital:1
-../../dataset/economics/result_Maid/117_Neutral__author_is_just_sharing_information
-       bore:1
+../../dataset/economics/result_Maid/117_Neutral
+       boring:1
        field:2
-       gee:1
-       grader:1
+       gees:1
+       graders:1
+       in:1
        japan:1
-       make:1
+       look:1
+       makes:1
        mention:1
-       movi:1
+       movie:1
+       my:1
        nuclear:1
-       plant:1
+       plants:1
        power:1
+       really:1
        rt:1
+       take:1
+       th:1
+       the:2
        theater:1
-       trip:2
-../../dataset/economics/result_Maid/118_Neutral__author_is_just_sharing_information
-       countri:1
-       gener:2
+       to:2
+       trips:2
+../../dataset/economics/result_Maid/118_Neutral
+       country:1
+       generation:2
+       i:1
        india:1
        link:1
        mention:1
@@ -1373,11 +2021,15 @@
        nuclear:2
        power:2
        rt:1
+       s:1
+       the:1
+       to:1
        touch:1
-../../dataset/economics/result_Maid/119_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/119_Neutral
        accord:1
        civil:1
-       energi:1
+       energy:1
+       for:1
        highest:1
        india:1
        link:1
@@ -1385,181 +2037,278 @@
        nuclear:1
        pm:1
        rt:1
-       safeti:1
-       standard:1
-../../dataset/economics/result_Maid/120_Neutral__author_is_just_sharing_information
-       aviat:1
-       commerci:1
+       safety:1
+       standards:1
+       to:1
+../../dataset/economics/result_Maid/120_Neutral
+       aviation:1
+       commercial:1
        common:1
-       energi:1
-       forecast:1
+       do:1
+       energy:1
+       forecasting:1
        freight:1
-       gp:1
+       gps:1
+       have:1
+       in:1
        internet:1
        mention:1
        nuclear:1
        rt:1
-       thing:1
+       these:1
+       things:1
        weather:1
-../../dataset/economics/result_Maid/121_Neutral__author_is_just_sharing_information
+       what:1
+../../dataset/economics/result_Maid/121_Neutral
        akbar:1
        ali:1
        diplomat:1
        discuss:1
-       energi:1
+       energy:1
        foreign:1
+       in:1
        iran:2
-       issu:1
+       issues:1
        link:1
        mention:1
-       minist:1
+       minister:1
        moscow:1
        nuclear:1
+       of:1
        rt:1
+       s:1
        salehi:1
+       the:1
+       to:1
        top:1
-../../dataset/economics/result_Maid/122_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/122_Neutral
+       a:1
+       all:1
        bearish:1
+       from:1
        gt:1
+       is:2
        link:1
-       make:1
+       making:1
        mention:1
-       notic:1
+       notice:1
        nuclear:1
        oil:2
+       on:1
        rt:1
        sa:1
        saudiarabia:1
-       transit:1
-../../dataset/economics/result_Maid/123_Neutral__author_is_just_sharing_information
+       should:1
+       to:1
+       transition:1
+       we:1
+       when:1
+../../dataset/economics/result_Maid/123_Neutral
        amp:1
-       creat:1
-       energi:1
+       creates:1
+       energy:1
        fact:1
-       issu:1
+       issues:1
        link:1
        lt:1
        mention:1
+       more:1
        nuclear:3
-       reprocess:1
+       reprocessing:1
        rt:1
        sheet:1
-       wast:3
-../../dataset/economics/result_Maid/124_Neutral__author_is_just_sharing_information
-       happen:1
-       incid:1
+       waste:3
+../../dataset/economics/result_Maid/124_Neutral
+       but:1
+       happened:1
+       incident:1
+       into:1
+       it:2
        japan:1
-       jump:1
+       jumping:1
+       like:1
        mention:1
+       more:1
        nuclear:1
-       polit:1
+       on:1
+       politically:1
        power:1
-       speak:1
+       s:1
+       seemed:1
+       speaking:1
+       the:2
+       then:1
+       to:1
+       us:1
+       was:1
+       way:1
 ../../dataset/economics/result_Maid/125_Positive
+       a:4
+       are:1
+       as:1
        cont:1
+       for:1
+       it:1
+       like:1
        link:1
        mention:1
        nuclear:1
        power:1
-       progress:1
+       progressa:1
        rt:1
+       s:1
        sad:1
-       scare:1
-       societi:1
-       technolog:1
-../../dataset/economics/result_Maid/126_Neutral__author_is_just_sharing_information
+       scared:1
+       society:1
+       technology:1
+       that:1
+       to:1
+       use:1
+       we:1
+../../dataset/economics/result_Maid/126_Neutral
+       at:1
+       from:1
+       it:1
        lol:1
        mention:1
        nuclear:1
+       of:1
        plant:1
        power:1
-       work:1
-       year:1
-../../dataset/economics/result_Maid/127_Neutral__author_is_just_sharing_information
-       ambit:1
-       arabia:1
-       energi:1
-       hibb:1
+       the:2
+       was:1
+       working:1
+       years:1
+../../dataset/economics/result_Maid/127_Neutral
+       a:3
+       ambitions:1
+       arabiaa:1
+       energy:1
+       hibbs:1
        link:1
        mark:1
        mention:1
        nuclear:1
+       on:1
        rt:1
+       s:1
        saudi:1
 ../../dataset/economics/result_Maid/128_Positive
        construct:1
        good:1
+       in:1
        iran:1
        link:1
        mention:1
-       new:1
+       more:1
+       news:1
        nuclear:1
-       plant:1
-       propos:1
+       plants:1
+       proposes:1
        rt:1
        russia:1
+       to:1
 ../../dataset/economics/result_Maid/129_Positive
        link:1
        mention:1
+       more:1
        nuclear:1
+       please:1
        power:1
        rt:1
-../../dataset/economics/result_Maid/130_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/130_Neutral
+       a:1
        alcohol:1
-       cannabi:2
-       energi:1
-       heal:1
+       cannabis:2
+       energy:1
+       healing:1
        mention:1
+       more:2
        nuclear:1
        org:1
        plant:1
-       potenti:1
+       potential:1
        power:1
-       properti:1
+       properties:1
        rt:1
        safer:2
-       themarijuanateaparti:1
-../../dataset/economics/result_Maid/131_Neutral__author_is_just_sharing_information
-       burn:1
-       insight:1
+       than:2
+       themarijuanateaparty:1
+../../dataset/economics/result_Maid/131_Neutral
+       at:1
+       burns:1
+       down:1
+       in:1
+       insightful:1
+       just:1
        mention:1
        mr:2
+       not:1
        nuclear:1
-       offic:1
+       office:1
+       oh:1
        plant:1
        power:1
        quot:2
-       school:1
-       sit:1
+       schools:1
+       sitting:1
+       so:1
        tear:1
+       the:1
+       to:1
+       trying:1
        vat:1
+       your:1
 ../../dataset/economics/result_Maid/132_Positive
+       about:1
        agenda:1
        aka:1
+       and:1
        calm:1
-       certainti:1
-       energi:1
+       certainty:1
+       energy:1
        fud:1
+       in:1
+       is:1
        mention:1
+       my:1
        nuclear:1
        quot:2
-       reassur:1
-       respons:1
-       spread:1
+       reassurance:1
+       response:1
+       spreading:1
+       to:1
        truth:1
-../../dataset/economics/result_Maid/133_Neutral__author_is_just_sharing_information
-       crazi:1
+       yours:1
+../../dataset/economics/result_Maid/133_Neutral
+       a:1
+       at:2
+       crazy:1
+       get:1
+       going:1
+       i:1
+       it:1
        job:1
        line:1
+       m:1
        mention:1
+       my:1
        nice:1
        nuclear:1
        plant:1
        power:1
        quiet:1
+       s:1
+       the:1
+       to:1
+       when:1
        work:1
-../../dataset/economics/result_Maid/134_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/134_Neutral
+       and:1
+       as:1
        doesn:1
+       is:1
+       it:3
        long:1
        man:1
        mention:1
@@ -1567,173 +2316,274 @@
        nimbyism:1
        nuclear:1
        power:1
-       relat:1
-       support:2
+       relate:1
+       same:1
+       so:1
+       support:1
+       supporters:1
+       t:1
+       the:1
+       them:1
+       they:1
        thing:1
-../../dataset/economics/result_Maid/135_Neutral__author_is_just_sharing_information
+       to:1
+       with:1
+../../dataset/economics/result_Maid/135_Neutral
+       a:1
        bet:1
        big:1
-       bomb:1
+       bombs:1
+       by:1
        hit:1
        link:1
        mention:1
        nation:1
        nuclear:1
+       on:1
+       placed:1
        power:1
        rt:1
 ../../dataset/economics/result_Maid/136_Negative
+       are:1
        build:1
        ceo:1
        exelon:1
-       expens:1
+       expensive:1
+       just:1
        link:1
        mention:1
+       new:1
        nuclear:1
-       plant:1
+       plants:1
        power:1
        rt:1
-../../dataset/economics/result_Maid/137_Neutral__author_is_just_sharing_information
-       abolit:1
-       academ:2
+       s:1
+       says:1
+       see:1
+       to:1
+       too:1
+       what:1
+../../dataset/economics/result_Maid/137_Neutral
+       abolition:1
+       academics:2
+       and:1
        antinuclear:1
        ca:1
        call:1
+       for:1
        link:1
        mention:1
-       ngo:1
-       nongovernment:1
+       ngos:1
+       nongovernmental:1
        nuclear:1
-       organ:1
-       plant:1
+       of:1
+       organizations:1
+       plants:1
        rt:1
-../../dataset/economics/result_Maid/138_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/138_Neutral
        link:1
        logo:1
        mention:2
-       nuke:1
+       no:1
+       nukes:1
        rt:1
+       via:1
 ../../dataset/economics/result_Maid/139_Negative
+       a:1
+       all:1
+       also:1
+       and:1
+       but:1
        children:1
+       has:1
        japan:1
        link:1
        lot:1
        mention:1
+       not:1
        nuclear:1
+       of:1
+       only:1
+       over:1
        plant:1
+       please:1
        power:1
-       problem:1
+       problems:1
        rt:1
        save:1
+       the:2
        world:1
-../../dataset/economics/result_Maid/140_Neutral__author_is_just_sharing_information
-       damag:1
-       earthquak:1
+../../dataset/economics/result_Maid/140_Neutral
+       any:1
+       at:1
+       damage:1
+       earthquake:1
+       in:1
        japan:1
        mention:1
+       no:1
+       now:1
        nuclear:1
-       plant:1
+       or:1
+       plants:1
        power:1
-       report:1
+       reported:1
        rt:1
        tsunami:1
-../../dataset/economics/result_Maid/141_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/141_Neutral
        blog:1
-       blogger:1
-       carniv:1
+       bloggers:1
+       carnival:1
        digest:1
-       energi:1
+       energy:1
+       is:1
        link:1
        mention:2
        nuclear:3
+       of:1
        rt:2
-../../dataset/economics/result_Maid/144_Negative
-       boil:1
-       danger:1
-       earth:1
-       energi:1
-       expens:1
-       human:1
-       mention:1
-       nuclear:1
-       rt:1
-       screw:1
-       uninhabit:1
-       water:1
-../../dataset/economics/result_Maid/142_Neutral__author_is_just_sharing_information
+       th:1
+       up:1
+../../dataset/economics/result_Maid/142_Neutral
        arizona:1
-       declin:1
-       emerg:1
-       energi:2
+       declines:1
+       emerges:1
+       energy:2
        greener:1
+       if:1
+       in:1
        link:1
        mention:1
        nuclear:1
+       re:2
        rt:1
        talkin:1
-../../dataset/economics/result_Maid/143_Neutral__author_is_just_sharing_information
+       to:1
+       we:1
+       while:1
+       you:2
+../../dataset/economics/result_Maid/143_Neutral
+       a:2
        albert:1
        boil:1
        einstein:1
-       energi:1
-       exit:1
+       energy:1
+       exite:1
        hell:1
+       is:1
        mention:1
        nuclear:1
+       of:1
        quot:1
        rt:1
+       to:1
        water:1
-../../dataset/economics/result_Maid/145_Neutral__author_is_just_sharing_information
-       capit:1
-       commun:1
-       energi:1
-       intern:1
+       way:1
+../../dataset/economics/result_Maid/144_Negative
+       a:1
+       and:1
+       boil:1
+       dangerous:1
+       earth:1
+       energy:1
+       expensive:1
+       for:1
+       humans:1
+       is:2
+       it:1
+       mention:1
+       more:1
+       nuclear:1
+       rt:1
+       s:1
+       screws:1
+       the:1
+       to:1
+       uninhabitable:1
+       up:1
+       very:1
+       water:1
+       way:1
+       what:1
+       when:1
+../../dataset/economics/result_Maid/145_Neutral
+       and:1
+       capitalism:1
+       communism:1
+       energy:1
+       international:1
        link:1
        mention:1
        nuclear:1
        rt:1
 ../../dataset/economics/result_Maid/146_Negative
+       all:1
+       and:1
        clean:1
        death:1
-       energi:1
-       futur:1
-       gener:1
+       energy:1
+       for:1
+       future:1
+       generations:1
        mention:1
        nice:1
+       now:1
        nuclear:1
+       of:1
+       our:1
        planet:1
        rt:1
+       the:1
+       to:1
        work:1
-../../dataset/economics/result_Maid/147_Neutral__author_is_just_sharing_information
-       articl:1
-       energi:1
+../../dataset/economics/result_Maid/147_Neutral
+       after:1
+       article:1
+       energy:1
        fm:1
        fukushima:1
-       futur:1
+       future:1
+       is:1
+       it:1
        jun:1
        link:1
        mention:1
-       nation:1
+       national:1
        nuclear:1
+       of:2
        power:1
        reprint:1
        review:1
        rt:1
-../../dataset/economics/result_Maid/148_Neutral__author_is_just_sharing_information
-       backward:1
-       futur:1
+       still:1
+       the:2
+../../dataset/economics/result_Maid/148_Neutral
+       a:1
+       are:1
+       backwards:1
+       best:1
+       future:1
        hypocrite:1
+       in:2
        interest:1
+       is:1
        leader:1
        mention:1
        nuclear:1
+       of:2
        power:1
        saskatchewan:1
+       the:2
        uranium:1
+       we:1
        world:1
-../../dataset/economics/result_Maid/149_Neutral__author_is_just_sharing_information
-       approv:1
-       construct:1
+../../dataset/economics/result_Maid/149_Neutral
+       approved:1
+       at:1
+       construction:1
+       from:1
        ga:1
+       in:1
        link:1
        mention:2
        nuclear:1
@@ -1741,60 +2591,71 @@
        power:1
        rt:1
        site:1
-       spend:1
-       vogtl:1
-../../dataset/economics/result_Maid/150_Neutral__author_is_just_sharing_information
-       arm:1
-       bird:1
-       frog:1
-       hors:1
-       iron:1
+       spending:1
+       vogtle:1
+../../dataset/economics/result_Maid/150_Neutral
+       arms:1
+       birds:1
+       frogs:1
+       horses:1
+       ironically:1
        mention:1
        nuclear:1
-       otter:1
+       otters:1
        power:1
-       protection:1
-       snail:1
-       sparrow:1
+       protectionism:1
+       snails:1
+       sparrows:1
        topless:1
-       vole:1
-       zealou:1
-../../dataset/economics/result_Maid/151_Neutral__author_is_just_sharing_information
+       voles:1
+       zealous:1
+../../dataset/economics/result_Maid/151_Neutral
        abrupt:1
        chancellor:1
-       energi:1
-       expedi:1
+       energy:1
+       expedient:1
        german:1
+       her:1
        link:1
        mention:1
        merkel:1
        nuclear:1
        ny:1
-       polit:1
+       on:1
+       politically:1
        rt:1
-       time:1
+       times:1
        turn:1
-       wash:1
+       u:1
+       washes:1
        white:1
-../../dataset/economics/result_Maid/152_Neutral__author_is_just_sharing_information
-       centuri:1
-       energi:2
+../../dataset/economics/result_Maid/152_Neutral
+       century:1
+       energy:2
+       for:1
        green:1
        mention:1
+       new:1
        nuclear:1
+       or:1
        st:1
-../../dataset/economics/result_Maid/153_Neutral__author_is_just_sharing_information
+       the:1
+../../dataset/economics/result_Maid/153_Neutral
        daiichi:1
-       energi:1
+       energy:1
        fukushima:1
        link:1
        mention:1
        nuclear:1
+       on:1
        progress:1
        report:1
        rt:1
-../../dataset/economics/result_Maid/154_Neutral__author_is_just_sharing_information
-       evacu:1
+../../dataset/economics/result_Maid/154_Neutral
+       an:1
+       evacuation:1
+       from:1
+       know:1
        link:1
        mention:1
        nuclear:1
@@ -1802,149 +2663,203 @@
        plant:1
        power:1
        protect:1
-       radiat:1
-       rout:1
+       radiation:1
+       route:1
        rt:1
        safe:1
-       zone:1
-../../dataset/economics/result_Maid/155_Neutral__author_is_just_sharing_information
-       energi:1
+       the:1
+       yourself:1
+       zones:1
+../../dataset/economics/result_Maid/155_Neutral
+       energy:1
+       for:1
        link:1
        mention:1
        nuclear:1
        public:1
-       remain:1
+       remains:1
        rt:1
        strong:1
        support:1
 ../../dataset/economics/result_Maid/156_Positive
        afford:1
-       consequ:1
-       dai:1
-       energi:1
+       cannot:1
+       consequences:1
+       day:1
+       energy:1
        florida:1
-       includ:1
+       in:1
+       including:1
        link:1
        mention:1
+       not:1
        nuclear:2
+       of:2
        power:1
-       quot:1
+       quote:1
        rt:1
-../../dataset/economics/result_Maid/157_Neutral__author_is_just_sharing_information
+       the:2
+       we:1
+../../dataset/economics/result_Maid/157_Neutral
+       at:2
        calhoun:2
        fort:2
        leak:2
        link:1
        mention:1
        nuclear:3
+       p:1
        power:1
-       radioact:2
+       radioactive:2
        rt:1
        station:1
-../../dataset/economics/result_Maid/158_Neutral__author_is_just_sharing_information
-       design:1
+../../dataset/economics/result_Maid/158_Neutral
+       designed:1
+       did:1
        fact:1
-       filter:1
-       garmentcar:1
+       filters:1
+       for:1
+       garmentcare:1
        hepa:1
+       know:1
        mention:1
        nuclear:1
-       plant:1
+       plants:1
        power:1
        random:1
        rt:1
-../../dataset/economics/result_Maid/159_Neutral__author_is_just_sharing_information
-       china:1
-       disast:1
+       that:1
+       were:1
+       you:1
+../../dataset/economics/result_Maid/159_Neutral
+       a:3
+       by:1
+       chinaa:1
+       disaster:1
        fukushima:1
        link:2
        mention:2
        nuclear:1
-       plan:1
+       our:1
+       plans:1
        power:1
-       read:1
+       reading:1
        rt:1
+       s:1
        similar:1
-       unfaz:1
-../../dataset/economics/result_Maid/160_Neutral__author_is_just_sharing_information
+       to:1
+       unfazed:1
+../../dataset/economics/result_Maid/160_Neutral
        american:1
        blackout:1
        corruptmedia:1
-       coverag:1
-       leak:1
+       coverage:1
+       is:1
+       leaking:1
        mention:1
-       new:1
+       news:1
        nuclear:1
-       plant:1
+       or:2
+       plants:1
        power:1
-       rememb:1
+       remember:1
        rt:1
+       the:1
+       there:1
+       three:1
+       two:1
+       under:1
        water:1
-../../dataset/economics/result_Maid/161_Neutral__author_is_just_sharing_information
-       advanc:1
-       discuss:1
-       divorc:1
-       energi:1
+       were:1
+       where:1
+../../dataset/economics/result_Maid/161_Neutral
+       advances:1
+       can:1
+       discussions:1
+       divorce:1
+       energy:1
        fear:1
+       from:1
        fuel:1
+       in:1
        laser:1
        mention:1
-       nonprolifer:1
+       nonproliferation:1
        nuclear:2
-       prove:1
+       proves:1
        quot:1
        report:1
        stir:1
+       t:1
        terror:1
-../../dataset/economics/result_Maid/162_Neutral__author_is_just_sharing_information
+       we:1
+../../dataset/economics/result_Maid/162_Neutral
        daiichi:1
+       from:1
        fukushima:1
-       ground:1
+       grounds:1
        link:1
        mention:1
        nuclear:1
+       of:1
        power:1
-       report:1
+       reporting:1
        rt:1
        station:1
-../../dataset/economics/result_Maid/163_Neutral__author_is_just_sharing_information
+       the:1
+../../dataset/economics/result_Maid/163_Neutral
        back:1
-       corp:1
-       energi:1
+       because:1
+       corps:1
+       do:1
+       energy:1
+       is:1
        mention:1
        nuclear:1
        oil:1
-       regul:1
-       roll:1
+       regulations:1
+       right:1
+       rolling:1
+       should:1
+       that:1
+       the:2
        thing:1
+       to:1
        trust:1
        wallstreet:1
-../../dataset/economics/result_Maid/164_Neutral__author_is_just_sharing_information
-       an:1
-       blogger:1
+       we:1
+../../dataset/economics/result_Maid/164_Neutral
+       ans:1
+       at:1
+       bloggers:1
        cafe:1
-       carniv:1
-       energi:1
+       carnival:1
+       energy:1
        link:1
        mention:2
+       now:1
        nuclear:2
-       onlin:1
+       of:1
+       online:1
        rt:2
-../../dataset/economics/result_Maid/165_Neutral__author_is_just_sharing_information
+       th:1
+../../dataset/economics/result_Maid/165_Neutral
        daiichi:1
-       energi:1
+       energy:1
        fukushima:1
        link:1
        mention:2
        nuclear:1
+       on:1
        progress:1
        report:1
        rt:2
 ../../dataset/economics/result_Maid/166_Negative
+       a:3
        abandon:1
-       altogeth:1
+       altogether:1
        amp:1
-       crack:1
+       cracking:1
        fukushima:1
        ground:1
        link:1
@@ -1953,327 +2868,467 @@
        plant:1
        power:1
        quot:2
-       radioact:1
+       radioactive:1
        report:1
-       rt:2
+       rt:1
+       rta:1
        steam:1
-       vent:1
-../../dataset/economics/result_Maid/167_Neutral__author_is_just_sharing_information
+       under:1
+       venting:1
+../../dataset/economics/result_Maid/167_Neutral
+       and:1
        build:1
+       comes:1
+       doing:1
+       in:2
        iran:1
        magog:1
        mention:1
-       natur:1
+       more:1
+       naturally:1
        nuclear:1
        persia:1
-       plant:1
+       plants:1
        power:1
        rt:1
        russia:1
-       talk:1
-../../dataset/economics/result_Maid/168_Neutral__author_is_just_sharing_information
-       build:1
+       talks:1
+       to:1
+       what:1
+../../dataset/economics/result_Maid/168_Neutral
+       building:1
        chief:1
-       cooper:1
+       cooperating:1
        ir:1
        iran:1
        link:1
        mention:1
+       new:1
        nuclear:2
-       plant:1
+       on:1
+       plants:1
        power:1
        presstv:1
-       propos:1
+       proposed:1
        rt:1
        russia:1
+       s:1
+       says:1
+       w:1
 ../../dataset/economics/result_Maid/169_Negative
-       ambit:1
+       ambitions:1
        arabia:1
-       boost:1
-       disturb:1
+       boosts:1
+       can:1
+       disturbs:1
        drive:1
-       energi:1
+       energy:1
+       its:1
        link:1
        lt:1
+       me:1
        mention:1
        nuclear:2
        rt:1
        saudi:1
+       t:1
+       there:1
+       this:1
        women:1
-../../dataset/economics/result_Maid/170_Neutral__author_is_just_sharing_information
-       ambit:1
-       arabia:1
-       energi:2
-       file:1
+../../dataset/economics/result_Maid/170_Neutral
+       a:3
+       ambitions:1
+       arabiaa:1
+       energy:2
+       filed:1
        link:1
        mention:1
-       new:1
+       news:1
        nuclear:1
        rt:1
+       s:1
        saudi:1
-../../dataset/economics/result_Maid/171_Neutral__author_is_just_sharing_information
-       adapt:1
-       cap:1
-       energi:1
+       under:1
+../../dataset/economics/result_Maid/171_Neutral
+       adaptation:1
+       and:1
+       caps:1
+       energy:1
        human:1
-       ic:1
+       ice:1
        link:1
-       melt:1
+       melting:1
        mention:1
        nuclear:1
        rt:1
-       saturdai:1
-       scienc:1
-../../dataset/economics/result_Maid/172_Neutral__author_is_just_sharing_information
-       adapt:1
-       blogginghead:1
-       cap:1
-       energi:1
+       saturday:1
+       science:1
+../../dataset/economics/result_Maid/172_Neutral
+       adaptation:1
+       and:1
+       bloggingheads:1
+       caps:1
+       energy:1
        human:1
-       ic:1
+       i:1
+       ice:1
        link:1
-       melt:1
+       melting:1
        mention:1
        nuclear:1
+       on:1
        rt:1
        satu:1
-       saturdai:1
-       scienc:2
+       saturday:1
+       science:2
        tv:1
-../../dataset/economics/result_Maid/173_Neutral__author_is_just_sharing_information
-       energi:1
-       fear:1
+       was:1
+../../dataset/economics/result_Maid/173_Neutral
+       be:1
+       energy:1
+       feared:1
        fukushima:1
-       germani:1
+       germany:1
        japan:1
        link:1
        mention:1
+       more:1
        nuclear:1
+       or:1
        orcot:1
        power:1
        rt:1
+       should:1
        understood:1
-../../dataset/economics/result_Maid/174_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/174_Neutral
+       in:1
        krsko:1
        link:1
        mention:2
-       new:1
+       news:1
        nuclear:1
        plant:1
        power:1
        rt:1
+       s:1
        slovenia:1
-../../dataset/economics/result_Maid/175_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/175_Neutral
+       about:2
        bit:1
        coal:1
+       from:1
        fukushima:1
-       import:1
+       important:1
        isn:1
+       it:1
        ly:1
        mention:2
        nuclear:1
        post:1
        power:1
-       radioact:1
+       radioactive:1
        rkcai:1
        rt:2
+       s:1
        smart:1
-       studi:1
+       studying:1
        sulfur:1
-../../dataset/economics/result_Maid/176_Neutral__author_is_just_sharing_information
-       agre:1
-       boat:1
+       t:1
+../../dataset/economics/result_Maid/176_Neutral
+       agreed:1
+       and:1
+       boats:1
        due:1
        good:1
        keepout:1
        larger:1
        mention:1
        nuclear:1
+       on:1
        power:1
-       sound:1
-       sourc:1
+       sounds:1
+       source:1
+       the:1
+       this:1
        time:1
+       to:1
        zone:1
-../../dataset/economics/result_Maid/177_Neutral__author_is_just_sharing_information
-       energi:1
-       grid:1
-       integr:1
+../../dataset/economics/result_Maid/177_Neutral
+       as:1
+       does:1
+       energy:1
+       grids:1
+       integral:1
+       is:1
        link:1
        mention:1
-       multipl:1
+       multiple:1
        nuclear:3
        rt:1
-       safeti:2
+       s:1
+       safety:2
        spotlight:1
-       strengthen:1
+       strengthening:1
+       u:1
 ../../dataset/economics/result_Maid/178_Negative
-       di:1
+       died:1
        due:1
+       ever:1
+       have:1
+       in:1
        mention:1
+       more:1
        nuclear:1
-       peopl:1
+       people:1
        power:1
-../../dataset/economics/result_Maid/179_Neutral__author_is_just_sharing_information
-       build:1
-       charg:1
+       still:1
+       than:1
+       the:1
+       to:1
+       us:1
+../../dataset/economics/result_Maid/179_Neutral
+       a:1
+       building:1
+       charge:1
        diarrhea:1
-       drill:1
+       drilling:1
+       enough:1
+       far:1
+       get:1
+       gone:1
+       has:1
+       in:1
        lib:1
        mention:1
        muslim:1
        nuclear:1
        oil:1
        patriot:1
-       plant:1
+       plants:1
        power:1
        rt:1
        start:1
        stop:1
-       talk:1
+       talking:1
+       this:1
        verbal:1
-../../dataset/economics/result_Maid/180_Neutral__author_is_just_sharing_information
+../../dataset/economics/result_Maid/180_Neutral
+       about:2
        coal:1
+       from:1
        fukushima:1
        isn:1
+       it:1
        link:1
        mention:1
        nuclear:1
        power:1
-       radioact:1
+       radioactive:1
        rt:1
-       studi:1
+       s:1
+       studying:1
        sulfur:1
-../../dataset/economics/result_Maid/181_Neutral__author_is_just_sharing_information
+       t:1
+../../dataset/economics/result_Maid/181_Neutral
+       a:2
+       be:1
        book:1
-       briberi:1
+       bribery:1
        food:1
-       futur:2
-       issu:1
+       future:2
+       in:1
+       issues:1
+       it:1
        japan:1
+       like:1
        mention:1
        nuclear:1
        power:1
-       quak:1
-       taint:1
+       quake:1
+       s:2
+       saw:1
+       tainted:1
+       there:1
+       too:1
+       will:1
+       with:1
+       you:1
 ../../dataset/economics/result_Maid/182_Negative
-       concider:1
+       and:1
+       at:1
+       be:1
+       conciderations:1
        fukushima:1
        health:1
        heat:1
-       ill:1
+       illness:1
        mention:1
        nice:1
        nuclear:1
+       of:1
        plant:1
        power:1
        quot:2
-       realt:1
+       realted:1
        risk:1
-       safeti:1
-       worker:1
-../../dataset/economics/result_Maid/183_Neutral__author_is_just_sharing_information
-       blog:1
-       carniv:1
+       safety:1
+       that:1
+       workers:1
+       would:1
+../../dataset/economics/result_Maid/183_Neutral
+       and:1
+       are:1
+       at:1
+       blogs:1
+       carnival:1
        find:1
+       is:1
        link:1
        mention:1
        nei:1
-       note:1
+       notes:1
        nuclear:2
-       nuke:1
-       podcast:1
+       nukes:1
+       of:1
+       out:1
+       podcasts:1
        pro:1
        rt:1
-../../dataset/economics/result_Maid/184_Neutral__author_is_just_sharing_information
+       saying:1
+       th:1
+       the:2
+       up:1
+       what:1
+../../dataset/economics/result_Maid/184_Neutral
+       a:2
+       and:1
+       became:1
        cement:1
-       engulf:1
-       forg:1
+       engulfed:1
+       everything:1
+       except:1
+       forged:1
+       he:1
        heart:2
+       his:2
        man:1
        mention:1
-       muscl:1
+       muscles:1
        nuclear:1
-       organ:1
+       of:1
+       organs:1
        power:1
        rt:1
        skin:1
        stone:1
-../../dataset/economics/result_Maid/185_Neutral__author_is_just_sharing_information
+       the:1
+       with:1
+../../dataset/economics/result_Maid/185_Neutral
+       at:1
        bird:1
-       drink:1
-       ga:1
+       drinking:1
+       gas:1
        mention:1
        nuclear:1
        plant:1
        power:1
-       predispos:1
+       predisposed:1
        springfield:1
-       vent:1
-../../dataset/economics/result_Maid/186_Neutral__author_is_just_sharing_information
-       accid:1
-       featur:1
-       fir:1
+       the:2
+       venting:1
+       was:1
+../../dataset/economics/result_Maid/186_Neutral
+       accident:1
+       featuring:1
+       firs:1
+       first:1
+       for:1
        fukushima:1
+       is:2
        link:1
        mention:1
        nuclear:1
-       reactiv:2
+       reactivated:1
+       reactivation:1
        reactor:1
        rt:1
-../../dataset/economics/result_Maid/187_Neutral__author_is_just_sharing_information
-       entri:1
+       s:1
+       since:1
+       the:3
+../../dataset/economics/result_Maid/187_Neutral
+       all:1
+       by:1
+       entry:1
        fukushima:1
-       govern:1
+       government:1
+       in:1
        land:1
        link:1
        mention:1
+       no:1
        nuclear:1
-       own:1
-       part:1
-       plan:1
+       of:2
+       owned:1
+       parts:1
+       plans:1
        plant:1
        power:1
        rent:1
-       resid:1
+       residents:1
        rt:1
+       the:1
+       to:1
        zone:1
-../../dataset/economics/result_Maid/188_Neutral__author_is_just_sharing_information
-       energi:1
+../../dataset/economics/result_Maid/188_Neutral
+       energy:1
        hindu:1
-       import:1
+       important:1
        link:2
        manmohan:1
        mention:1
-       nation:1
-       new:1
+       national:1
+       news:1
        nuclear:1
-       plai:1
+       play:1
        role:1
        rt:1
-../../dataset/economics/result_Maid/189_Neutral__author_is_just_sharing_information
+       the:1
+       will:1
+../../dataset/economics/result_Maid/189_Neutral
+       b:1
        book:1
        cohen:1
-       energi:1
-       famou:1
+       energy:1
+       famous:1
        free:1
+       is:1
+       l:1
        link:1
        mention:1
        nuclear:1
+       of:1
        option:1
        prof:1
        rt:1
-../../dataset/economics/result_Maid/190_Neutral__author_is_just_sharing_information
+       the:2
+../../dataset/economics/result_Maid/190_Neutral
        amp:1
-       emerg:1
-       industri:1
+       at:1
+       emergency:1
+       industry:1
+       is:1
        learn:1
        link:1
        mention:1
+       more:1
        nuclear:2
-       plant:1
-       prepared:1
+       plants:1
+       preparedness:1
        reconfirm:1
        rt:1
-       safeti:1
-       step:1
-       take:1
+       safety:1
+       steps:1
+       taking:1
+       the:1
+       to:1
+       us:1

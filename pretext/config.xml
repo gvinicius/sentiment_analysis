@@ -11,12 +11,7 @@
         <simbols/>
     </maid>
 
-    <ngram dir="ngraminfo">
-        <gram n="1"/>
-    </ngram>
-
     <report
-        ngramdir="ngraminfo"
         discover="discover"
         transpose="disabled">
 

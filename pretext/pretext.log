@@ -3676,3 +3676,1638 @@ Number of Stems                                              11
 Total Time: 1
 #-------------------#
 
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            486
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 486
+Total Texts : 182
+-----------------------
+
+Matrix Density                                               127.40
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              182
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              486
+
+#-------------------#
+Total Time: 0
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            486
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 486
+Total Texts : 182
+-----------------------
+
+Matrix Density                                               127.40
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              182
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              486
+
+#-------------------#
+Total Time: 0
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            486
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 486
+Total Texts : 182
+-----------------------
+
+Matrix Density                                               127.40
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              182
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              486
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            486
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 486
+Total Texts : 182
+-----------------------
+
+Matrix Density                                               127.40
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              182
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              486
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          NGram.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ directory    = ngraminfo
+  1-Gram      = ENABLED
+
+Criando 1Gram   :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 3
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 1
+#-------------------#
+
+#-----------------------------#
+#           PreTexT           #
+#                             #
+#    Implemented by LABIC     #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ language     = en
+ directory    = ../../dataset/economics/result
+ log file     = pretext.log
+
+#-----------------------------#
+#           Maid.pm           #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ html clear   = ENABLED
+ number clear = ENABLED
+ simbol clear = ENABLED
+Maid            :..........:..........:..........:..........:..........: OK
+
+#-----------------------------#
+#          Report.pm          #
+#-----------------------------#
+
+#======== PARAMETERS =========#
+ NGram Dir    = ngraminfo
+ Discover Dir = discover
+ Graphics Dir = graphics
+  1-Gram      = ENABLED
+   > Measure  = tfidf
+
+    ### Taxonomy was NOT Loaded ###
+
+#------ 1-Gram -----#
+1Gram.all       :..........:..........:..........:..........:..........: OK
+ Number of 1-gram loaded from ngraminfo/1Gram.all            1070
+
+1Gram.txt       :..........:..........:..........:..........:..........: OK
+ graphics/1-StdDev.dat created!
+ graphics/1-StdDevFF.dat created!
+ graphics/1-GnuPlot.script created!
+
+Loading TF-IDF
+Writing Measure :..........:..........:..........:..........:..........: OK
+
+======= Summary =======
+   N-Gram   : 1
+Total Stems : 1070
+Total Texts : 190
+-----------------------
+
+Matrix Density                                               248.02
+
+#--- Discovery Table ---#
+Discover Data   :..........:..........:..........:..........:..........: OK
+Number of Texts                                              190
+Discover Names  :..........:..........:..........:..........:..........: OK
+Number of Stems                                              1070
+
+#-------------------#
+Total Time: 2
+#-------------------#
+
