@@ -20,6 +20,6 @@ sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//" pretext/discov
 # sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//" testing])
 # sed "s/\(...\\..\/dataset\/economics\/result\_Maid..[0-9]*\_\)//"  | sed "s/\.txt\.swp//" | sed 's/,\.\/dataset\/economics\/result\_Maid//' >> discover3.arff
 
-# bash patterns_extrator.sh
+bash patterns_extrator.sh
 # sed -i 's/'"$1"'/ANNO/g' pretext/config.xml
 #git checkout -- pretext/config.xml
