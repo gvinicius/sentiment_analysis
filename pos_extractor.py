@@ -26,9 +26,9 @@ destination_path_file = '../dataset/economics/result/file'
 
 def generate_bases():
     counter = 1
-    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
 #    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
-#    with open('../dataset/economics/progressive-tweet-sentiment.csv', 'r', encoding="latin1") as csvfile:
+#    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
+    with open('../dataset/economics/progressive-tweet-sentiment.csv', 'r', encoding="latin1") as csvfile:
 #    with open('../dataset/economics/Political-media-DFE.csv', 'r', encoding="latin1") as csvfile:
         csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
@@ -40,7 +40,7 @@ def generate_bases():
             tagged = nltk.tag.pos_tag(raw_tokens)
             selected_tokens = [word for word,pos in tagged if pos in ['JJR','JJS','NNS','NNP'] ]
 #            selected_tokens = [word for word,pos in tagged if pos in ['RBR','JJR','JJS','NNS','NNP'] ]
-#           selected_tokens = raw_tokens
+#            selected_tokens = raw_tokens
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word + " " 

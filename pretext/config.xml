@@ -11,12 +11,17 @@
         <simbols/>
     </maid>
 
+    <ngram dir="ngraminfo">
+        <gram n="1"/>
+    </ngram>
+
     <report
+        ngramdir="ngraminfo"
         discover="discover"
         transpose="disabled">
 
         <gram n="1"
             measure="tfidf"
-            smooth="disabled"/>
+            smooth="enabled"/>
     </report>
 </pretext>

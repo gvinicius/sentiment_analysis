@@ -1,0 +1,1 @@
+['worst', 'political', 'public', 'popular', 'and', 'so', 'politician', 'public', 'entire']

@@ -1,3334 +1,5171 @@
-../../dataset/economics/result_Maid/1_Negative
-       a:1
-       crisis:1
-       hello:1
-       is:1
-       japan:1
-       link:1
-       nuclear:1
-       plant:1
-       power:1
-../../dataset/economics/result_Maid/2_Neutral
-       consumption:1
-       energy:2
-       firsttime:1
-       for:1
-       is:1
-       link:1
-       nuclear:2
-       renewable:2
-       tops:1
-../../dataset/economics/result_Maid/3_Neutral
-       dangerous:1
-       eliminate:1
-       energy:1
-       green:1
-       liberals:1
-       link:1
-       news:1
-       now:1
-       nuclear:1
-       plants:1
-       power:1
-       seek:1
-       to:1
-       will:1
-../../dataset/economics/result_Maid/4_Neutral
-       as:1
-       aug:2
-       daiichi:1
-       fukushima:1
-       japan:1
-       link:1
-       nuclear:1
-       of:2
-       plant:1
-       pm:1
-       power:1
-       station:1
-       status:1
-       tepco:1
-../../dataset/economics/result_Maid/5_Neutral
-       and:1
-       ebook:1
-       energy:1
-       environment:1
-       ess:1
-       isbn:1
-       iversity:1
-       link:1
-       nuclear:1
-       ord:1
-       oxf:1
-       p:1
-       pages:1
-       pr:1
-       the:1
-       un:1
-../../dataset/economics/result_Maid/6_Neutral
-       cambridge:1
-       campaign:1
-       concerned:1
-       gjobs:1
-       link:1
-       ma:1
-       nuclear:1
-       of:1
-       organizer:1
-       power:1
-       safety:1
-       scientists:1
-       temporary:1
-       union:1
-../../dataset/economics/result_Maid/7_Neutral
-       contamination:1
-       in:1
-       link:1
-       news:1
-       nuclear:1
-       nwo:1
-       plant:1
-       power:1
-       radioactive:1
-       tritium:1
-       vermont:1
-../../dataset/economics/result_Maid/8_Neutral
-       and:1
-       energy:1
-       environment:1
-       ess:1
-       isbn:1
-       iversity:1
-       link:1
-       nuclear:1
-       ord:1
-       oxf:1
-       pages:1
-       pr:1
-       science:1
-       the:1
-       un:1
-../../dataset/economics/result_Maid/9_Neutral
-       as:2
-       average:1
-       how:1
-       link:1
-       many:1
-       much:1
-       need:1
-       nuclear:1
-       one:1
-       p:1
-       power:2
-       produce:1
-       station:1
-       to:1
-       windmills:2
-       would:1
-       you:1
-../../dataset/economics/result_Maid/10_Positive
-       a:1
-       built:1
-       but:1
-       correctly:1
-       do:1
-       done:1
-       energy:1
-       for:1
-       i:1
-       link:1
-       m:1
-       nuclear:1
-       plant:1
-       quot:2
-       right:1
-       s:1
-       standard:1
-       the:1
-       thing:1
-       this:1
-       to:2
-       was:1
-       when:1
-../../dataset/economics/result_Maid/11_Neutral
-       aid:1
-       all:1
-       and:1
-       current:1
-       diichi:1
-       for:1
-       fukushima:1
-       link:1
-       masao:1
-       min:1
-       nuclear:1
-       of:1
-       progress:1
-       reports:1
-       station:1
-       thanks:1
-       video:1
-       yoshida:1
-../../dataset/economics/result_Maid/12_Neutral
-       daily:1
-       favor:1
-       gradual:1
-       link:1
-       mainichi:2
-       news:1
-       nuclear:1
-       of:1
-       percent:1
-       plants:1
-       poll:1
-       power:1
-       reduction:1
-../../dataset/economics/result_Maid/13_Neutral
-       alternative:1
-       as:1
-       coal:1
-       egat:1
-       link:1
-       nuclear:1
-       possible:1
-       power:1
-       seen:1
-       to:1
-../../dataset/economics/result_Maid/14_Neutral
-       are:1
-       economic:1
-       experts:1
-       link:1
-       lithuanian:1
-       not:1
-       nuclear:1
-       of:2
-       plant:1
-       power:1
-       project:1
-       side:1
-       sure:1
-       the:2
-../../dataset/economics/result_Maid/15_Neutral
-       a:3
-       enters:1
-       five:1
-       link:1
-       market:1
-       nuclear:1
-       power:1
-       stara:1
-       supply:1
-../../dataset/economics/result_Maid/16_Neutral
-       a:3
-       enters:1
-       five:1
-       link:1
-       market:1
-       newswire:1
-       nuclear:1
-       power:1
-       pr:1
-       press:1
-       release:1
-       stara:1
-       supply:1
-../../dataset/economics/result_Maid/17_Neutral
-       a:1
-       articles:1
-       complete:1
-       dollar:1
-       energy:1
-       health:1
-       inves:1
-       link:1
-       million:1
-       multi:1
-       newspaper:1
-       nuclear:1
-       of:1
-       peaceful:1
-       rejection:1
-       require:1
-       will:1
-../../dataset/economics/result_Maid/18_Neutral
-       accord:1
-       civil:1
-       economic:1
-       energy:1
-       for:1
-       highest:1
-       india:1
-       link:1
-       nuclear:1
-       pm:1
-       safety:1
-       standards:1
-       times:1
-       to:1
-../../dataset/economics/result_Maid/19_Neutral
-       arnie:1
-       gundersen:1
-       link:1
-       mention:1
-       nirs:1
-       nuclear:1
-       power:1
-       resume:1
-       sccouncil:1
-       via:1
-       w:1
-../../dataset/economics/result_Maid/20_Neutral
-       bats:1
-       energy:1
-       for:1
-       india:1
-       link:1
-       nuclear:1
-       of:1
-       pm:1
-       times:1
-../../dataset/economics/result_Maid/21_Neutral
-       ambitions:1
-       arabia:1
-       collective:1
-       energy:2
-       link:1
-       nuclear:1
-       s:1
-       saudi:1
-../../dataset/economics/result_Maid/22_Neutral
-       consumption:1
-       decreased:1
-       health:1
-       improved:1
-       in:1
-       link:2
-       nuclear:1
-       olympics:1
-       per:1
-       power:1
-       results:1
-       rice:1
-       the:1
-../../dataset/economics/result_Maid/23_Neutral
-       fukushima:1
-       happening:1
-       link:1
-       mention:1
-       nuclear:1
-       plant:1
-       power:1
-       s:1
-       what:1
-../../dataset/economics/result_Maid/24_Negative
-       a:2
-       dozen:1
-       few:1
-       have:1
-       home:1
-       link:1
-       near:1
-       nuclear:1
-       or:1
-       plant:1
-       power:2
-       rather:1
-       turbines:2
-       wind:1
-       would:1
-       you:1
-       your:1
-../../dataset/economics/result_Maid/25_Neutral
-       about:1
-       feel:1
-       how:1
-       hydrofracking:1
-       link:1
-       marist:1
-       new:1
-       nuclear:1
-       poll:1
-       power:1
-       ynn:1
-       yorkers:1
-../../dataset/economics/result_Maid/26_Neutral
-       a:2
-       around:1
-       bow:1
-       ever:1
-       hears:1
-       hunting:1
-       in:1
-       is:1
-       mention:1
-       mi:1
-       north:1
-       nuclear:1
-       of:1
-       only:1
-       place:1
-       plant:1
-       power:1
-       talk:1
-       that:1
-../../dataset/economics/result_Maid/27_Neutral
-       a:2
-       ac:1
-       around:1
-       bow:1
-       buddy:1
-       go:1
-       in:1
-       it:2
-       looking:1
-       mention:1
-       missouri:1
-       my:1
-       no:1
-       north:1
-       nuclear:1
-       only:1
-       plant:1
-       power:1
-       s:2
-       to:1
-       was:1
-       west:1
-       wma:1
-../../dataset/economics/result_Maid/28_Neutral
-       best:1
-       bumper:1
-       car:1
-       dates:1
-       ever:1
-       guess:1
-       i:2
-       is:1
-       kennedy:1
-       lol:1
-       me:1
-       mention:1
-       nuclear:1
-       one:1
-       power:1
-       quot:2
-       s:1
-       safer:1
-       saw:1
-       sticker:1
-       ted:1
-       than:1
-       that:1
-       the:1
-       was:1
-../../dataset/economics/result_Maid/29_Neutral
-       about:1
-       an:1
-       are:1
-       com:1
-       dangers:1
-       energy:1
-       investment:1
-       is:1
-       mention:1
-       newamerica:1
-       nuclear:1
-       or:1
-       talking:1
-       website:1
-       you:1
-../../dataset/economics/result_Maid/30_Neutral
-       adaptation:1
-       and:1
-       caps:1
-       energy:1
-       human:1
-       ice:1
-       link:1
-       melting:1
-       mention:1
-       nuclear:1
-       rt:1
-       saturday:1
-       science:1
-../../dataset/economics/result_Maid/31_Neutral
-       britain:1
-       c:1
-       hinkley:1
-       mention:1
-       newest:1
-       nuclear:2
-       point:1
-       power:1
-       rt:1
-       s:1
-       station:1
-../../dataset/economics/result_Maid/32_Not_Related
-       a:1
-       after:1
-       am:1
-       another:1
-       back:1
-       did:1
-       down:1
-       here:1
-       i:1
-       is:2
-       link:1
-       mention:2
-       mess:1
-       moving:1
-       of:1
-       she:1
-       that:1
-       thinking:1
-       way:1
-       we:1
-../../dataset/economics/result_Maid/33_Neutral
-       a:1
-       abortion:1
-       bigger:1
-       corino:1
-       death:1
-       limerick:1
-       mention:3
-       nuclear:1
-       of:1
-       plant:1
-       power:1
-       rt:1
-       surviving:1
-       than:1
-       the:1
-       threat:1
-       you:1
-       your:1
-../../dataset/economics/result_Maid/34_Neutral
-       a:1
-       abortion:1
-       bigger:1
-       corino:1
-       death:1
-       limerick:1
-       mention:2
-       nuclear:1
-       of:1
-       plant:1
-       power:1
-       surviving:1
-       than:1
-       the:1
-       threat:1
-       you:1
-       your:1
-../../dataset/economics/result_Maid/35_Neutral
-       about:1
-       and:1
-       but:1
-       cagov:1
-       concerned:1
-       energy:1
-       for:1
-       has:1
-       is:1
-       mention:2
-       mind:1
-       need:1
-       nuclear:3
-       on:1
-       open:1
-       plant:1
-       quot:2
-       rt:1
-       run:1
-       the:1
-       to:1
-       waste:1
-       water:1
-../../dataset/economics/result_Maid/36_Negative
-       all:1
-       and:1
-       everyday:1
-       for:1
-       heart:1
-       i:2
-       it:1
-       mention:2
-       now:1
-       nuclear:1
-       over:1
-       plant:1
-       power:1
-       rt:2
-       shout:1
-       so:2
-       stop:1
-       thanks:1
-       the:2
-       to:1
-       want:1
-       world:1
-       your:1
-../../dataset/economics/result_Maid/37_Negative
-       at:1
-       energy:1
-       extreme:1
-       good:1
-       happens:1
-       is:2
-       it:1
-       levels:1
-       mention:2
-       no:1
-       nuclear:1
-       of:1
-       radiation:1
-       really:1
-       risk:1
-       something:1
-       the:1
-       until:1
-       worth:1
-../../dataset/economics/result_Maid/38_Negative
-       and:1
-       are:1
-       built:1
-       energy:1
-       in:1
-       is:1
-       mention:2
-       not:1
-       now:1
-       nuclear:1
-       on:1
-       only:1
-       problem:1
-       prosperity:1
-       renewables:1
-       so:1
-       that:1
-       the:1
-       they:1
-       trouble:1
-       was:1
-../../dataset/economics/result_Maid/39_Neutral
-       a:1
-       accident:1
-       case:1
-       citizens:1
-       could:1
-       country:1
-       do:1
-       in:2
-       indian:1
-       link:1
-       mention:2
-       nuclear:1
-       of:1
-       plant:1
-       power:1
-       rt:1
-       the:1
-       things:1
-       top:1
-../../dataset/economics/result_Maid/40_Negative
-       all:1
-       and:1
-       down:1
-       endure:1
-       energy:1
-       for:1
-       good:1
-       gotta:1
-       help:1
-       mention:2
-       new:1
-       nuclear:1
-       pioneer:1
-       plants:1
-       radiation:1
-       rt:1
-       shut:1
-       technologies:1
-       tesla:1
-       the:1
-       to:1
-       us:1
-       we:1
-../../dataset/economics/result_Maid/41_Neutral
-       cracking:1
-       fukushima:2
-       ground:1
-       is:1
-       link:1
-       mention:1
-       nuclear:1
-       rt:2
-       russia:1
-       today:1
-       underneath:1
-../../dataset/economics/result_Maid/42_Neutral
-       a:1
-       and:1
-       can:1
-       corporateentitlement:1
-       decision:1
-       evidence:1
-       further:1
-       good:1
-       gt:1
-       like:1
-       mention:1
-       nuclear:1
-       power:1
-       smartgrid:1
-       survive:1
-       t:1
-       that:1
-       without:1
-../../dataset/economics/result_Maid/43_Positive
-       affordable:1
-       and:1
-       cdnpoli:1
-       considered:1
-       green:1
-       inharperstopsyturvycanada:1
-       is:2
-       mention:1
-       not:1
-       nuclear:1
-       power:2
-       rt:1
-       safe:1
-../../dataset/economics/result_Maid/44_Neutral
-       after:1
-       an:1
-       attack:1
-       day:1
-       defeat:1
-       link:1
-       marxism:1
-       mention:1
-       nuclear:1
-       on:1
-       p:1
-       pensions:1
-       plant:1
-       power:1
-       rebelleft:1
-       rt:1
-       socialism:1
-       strike:1
-       workers:1
-../../dataset/economics/result_Maid/45_Neutral
-       energy:1
-       generation:1
-       in:1
-       link:1
-       mention:1
-       mw:1
-       news:1
-       nuclear:1
-       power:1
-       rt:1
-       to:1
-       touch:1
-       years:1
-../../dataset/economics/result_Maid/46_Neutral
-       generation:1
-       in:1
-       industrynews:1
-       link:1
-       mention:1
-       mw:1
-       news:1
-       nuclear:1
-       power:1
-       rt:1
-       to:1
-       touch:1
-       years:1
-../../dataset/economics/result_Maid/47_Neutral
-       energy:1
-       forward:1
-       link:1
-       marketplace:1
-       mention:1
-       moves:1
-       nuclear:2
-       org:1
-       plans:1
-       publicradio:1
-       rt:1
-       turkey:1
-       with:1
-../../dataset/economics/result_Maid/48_Neutral
-       a:5
-       are:1
-       development:1
-       energy:1
-       impede:1
-       important:2
-       it:1
-       link:1
-       mention:1
-       not:1
-       nuclear:2
-       possibly:1
-       rt:1
-       s:1
-       smr:1
-       technology:1
-       their:1
-       to:1
-../../dataset/economics/result_Maid/49_Neutral
-       at:1
-       daiichi:1
-       desalinate:1
-       energy:1
-       facility:1
-       fuel:1
-       fukushima:1
-       link:1
-       mention:1
-       nuclear:1
-       pools:1
-       rt:1
-       tepco:1
-       to:1
-       used:1
-../../dataset/economics/result_Maid/50_Neutral
-       closer:1
-       first:1
-       getting:1
-       its:1
-       link:1
-       mention:1
-       moving:1
-       nuclear:1
-       plant:1
-       power:1
-       rt:1
-       to:1
-       utah:1
-../../dataset/economics/result_Maid/51_Neutral
-       fight:1
-       groups:1
-       link:1
-       mention:1
-       nuclear:2
-       plant:1
-       power:1
-       relicensing:1
-       rt:1
-       team:1
-       to:1
-       up:1
-       vermont:2
-       yankee:1
-../../dataset/economics/result_Maid/52_Negative
-       a:1
-       be:1
-       created:1
-       dedicated:1
-       energy:1
-       french:1
-       has:1
-       link:1
-       mention:1
-       much:1
-       needs:1
-       nuclear:1
-       of:1
-       room:1
-       rt:1
-       so:1
-       storage:1
-       that:1
-       to:2
-       use:1
-       waste:1
-       whole:1
-       years:1
-../../dataset/economics/result_Maid/53_Neutral
-       amp:1
-       at:1
-       august:1
-       channel:1
-       energy:1
-       et:1
-       florida:1
-       from:1
-       hall:1
-       meeting:1
-       mention:1
-       nuclear:1
-       on:1
-       org:1
-       pm:1
-       the:2
-       thefloridachannel:1
-       town:1
-       watch:1
-       web:1
-../../dataset/economics/result_Maid/54_Neutral
-       alternatives:1
-       in:1
-       installations:1
-       largest:1
-       link:1
-       mention:1
-       nuclear:1
-       plants:1
-       power:1
-       promising:1
-       rt:1
-       solar:1
-       the:1
-       to:1
-       world:1
-../../dataset/economics/result_Maid/55_Neutral
-       ans:1
-       at:1
-       bloggers:1
-       cafe:1
-       carnival:1
-       energy:1
-       link:1
-       mention:1
-       now:1
-       nuclear:2
-       of:1
-       online:1
-       rt:1
-       th:1
-../../dataset/economics/result_Maid/56_Neutral
-       ans:1
-       at:1
-       bloggers:1
-       cafe:1
-       carnival:1
-       energy:1
-       link:1
-       mention:1
-       now:1
-       nuclear:2
-       of:1
-       online:1
-       rt:1
-       th:1
-../../dataset/economics/result_Maid/57_Neutral
-       a:2
-       ago:1
-       called:1
-       cld:1
-       cubes:1
-       few:1
-       for:1
-       me:1
-       mention:1
-       nuclear:1
-       of:1
-       power:2
-       self:1
-       sufficient:1
-       that:1
-       they:1
-       told:1
-       town:1
-       were:1
-       what:1
-       xm:1
-       years:2
-       you:1
-../../dataset/economics/result_Maid/58_Neutral
-       a:1
-       exclusive:1
-       fukushima:1
-       inside:1
-       link:1
-       made:1
-       mention:1
-       nuclear:1
-       photographer:1
-       pictures:1
-       plant:1
-       power:1
-       rt:1
-       the:1
-../../dataset/economics/result_Maid/59_Neutral
-       a:1
-       by:1
-       could:1
-       link:1
-       mention:1
-       nuclear:1
-       planet:1
-       power:1
-       powered:1
-       reactors:1
-       rescue:1
-       rt:1
-       thorium:2
-../../dataset/economics/result_Maid/60_Neutral
-       abbasi:1
-       building:1
-       cooperating:1
-       country:1
-       has:1
-       in:1
-       iran:1
-       link:1
-       mention:2
-       new:1
-       nuclear:1
-       on:1
-       plants:1
-       power:1
-       proposed:1
-       rt:1
-       russia:1
-       says:1
-       the:1
-       via:1
-       with:1
-../../dataset/economics/result_Maid/61_Neutral
-       activists:1
-       and:1
-       citizen:1
-       climate:1
-       energy:1
-       fighting:1
-       guide:1
-       link:1
-       mention:2
-       nuclear:1
-       power:1
-       public:1
-       rt:1
-       to:1
-       via:1
-../../dataset/economics/result_Maid/62_Neutral
-       again:1
-       and:1
-       expose:1
-       fit:1
-       how:1
-       into:1
-       link:1
-       mention:1
-       nuclear:1
-       overall:1
-       pipelines:1
-       power:1
-       rt:1
-       sands:1
-       strategy:1
-       tar:1
-       the:1
-       transcanada:1
-../../dataset/economics/result_Maid/63_Neutral
-       ahead:1
-       alabama:1
-       already:1
-       construction:1
-       enough:1
-       for:1
-       gets:1
-       go:1
-       it:1
-       link:1
-       mention:1
-       nuclear:1
-       plant:1
-       please:1
-       power:1
-       rt:2
-       s:1
-../../dataset/economics/result_Maid/64_Neutral
-       a:4
-       an:1
-       and:1
-       from:1
-       have:1
-       how:1
-       interview:1
-       is:1
-       it:1
-       japan:1
-       learned:1
-       link:1
-       mention:2
-       nuclear:1
-       power:1
-       rt:1
-       safe:1
-       we:1
-       what:1
-       with:1
-../../dataset/economics/result_Maid/65_Neutral
-       ambitions:1
-       ans:1
-       arabia:1
-       boosts:1
-       cafe:1
-       energy:1
-       its:1
-       link:1
-       mention:1
-       nuclear:2
-       rt:1
-       saudi:1
-../../dataset/economics/result_Maid/66_Negative
-       anti:1
-       link:1
-       mention:1
-       nonukes:1
-       nuclear:1
-       power:1
-       rt:1
-       shirt:1
-       t:1
-../../dataset/economics/result_Maid/67_Neutral
-       a:1
-       anybody:1
-       buy:1
-       cheap:1
-       floating:1
-       link:1
-       mention:2
-       nuclear:1
-       plant:1
-       power:1
-       rt:1
-       to:1
-       via:1
-       want:1
-../../dataset/economics/result_Maid/68_Neutral
-       are:1
-       be:1
-       energy:1
-       going:1
-       guys:1
-       mention:1
-       nuclear:1
-       out:1
-       phasing:1
-       then:1
-       to:1
-       you:1
-../../dataset/economics/result_Maid/69_Neutral
-       and:1
-       as:1
-       back:1
-       by:1
-       china:1
-       energy:1
-       fear:1
-       forward:1
-       held:1
-       irrational:1
-       is:1
-       link:1
-       mention:1
-       nuclear:1
-       on:1
-       pushes:1
-       red:1
-       rt:1
-       s:1
-       tape:1
-       the:1
-       u:1
-../../dataset/economics/result_Maid/70_Neutral
-       a:1
-       about:1
-       alabama:1
-       all:1
-       best:1
-       carry:1
-       if:1
-       is:1
-       knoxville:1
-       meltdown:1
-       mention:1
-       new:1
-       nuclear:1
-       part:1
-       plant:1
-       power:1
-       radiation:1
-       rt:1
-       the:3
-       there:1
-       to:1
-       will:1
-       wind:1
-../../dataset/economics/result_Maid/71_Neutral
-       application:1
-       blue:1
-       castle:1
-       closer:1
-       electricity:1
-       energy:1
-       filing:1
-       licensing:1
-       link:1
-       mention:1
-       nuclear:2
-       project:1
-       rt:1
-       to:1
-       utilities:1
-../../dataset/economics/result_Maid/72_Neutral
-       approves:1
-       at:1
-       breaking:1
-       commercial:1
-       formally:1
-       governor:1
-       hokkaido:1
-       mention:1
-       no:1
-       nuclear:1
-       of:2
-       operations:1
-       plant:1
-       power:1
-       reactor:1
-       restart:1
-       tomari:1
-../../dataset/economics/result_Maid/73_Neutral
-       asks:1
-       can:1
-       function:1
-       link:1
-       mention:2
-       nuclear:1
-       power:1
-       rt:1
-       tokyo:1
-       without:1
-../../dataset/economics/result_Maid/74_Neutral
-       accelerate:1
-       become:1
-       canada:1
-       cfsfcee:1
-       energy:1
-       first:1
-       fossil:1
-       fuel:1
-       in:1
-       may:1
-       mention:1
-       nation:1
-       nuclear:1
-       production:1
-       rt:1
-       the:2
-       to:2
-       use:1
-       world:1
-../../dataset/economics/result_Maid/75_Neutral
-       china:1
-       clean:1
-       for:1
-       in:1
-       lead:1
-       link:1
-       mention:1
-       nuclear:1
-       power:1
-       race:1
-       rt:1
-       takes:1
-       thorium:1
-../../dataset/economics/result_Maid/76_Positive
-       alternate:1
-       and:1
-       are:1
-       by:1
-       change:1
-       climate:1
-       denied:1
-       facts:1
-       frustration:1
-       groups:1
-       is:3
-       mention:1
-       nuclear:1
-       power:1
-       real:1
-       safe:1
-       that:1
-       these:1
-       ultimate:1
-../../dataset/economics/result_Maid/77_Neutral
-       alternative:1
-       as:1
-       coal:1
-       egat:1
-       link:1
-       mention:1
-       nuclear:1
-       possible:1
-       power:1
-       rt:1
-       seen:1
-       to:1
-../../dataset/economics/result_Maid/78_Neutral
-       a:1
-       and:2
-       carbon:1
-       couple:1
-       efficient:1
-       electric:1
-       emission:1
-       have:1
-       mention:1
-       motors:1
-       near:2
-       no:1
-       nuclear:1
-       power:1
-       process:1
-       wasteless:1
-       with:1
-       you:1
-../../dataset/economics/result_Maid/79_Neutral
-       and:1
-       cucumbers:1
-       mention:1
-       nuclear:1
-       power:1
-../../dataset/economics/result_Maid/80_Neutral
-       debate:1
-       does:1
-       energy:1
-       link:1
-       mention:1
-       need:1
-       nuclear:1
-       rt:1
-       the:1
-       world:1
-../../dataset/economics/result_Maid/81_Neutral
-       at:1
-       barrel:1
-       blog:1
-       devastating:1
-       earthquake:1
-       energy:1
-       fuel:1
-       its:1
-       japan:1
-       leaves:1
-       link:1
-       march:1
-       mention:1
-       mix:1
-       nuclear:1
-       platts:1
-       pondering:1
-       rt:1
-       see:1
-       the:1
-../../dataset/economics/result_Maid/82_Neutral
-       aliens:1
-       all:1
-       ancient:1
-       came:1
-       did:1
-       earth:2
-       exists:1
-       gold:2
-       mention:2
-       mine:1
-       nuclear:1
-       on:1
-       only:2
-       or:1
-       power:1
-       the:1
-       they:1
-       to:2
-       used:1
-       way:1
-       why:1
-../../dataset/economics/result_Maid/83_Neutral
-       discussion:1
-       energy:1
-       is:1
-       link:1
-       mention:1
-       nuclear:1
-       previously:1
-       rt:1
-       safer:1
-       than:1
-       thought:1
-../../dataset/economics/result_Maid/84_Neutral
-       about:1
-       cheat:1
-       do:1
-       energy:1
-       facts:2
-       get:1
-       in:1
-       know:1
-       link:1
-       mention:1
-       nuclear:1
-       of:1
-       our:1
-       production:1
-       quick:1
-       quot:2
-       rt:1
-       sheet:1
-       the:1
-       them:1
-       updated:1
-       us:1
-       you:1
-../../dataset/economics/result_Maid/85_Neutral
-       an:1
-       anyone:1
-       at:1
-       clean:1
-       disappeared:1
-       does:1
-       from:1
-       fukushima:1
-       have:2
-       informed:1
-       it:1
-       mention:1
-       news:1
-       nuclear:1
-       on:1
-       plant:1
-       power:1
-       progress:1
-       rt:1
-       seems:1
-       the:2
-       to:1
-       up:1
-       update:1
-../../dataset/economics/result_Maid/86_Neutral
-       a:1
-       american:1
-       been:1
-       could:1
-       count:1
+../../dataset/economics/result_Maid/1_AGAINST
+       catholic:1
+       christian:1
+       lord:1
+       teamjesus:1
+       thank:1
+../../dataset/economics/result_Maid/2_NONE_OF_ABOVE
+       eastertide:1
+       mysteries:1
+       prayforpersecutedchurch:1
+../../dataset/economics/result_Maid/3_AGAINST
+       dup:1
+       murder:1
+       niall:1
+../../dataset/economics/result_Maid/4_AGAINST
+       murder:1
+../../dataset/economics/result_Maid/5_AGAINST
+       chances:1
+       children:2
        don:1
-       energy:1
-       have:1
-       just:1
-       link:1
-       meeting:1
-       mention:1
-       nuclear:2
-       of:1
-       out:1
-       rt:1
-       society:1
-       summer:1
-       t:1
-       the:2
-       wa:1
-       yet:1
-../../dataset/economics/result_Maid/87_Neutral
-       ans:1
-       because:1
-       ceo:1
-       dispense:1
-       energy:1
-       exelon:1
-       fears:1
-       fukushima:1
-       it:1
-       link:1
-       mention:1
-       must:1
-       nation:1
-       needs:1
-       nuclear:1
-       rt:1
-       tell:1
-       with:1
-../../dataset/economics/result_Maid/88_Neutral
-       commentary:1
-       energy:1
-       expert:1
-       link:1
-       mention:1
-       nuclear:1
-       of:1
-       on:1
-       rt:1
-       safety:1
-       the:1
-../../dataset/economics/result_Maid/89_Neutral
-       a:1
-       all:1
-       earth:1
-       fission:1
-       from:1
-       how:1
-       it:1
-       less:1
-       mention:1
-       miles:1
-       million:1
-       not:1
-       nuclear:1
-       plants:1
-       power:1
-       s:1
-       than:1
-       theory:1
-       work:1
-../../dataset/economics/result_Maid/90_Neutral
-       bit:1
-       by:1
-       court:1
-       floating:1
-       ly:1
-       mention:2
-       nuclear:1
-       plant:1
-       power:1
-       qyrdxw:1
-       rt:1
-       seized:1
-       via:1
-../../dataset/economics/result_Maid/91_Neutral
-       again:1
-       challenges:1
-       cost:1
-       florida:1
-       link:1
-       mention:3
-       nuclear:1
-       on:1
-       power:1
-       recovery:1
-       rt:1
-       sayfie:1
-       senator:1
-       utilities:1
-../../dataset/economics/result_Maid/92_Neutral
-       article:1
-       d:1
-       ed:1
-       editors:1
-       energy:1
-       florida:1
-       from:1
-       great:1
-       link:1
-       mention:1
-       nuclear:2
-       of:1
-       on:1
-       op:1
-       persevere:1
-       plants:1
-       power:1
-       rt:1
-       should:1
-       the:2
-../../dataset/economics/result_Maid/93_Neutral
-       about:1
-       amp:1
-       energy:1
-       facts:1
-       for:1
-       gt:1
-       info:1
-       link:1
-       mention:2
-       myths:1
-       nei:1
-       nuclear:1
-       rt:2
-       seeking:1
-       soundbites:1
-       the:1
-       those:1
-       updated:1
-       ve:1
-       we:1
-../../dataset/economics/result_Maid/94_Neutral
-       agenda:1
-       and:1
-       ar:1
-       board:1
-       construction:1
-       emissions:1
-       fossil:1
-       from:1
-       fuel:1
-       link:1
-       mention:1
-       nuclear:1
-       nuke:1
-       on:1
-       plant:1
-       power:1
-       rates:1
-       rt:1
-       safety:1
-       tva:1
-       wsmv:1
-../../dataset/economics/result_Maid/95_Neutral
-       achieve:1
-       as:2
-       cold:1
-       cont:1
-       dai:1
-       fukushima:1
-       ichi:1
-       link:1
-       may:1
-       mention:1
-       not:1
-       nuclear:1
-       planned:1
-       plant:1
-       power:1
-       rt:1
-       shutdown:1
-       soon:1
-       tokyo:1
-../../dataset/economics/result_Maid/96_Neutral
-       also:1
-       and:1
-       breakthrough:1
-       cost:1
-       could:1
-       energy:1
-       for:1
-       fossil:1
-       fuel:1
-       ge:1
-       laser:1
-       lead:1
-       lower:1
-       mention:1
-       motive:1
-       nuclear:1
-       opposition:1
-       reduced:1
-       sales:1
-       to:1
-../../dataset/economics/result_Maid/97_Neutral
-       a:3
-       away:1
-       constitutes:1
-       countrya:1
-       energy:1
-       from:1
-       germany:1
-       in:1
-       mention:2
-       move:1
-       nuclear:1
-       of:1
-       plans:1
-       power:1
-       rt:1
-       s:1
-       source:1
-       to:1
-       via:1
-       which:1
-       years:1
-../../dataset/economics/result_Maid/98_Neutral
-       a:1
-       also:1
-       and:1
-       anonymous:2
-       by:1
-       fbi:1
-       got:1
-       hacked:2
-       mention:1
-       nuclear:1
-       plant:1
-       power:1
-       russian:1
-       the:1
-../../dataset/economics/result_Maid/99_Neutral
-       civil:1
-       energy:1
-       expanding:1
-       govt:1
-       link:1
-       mention:1
-       nuclear:1
-       pm:1
-       programme:1
-       rt:1
-../../dataset/economics/result_Maid/100_Positive
-       a:1
-       about:1
-       fine:1
-       happy:1
-       mention:1
-       nuclear:1
-       plant:1
-       power:1
-       spread:1
-       the:1
-       to:1
-       word:1
-../../dataset/economics/result_Maid/101_Neutral
-       as:1
-       board:1
-       change:1
-       cites:1
-       climate:1
-       edit:1
-       energy:1
-       fresbee:1
-       has:1
-       he:1
-       major:1
-       mention:1
-       mind:1
-       nuclear:1
-       on:1
-       open:1
-       quot:2
-       reason:1
-       stance:1
-       tells:1
-       vote:1
-../../dataset/economics/result_Maid/102_Neutral
-       about:1
-       and:1
-       but:1
-       cagov:1
-       concerned:1
-       energy:1
-       for:1
-       has:1
-       is:1
-       mention:1
-       mind:1
-       need:1
-       nuclear:3
-       on:1
-       open:1
-       plant:1
-       quot:2
-       run:1
-       the:1
-       to:1
-       waste:1
-       water:1
-../../dataset/economics/result_Maid/103_Neutral
-       about:1
-       advices:1
-       and:2
-       energy:1
+       hillaryclinton:1
+       unborn:1
+../../dataset/economics/result_Maid/6_NONE_OF_ABOVE
+       sorry:1
+../../dataset/economics/result_Maid/7_NONE_OF_ABOVE
+       easyweightloss:1
+       frustrates:1
+../../dataset/economics/result_Maid/8_NONE_OF_ABOVE
+       enuffismuch:1
        follow:1
-       has:1
-       his:1
-       link:2
-       mention:1
-       mistakes:1
-       nuclear:1
-       own:1
-       recognize:1
-       to:1
-../../dataset/economics/result_Maid/104_Neutral
-       among:1
-       attend:1
-       energy:1
-       forum:1
-       high:1
-       hillsborough:2
-       jersey:1
-       link:1
-       mention:1
-       new:1
-       nuclear:1
-       rt:1
-       school:1
-       stu:1
-       students:1
-       teens:1
-       were:1
-../../dataset/economics/result_Maid/105_Neutral
-       about:1
-       and:1
-       energy:1
-       environmental:1
-       his:1
-       hmmm:1
-       mention:1
-       nuclear:1
-       on:1
-       policies:1
-       read:1
-       views:1
-../../dataset/economics/result_Maid/106_Neutral
-       are:1
-       being:1
-       by:1
-       how:1
-       industry:1
-       kids:1
-       link:1
-       mention:2
-       nuclear:1
-       our:1
-       rt:1
-       schooled:1
-       the:1
-       via:1
-../../dataset/economics/result_Maid/107_Negative
-       am:1
-       genpatsu:1
-       give:1
-       i:1
-       mention:1
-       my:1
-       no:1
-       nuclear:1
-       nukes:1
-       plant:1
-       please:1
-       power:1
-       quot:4
-       r:1
-       re:1
-       rt:1
-       s:1
-       stop:1
-       t:1
-       the:1
-       to:1
-       tweet:2
-       tweeting:1
-../../dataset/economics/result_Maid/108_Negative
-       all:1
-       and:1
-       everyday:1
-       for:1
-       heart:1
-       i:2
-       it:1
-       mention:1
-       now:1
-       nuclear:1
-       over:1
-       plant:1
-       power:1
-       rt:1
-       shout:1
-       so:2
-       stop:1
+       freeamirnow:1
+       justice:1
+       liberty:1
+       patriot:1
+       proisrael:1
        thanks:1
-       the:2
-       to:1
-       want:1
-       world:1
-       your:1
-../../dataset/economics/result_Maid/109_Neutral
-       and:2
-       d:1
-       energy:1
-       fuckthepolice:1
-       go:1
-       i:1
-       introduce:1
-       mention:1
-       mlp:1
-       nuclear:1
-       ponies:1
-       strategies:1
-       the:2
-       to:2
-       universe:1
-       warfare:1
-../../dataset/economics/result_Maid/110_Neutral
-       a:1
-       all:1
-       also:1
-       confused:1
-       does:1
-       energy:1
-       how:2
-       i:1
-       iran:1
-       is:2
-       japan:1
-       m:1
-       mention:1
-       not:2
-       nuclear:1
-       over:1
-       physics:1
-       rt:1
-       s:2
-       same:1
-       the:2
-       threat:1
-       while:1
-       work:1
-       world:1
-../../dataset/economics/result_Maid/111_Neutral
-       a:1
-       assuming:1
-       growing:1
-       i:1
-       industry:1
-       is:1
-       m:1
-       mention:1
-       now:1
-       nuclear:1
-       power:1
-       right:1
-../../dataset/economics/result_Maid/112_Neutral
-       about:1
-       apart:1
-       are:1
-       energy:1
-       from:1
-       he:1
-       i:1
-       it:1
-       knows:1
-       m:1
-       mention:1
-       nuclear:1
-       of:1
-       public:1
-       quot:2
-       scared:1
-       shit:1
-       shitless:1
-       skeptical:1
-       that:1
-       the:1
-../../dataset/economics/result_Maid/113_Neutral
-       bloggers:1
-       carnival:1
-       energy:1
-       idaho:1
-       link:1
-       mention:1
-       notes:1
-       nuclear:1
-       nuke:1
-       of:1
-       rt:1
-       samizdat:1
-       th:1
-../../dataset/economics/result_Maid/114_Neutral
-       and:2
-       be:1
-       dangerous:1
-       energy:1
-       expensive:1
-       gas:1
-       has:1
-       his:1
-       if:1
-       it:1
-       mcguinty:1
-       mention:1
-       natural:1
-       nuclear:1
-       redundant:1
-       replace:1
-       solar:1
-       way:1
-       will:2
-       wind:1
-../../dataset/economics/result_Maid/115_Negative
+       truth:1
+       wakeupamerica:1
+../../dataset/economics/result_Maid/9_NONE_OF_ABOVE
        and:1
-       can:1
-       clean:1
-       energy:1
-       if:1
-       it:1
-       mention:1
-       nuclear:1
-       out:1
-       phase:1
-       power:1
-       replace:1
-       rt:1
-       together:1
-       we:2
-       with:1
-       work:1
-../../dataset/economics/result_Maid/116_Positive
-       and:1
-       energy:1
-       for:1
-       growth:1
-       in:1
-       mention:1
-       national:1
-       news:1
-       nuclear:1
-       pm:1
-       politics:1
-       rt:1
-       says:1
-       science:1
-       vital:1
-../../dataset/economics/result_Maid/117_Neutral
-       boring:1
-       field:2
-       gees:1
-       graders:1
-       in:1
-       japan:1
-       look:1
-       makes:1
-       mention:1
-       movie:1
-       my:1
-       nuclear:1
-       plants:1
-       power:1
-       really:1
-       rt:1
-       take:1
-       th:1
-       the:2
-       theater:1
-       to:2
-       trips:2
-../../dataset/economics/result_Maid/118_Neutral
-       country:1
-       generation:2
-       i:1
-       india:1
-       link:1
-       mention:1
-       mw:1
-       nuclear:2
-       power:2
-       rt:1
-       s:1
-       the:1
-       to:1
-       touch:1
-../../dataset/economics/result_Maid/119_Neutral
-       accord:1
-       civil:1
-       energy:1
-       for:1
-       highest:1
-       india:1
-       link:1
-       mention:1
-       nuclear:1
-       pm:1
-       rt:1
-       safety:1
-       standards:1
-       to:1
-../../dataset/economics/result_Maid/120_Neutral
-       aviation:1
-       commercial:1
-       common:1
-       do:1
-       energy:1
-       forecasting:1
-       freight:1
-       gps:1
-       have:1
-       in:1
-       internet:1
-       mention:1
-       nuclear:1
-       rt:1
-       these:1
-       things:1
-       weather:1
-       what:1
-../../dataset/economics/result_Maid/121_Neutral
-       akbar:1
-       ali:1
-       diplomat:1
-       discuss:1
-       energy:1
-       foreign:1
-       in:1
-       iran:2
-       issues:1
-       link:1
-       mention:1
-       minister:1
-       moscow:1
-       nuclear:1
-       of:1
-       rt:1
-       s:1
-       salehi:1
-       the:1
-       to:1
-       top:1
-../../dataset/economics/result_Maid/122_Neutral
-       a:1
-       all:1
-       bearish:1
-       from:1
-       gt:1
-       is:2
-       link:1
-       making:1
-       mention:1
-       notice:1
-       nuclear:1
-       oil:2
-       on:1
-       rt:1
-       sa:1
-       saudiarabia:1
-       should:1
-       to:1
-       transition:1
-       we:1
-       when:1
-../../dataset/economics/result_Maid/123_Neutral
-       amp:1
-       creates:1
-       energy:1
-       fact:1
-       issues:1
-       link:1
-       lt:1
-       mention:1
-       more:1
-       nuclear:3
-       reprocessing:1
-       rt:1
-       sheet:1
-       waste:3
-../../dataset/economics/result_Maid/124_Neutral
-       but:1
-       happened:1
-       incident:1
-       into:1
-       it:2
-       japan:1
-       jumping:1
-       like:1
-       mention:1
-       more:1
-       nuclear:1
-       on:1
-       politically:1
-       power:1
-       s:1
-       seemed:1
-       speaking:1
-       the:2
-       then:1
-       to:1
+       cathol:1
+       catholic:2
+       catholicsfollow:1
+       follow:1
+       followers:1
+       great:1
+       pjnet:1
+       retweet:1
+       tcot:1
+       tgdn:1
        us:1
-       was:1
+       want:1
+../../dataset/economics/result_Maid/10_NONE_OF_ABOVE
+       adammyerson:1
+       days:2
+       expect:1
+       quick:1
+       sent:1
+../../dataset/economics/result_Maid/11_AGAINST
+       a:1
+       chik:1
+       endhhsmandate:1
+       fil:1
+       fortnightfreedom:1
+       god:1
+       hobbylobby:1
+       stophillary:1
+       wellesleyrepublican:1
+../../dataset/economics/result_Maid/12_AGAINST
+       day:1
+       lansing:1
+       legislative:1
+       life:1
+       party:1
+       pro:1
+       see:1
+../../dataset/economics/result_Maid/13_NONE_OF_ABOVE
+       beretta:1
+       frcharles:1
+       giamolla:1
+       gianna:1
+       happy:1
+       may:1
+       molla:1
+       news:1
+       sphcs:1
+       st:1
+../../dataset/economics/result_Maid/14_NONE_OF_ABOVE
+       abort:2
+       dude:1
+       i:1
+../../dataset/economics/result_Maid/15_AGAINST
+       activists:1
+       best:1
+       dwstweets:1
+       softballs:1
+../../dataset/economics/result_Maid/16_AGAINST
+       cross:1
+       esmeraldakiczek:1
+       i:1
+       mt:1
+       rogeriscatholic:1
+../../dataset/economics/result_Maid/17_NONE_OF_ABOVE
+       medicaid:1
+       pp:1
+       valerietarico:1
+       wic:1
+../../dataset/economics/result_Maid/18_NONE_OF_ABOVE
+       bodies:1
+       issues:1
+       older:1
+../../dataset/economics/result_Maid/19_AGAINST
+       babies:1
+       months:1
+../../dataset/economics/result_Maid/20_AGAINST
+       children:1
+       quran:1
+../../dataset/economics/result_Maid/21_AGAINST
+       clinton:1
+       dnc:1
+       dwstweets:1
+       hillaryforia:1
+       let:1
+       procompromise:1
+../../dataset/economics/result_Maid/22_FOR
+       reprorights:1
+../../dataset/economics/result_Maid/23_FOR
+       leaders:1
+../../dataset/economics/result_Maid/24_FOR
+       families:1
+       reproductiverights:1
+../../dataset/economics/result_Maid/25_AGAINST
+       ccot:1
+       danaperino:1
+       dnc:1
+       do:1
+       how:1
+       rnc:1
+       thanks:1
+       thefive:1
+../../dataset/economics/result_Maid/26_AGAINST
+       a:1
+       choice:1
+       people:1
+       pro:1
+       weeks:1
+       years:1
+../../dataset/economics/result_Maid/27_AGAINST
+       adoption:1
+       life:1
+       not:1
+../../dataset/economics/result_Maid/28_AGAINST
+       blacklivesmatter:1
+       parenthood:1
+       planned:1
+       s:1
+../../dataset/economics/result_Maid/29_AGAINST
+       babies:1
+       killing:1
+       plannedparenthood:1
+../../dataset/economics/result_Maid/31_FOR
+       education:1
+       equality:1
+       freedom:1
+       happy:1
+       hillaryforia:1
+       jeff:1
+       justice:1
+       life:1
+       nichols:1
+       utopia:1
+../../dataset/economics/result_Maid/32_FOR
+       bros:1
+       gop:1
+       koch:1
+../../dataset/economics/result_Maid/33_FOR
+       cap:1
+       hillaryclinton:1
+       hillaryforia:1
+       security:1
+       socialsecurity:1
+       tax:1
+       taxday:1
+../../dataset/economics/result_Maid/34_AGAINST
+       nbcnews:1
        way:1
-../../dataset/economics/result_Maid/125_Positive
-       a:4
-       are:1
-       as:1
-       cont:1
-       for:1
-       it:1
-       like:1
-       link:1
-       mention:1
-       nuclear:1
-       power:1
-       progressa:1
+../../dataset/economics/result_Maid/35_FOR
+       hillary:1
+       people:1
+       time:1
+       vote:1
+../../dataset/economics/result_Maid/36_AGAINST
+       bill:1
+       maurareynolds:1
+       monica:1
+../../dataset/economics/result_Maid/37_AGAINST
+       clintonfdn:1
+       come:1
+       donations:1
+       hillaryclinton:1
+       hrc:1
+       knew:1
+       scrutinized:1
+       smh:1
+       u:1
+       would:1
+       yes:1
+../../dataset/economics/result_Maid/38_FOR
+       baileymagno:1
+       oppressors:1
+       yup:1
+../../dataset/economics/result_Maid/39_NONE_OF_ABOVE
+       baltimore:1
+       baltimoreriots:1
+       freddiegray:1
+       orioles:1
        rt:1
+       thanksobama:1
+       wakeupamerica:1
+       wow:1
+../../dataset/economics/result_Maid/40_AGAINST
+       billclinton:1
+       chelseaclinton:1
+       clinton:1
+       do:1
+       girls:1
+       hillaryclinton:1
+       hrc:1
+       readyforhillary:1
+../../dataset/economics/result_Maid/41_NONE_OF_ABOVE
+       are:1
+       marcorubio:1
+       mustangs:1
+       newamericancentury:1
+       rubio:1
+       smu:1
+       southernmethodistuniversity:1
+       students:1
+       tcot:1
+../../dataset/economics/result_Maid/42_AGAINST
+       bingo:1
+       hillary:1
+       p:1
+       pines:1
+       shady:1
+../../dataset/economics/result_Maid/43_AGAINST
+       bogus:1
+       followers:1
+       her:1
+       hillaryclinton:1
+       iowa:1
+       issues:1
+       twitter:1
+../../dataset/economics/result_Maid/44_AGAINST
+       hillaryclinton:1
+       no:1
+       stophillary:1
+../../dataset/economics/result_Maid/45_FOR
+       hillaryclinton:1
+       nyc:1
+       so:1
+       spoke:1
+       wow:1
+../../dataset/economics/result_Maid/46_FOR
+       congratulations:1
+       hillaryclinton:1
+       jews:1
+       president:1
+       you:1
+../../dataset/economics/result_Maid/47_AGAINST
+       census:1
+       did:1
+       hillaryclinton:1
+       rainbow:1
+       us:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/48_AGAINST
+       fergusontobaltimore:1
+       jebbush:1
+       remember:1
+../../dataset/economics/result_Maid/49_AGAINST
+       benghazi:1
+       emails:1
+       explains:1
+       handovertheserver:1
+       lies:1
+../../dataset/economics/result_Maid/50_AGAINST
+       hillary:1
+       marcorubio:1
+       republican:1
+       tedcruz:1
+       victory:1
+../../dataset/economics/result_Maid/51_FOR
+       ails:1
+       baltimore:1
+       columbia:1
+       events:1
+       hillaryclinton:1
+       university:1
+../../dataset/economics/result_Maid/52_NEUTRAL
+       bites:1
+       clinton:1
+       hillary:1
+       hillaryclinton:1
+       solutions:1
+       words:1
+       works:1
+../../dataset/economics/result_Maid/53_FOR
+       a:16
+       clinton:1
+       countries:1
+       hillary:1
+       hillarycliton:1
+       hillarywomen:1
+       women:1
+../../dataset/economics/result_Maid/54_FOR
+       clinton:1
+       faithhillary:1
+       hillary:1
+       u:2
+../../dataset/economics/result_Maid/55_FOR
+       america:1
+       chipotle:1
+       hillaryclinton:1
+../../dataset/economics/result_Maid/56_NONE_OF_ABOVE
+       statistics:1
+       victims:1
+../../dataset/economics/result_Maid/57_NEUTRAL
+       actuallylance:1
+       john:1
+       lightning:1
+       michael:1
+../../dataset/economics/result_Maid/58_FOR
+       uselections:1
+../../dataset/economics/result_Maid/59_FOR
+       all:1
+       are:1
+       because:1
+       fudgieebuddiee:1
+       gender:1
+       girls:1
+       of:1
+       roles:1
+       saying:1
+       sensitive:1
+       sexist:1
+       swine:1
+       you:1
+../../dataset/economics/result_Maid/60_FOR
+       breasts:1
+       expectations:1
+       people:1
+../../dataset/economics/result_Maid/61_FOR
+       men:1
+../../dataset/economics/result_Maid/62_FOR
+       backwards:1
+       chest:1
+       males:1
+../../dataset/economics/result_Maid/63_NONE_OF_ABOVE
+       awyee:1
+       duh:1
+       socializing:1
+../../dataset/economics/result_Maid/64_AGAINST
+       woman:1
+       you:1
+../../dataset/economics/result_Maid/65_AGAINST
+       applauds:1
+       calls:1
+       ccriadoperez:1
+       cops:1
+       her:1
+       tweets:1
+       vandals:1
+../../dataset/economics/result_Maid/66_AGAINST
+       gamergate:1
+       sjws:1
+../../dataset/economics/result_Maid/67_AGAINST
+       stop:1
+../../dataset/economics/result_Maid/68_AGAINST
+       feminists:1
+       selfies:1
+../../dataset/economics/result_Maid/69_FOR
+       let:1
+../../dataset/economics/result_Maid/70_AGAINST
+       feminists:1
+       ok:1
+       panties:1
+../../dataset/economics/result_Maid/71_AGAINST
+       bieber:1
+       justin:1
+       tweets:1
+../../dataset/economics/result_Maid/73_NONE_OF_ABOVE
+       couples:1
+       klarajoelsson:1
+       the:1
+../../dataset/economics/result_Maid/76_AGAINST
+       condoms:1
+       livsoverflow:1
+../../dataset/economics/result_Maid/77_AGAINST
+       god:1
+../../dataset/economics/result_Maid/78_AGAINST
+       god:2
+       hebrews:1
+       jesus:1
+       let:1
+../../dataset/economics/result_Maid/79_AGAINST
+       elders:1
+       muhammad:1
+       ones:1
+       pbuh:1
+       prophet:1
+       younger:1
+../../dataset/economics/result_Maid/80_AGAINST
+       god:2
+       godsnotdead:1
+       truth:1
+../../dataset/economics/result_Maid/81_AGAINST
+       god:1
+       he:1
+../../dataset/economics/result_Maid/82_FOR
+       god:1
+       mind:1
+       soul:1
+../../dataset/economics/result_Maid/83_AGAINST
+       god:1
+       thoughts:1
+../../dataset/economics/result_Maid/84_AGAINST
+       lamb:1
+       rev:1
+../../dataset/economics/result_Maid/85_AGAINST
+       amen:1
+       god:2
+       holy:1
+       mary:1
+       mother:1
+       sinners:1
+../../dataset/economics/result_Maid/86_AGAINST
+       god:1
+       s:1
+../../dataset/economics/result_Maid/87_AGAINST
+       amen:1
+       god:2
+       holy:1
+       mary:1
+       mother:1
+       sinners:1
+../../dataset/economics/result_Maid/88_AGAINST
+       jesus:1
+       love:2
+       peace:1
+../../dataset/economics/result_Maid/89_AGAINST
+       god:1
+       hustle:1
+       ideas:1
+../../dataset/economics/result_Maid/90_AGAINST
+       athanasius:1
+       god:2
+       son:1
+../../dataset/economics/result_Maid/91_AGAINST
+       demons:1
+       jesus:1
+../../dataset/economics/result_Maid/92_NONE_OF_ABOVE
+       corey:1
+       definitions:1
+       frizzell:1
+       most:1
+       peiliberalparty:1
+../../dataset/economics/result_Maid/94_NONE_OF_ABOVE
+       libcrib:1
+       p:1
+       repkevincalvey:1
+       so:1
+       uniteblue:1
+../../dataset/economics/result_Maid/95_FOR
+       children:1
+       wants:1
+../../dataset/economics/result_Maid/97_AGAINST
+       children:1
+       redalert:1
+../../dataset/economics/result_Maid/98_FOR
+       abortions:1
+       caring:1
+       sex:1
+../../dataset/economics/result_Maid/99_NONE_OF_ABOVE
+       beliefs:1
+       biases:1
+       codes:1
+       hillaryclinton:1
+../../dataset/economics/result_Maid/100_AGAINST
+       abortion:1
+       alllivesmatter:1
+       black:1
+       blacklivesmatter:1
+       chooselife:1
+       clinics:1
+       protest:1
+       sheriff:1
+       they:1
+../../dataset/economics/result_Maid/101_NONE_OF_ABOVE
+       books:1
+       coming:1
+       woman:1
+../../dataset/economics/result_Maid/102_AGAINST
+       bioethics:1
+       catholic:1
+../../dataset/economics/result_Maid/103_NONE_OF_ABOVE
+       tattoos:1
+../../dataset/economics/result_Maid/104_NONE_OF_ABOVE
+       marcus:1
+../../dataset/economics/result_Maid/105_NONE_OF_ABOVE
+       golfproyyc:1
+       pops:1
+       taylormadegolf:1
+../../dataset/economics/result_Maid/106_FOR
+       mark:1
+../../dataset/economics/result_Maid/107_NONE_OF_ABOVE
+       because:1
+       topics:1
+../../dataset/economics/result_Maid/108_NONE_OF_ABOVE
+       adults:1
+       kids:1
+       minds:2
+       pgh:1
+       protesters:1
+       tip:1
+../../dataset/economics/result_Maid/109_NONE_OF_ABOVE
+       brianjeanwrp:1
+       motion:1
+../../dataset/economics/result_Maid/110_NONE_OF_ABOVE
+       margaretsanger:1
+../../dataset/economics/result_Maid/111_AGAINST
+       idiot:1
+       me:1
+../../dataset/economics/result_Maid/112_NONE_OF_ABOVE
+       best:3
+       s:3
+../../dataset/economics/result_Maid/114_AGAINST
+       catholic:1
+       christian:1
+       god:1
+       rise:1
+       shine:1
+       teamjesus:1
+       thank:1
+../../dataset/economics/result_Maid/115_FOR
+       people:1
+../../dataset/economics/result_Maid/116_AGAINST
+       children:1
+       happyearth:1
+       most:1
+       streets:1
+../../dataset/economics/result_Maid/117_AGAINST
+       isis:1
+       islamicstate:1
+       victims:1
+../../dataset/economics/result_Maid/118_NONE_OF_ABOVE
+       notodeathpenalty:1
+       savemaryjaneveloso:1
+../../dataset/economics/result_Maid/119_FOR
+       beautifully:1
+       both:1
+       bravo:1
+       dickdurbin:1
+       explained:1
+       hold:1
+       senblumenthal:1
+       up:1
+       womensrights:1
+../../dataset/economics/result_Maid/120_NONE_OF_ABOVE
+       lifenewshq:1
+       waronwomen:1
+../../dataset/economics/result_Maid/121_AGAINST
+       bruvvereccles:1
+       cameron:1
+       catholic:1
+       david:1
+       i:1
+../../dataset/economics/result_Maid/123_AGAINST
+       arrestkool:1
+       celebate:1
+       celebrate:1
+       gang:1
+       good:2
+       jesussaves:1
+       kool:1
+       o:1
+       tcot:1
+       times:2
+       whatever:1
+../../dataset/economics/result_Maid/124_NONE_OF_ABOVE
+       chapelhill:1
+       families:1
+       great:1
+       hill:1
+       naralnc:1
+       susan:1
+       thanks:1
+       women:1
+../../dataset/economics/result_Maid/125_AGAINST
+       casey:1
+       center:1
+       defense:1
+       hb:1
+       life:1
+       patient:1
+       stephen:1
+       texas:1
+       txlege:1
+../../dataset/economics/result_Maid/126_AGAINST
+       beretta:1
+       giamolla:1
+       gianna:1
+       happy:1
+       may:1
+       molla:1
+       news:1
+       sphcs:1
+       st:1
+../../dataset/economics/result_Maid/127_NONE_OF_ABOVE
+       hannah:1
+       warren:1
+       women:1
+../../dataset/economics/result_Maid/128_AGAINST
+       against:1
+       always:1
+       colorado:1
+       democrats:1
+       personhood:2
+../../dataset/economics/result_Maid/129_AGAINST
+       children:1
+       means:1
+../../dataset/economics/result_Maid/130_NONE_OF_ABOVE
+       cis:1
+../../dataset/economics/result_Maid/132_AGAINST
+       act:1
+       capable:1
+       child:1
+       contact:1
+       pain:1
+       prolifepolitics:1
+       protection:1
+       sc:1
+       senate:1
+       senators:1
+       unborn:1
+       wed:1
+../../dataset/economics/result_Maid/133_NONE_OF_ABOVE
+       smalldoctor:1
+../../dataset/economics/result_Maid/134_FOR
+       aftertiller:1
+       womensrights:1
+../../dataset/economics/result_Maid/135_FOR
+       decisions:1
+       men:1
+       rw:1
        s:1
        sad:1
-       scared:1
-       society:1
-       technology:1
-       that:1
-       to:1
-       use:1
-       we:1
-../../dataset/economics/result_Maid/126_Neutral
-       at:1
-       from:1
-       it:1
-       lol:1
-       mention:1
-       nuclear:1
-       of:1
-       plant:1
-       power:1
-       the:2
-       was:1
-       working:1
-       years:1
-../../dataset/economics/result_Maid/127_Neutral
-       a:3
-       ambitions:1
-       arabiaa:1
-       energy:1
-       hibbs:1
-       link:1
-       mark:1
-       mention:1
-       nuclear:1
-       on:1
-       rt:1
+       women:2
+../../dataset/economics/result_Maid/136_AGAINST
        s:1
-       saudi:1
-../../dataset/economics/result_Maid/128_Positive
-       construct:1
-       good:1
-       in:1
-       iran:1
-       link:1
-       mention:1
-       more:1
-       news:1
-       nuclear:1
-       plants:1
-       proposes:1
+       women:2
+../../dataset/economics/result_Maid/137_NONE_OF_ABOVE
+       ryandeloosh:1
+../../dataset/economics/result_Maid/138_FOR
+       lmao:1
+       thinks:1
+       women:1
+../../dataset/economics/result_Maid/139_NONE_OF_ABOVE
+       help:1
+../../dataset/economics/result_Maid/140_NONE_OF_ABOVE
+       andrewchan:1
+       bali:1
+       istandformercy:1
+       keephopealive:1
+       myuransukumaran:1
+../../dataset/economics/result_Maid/141_AGAINST
+       animals:1
+       lives:1
+       therapies:1
+       views:1
+../../dataset/economics/result_Maid/142_NONE_OF_ABOVE
+       ab:1
+       committee:1
+       judiciary:1
+../../dataset/economics/result_Maid/143_FOR
+       esp:1
+       explicitceans:1
+       kids:1
+       makes:1
+       people:1
+../../dataset/economics/result_Maid/144_AGAINST
+       girls:1
+       peivotes:1
+       women:1
+../../dataset/economics/result_Maid/145_FOR
+       abortions:1
+       defunding:1
+       pp:1
        rt:1
-       russia:1
-       to:1
-../../dataset/economics/result_Maid/129_Positive
-       link:1
-       mention:1
-       more:1
-       nuclear:1
-       please:1
-       power:1
-       rt:1
-../../dataset/economics/result_Maid/130_Neutral
-       a:1
-       alcohol:1
-       cannabis:2
-       energy:1
-       healing:1
-       mention:1
-       more:2
-       nuclear:1
-       org:1
-       plant:1
-       potential:1
-       power:1
-       properties:1
-       rt:1
-       safer:2
-       than:2
-       themarijuanateaparty:1
-../../dataset/economics/result_Maid/131_Neutral
-       at:1
-       burns:1
-       down:1
-       in:1
-       insightful:1
-       just:1
-       mention:1
-       mr:2
-       not:1
-       nuclear:1
-       office:1
-       oh:1
-       plant:1
-       power:1
-       quot:2
-       schools:1
-       sitting:1
-       so:1
-       tear:1
-       the:1
-       to:1
-       trying:1
-       vat:1
-       your:1
-../../dataset/economics/result_Maid/132_Positive
-       about:1
-       agenda:1
-       aka:1
-       and:1
-       calm:1
-       certainty:1
-       energy:1
-       fud:1
-       in:1
-       is:1
-       mention:1
-       my:1
-       nuclear:1
-       quot:2
-       reassurance:1
-       response:1
-       spreading:1
-       to:1
-       truth:1
-       yours:1
-../../dataset/economics/result_Maid/133_Neutral
-       a:1
-       at:2
-       crazy:1
-       get:1
-       going:1
-       i:1
-       it:1
-       job:1
-       line:1
-       m:1
-       mention:1
-       my:1
-       nice:1
-       nuclear:1
-       plant:1
-       power:1
-       quiet:1
-       s:1
-       the:1
-       to:1
-       when:1
-       work:1
-../../dataset/economics/result_Maid/134_Neutral
-       and:1
-       as:1
-       doesn:1
-       is:1
-       it:3
-       long:1
-       man:1
-       mention:1
-       nah:1
-       nimbyism:1
-       nuclear:1
-       power:1
-       relate:1
-       same:1
-       so:1
-       support:1
-       supporters:1
-       t:1
-       the:1
-       them:1
-       they:1
-       thing:1
-       to:1
-       with:1
-../../dataset/economics/result_Maid/135_Neutral
-       a:1
-       bet:1
-       big:1
-       bombs:1
-       by:1
-       hit:1
-       link:1
-       mention:1
-       nation:1
-       nuclear:1
-       on:1
-       placed:1
-       power:1
-       rt:1
-../../dataset/economics/result_Maid/136_Negative
-       are:1
-       build:1
-       ceo:1
-       exelon:1
-       expensive:1
-       just:1
-       link:1
-       mention:1
-       new:1
-       nuclear:1
-       plants:1
-       power:1
-       rt:1
-       s:1
-       says:1
-       see:1
-       to:1
-       too:1
-       what:1
-../../dataset/economics/result_Maid/137_Neutral
-       abolition:1
-       academics:2
-       and:1
-       antinuclear:1
-       ca:1
-       call:1
-       for:1
-       link:1
-       mention:1
-       ngos:1
-       nongovernmental:1
-       nuclear:1
-       of:1
-       organizations:1
-       plants:1
-       rt:1
-../../dataset/economics/result_Maid/138_Neutral
-       link:1
-       logo:1
-       mention:2
-       no:1
-       nukes:1
-       rt:1
-       via:1
-../../dataset/economics/result_Maid/139_Negative
-       a:1
-       all:1
-       also:1
-       and:1
-       but:1
-       children:1
-       has:1
-       japan:1
-       link:1
-       lot:1
-       mention:1
-       not:1
-       nuclear:1
-       of:1
+       women:1
+       yep:1
+../../dataset/economics/result_Maid/146_FOR
+       auragasmic:1
+       belongs:1
        only:1
-       over:1
-       plant:1
-       please:1
-       power:1
-       problems:1
-       rt:1
-       save:1
-       the:2
-       world:1
-../../dataset/economics/result_Maid/140_Neutral
-       any:1
-       at:1
-       damage:1
-       earthquake:1
-       in:1
-       japan:1
-       mention:1
-       no:1
-       now:1
-       nuclear:1
-       or:1
-       plants:1
-       power:1
-       reported:1
-       rt:1
-       tsunami:1
-../../dataset/economics/result_Maid/141_Neutral
-       blog:1
-       bloggers:1
-       carnival:1
-       digest:1
-       energy:1
-       is:1
-       link:1
-       mention:2
-       nuclear:3
-       of:1
-       rt:2
-       th:1
-       up:1
-../../dataset/economics/result_Maid/142_Neutral
-       arizona:1
-       declines:1
-       emerges:1
-       energy:2
-       greener:1
-       if:1
-       in:1
-       link:1
-       mention:1
-       nuclear:1
-       re:2
-       rt:1
-       talkin:1
-       to:1
-       we:1
-       while:1
-       you:2
-../../dataset/economics/result_Maid/143_Neutral
-       a:2
-       albert:1
-       boil:1
-       einstein:1
-       energy:1
-       exite:1
-       hell:1
-       is:1
-       mention:1
-       nuclear:1
-       of:1
-       quot:1
-       rt:1
-       to:1
-       water:1
-       way:1
-../../dataset/economics/result_Maid/144_Negative
-       a:1
-       and:1
-       boil:1
-       dangerous:1
-       earth:1
-       energy:1
-       expensive:1
-       for:1
-       humans:1
-       is:2
-       it:1
-       mention:1
-       more:1
-       nuclear:1
-       rt:1
-       s:1
-       screws:1
-       the:1
-       to:1
-       uninhabitable:1
-       up:1
-       very:1
-       water:1
-       way:1
-       what:1
-       when:1
-../../dataset/economics/result_Maid/145_Neutral
-       and:1
-       capitalism:1
-       communism:1
-       energy:1
-       international:1
-       link:1
-       mention:1
-       nuclear:1
-       rt:1
-../../dataset/economics/result_Maid/146_Negative
-       all:1
-       and:1
-       clean:1
-       death:1
-       energy:1
-       for:1
-       future:1
-       generations:1
-       mention:1
-       nice:1
-       now:1
-       nuclear:1
-       of:1
-       our:1
-       planet:1
-       rt:1
-       the:1
-       to:1
-       work:1
-../../dataset/economics/result_Maid/147_Neutral
-       after:1
-       article:1
-       energy:1
-       fm:1
-       fukushima:1
-       future:1
-       is:1
-       it:1
-       jun:1
-       link:1
-       mention:1
-       national:1
-       nuclear:1
-       of:2
-       power:1
-       reprint:1
-       review:1
-       rt:1
-       still:1
-       the:2
-../../dataset/economics/result_Maid/148_Neutral
-       a:1
-       are:1
-       backwards:1
+       your:1
+../../dataset/economics/result_Maid/147_AGAINST
+       hillary:1
+       women:1
+../../dataset/economics/result_Maid/148_NONE_OF_ABOVE
+       appeals:1
+       christian:1
+       deathrow:1
+       drugtrafficking:1
+       indonesiapresident:1
+       manila:1
+       maryjaneveloso:1
+       monday:1
+       pacquiao:1
+       tv:1
+../../dataset/economics/result_Maid/149_NONE_OF_ABOVE
+       brownback:1
+       findin:1
+../../dataset/economics/result_Maid/151_AGAINST
+       babies:1
+       cells:1
+       lifenewshq:1
+       triplets:1
+../../dataset/economics/result_Maid/152_FOR
+       just:1
+       people:1
+       sorry:1
+       women:1
+../../dataset/economics/result_Maid/153_AGAINST
+       abraham:1
+       lincoln:1
+../../dataset/economics/result_Maid/154_FOR
+       didyouknow:1
+       michigan:1
+       minors:1
+../../dataset/economics/result_Maid/156_AGAINST
+       haveyoursay:1
+       life:1
+       onlyhim:1
+../../dataset/economics/result_Maid/157_NONE_OF_ABOVE
+       baby:1
+       fingers:1
+       most:1
+       systems:1
+../../dataset/economics/result_Maid/158_NONE_OF_ABOVE
        best:1
-       future:1
-       hypocrite:1
-       in:2
-       interest:1
-       is:1
-       leader:1
-       mention:1
-       nuclear:1
-       of:2
-       power:1
-       saskatchewan:1
-       the:2
-       uranium:1
-       we:1
-       world:1
-../../dataset/economics/result_Maid/149_Neutral
-       approved:1
-       at:1
-       construction:1
-       from:1
-       ga:1
-       in:1
-       link:1
-       mention:2
-       nuclear:1
-       plant:1
-       power:1
-       rt:1
-       site:1
-       spending:1
-       vogtle:1
-../../dataset/economics/result_Maid/150_Neutral
-       arms:1
-       birds:1
-       frogs:1
-       horses:1
-       ironically:1
-       mention:1
-       nuclear:1
-       otters:1
-       power:1
-       protectionism:1
-       snails:1
-       sparrows:1
-       topless:1
-       voles:1
-       zealous:1
-../../dataset/economics/result_Maid/151_Neutral
-       abrupt:1
-       chancellor:1
-       energy:1
-       expedient:1
-       german:1
-       her:1
-       link:1
-       mention:1
-       merkel:1
-       nuclear:1
-       ny:1
-       on:1
-       politically:1
-       rt:1
-       times:1
-       turn:1
-       u:1
-       washes:1
-       white:1
-../../dataset/economics/result_Maid/152_Neutral
-       century:1
-       energy:2
-       for:1
-       green:1
-       mention:1
-       new:1
-       nuclear:1
-       or:1
+       catherine:1
+       eastertide:1
+       glorious:1
+       prayers:1
+       sienna:1
        st:1
-       the:1
-../../dataset/economics/result_Maid/153_Neutral
-       daiichi:1
-       energy:1
-       fukushima:1
-       link:1
-       mention:1
-       nuclear:1
-       on:1
-       progress:1
-       report:1
+       wednesday:1
+       will:1
+       wishes:1
+../../dataset/economics/result_Maid/159_AGAINST
+       aren:1
+       every:1
+       j:1
+       k:1
+       rowling:1
+../../dataset/economics/result_Maid/160_AGAINST
+       explicitceans:1
+../../dataset/economics/result_Maid/161_AGAINST
+       debbiewashermanschultz:1
+       grumpyoldguy:1
+       speaks:1
+../../dataset/economics/result_Maid/163_AGAINST
+       abortionexpansion:1
+       assistedsuicidelike:1
+       nopasny:1
+       nyslife:1
        rt:1
-../../dataset/economics/result_Maid/154_Neutral
-       an:1
-       evacuation:1
-       from:1
-       know:1
-       link:1
-       mention:1
-       nuclear:1
-       plan:1
-       plant:1
-       power:1
-       protect:1
-       radiation:1
-       route:1
-       rt:1
-       safe:1
-       the:1
-       yourself:1
-       zones:1
-../../dataset/economics/result_Maid/155_Neutral
-       energy:1
-       for:1
-       link:1
-       mention:1
-       nuclear:1
-       public:1
-       remains:1
-       rt:1
-       strong:1
-       support:1
-../../dataset/economics/result_Maid/156_Positive
-       afford:1
-       cannot:1
-       consequences:1
-       day:1
-       energy:1
-       florida:1
-       in:1
-       including:1
-       link:1
-       mention:1
+../../dataset/economics/result_Maid/164_NONE_OF_ABOVE
+       prayforisrael:1
+       prayforpersecutedchurch:1
+       prayforukraine:1
+       praytherosary:1
+../../dataset/economics/result_Maid/165_NONE_OF_ABOVE
+       bucksexton:1
+       feds:1
+       teambuck:1
+       warondrugs:1
+../../dataset/economics/result_Maid/166_AGAINST
+       abortion:1
+       even:1
+       evil:1
+       glennbeck:1
+       listening:1
+       live:1
+       margaretsanger:1
+../../dataset/economics/result_Maid/167_AGAINST
+       imagine:1
+       think:1
+../../dataset/economics/result_Maid/168_AGAINST
+       beliefs:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/169_AGAINST
+       popefrancis:1
+       problems:1
+../../dataset/economics/result_Maid/170_AGAINST
+       babies:1
+       most:1
+../../dataset/economics/result_Maid/171_AGAINST
+       cross:1
+       esmeraldakiczek:1
+../../dataset/economics/result_Maid/172_AGAINST
+       babies:1
+       friends:1
+       younger:1
+../../dataset/economics/result_Maid/173_NONE_OF_ABOVE
+       ageofultron:1
+       andpropaneaccessories:1
+       earth:1
+       meme:1
+../../dataset/economics/result_Maid/174_AGAINST
+       babies:1
+       kids:1
+       libs:1
+       motherhood:1
+       penalty:1
+       s:1
+       so:1
+       wage:1
+       wh:1
+       wtf:1
+../../dataset/economics/result_Maid/175_AGAINST
+       agree:1
+       helpbillcoleman:1
+       s:1
+../../dataset/economics/result_Maid/176_FOR
+       god:1
+       shoes:1
+       then:1
+../../dataset/economics/result_Maid/177_FOR
+       nope:1
+../../dataset/economics/result_Maid/178_AGAINST
+       conservative:1
+       dont:1
+../../dataset/economics/result_Maid/179_NONE_OF_ABOVE
+       sprinklepetunia:1
+../../dataset/economics/result_Maid/180_AGAINST
+       babies:1
+../../dataset/economics/result_Maid/181_AGAINST
+       means:1
+       mother:1
+       ourselves:1
+       teresa:1
+../../dataset/economics/result_Maid/182_AGAINST
+       doctors:1
+       don:1
+       friends:1
+       matter:1
+       politicians:1
+../../dataset/economics/result_Maid/183_AGAINST
+       adoption:1
+       chooses:1
+       explicitceans:1
+       obviously:1
+../../dataset/economics/result_Maid/184_NONE_OF_ABOVE
+       america:1
+       fundamental:1
+../../dataset/economics/result_Maid/185_FOR
+       dehumanizing:1
+       incubators:1
+       rights:1
+       thefullbug:1
+       why:1
+../../dataset/economics/result_Maid/186_NONE_OF_ABOVE
+       grabbers:1
+       lies:1
+../../dataset/economics/result_Maid/187_NONE_OF_ABOVE
+       aul:1
+       frontiers:1
+       jeanneanemaxon:1
+       so:1
+       womensrights:1
+../../dataset/economics/result_Maid/188_AGAINST
+       blessed:1
+       mother:1
+       powerful:1
+       teresa:1
+       words:1
+../../dataset/economics/result_Maid/189_NONE_OF_ABOVE
+       barackobama:1
+       judges:1
+       n:1
+../../dataset/economics/result_Maid/190_AGAINST
+       augustine:1
+       infants:1
+       psalm:1
+       sons:1
+       souls:1
+../../dataset/economics/result_Maid/191_FOR
        not:1
-       nuclear:2
-       of:2
-       power:1
-       quote:1
-       rt:1
-       the:2
-       we:1
-../../dataset/economics/result_Maid/157_Neutral
-       at:2
-       calhoun:2
-       fort:2
-       leak:2
-       link:1
-       mention:1
-       nuclear:3
+       people:1
+       rights:1
+       s:1
+       shocker:1
+../../dataset/economics/result_Maid/192_AGAINST
+       don:4
+       prousa:1
+       rights:1
+../../dataset/economics/result_Maid/193_AGAINST
+       choice:1
+       pro:1
+       say:1
+../../dataset/economics/result_Maid/194_FOR
+       kids:1
+       people:3
+../../dataset/economics/result_Maid/195_NONE_OF_ABOVE
+       ppact:1
+       thank:1
+       tlc:1
+       yaycondoms:1
+../../dataset/economics/result_Maid/196_NONE_OF_ABOVE
+       abchouston:1
+       actions:1
+       black:1
+       clintons:1
+       community:1
+       control:1
+       don:1
+       drugs:1
+       lbj:1
+       let:1
+       obama:1
+       progressives:1
+       your:1
+../../dataset/economics/result_Maid/197_AGAINST
+       doctors:1
+../../dataset/economics/result_Maid/198_NONE_OF_ABOVE
+       ii:1
+       nazis:1
+       people:2
+       war:1
+       world:1
+../../dataset/economics/result_Maid/199_FOR
+       apologies:2
        p:1
-       power:1
-       radioactive:2
-       rt:1
-       station:1
-../../dataset/economics/result_Maid/158_Neutral
-       designed:1
-       did:1
-       fact:1
-       filters:1
-       for:1
-       garmentcare:1
-       hepa:1
-       know:1
-       mention:1
-       nuclear:1
-       plants:1
-       power:1
-       random:1
-       rt:1
-       that:1
-       were:1
-       you:1
-../../dataset/economics/result_Maid/159_Neutral
-       a:3
-       by:1
-       chinaa:1
-       disaster:1
-       fukushima:1
-       link:2
-       mention:2
-       nuclear:1
-       our:1
-       plans:1
-       power:1
-       reading:1
-       rt:1
+       rights:1
+       stop:1
+../../dataset/economics/result_Maid/200_AGAINST
+       abortions:1
+       respect:1
+       value:1
+../../dataset/economics/result_Maid/201_NONE_OF_ABOVE
+       roevwade:1
+../../dataset/economics/result_Maid/202_AGAINST
+       campus:1
+       life:1
+       north:1
+       student:1
+       students:1
+       ub:1
+       union:1
+../../dataset/economics/result_Maid/203_NONE_OF_ABOVE
+       amos:1
+       career:1
+       josh:1
+       kihara:1
+       kobi:1
+       music:1
+../../dataset/economics/result_Maid/204_FOR
+       babies:1
+       cries:1
+       hahahahaha:1
+       love:1
+../../dataset/economics/result_Maid/205_AGAINST
+       conservatives:1
+       liberals:1
+       women:1
+../../dataset/economics/result_Maid/206_FOR
+       abortions:1
+       anti:1
+       laws:1
+       say:1
+../../dataset/economics/result_Maid/207_NONE_OF_ABOVE
+       emilybeaulieu:1
        s:1
-       similar:1
-       to:1
-       unfazed:1
-../../dataset/economics/result_Maid/160_Neutral
-       american:1
-       blackout:1
-       corruptmedia:1
-       coverage:1
-       is:1
-       leaking:1
-       mention:1
-       news:1
-       nuclear:1
-       or:2
-       plants:1
-       power:1
-       remember:1
-       rt:1
-       the:1
-       there:1
-       three:1
-       two:1
-       under:1
-       water:1
-       were:1
-       where:1
-../../dataset/economics/result_Maid/161_Neutral
-       advances:1
-       can:1
-       discussions:1
-       divorce:1
-       energy:1
-       fear:1
-       from:1
-       fuel:1
-       in:1
-       laser:1
-       mention:1
-       nonproliferation:1
-       nuclear:2
-       proves:1
-       quot:1
-       report:1
-       stir:1
-       t:1
-       terror:1
-       we:1
-../../dataset/economics/result_Maid/162_Neutral
-       daiichi:1
-       from:1
-       fukushima:1
-       grounds:1
-       link:1
-       mention:1
-       nuclear:1
-       of:1
-       power:1
-       reporting:1
-       rt:1
-       station:1
-       the:1
-../../dataset/economics/result_Maid/163_Neutral
-       back:1
-       because:1
-       corps:1
-       do:1
-       energy:1
-       is:1
-       mention:1
-       nuclear:1
-       oil:1
-       regulations:1
+../../dataset/economics/result_Maid/208_AGAINST
+       karenbuckley:1
+../../dataset/economics/result_Maid/209_AGAINST
+       life:1
+       most:1
+../../dataset/economics/result_Maid/210_NONE_OF_ABOVE
+       pinkgypsysoul:1
+       policies:1
+       religious:1
+../../dataset/economics/result_Maid/212_NONE_OF_ABOVE
+       gambler:1
+       prowomanchoice:1
+       sadly:1
+../../dataset/economics/result_Maid/213_AGAINST
+       god:1
+       good:1
+       patriots:1
+       pray:1
+       unborn:1
+../../dataset/economics/result_Maid/214_AGAINST
+       adoption:1
+       life:1
+       not:1
+../../dataset/economics/result_Maid/215_FOR
+       chocolatemadness:1
+       diabetes:1
+       prochoicemass:1
+../../dataset/economics/result_Maid/216_NONE_OF_ABOVE
+       get:1
+       mikeredmondndp:1
+       planned:1
+       times:1
+../../dataset/economics/result_Maid/217_AGAINST
+       baby:1
+       dwstweets:1
+       losers:1
+       mom:1
+       repdwstweets:1
+../../dataset/economics/result_Maid/218_NONE_OF_ABOVE
+       clinics:1
+       health:1
+       people:1
+       women:1
+../../dataset/economics/result_Maid/219_AGAINST
+       ghandi:1
+       it:1
+       prolifeyouth:2
+../../dataset/economics/result_Maid/220_AGAINST
+       children:1
+       francis:1
+       god:1
+       greatest:1
+       lifeisagift:1
+       pope:1
+../../dataset/economics/result_Maid/221_NONE_OF_ABOVE
+       showtruth:1
+../../dataset/economics/result_Maid/222_AGAINST
+       dna:1
+       please:1
+       s:1
+../../dataset/economics/result_Maid/223_NONE_OF_ABOVE
+       nonsense:1
+../../dataset/economics/result_Maid/224_NEUTRAL
+       justintrudeau:1
+       peiliberalparty:1
+       wadepeiliberal:1
+../../dataset/economics/result_Maid/225_FOR
+       dear:1
+       i:1
+       pari:1
+       passu:1
+       religious:1
        right:1
-       rolling:1
-       should:1
-       that:1
-       the:2
-       thing:1
-       to:1
-       trust:1
-       wallstreet:1
-       we:1
-../../dataset/economics/result_Maid/164_Neutral
-       ans:1
-       at:1
-       bloggers:1
-       cafe:1
-       carnival:1
-       energy:1
-       link:1
-       mention:2
-       now:1
-       nuclear:2
-       of:1
-       online:1
-       rt:2
-       th:1
-../../dataset/economics/result_Maid/165_Neutral
-       daiichi:1
-       energy:1
-       fukushima:1
-       link:1
-       mention:2
-       nuclear:1
-       on:1
-       progress:1
-       report:1
-       rt:2
-../../dataset/economics/result_Maid/166_Negative
-       a:3
-       abandon:1
-       altogether:1
-       amp:1
-       cracking:1
-       fukushima:1
-       ground:1
-       link:1
-       mention:2
-       nuclear:1
-       plant:1
-       power:1
-       quot:2
-       radioactive:1
-       report:1
-       rt:1
-       rta:1
-       steam:1
-       under:1
-       venting:1
-../../dataset/economics/result_Maid/167_Neutral
-       and:1
-       build:1
-       comes:1
-       doing:1
-       in:2
-       iran:1
-       magog:1
-       mention:1
-       more:1
-       naturally:1
-       nuclear:1
-       persia:1
-       plants:1
-       power:1
-       rt:1
-       russia:1
-       talks:1
-       to:1
-       what:1
-../../dataset/economics/result_Maid/168_Neutral
-       building:1
-       chief:1
-       cooperating:1
-       ir:1
-       iran:1
-       link:1
-       mention:1
-       new:1
-       nuclear:2
-       on:1
-       plants:1
-       power:1
-       presstv:1
-       proposed:1
-       rt:1
-       russia:1
+../../dataset/economics/result_Maid/226_NONE_OF_ABOVE
+       christians:1
+       parents:1
+       wonder:1
+../../dataset/economics/result_Maid/227_AGAINST
+       assault:1
+       everydaysexism:1
+../../dataset/economics/result_Maid/228_FOR
+       asasoltan:1
+       choices:1
+       shahs:1
+       women:1
+       yaaaaaas:1
+../../dataset/economics/result_Maid/229_NONE_OF_ABOVE
+       follow:1
+       freeamirnow:1
+       justice:1
+       liberty:1
+       msmistinichole:1
+       patriot:1
+       proisrael:1
+       thanks:1
+       truth:1
+       wakeupamerica:1
+../../dataset/economics/result_Maid/230_NONE_OF_ABOVE
+       anti:1
+       conformcomics:1
+       kids:1
+       stopsb:1
+       vaccinate:1
+       vaxxers:1
+       your:1
+../../dataset/economics/result_Maid/231_FOR
+       lives:1
+       no:1
+       people:1
        s:1
-       says:1
-       w:1
-../../dataset/economics/result_Maid/169_Negative
-       ambitions:1
-       arabia:1
-       boosts:1
-       can:1
-       disturbs:1
-       drive:1
-       energy:1
-       its:1
-       link:1
-       lt:1
-       me:1
-       mention:1
-       nuclear:2
-       rt:1
-       saudi:1
-       t:1
-       there:1
+       saves:1
+       showtruth:1
+../../dataset/economics/result_Maid/232_AGAINST
+       ends:1
+../../dataset/economics/result_Maid/233_AGAINST
+       abortions:1
+       easy:1
+       women:1
+../../dataset/economics/result_Maid/234_NONE_OF_ABOVE
+       children:1
+       remember:1
+       women:1
+../../dataset/economics/result_Maid/235_NONE_OF_ABOVE
+       case:1
+       come:1
+       hall:1
+       pizza:1
+../../dataset/economics/result_Maid/236_NONE_OF_ABOVE
+       chances:1
+       drugs:1
+       executions:1
+       god:1
+       indonesia:1
+       let:1
+       life:1
+       s:1
+       together:1
+       un:1
+       unrightswire:1
+../../dataset/economics/result_Maid/237_FOR
+       s:1
+../../dataset/economics/result_Maid/238_AGAINST
+       children:1
+       happyearthd:1
+       most:1
+       streets:1
+../../dataset/economics/result_Maid/239_NONE_OF_ABOVE
+       abortions:1
+       late:1
+       wks:1
+../../dataset/economics/result_Maid/240_NONE_OF_ABOVE
+       baltimore:1
+       blacklivesmatter:1
+       britt:1
+       exceptdemocrats:1
+       ghiroli:1
+       mayor:1
+       mboyle:1
+       rioters:2
+       sanger:1
+../../dataset/economics/result_Maid/242_FOR
+       carries:1
+../../dataset/economics/result_Maid/243_NONE_OF_ABOVE
+       armenia:1
+       citizens:1
+       government:1
+       lives:1
+       singerman:1
+../../dataset/economics/result_Maid/244_NONE_OF_ABOVE
+       anencephaly:1
+       casey:1
+       knox:1
+       reasons:1
+       redbagbabies:1
+       rickcanton:1
+../../dataset/economics/result_Maid/245_FOR
+       azzarellijim:1
+       not:1
+       wills:1
+       women:1
+../../dataset/economics/result_Maid/246_FOR
+       god:1
+       s:1
+../../dataset/economics/result_Maid/247_NONE_OF_ABOVE
+       ethics:1
+       excellent:1
+       yr:1
+../../dataset/economics/result_Maid/248_FOR
+       are:1
+       people:1
+../../dataset/economics/result_Maid/250_NONE_OF_ABOVE
+       better:1
+       naralnc:1
+       ncpolicywatch:1
+       patmccrorync:1
+../../dataset/economics/result_Maid/251_AGAINST
+       anyone:1
+       gonna:1
+../../dataset/economics/result_Maid/252_FOR
+       bodies:1
+       goodcounselnet:1
+       politicians:1
+       rights:1
+       s:1
+       stuart:1
+       thank:1
+       women:1
+../../dataset/economics/result_Maid/253_FOR
+       best:3
+       s:3
+../../dataset/economics/result_Maid/254_NONE_OF_ABOVE
+       days:1
+       notes:1
+../../dataset/economics/result_Maid/255_NONE_OF_ABOVE
+       florida:1
+       new:1
+       pennsylvania:1
+       residents:1
+       s:1
+       where:1
+       york:1
+../../dataset/economics/result_Maid/256_AGAINST
+       means:1
+       mother:1
+       ourselves:1
+       rogeriscatholic:1
+       teresa:1
+../../dataset/economics/result_Maid/258_AGAINST
+       children:1
+       lines:1
+       parenthood:1
+       planned:1
+       pockets:1
+       women:1
+../../dataset/economics/result_Maid/259_NONE_OF_ABOVE
+       hillaryclinton:1
+       once:1
+../../dataset/economics/result_Maid/260_AGAINST
+       photos:1
+../../dataset/economics/result_Maid/261_AGAINST
+       abortions:1
+       no:1
+       u:1
+       wildchild:1
+../../dataset/economics/result_Maid/262_AGAINST
+       medicaid:1
+       wic:1
+../../dataset/economics/result_Maid/263_NEUTRAL
+       devo:1
+       eco:1
+       hb:1
+       messenger:1
+       presents:1
+       rep:1
+       would:1
+../../dataset/economics/result_Maid/265_NONE_OF_ABOVE
+       alabama:1
+../../dataset/economics/result_Maid/266_NONE_OF_ABOVE
+       amnesty:1
+       docjp:1
+       gop:1
+       it:1
+       obamacare:1
+       pjnet:1
+       pressure:1
+       promises:1
+../../dataset/economics/result_Maid/267_AGAINST
+       bl:1
+       body:1
+       excuses:1
+       figueroa:1
+       losangeles:1
+       parts:1
+       worse:1
+../../dataset/economics/result_Maid/268_NONE_OF_ABOVE
+       blacklivesdontmatter:1
+       hollywood:1
+../../dataset/economics/result_Maid/269_AGAINST
+       baby:1
+       humans:1
+       rogeriscatholic:1
+       save:1
+       waar:1
+../../dataset/economics/result_Maid/270_FOR
+       assaulting:1
+       financial:1
+       rates:1
+       women:2
+../../dataset/economics/result_Maid/271_FOR
+       fredindimuli:1
+       hands:1
+       women:1
+../../dataset/economics/result_Maid/272_AGAINST
+       alllivesmatter:1
+       depicting:1
+       godlypghdad:1
+       torsos:1
+       women:1
+../../dataset/economics/result_Maid/274_FOR
+       lol:1
+       men:1
+       ones:1
+../../dataset/economics/result_Maid/275_AGAINST
+       god:1
+       humans:1
+       is:1
+       scl:1
+       sinners:1
+       thoughts:1
+../../dataset/economics/result_Maid/276_NONE_OF_ABOVE
+       crushthecfr:1
+       kids:1
+       times:1
+       yes:1
+../../dataset/economics/result_Maid/277_FOR
+       most:1
+       pinkgypsysoul:1
+       s:1
+       the:1
+       women:1
+../../dataset/economics/result_Maid/278_NONE_OF_ABOVE
+       god:1
+../../dataset/economics/result_Maid/279_NONE_OF_ABOVE
+       johnseago:1
+       patients:1
+../../dataset/economics/result_Maid/280_NONE_OF_ABOVE
+       fem:1
+       feminists:1
+       humanrights:1
+       purvipatel:1
+       white:1
+../../dataset/economics/result_Maid/281_FOR
+       kids:1
+       people:3
+../../dataset/economics/result_Maid/282_FOR
+       kids:1
+       people:2
+       u:1
+../../dataset/economics/result_Maid/283_NONE_OF_ABOVE
+       belongs:1
+       handing:1
+       kids:1
+../../dataset/economics/result_Maid/284_FOR
+       cmte:1
+       judiciary:1
+       passes:1
+       sb:1
+       sen:1
        this:1
        women:1
-../../dataset/economics/result_Maid/170_Neutral
-       a:3
-       ambitions:1
-       arabiaa:1
-       energy:2
-       filed:1
-       link:1
-       mention:1
-       news:1
-       nuclear:1
-       rt:1
+../../dataset/economics/result_Maid/285_FOR
+       freedom:1
+../../dataset/economics/result_Maid/286_AGAINST
+       christians:1
+       dems:1
+       hillary:1
+       jimddaniels:1
+       least:1
+       not:1
+       plenty:1
+       reasons:1
+../../dataset/economics/result_Maid/287_FOR
+       lifers:2
        s:1
-       saudi:1
-       under:1
-../../dataset/economics/result_Maid/171_Neutral
-       adaptation:1
-       and:1
-       caps:1
-       energy:1
-       human:1
-       ice:1
-       link:1
-       melting:1
-       mention:1
-       nuclear:1
-       rt:1
-       saturday:1
-       science:1
-../../dataset/economics/result_Maid/172_Neutral
-       adaptation:1
-       and:1
-       bloggingheads:1
-       caps:1
-       energy:1
-       human:1
+../../dataset/economics/result_Maid/288_AGAINST
+       dr:1
+       suess:1
+       waar:1
+../../dataset/economics/result_Maid/289_AGAINST
+       years:1
+../../dataset/economics/result_Maid/290_AGAINST
+       annejp:1
+../../dataset/economics/result_Maid/291_NONE_OF_ABOVE
+       baltimoreriots:1
+       black:1
+       blackkids:1
+       man:1
+       people:1
+../../dataset/economics/result_Maid/292_AGAINST
+       babies:1
+../../dataset/economics/result_Maid/293_AGAINST
+       lol:1
+       omg:1
+       rights:1
+       women:1
+../../dataset/economics/result_Maid/295_AGAINST
+       dogsofgod:1
+../../dataset/economics/result_Maid/296_NONE_OF_ABOVE
+       greatest:1
+       mistakes:1
+../../dataset/economics/result_Maid/297_FOR
+       kids:1
+       people:1
+       theres:1
+../../dataset/economics/result_Maid/298_FOR
+       bodies:1
+       people:1
+       women:1
+       words:1
+../../dataset/economics/result_Maid/299_NONE_OF_ABOVE
+       decisions:1
+       goodbye:1
+       harass:1
+       tonylee:1
+../../dataset/economics/result_Maid/300_NONE_OF_ABOVE
+       brownback:1
+       cities:1
+       gov:1
+       kansas:1
+../../dataset/economics/result_Maid/301_FOR
+       critics:1
+../../dataset/economics/result_Maid/302_FOR
+       more:1
+       people:1
+       rights:2
+../../dataset/economics/result_Maid/303_FOR
+       abortions:1
+       cheap:1
+       contraceptives:1
+       doctors:1
+       women:1
+../../dataset/economics/result_Maid/304_FOR
+       keeping:1
+       people:1
+       showtruth:1
+../../dataset/economics/result_Maid/305_AGAINST
+       dies:2
        i:1
-       ice:1
-       link:1
-       melting:1
-       mention:1
-       nuclear:1
-       on:1
-       rt:1
-       satu:1
-       saturday:1
-       science:2
-       tv:1
-       was:1
-../../dataset/economics/result_Maid/173_Neutral
-       be:1
-       energy:1
-       feared:1
-       fukushima:1
-       germany:1
-       japan:1
-       link:1
-       mention:1
-       more:1
-       nuclear:1
-       or:1
-       orcot:1
-       power:1
-       rt:1
-       should:1
-       understood:1
-../../dataset/economics/result_Maid/174_Neutral
-       in:1
-       krsko:1
-       link:1
-       mention:2
-       news:1
-       nuclear:1
-       plant:1
-       power:1
-       rt:1
+       least:1
+       typo:1
+       wildchild:1
+../../dataset/economics/result_Maid/306_FOR
+       jesuslovesdeadbabies:1
+../../dataset/economics/result_Maid/307_NONE_OF_ABOVE
+       court:1
+       loses:1
+       obamcare:1
+       religious:1
+       supreme:1
+../../dataset/economics/result_Maid/309_FOR
+       best:1
        s:1
-       slovenia:1
-../../dataset/economics/result_Maid/175_Neutral
-       about:2
-       bit:1
-       coal:1
-       from:1
-       fukushima:1
-       important:1
-       isn:1
-       it:1
-       ly:1
-       mention:2
-       nuclear:1
-       post:1
-       power:1
-       radioactive:1
-       rkcai:1
-       rt:2
+../../dataset/economics/result_Maid/311_AGAINST
+       least:1
+       lies:1
+       now:1
+       wildchild:1
+../../dataset/economics/result_Maid/312_FOR
+       abortions:1
+       lilagracerose:1
+       pp:1
+       women:1
+../../dataset/economics/result_Maid/313_AGAINST
+       pro:1
+../../dataset/economics/result_Maid/314_FOR
+       no:1
+       showtruth:1
+../../dataset/economics/result_Maid/315_FOR
+       benefits:1
+../../dataset/economics/result_Maid/316_FOR
+       gop:1
+       males:1
+       ok:1
+../../dataset/economics/result_Maid/317_NEUTRAL
+       do:1
+       rights:2
+       types:1
+../../dataset/economics/result_Maid/318_AGAINST
+       freedom:1
+       yes:2
+../../dataset/economics/result_Maid/319_FOR
+       farrah:1
+../../dataset/economics/result_Maid/320_FOR
+       male:1
+       politicians:1
        s:1
-       smart:1
-       studying:1
-       sulfur:1
-       t:1
-../../dataset/economics/result_Maid/176_Neutral
-       agreed:1
-       and:1
-       boats:1
-       due:1
-       good:1
-       keepout:1
-       larger:1
-       mention:1
-       nuclear:1
-       on:1
-       power:1
-       sounds:1
-       source:1
-       the:1
-       this:1
-       time:1
-       to:1
-       zone:1
-../../dataset/economics/result_Maid/177_Neutral
-       as:1
-       does:1
-       energy:1
-       grids:1
-       integral:1
-       is:1
-       link:1
-       mention:1
-       multiple:1
-       nuclear:3
-       rt:1
-       s:1
-       safety:2
-       spotlight:1
-       strengthening:1
        u:1
-../../dataset/economics/result_Maid/178_Negative
-       died:1
-       due:1
-       ever:1
-       have:1
-       in:1
-       mention:1
+       women:1
+../../dataset/economics/result_Maid/321_NONE_OF_ABOVE
+       blackonblackviolence:1
+       lives:2
+../../dataset/economics/result_Maid/322_FOR
+       abortions:1
+       plans:1
+../../dataset/economics/result_Maid/323_NONE_OF_ABOVE
+       tw:1
+../../dataset/economics/result_Maid/325_FOR
+       mybodymyrights:1
+../../dataset/economics/result_Maid/326_NONE_OF_ABOVE
+       people:1
+       stevestfler:1
+../../dataset/economics/result_Maid/327_FOR
+       govt:1
+       julieborowski:1
+       reproductiverights:1
+../../dataset/economics/result_Maid/328_NONE_OF_ABOVE
+       ways:1
+       words:1
+../../dataset/economics/result_Maid/329_NONE_OF_ABOVE
+       ie:1
        more:1
-       nuclear:1
+       questions:1
+       refcom:1
+       s:1
+       tanks:1
+../../dataset/economics/result_Maid/330_FOR
+       do:1
+       good:1
+       justintrudeau:1
+       pei:1
+       wadepeiliberal:1
+       women:1
+../../dataset/economics/result_Maid/331_AGAINST
+       babies:1
+       deserters:1
+       kurtschlichter:1
+       lum:1
+       more:1
+       obama:1
+../../dataset/economics/result_Maid/332_NONE_OF_ABOVE
+       views:1
+../../dataset/economics/result_Maid/333_FOR
+       dont:1
+       my:1
+       plants:1
+../../dataset/economics/result_Maid/334_FOR
+       dismiss:1
+       s:1
+../../dataset/economics/result_Maid/335_NONE_OF_ABOVE
+       justintrudeau:1
+       liberal:1
+       party:1
+       peiliberalparty:1
+       wadepeiliberal:1
+../../dataset/economics/result_Maid/336_FOR
+       best:3
+       s:3
+../../dataset/economics/result_Maid/337_AGAINST
+       abortions:1
+       health:1
+       organization:1
+       who:1
+       world:1
+../../dataset/economics/result_Maid/338_AGAINST
+       abortion:1
+       alllivesmatter:1
+       letthemlive:1
+       reagan:1
+       ronald:1
+../../dataset/economics/result_Maid/339_NONE_OF_ABOVE
+       more:1
+       theaword:1
+       words:1
+../../dataset/economics/result_Maid/342_AGAINST
+       days:1
+       megan:1
+       starts:1
+../../dataset/economics/result_Maid/343_FOR
+       best:1
+       s:1
+../../dataset/economics/result_Maid/344_AGAINST
+       abortions:1
+       affordable:1
+       cheap:1
+       contraceptives:1
+       sex:1
+../../dataset/economics/result_Maid/345_FOR
+       men:1
+       results:1
+       s:1
+       systems:1
+       women:1
+../../dataset/economics/result_Maid/346_AGAINST
+       abortionismurder:1
+       liberallogic:1
+       lives:1
+../../dataset/economics/result_Maid/347_AGAINST
+       libertarian:1
+       rip:1
+../../dataset/economics/result_Maid/348_FOR
+       choices:1
+       prolifeyouth:1
+       women:1
+../../dataset/economics/result_Maid/349_AGAINST
+       days:1
+       gosnell:1
+       scrolling:1
+../../dataset/economics/result_Maid/350_FOR
+       believes:1
+       kudos:1
+       people:1
+../../dataset/economics/result_Maid/351_NONE_OF_ABOVE
+       inaccuracies:1
+       responses:1
+       words:1
+../../dataset/economics/result_Maid/353_AGAINST
+       reagan:1
+       ronald:1
+../../dataset/economics/result_Maid/355_AGAINST
+       lifesite:1
+       liveaction:1
+       new:1
+       news:1
+       standtrue:1
+../../dataset/economics/result_Maid/356_AGAINST
+       wewillovercome:1
+../../dataset/economics/result_Maid/357_AGAINST
+       children:1
+       sinnfein:1
+../../dataset/economics/result_Maid/358_AGAINST
+       babys:1
+       its:1
+../../dataset/economics/result_Maid/359_AGAINST
+       libs:1
+../../dataset/economics/result_Maid/361_AGAINST
+       greater:1
+       progressives:1
+       protections:1
+       standing:1
+../../dataset/economics/result_Maid/362_AGAINST
+       how:1
+       parenthood:1
+       planned:1
+       us:1
+../../dataset/economics/result_Maid/363_FOR
+       more:1
+       prowomen:1
+../../dataset/economics/result_Maid/364_AGAINST
+       here:1
+       hillary:1
+       views:1
+../../dataset/economics/result_Maid/365_NONE_OF_ABOVE
+       dear:1
+       iraq:1
+       nuns:1
+       taxpayerpride:1
+../../dataset/economics/result_Maid/366_FOR
+       people:1
+../../dataset/economics/result_Maid/367_NONE_OF_ABOVE
+       binitches:1
+../../dataset/economics/result_Maid/368_NONE_OF_ABOVE
+       children:1
+       cock:1
+       teens:1
+../../dataset/economics/result_Maid/369_NONE_OF_ABOVE
+       co:1
+       evil:1
+       god:1
+       homes:1
+       lies:1
+       took:1
+../../dataset/economics/result_Maid/370_NONE_OF_ABOVE
+       ppact:1
+       tinder:1
+../../dataset/economics/result_Maid/371_AGAINST
+       babies:1
+       kugrl:1
+       millions:1
+../../dataset/economics/result_Maid/372_NONE_OF_ABOVE
+       dwmcaliley:1
+       litazahn:1
+       loriisright:1
+       many:1
+       parties:1
+       reasons:1
+       yup:1
+../../dataset/economics/result_Maid/374_FOR
+       yes:1
+../../dataset/economics/result_Maid/375_AGAINST
+       u:1
+../../dataset/economics/result_Maid/376_NONE_OF_ABOVE
+       elsalvador:1
+       yep:1
+../../dataset/economics/result_Maid/377_NONE_OF_ABOVE
+       justicewillett:1
+       least:1
+../../dataset/economics/result_Maid/378_FOR
+       excellent:1
+       hillary:1
+       it:1
+       nicolasturgeon:1
+../../dataset/economics/result_Maid/379_FOR
+       clinton:1
+       countries:1
+       hillary:1
+       hillarycliton:1
+       hillarywomen:1
+       women:1
+../../dataset/economics/result_Maid/380_FOR
+       bill:1
+       do:1
+       lol:1
+       mr:1
+       or:1
+       president:1
+../../dataset/economics/result_Maid/381_AGAINST
+       are:1
+       marcorubio:1
+       n:1
+       redraiders:1
+       rubio:1
+       texas:1
+       texastech:1
+       texastechuniversity:1
+       ttu:1
+../../dataset/economics/result_Maid/382_AGAINST
+       elpaso:1
+       future:1
+       marcorubio:1
+       newamericancentury:1
+       rub:1
+       texas:1
+       utep:1
+../../dataset/economics/result_Maid/383_AGAINST
+       doo:1
+       hillary:1
+       s:1
+       scooby:1
+       servergate:1
+../../dataset/economics/result_Maid/384_FOR
+       knope:1
+       leslie:1
+../../dataset/economics/result_Maid/385_NONE_OF_ABOVE
+       flotus:1
+       humane:1
+       moral:1
+       rt:1
+../../dataset/economics/result_Maid/386_AGAINST
+       hillary:1
+       pres:1
+       theview:1
+../../dataset/economics/result_Maid/387_NONE_OF_ABOVE
+       ethanobama:1
+../../dataset/economics/result_Maid/388_FOR
+       haha:1
+       kick:1
+       more:1
+       rocks:1
+../../dataset/economics/result_Maid/389_AGAINST
+       hillary:1
+       news:1
+../../dataset/economics/result_Maid/390_NONE_OF_ABOVE
+       baltimoreriots:1
+       on:1
+       phone:1
+       shes:1
+       stupid:1
+       the:1
+       woman:1
+../../dataset/economics/result_Maid/391_NONE_OF_ABOVE
+       ceo:1
+       hillaryclinton:1
+       times:1
+../../dataset/economics/result_Maid/392_NONE_OF_ABOVE
+       probirdrights:1
+../../dataset/economics/result_Maid/393_FOR
+       hillary:1
+       pile:1
+../../dataset/economics/result_Maid/394_AGAINST
+       america:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/396_NONE_OF_ABOVE
+       america:1
+       fixing:1
+       protecting:1
+../../dataset/economics/result_Maid/397_AGAINST
+       hippies:1
+       people:1
+       s:1
+       scoobyvan:1
+       wasn:1
+../../dataset/economics/result_Maid/398_FOR
+       bill:1
+       clinton:1
+       hillary:1
+       pictures:1
+       s:1
+../../dataset/economics/result_Maid/399_AGAINST
+       gop:1
+       hillary:1
+       less:1
+       media:1
+       scandals:1
+../../dataset/economics/result_Maid/400_FOR
+       barackobama:1
+       hillaryclinton:1
+       the:1
+../../dataset/economics/result_Maid/401_AGAINST
+       keeps:1
+       liberals:1
+       ours:1
+../../dataset/economics/result_Maid/402_AGAINST
+       clinton:1
+       very:1
+../../dataset/economics/result_Maid/403_NONE_OF_ABOVE
+       america:1
+       god:2
+       thank:1
+../../dataset/economics/result_Maid/404_AGAINST
+       hillno:1
+       m:1
+       uniteblue:1
+../../dataset/economics/result_Maid/405_FOR
+       hillaryclinton:1
+../../dataset/economics/result_Maid/406_NONE_OF_ABOVE
+       best:1
+       do:1
+       lifenewshq:1
+../../dataset/economics/result_Maid/407_AGAINST
+       chucknellis:1
+       hillaryclinton:1
+../../dataset/economics/result_Maid/408_AGAINST
+       behgnazi:1
+       hillary:1
+       secretary:1
+       sorry:1
+       state:1
+       successes:1
+../../dataset/economics/result_Maid/409_AGAINST
+       chuckcjohnson:1
+       hey:1
+       hillary:1
+       hillarysoold:1
+       votes:1
+../../dataset/economics/result_Maid/410_NONE_OF_ABOVE
+       everydayamericans:1
+       hillaryofthepeople:1
+       years:1
+../../dataset/economics/result_Maid/411_AGAINST
+       foundation:1
+       kiev:1
+       least:1
+       nprnews:1
+       pinchuk:1
+       ukrainian:1
+       victor:1
+../../dataset/economics/result_Maid/412_NONE_OF_ABOVE
+       marco:1
+       rubio:1
+       thedemocrats:1
+../../dataset/economics/result_Maid/413_AGAINST
+       hillary:1
+       muslim:1
+       obama:1
+../../dataset/economics/result_Maid/414_AGAINST
+       hell:1
+       hillaryclinton:1
+       use:1
+../../dataset/economics/result_Maid/415_NONE_OF_ABOVE
+       dicks:1
+       kirillwashere:1
+       men:1
+       senna:1
+../../dataset/economics/result_Maid/416_NONE_OF_ABOVE
+       clinton:1
+       hillary:1
+       institutions:1
+       jails:1
+       prisons:1
+       rodham:1
+../../dataset/economics/result_Maid/417_NONE_OF_ABOVE
+       s:1
+../../dataset/economics/result_Maid/418_AGAINST
+       are:1
+       gop:1
+       imcommitteddefeathillary:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/419_AGAINST
+       arkansas:1
+       day:1
+       hillary:1
+       iowa:1
+       journal:1
+       taxday:1
+       trip:1
+../../dataset/economics/result_Maid/420_NONE_OF_ABOVE
+       arrives:1
+       thatchampion:1
+../../dataset/economics/result_Maid/421_FOR
+       hickenlooper:1
+       john:1
+       marketmakers:1
+       qotd:1
+../../dataset/economics/result_Maid/422_AGAINST
+       accomplishments:1
+       us:1
+       yes:1
+../../dataset/economics/result_Maid/423_FOR
+       bites:1
+       clinton:1
+       hillary:1
+       hillaryclinton:1
+       solutions:1
+       words:1
+       works:1
+../../dataset/economics/result_Maid/424_FOR
+       hillaryclinton:1
+../../dataset/economics/result_Maid/425_NONE_OF_ABOVE
+       women:1
+../../dataset/economics/result_Maid/426_AGAINST
+       democrat:1
+       every:1
+       hillaryclinton:1
+       iowa:1
+       notreadyforhillary:1
+       staffers:1
+       woman:1
+../../dataset/economics/result_Maid/427_NONE_OF_ABOVE
+       cherylrios:1
+       comments:1
+       women:1
+../../dataset/economics/result_Maid/428_NONE_OF_ABOVE
+       gop:1
+       latino:1
+       marco:1
+       most:1
+       policies:1
+       rubio:1
+../../dataset/economics/result_Maid/429_FOR
+       low:1
+../../dataset/economics/result_Maid/430_FOR
+       adamsmith:1
+       ambcathyrussell:1
+       barackobama:1
+       hillaryclinton:1
+       hillaryforia:1
+       statedept:1
+       the:1
+       usa:1
+../../dataset/economics/result_Maid/431_FOR
+       education:1
+       equality:1
+       freedom:1
+       happy:1
+       hillaryforia:1
+       justice:1
+       jvollmer:1
+       life:1
+       utopia:1
+../../dataset/economics/result_Maid/432_AGAINST
+       billhemmer:1
+       foxnews:1
+       nohillary:1
+../../dataset/economics/result_Maid/433_NONE_OF_ABOVE
+       don:1
+       fiorina:1
+       media:1
+       msm:1
+       punches:1
+       therealmadman:1
+../../dataset/economics/result_Maid/434_AGAINST
+       hillary:1
+../../dataset/economics/result_Maid/435_AGAINST
+       alysssmithh:1
+       benghazi:1
+       hillary:1
+       hillarysbigannouncement:1
+       hillarysdonors:1
+       obama:1
+       thighs:1
+../../dataset/economics/result_Maid/436_FOR
+       bush:1
+       hillary:1
+       jeb:1
+       lol:1
+       losers:1
+       patriots:1
+../../dataset/economics/result_Maid/437_NONE_OF_ABOVE
+       baltimoreuprising:1
+       paul:1
+       potus:1
+       rand:1
+       slate:1
+../../dataset/economics/result_Maid/438_AGAINST
+       b:1
+       events:1
+       hillary:1
+../../dataset/economics/result_Maid/439_AGAINST
+       clinton:1
+       elizabeth:1
+       hillary:1
+       karl:1
+       marx:1
+       warren:1
+../../dataset/economics/result_Maid/440_NONE_OF_ABOVE
+       barackobama:1
+       like:1
+       mayorsrb:1
+       shes:1
+       things:1
+../../dataset/economics/result_Maid/441_NONE_OF_ABOVE
+       bluesaloon:1
+       least:1
+       women:1
+../../dataset/economics/result_Maid/442_AGAINST
+       gop:1
+       marcorubio:1
+       republican:1
+       sa:1
+       sanantonio:1
+       spurs:1
+       teaparty:1
+       texas:1
+       tx:1
+../../dataset/economics/result_Maid/443_FOR
+       hillaryclinton:1
+       tough:1
+../../dataset/economics/result_Maid/444_FOR
+       hillaryclinton:1
+       readyforhrc:1
+       support:1
+       women:1
+../../dataset/economics/result_Maid/446_AGAINST
+       grandparents:1
+       hillaryclinton:1
+       immigrants:1
+       oops:1
+../../dataset/economics/result_Maid/447_FOR
+       hillaryclinton:1
+       humane:1
+       moral:1
+       rt:1
+       womenintheworld:1
+../../dataset/economics/result_Maid/448_AGAINST
+       chipotle:1
+       employees:1
+       hillary:1
+../../dataset/economics/result_Maid/449_AGAINST
+       balwanikapil:1
+       hillaryclinton:1
+       johnkerry:1
+       statedept:1
+../../dataset/economics/result_Maid/450_AGAINST
+       berniesanders:1
+       democrats:1
+../../dataset/economics/result_Maid/451_FOR
+       hillaryclinton:1
+       millions:1
+../../dataset/economics/result_Maid/452_FOR
+       as:1
+       fuk:1
+       of:1
+       qualifications:1
+       secretary:1
+       sexist:1
+       state:1
+../../dataset/economics/result_Maid/453_NONE_OF_ABOVE
+       atiksalt:1
+../../dataset/economics/result_Maid/454_FOR
+       hillaryclinton:1
+       improvements:1
+       plans:1
+       s:1
+       saw:1
+       thanks:1
+../../dataset/economics/result_Maid/455_NONE_OF_ABOVE
+       are:1
+       ladyminers:1
+       marcorubio:1
+       miners:1
+       new:1
+       rubio:1
+       universityoftexaselpaso:1
+       utep:1
+../../dataset/economics/result_Maid/456_AGAINST
+       arrest:1
+       benghazi:1
+       billclinton:1
+       butcher:1
+       clintonfoundation:1
+       end:1
+       hillaryclinton:2
+       jail:1
+../../dataset/economics/result_Maid/457_AGAINST
+       futures:1
+../../dataset/economics/result_Maid/458_FOR
+       changing:1
+       check:1
+       hillary:1
+       media:1
+../../dataset/economics/result_Maid/459_AGAINST
+       clinton:1
+       clintoncash:1
+       foxnews:1
+       hillary:1
+       iavotes:1
+       optics:1
+../../dataset/economics/result_Maid/460_AGAINST
+       chris:1
+       hillary:1
+       liberal:1
+       media:1
+       newsbusters:1
+       years:1
+../../dataset/economics/result_Maid/461_FOR
+       dcinsd:1
+       great:1
+       potus:1
+       repsusandavis:1
+../../dataset/economics/result_Maid/462_NONE_OF_ABOVE
+       baltimoreriots:1
+../../dataset/economics/result_Maid/463_FOR
+       h:1
+../../dataset/economics/result_Maid/464_AGAINST
+       clintoncash:1
+       clintonfoundationscandal:1
+       hillary:1
+       hillaryclinton:1
+../../dataset/economics/result_Maid/465_FOR
+       details:1
+       gop:1
+       hillaryclinton:1
+       next:1
+../../dataset/economics/result_Maid/466_FOR
+       can:1
+       media:1
+       mitt:1
+       romney:1
+       uniteblue:1
+../../dataset/economics/result_Maid/467_FOR
+       america:1
+       better:2
+       voters:1
+../../dataset/economics/result_Maid/468_NONE_OF_ABOVE
+       bobcats:1
+       marcorubio:1
+       newamericancentury:1
+       tcot:1
+       texas:1
+       texasstateuniversity:1
+../../dataset/economics/result_Maid/469_NONE_OF_ABOVE
+       alciniah:1
+       auntlulie:1
+       bristola:1
+       graceslick:1
+       mahogany:1
+       mzdivah:1
+       no:1
+       progressohio:1
+../../dataset/economics/result_Maid/470_FOR
+       hillaryclinton:2
+       readyforhrc:1
+       support:1
+       women:1
+../../dataset/economics/result_Maid/471_AGAINST
+       data:1
+../../dataset/economics/result_Maid/472_AGAINST
+       dems:1
+       hellofaprez:1
+       obama:1
+       tompainejr:1
+       yip:1
+../../dataset/economics/result_Maid/473_FOR
+       day:1
+       days:2
+       democrats:1
+       election:1
+       everyvotecounts:1
+       rockthevote:1
+../../dataset/economics/result_Maid/474_AGAINST
+       aaron:1
+       hernandez:1
+       hillary:1
+       president:1
+../../dataset/economics/result_Maid/475_NONE_OF_ABOVE
+       exams:1
+       morningjoe:1
+       rand:1
+       unitedblue:1
+../../dataset/economics/result_Maid/477_AGAINST
+       bill:1
+../../dataset/economics/result_Maid/478_FOR
+       accents:1
+../../dataset/economics/result_Maid/479_NONE_OF_ABOVE
+       more:1
+       party:1
+       presidency:1
+../../dataset/economics/result_Maid/480_AGAINST
+       baylor:1
+       baylorbears:1
+       bayloruniversity:1
+       bears:1
+       bu:1
+       marcorubio:1
+       ne:1
+       students:1
+../../dataset/economics/result_Maid/481_NONE_OF_ABOVE
+       good:1
+../../dataset/economics/result_Maid/482_NONE_OF_ABOVE
+       dummies:1
+       honies:1
+       poppa:1
+       words:1
+../../dataset/economics/result_Maid/483_AGAINST
+       hillaryclinton:1
+       libertynothillary:1
+       people:1
+       standwithrand:1
+       stop:1
+       taxes:1
+       wages:1
+../../dataset/economics/result_Maid/484_NONE_OF_ABOVE
+       bill:1
+       clinton:1
+       president:1
+../../dataset/economics/result_Maid/485_AGAINST
+       president:1
+       stophillarypac:1
+../../dataset/economics/result_Maid/486_NONE_OF_ABOVE
+       b:1
+       benghazi:1
+       lets:1
+       will:1
+../../dataset/economics/result_Maid/487_AGAINST
+       andrew:1
+       clintonfdn:1
+       fastow:1
+       i:1
+       mistakes:1
+       organizations:1
+../../dataset/economics/result_Maid/488_NONE_OF_ABOVE
+       global:1
+       hotter:1
+       it:1
+       putz:1
+       warming:1
+       you:1
+../../dataset/economics/result_Maid/489_FOR
+       american:1
+       because:1
+       gunnjessica:1
+       i:1
+       women:1
+../../dataset/economics/result_Maid/490_AGAINST
+       arabia:1
+       flogs:1
+       hillaryclinton:1
+       imprisons:1
+       millions:1
+       s:1
+       saudi:2
+       victims:1
+       women:1
+../../dataset/economics/result_Maid/491_NONE_OF_ABOVE
+       calling:1
+       donald:1
+       owillis:1
+../../dataset/economics/result_Maid/492_AGAINST
+       first:1
+       hillaryclinton:1
+       lady:1
+       secretary:1
+       senator:1
+       state:1
+       women:1
+../../dataset/economics/result_Maid/493_AGAINST
+       hillary:1
+       libertynothillary:1
+../../dataset/economics/result_Maid/494_AGAINST
+       ends:1
+       hillary:1
+       just:1
+       l:1
+       william:1
+../../dataset/economics/result_Maid/495_FOR
+       issues:1
+       mamaclinton:1
+       mamahillary:1
+../../dataset/economics/result_Maid/496_AGAINST
+       hookem:1
+       longhorns:1
+       marcorubio:1
+       newamericancentury:1
+       rubio:1
+       tcot:1
+       texas:1
+       universityoftexas:1
+       ut:1
+../../dataset/economics/result_Maid/497_AGAINST
+       realdonaldtrump:1
+       sir:1
+       trump:1
+../../dataset/economics/result_Maid/498_FOR
+       hillaryclinton:2
+       readyforhrc:1
+       us:1
+       women:1
+../../dataset/economics/result_Maid/499_AGAINST
+       lets:1
+       whos:1
+../../dataset/economics/result_Maid/500_NONE_OF_ABOVE
+       kids:1
+../../dataset/economics/result_Maid/501_AGAINST
+       bias:1
+       latino:1
+       media:1
+       president:1
+       women:1
+../../dataset/economics/result_Maid/502_NONE_OF_ABOVE
+       cabinet:1
+       servers:1
+../../dataset/economics/result_Maid/503_NONE_OF_ABOVE
+       march:1
+       ohio:2
+       ourchampion:1
+       primaries:1
+../../dataset/economics/result_Maid/504_NONE_OF_ABOVE
+       a:1
+       america:1
+       best:1
+       earth:1
+       go:1
+       her:1
+       imagine:1
+       it:1
+       without:1
+       world:1
+../../dataset/economics/result_Maid/505_NONE_OF_ABOVE
+       men:1
+       women:1
+../../dataset/economics/result_Maid/506_NONE_OF_ABOVE
+       marijuana:1
+../../dataset/economics/result_Maid/507_NONE_OF_ABOVE
+       deadbroke:1
+       lies:1
+       maxtollensjr:1
+       more:1
+       no:1
+../../dataset/economics/result_Maid/508_AGAINST
+       boys:1
+       iraq:1
+       liberalconsequences:1
+       military:1
+       president:1
+../../dataset/economics/result_Maid/509_AGAINST
+       all:1
+../../dataset/economics/result_Maid/510_AGAINST
+       eagles:1
+       marcorubio:1
+       meangreen:1
+       newa:1
+       northtexas:1
+       universityofnorthtexas:1
+       unt:1
+../../dataset/economics/result_Maid/511_NONE_OF_ABOVE
+       captyonah:1
+       fine:1
+../../dataset/economics/result_Maid/512_AGAINST
+       hillary:1
+       hillno:1
+       msm:1
+../../dataset/economics/result_Maid/513_AGAINST
+       hillaryclinton:1
+       if:1
+       potus:1
+       questions:1
+../../dataset/economics/result_Maid/514_NONE_OF_ABOVE
+       farm:1
+       rebecca:1
+       sunnybrook:1
+../../dataset/economics/result_Maid/515_AGAINST
+       hillaryclinton:1
+       isn:1
+       s:1
+       t:1
+       things:1
+       thinks:1
+       work:1
+../../dataset/economics/result_Maid/517_NONE_OF_ABOVE
+       problem:1
+../../dataset/economics/result_Maid/518_NONE_OF_ABOVE
+       anglo:1
+       anomaly:1
+       jeb:1
+       keep:1
+       protestants:1
+       saxon:1
+../../dataset/economics/result_Maid/519_NONE_OF_ABOVE
+       days:1
+       january:1
+       obamahatesamerica:1
+../../dataset/economics/result_Maid/520_NONE_OF_ABOVE
+       ambassador:1
+../../dataset/economics/result_Maid/521_AGAINST
+       hartdegen:1
+       rwnutjob:1
+       sa:1
+       scotsfyre:1
+       she:1
+../../dataset/economics/result_Maid/522_AGAINST
+       hillary:1
+../../dataset/economics/result_Maid/523_FOR
+       hillary:1
+       slessard:1
+../../dataset/economics/result_Maid/524_AGAINST
+       marcorubio:1
+       newamericancentury:1
+       texas:1
+       tx:1
+../../dataset/economics/result_Maid/525_NONE_OF_ABOVE
+       are:1
+       community:1
+       racists:1
+       reorganizers:1
+       tcot:1
+       teaparty:1
+       they:1
+       thugs:1
+       you:1
+../../dataset/economics/result_Maid/526_AGAINST
+       actions:1
+       hillaryclinton:1
+       rioters:1
+../../dataset/economics/result_Maid/527_FOR
+       hillary:1
+../../dataset/economics/result_Maid/528_AGAINST
+       benghazi:1
+../../dataset/economics/result_Maid/529_AGAINST
+       clinton:1
+       foundation:1
+../../dataset/economics/result_Maid/530_NONE_OF_ABOVE
+       people:1
+       weeks:1
+../../dataset/economics/result_Maid/531_NONE_OF_ABOVE
+       actions:1
+       indicators:1
+       ones:1
+../../dataset/economics/result_Maid/532_NEUTRAL
+       bill:1
+       hillaryclinton:1
+       therealquestions:1
+../../dataset/economics/result_Maid/533_AGAINST
+       accepts:1
+       countries:1
+       gays:1
+       hillaryclinton:1
+       hypocrite:1
+       wakeupamerica:1
+../../dataset/economics/result_Maid/534_NEUTRAL
+       chipotle:1
+       hillary:1
+       i:1
+../../dataset/economics/result_Maid/535_FOR
+       clinton:1
+       hillary:1
+../../dataset/economics/result_Maid/536_AGAINST
+       crooks:1
+       lies:1
+       nohillary:1
+       stophillaryclinton:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/537_AGAINST
+       breadlines:1
+       communist:1
+       nohillary:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/538_NONE_OF_ABOVE
+       hensley:1
+       hillaryclinton:1
+       macie:1
+       that:1
+../../dataset/economics/result_Maid/539_FOR
+       buy:1
+       randpaul:1
+../../dataset/economics/result_Maid/540_NONE_OF_ABOVE
+       baylor:1
+       bears:1
+       conser:1
+       gop:1
+       marcorubio:1
+       teaparty:1
+       texas:1
+       waco:1
+../../dataset/economics/result_Maid/541_FOR
+       baltimore:1
+       baltimoreriots:1
+       hillary:1
+../../dataset/economics/result_Maid/542_AGAINST
+       baltimore:1
+       democratliesmatter:1
+       hillary:1
+       mayor:1
+../../dataset/economics/result_Maid/543_NONE_OF_ABOVE
+       happy:1
+       life:1
+       utopia:1
+../../dataset/economics/result_Maid/544_NONE_OF_ABOVE
+       elections:1
+       politics:1
+       years:2
+../../dataset/economics/result_Maid/545_AGAINST
+       classrooms:1
+       hillary:1
+       problems:1
+../../dataset/economics/result_Maid/546_AGAINST
+       disagreements:1
+       governoromalley:1
+       hillaryclinton:1
+       i:1
+../../dataset/economics/result_Maid/547_NONE_OF_ABOVE
+       hillary:1
+       most:1
+       time:1
+../../dataset/economics/result_Maid/548_AGAINST
+       especially:1
+       hillaryclinton:1
+       lackies:1
+       propaganda:1
+../../dataset/economics/result_Maid/549_FOR
+       hillaryclinton:1
+       s:1
+../../dataset/economics/result_Maid/550_FOR
+       elizabethwarren:1
+       hillaryclinton:1
+       mark:1
+       senwarren:1
+       vp:1
+../../dataset/economics/result_Maid/551_AGAINST
+       clinton:1
+       hillary:1
+../../dataset/economics/result_Maid/552_AGAINST
+       clintoncash:1
+       clintonfoundationscandal:1
+       hillaryclinton:1
+       you:1
+../../dataset/economics/result_Maid/553_FOR
+       damn:1
+       let:1
+       president:1
+       s:1
+../../dataset/economics/result_Maid/554_AGAINST
+       dems:1
+       hillary:1
+       warren:2
+../../dataset/economics/result_Maid/555_FOR
+       hillaryclinton:1
+       marymorientes:1
+       natureguy:1
+       support:1
+       women:1
+../../dataset/economics/result_Maid/556_NONE_OF_ABOVE
+       greekgummybear:1
+../../dataset/economics/result_Maid/557_NONE_OF_ABOVE
+       bring:1
+       establishment:1
+       teddy:1
+../../dataset/economics/result_Maid/558_AGAINST
+       are:1
+       marcorubio:1
+       mustangs:1
+       newame:1
+       rubio:1
+       smu:1
+       southernmethodistuniversity:1
+       students:1
+../../dataset/economics/result_Maid/559_AGAINST
+       be:1
+       hillary:1
+       questions:1
+../../dataset/economics/result_Maid/560_NONE_OF_ABOVE
+       ciaraantaya:1
+../../dataset/economics/result_Maid/561_FOR
+       barackobama:2
+       hillaryforia:1
+       the:1
+       whitehouse:1
+../../dataset/economics/result_Maid/562_AGAINST
+       clinton:1
+       hillary:1
+       house:1
+       white:1
+../../dataset/economics/result_Maid/563_FOR
+       best:1
+       hillary:1
+       ohio:1
+../../dataset/economics/result_Maid/564_NONE_OF_ABOVE
+       button:1
+       emergency:1
+       push:1
+       this:1
+../../dataset/economics/result_Maid/565_NONE_OF_ABOVE
+       easier:1
+       fdcity:1
+       will:1
+../../dataset/economics/result_Maid/566_AGAINST
+       hillaryclinton:1
+       libertynothillary:1
+../../dataset/economics/result_Maid/567_FOR
+       hillaryfor:1
+       hrc:1
+       woot:1
+../../dataset/economics/result_Maid/568_AGAINST
+       america:1
+       hillary:1
+       sheetz:1
+../../dataset/economics/result_Maid/569_AGAINST
+       clinton:2
+       hillary:1
+       nixon:1
+../../dataset/economics/result_Maid/570_NONE_OF_ABOVE
+       karrattipaul:1
+../../dataset/economics/result_Maid/572_NONE_OF_ABOVE
+       thatchampion:1
+       watergate:1
+../../dataset/economics/result_Maid/573_AGAINST
+       hillary:1
+       office:1
+       oval:1
+../../dataset/economics/result_Maid/574_NONE_OF_ABOVE
+       join:1
+       rt:1
+       twitter:1
+../../dataset/economics/result_Maid/575_AGAINST
+       angie:1
+       artist:1
+       foundersgirl:1
+       i:1
+../../dataset/economics/result_Maid/576_AGAINST
+       hillaryclinton:1
+       just:1
+       nbcnews:1
+       she:1
+       stop:1
+       wakeupamerica:1
+../../dataset/economics/result_Maid/577_AGAINST
+       hillarysaccomplishments:1
+       libcrib:1
+       readyforhillary:1
+       topprog:1
+       tpot:1
+       uniteblue:1
+../../dataset/economics/result_Maid/578_NONE_OF_ABOVE
+       intern:1
+../../dataset/economics/result_Maid/579_FOR
+       hillaryclinton:1
+       randpaul:1
+../../dataset/economics/result_Maid/580_AGAINST
+       all:1
+       barackobama:1
+       debt:1
+       libs:1
+       more:1
+       presidents:1
+../../dataset/economics/result_Maid/581_FOR
+       hillaryclinton:1
+       s:1
+       tons:1
+../../dataset/economics/result_Maid/582_FOR
+       house:1
+       white:1
+../../dataset/economics/result_Maid/583_NONE_OF_ABOVE
+       aid:1
+       ceo:2
+       kool:1
+       more:1
+       most:1
+       s:1
+../../dataset/economics/result_Maid/584_AGAINST
+       hillary:1
+../../dataset/economics/result_Maid/585_AGAINST
+       vrwctexan:1
+       wow:1
+../../dataset/economics/result_Maid/586_NONE_OF_ABOVE
+       bob:1
+       didn:1
+       dole:1
+       s:1
+       tupac:1
+       yesterdaysleaders:1
+../../dataset/economics/result_Maid/587_AGAINST
+       hillaryclinton:1
+       thats:1
+../../dataset/economics/result_Maid/588_AGAINST
+       irs:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/589_FOR
+       america:1
+       goblue:1
+       hillaryclinton:1
+       logic:1
+       muslims:1
+       potus:1
+../../dataset/economics/result_Maid/590_FOR
+       barackobama:1
+       hillaryclinton:1
+       marymorientes:1
+       the:1
+       xxoax:1
+../../dataset/economics/result_Maid/591_AGAINST
+       bill:1
+       clinton:1
+       mrs:1
+       thatchampion:1
+../../dataset/economics/result_Maid/592_AGAINST
+       edm:1
+       hillaryclinton:1
+       howibecameafan:1
+       nm:1
+../../dataset/economics/result_Maid/593_FOR
+       education:1
+       equality:1
+       freedom:1
+       happy:1
+       hillaryclinton:1
+       justice:1
+       life:1
+       utopia:1
+../../dataset/economics/result_Maid/594_NEUTRAL
+       cameras:1
+       hillaryclinton:1
+../../dataset/economics/result_Maid/595_NEUTRAL
+       as:1
+       hillaryclinton:1
+       right:1
+../../dataset/economics/result_Maid/596_FOR
+       hillary:1
+       s:1
+../../dataset/economics/result_Maid/597_AGAINST
+       doughughes:1
+       usa:1
+../../dataset/economics/result_Maid/598_AGAINST
+       crimes:1
+       czaroffreedom:1
+       god:1
+       icebergs:1
+       liberals:1
+       socalimilitia:1
+       that:1
+../../dataset/economics/result_Maid/599_AGAINST
+       iraq:1
+       jbuttawipo:1
+       koriwasinger:1
+../../dataset/economics/result_Maid/600_AGAINST
+       ben:1
+       candidates:1
+       democrathashtag:1
+       ghazi:1
+       gop:1
+../../dataset/economics/result_Maid/601_AGAINST
+       hale:1
+       hillaryaccomplishments:1
+       people:1
+       razor:1
+       watergate:1
+../../dataset/economics/result_Maid/602_AGAINST
+       anthonycumia:1
+       hillary:1
+       if:1
+       is:1
+../../dataset/economics/result_Maid/603_FOR
+       clinton:1
+       hillary:1
+       human:1
+       rights:4
+       s:2
+       women:2
+../../dataset/economics/result_Maid/604_AGAINST
+       again:1
+       hillary:1
+       s:1
+../../dataset/economics/result_Maid/605_FOR
+       bernie:1
+       clinton:1
+       hillary:1
+       readyforhillary:1
+       sanders:1
+../../dataset/economics/result_Maid/606_AGAINST
+       fees:1
+       goldman:1
+       hillary:1
+       joan:1
+       sachs:1
+       speeches:1
+       vennochi:1
+../../dataset/economics/result_Maid/607_AGAINST
+       as:1
+       clinton:1
+       donors:1
+       foreign:1
+       have:1
+       helped:1
+       hillary:1
+       may:1
+       poll:1
+       rasmussen:1
+       secretary:1
+       state:1
+       think:1
+../../dataset/economics/result_Maid/608_AGAINST
+       dempublicans:1
+../../dataset/economics/result_Maid/609_NONE_OF_ABOVE
+       chafee:1
+       gov:1
+../../dataset/economics/result_Maid/610_AGAINST
+       cc:1
+       corpuschristi:1
+       gop:1
+       hooks:1
+       keeptexasred:1
+       marcorubio:1
+       tea:1
+       texas:1
+       tx:1
+../../dataset/economics/result_Maid/611_AGAINST
+       clinton:1
+       hillary:1
+       whyimnotvotingforhillary:1
+       will:1
+       words:1
+../../dataset/economics/result_Maid/612_AGAINST
+       hillaryclinton:1
+../../dataset/economics/result_Maid/613_FOR
+       issues:1
+../../dataset/economics/result_Maid/614_NONE_OF_ABOVE
+       barackobama:1
+       humane:1
+       moral:1
+       rt:1
+../../dataset/economics/result_Maid/615_AGAINST
+       house:1
+       i:1
+       omg:1
+       thegoldbergs:1
+       tjhooker:1
+       whit:1
+       who:1
+       women:1
+       wow:1
+../../dataset/economics/result_Maid/616_AGAINST
+       cancer:1
+       clinton:1
+       hillary:1
+../../dataset/economics/result_Maid/617_AGAINST
+       americanewsroom:1
+       hillaryclinton:1
+       she:1
+       words:1
+../../dataset/economics/result_Maid/618_FOR
+       chris:1
+       chrischristie:2
+       go:1
+       hillaryclinton:1
+../../dataset/economics/result_Maid/619_AGAINST
+       chelsea:1
+       clintoncash:1
+       election:1
+       foundation:1
+       hillary:1
+       thegreatergood:1
+../../dataset/economics/result_Maid/620_AGAINST
+       ambassador:1
+       clinton:1
+       hillary:1
+       isis:1
+../../dataset/economics/result_Maid/621_NONE_OF_ABOVE
+       chris:1
+       that:1
+       truthrevolt:1
+../../dataset/economics/result_Maid/622_FOR
+       equalityforall:1
+       hillaryclinton:1
+       it:1
+       upworthy:1
+       workers:1
+../../dataset/economics/result_Maid/623_AGAINST
+       hillno:1
+       let:1
+       s:1
+       voters:1
+       wethepeoplepets:1
+../../dataset/economics/result_Maid/624_AGAINST
+       don:1
+../../dataset/economics/result_Maid/625_AGAINST
+       followers:1
+       hillaryclinton:1
+       twitter:1
+       whyimnotvotingforhillary:1
+../../dataset/economics/result_Maid/626_AGAINST
+       baylor:1
+       baylorbears:1
+       bayloruniversity:1
+       bears:1
+       bu:1
+       gop:1
+       marcorubio:1
+       newamericancentury:1
+       students:1
+../../dataset/economics/result_Maid/627_NONE_OF_ABOVE
+       portiaaboulger:1
+       thank:1
+../../dataset/economics/result_Maid/628_FOR
+       brother:1
+       go:1
+       obamacare:1
+       rjoseph:1
+../../dataset/economics/result_Maid/629_AGAINST
+       clintonfdn:1
+       clintons:1
+       deserves:1
+       donors:1
+       hillaryclinton:1
+       lies:1
+       public:1
+       scandals:1
+../../dataset/economics/result_Maid/630_AGAINST
+       clinton:1
+       guilty:1
+       hillary:1
+       millions:1
+       quit:1
+../../dataset/economics/result_Maid/631_NONE_OF_ABOVE
+       shards:1
+       snakes:1
+       then:1
+       tx:1
+../../dataset/economics/result_Maid/632_NONE_OF_ABOVE
+       a:1
+       aggieland:1
+       aggies:1
+       are:1
+       gigem:1
+       gop:1
+       m:2
+       marcorubio:1
+       muniversity:1
+       tamu:1
+       tcot:1
+       texasa:2
+../../dataset/economics/result_Maid/633_FOR
+       bush:1
+       candidates:1
+       combined:1
+       cruz:1
+       followers:1
+       hillaryclinton:1
+       more:1
+       paul:1
+       rubio:1
+../../dataset/economics/result_Maid/634_AGAINST
+       hormones:1
+       iblamepublicschools:1
+       steroids:1
+../../dataset/economics/result_Maid/635_AGAINST
+       balitmoreriots:1
+       baltimore:1
+       hillary:1
+       obama:1
+../../dataset/economics/result_Maid/636_AGAINST
+       democrat:1
+       hillaryclinton:1
+       hillarysbigannouncement:1
+       hillarysdonors:1
+       president:1
+../../dataset/economics/result_Maid/637_AGAINST
+       dollars:1
+       hillaryclinton:1
+       politics:1
+       rails:1
+../../dataset/economics/result_Maid/638_FOR
+       chicago:1
+       hillaryclinton:1
+       hillarymypresident:1
+../../dataset/economics/result_Maid/639_FOR
+       clinton:2
+       get:1
+       hillary:1
+       move:1
+../../dataset/economics/result_Maid/640_NONE_OF_ABOVE
+       all:1
+       fools:1
+       of:1
+       pbo:1
+       them:1
+       uniteblue:1
+../../dataset/economics/result_Maid/641_AGAINST
+       ana:1
+       blacklivesmatter:1
+       blacks:1
+       most:1
+       no:1
+       poli:1
+       thedemocrats:1
+../../dataset/economics/result_Maid/642_AGAINST
+       conservatvegurl:1
+       hillary:1
+../../dataset/economics/result_Maid/643_NONE_OF_ABOVE
+       dong:1
+../../dataset/economics/result_Maid/644_AGAINST
+       clinton:1
+       house:1
+       sec:1
+       white:1
+../../dataset/economics/result_Maid/645_AGAINST
+       dem:1
+       hillary:1
+       november:1
+       primaries:1
+       voters:1
+../../dataset/economics/result_Maid/646_NONE_OF_ABOVE
+       are:1
+       barackobama:1
+       brasilwire:1
+       nacla:1
+       obama:1
+       sos:1
+       stopdilma:1
+       stopforodesaopaulo:1
+       stoplula:1
+       who:1
+../../dataset/economics/result_Maid/647_FOR
+       thedemocrats:1
+../../dataset/economics/result_Maid/648_FOR
+       hillary:1
+       lol:1
+       people:1
+../../dataset/economics/result_Maid/649_NONE_OF_ABOVE
+       bring:1
+       bushes:1
+       georgebush:1
+       jebbush:1
+../../dataset/economics/result_Maid/650_AGAINST
+       bribes:1
+       clinton:1
+       foundation:1
+       governments:1
+       whyimnotvotingforhillary:1
+       wsj:1
+../../dataset/economics/result_Maid/651_AGAINST
+       clinton:1
+       docs:1
+       norsu:1
+       what:1
+../../dataset/economics/result_Maid/652_FOR
+       cassandrarules:1
+       cities:1
+       go:1
+       goldentalon:1
+       liberal:1
+       on:1
+../../dataset/economics/result_Maid/653_FOR
+       boyfriends:1
+       ex:1
+       lewinsky:1
+       monica:1
+       wife:1
+../../dataset/economics/result_Maid/654_NONE_OF_ABOVE
+       baltimoreuprising:1
+       obama:1
+       realdonaldtrump:1
+       that:1
+../../dataset/economics/result_Maid/655_FOR
+       best:1
+       hillaryclinton:1
+       usa:1
+       women:1
+../../dataset/economics/result_Maid/656_AGAINST
+       clintons:1
+       ethics:1
+       rules:1
+../../dataset/economics/result_Maid/657_AGAINST
+       did:1
+       donors:1
+       hillaryclinton:1
+       hypocrite:1
+       saudi:1
+       wakeupamerica:1
+../../dataset/economics/result_Maid/658_AGAINST
+       cheryl:1
+       rrios:1
+../../dataset/economics/result_Maid/659_AGAINST
+       dontvote:1
+       emails:1
+       hides:1
+       lies:1
+       then:1
+../../dataset/economics/result_Maid/660_NONE_OF_ABOVE
+       barackobama:1
+       love:1
+       peace:1
+../../dataset/economics/result_Maid/661_NONE_OF_ABOVE
+       answer:1
+       communities:1
+       community:1
+       people:1
+       yes:1
+../../dataset/economics/result_Maid/662_NONE_OF_ABOVE
+       hey:1
+       marcorubio:1
+       newamericance:1
+       texasstate:1
+       texasstateuniversity:1
+../../dataset/economics/result_Maid/663_FOR
+       misogynyisugly:1
+       women:1
+../../dataset/economics/result_Maid/664_FOR
+       cady:1
+       elizabeth:1
+       fuckbois:1
+       stanton:1
+../../dataset/economics/result_Maid/665_FOR
+       poppysmart:1
+../../dataset/economics/result_Maid/666_FOR
+       maura:1
+       mauragrierson:1
+       tucker:1
+       virginradioto:1
+../../dataset/economics/result_Maid/667_NONE_OF_ABOVE
+       ayesha:1
+       siddiqi:1
+       younger:1
+../../dataset/economics/result_Maid/668_FOR
+       rights:1
+       swift:1
+       taylor:1
+../../dataset/economics/result_Maid/669_NONE_OF_ABOVE
+       opinions:1
+       people:1
+../../dataset/economics/result_Maid/670_NONE_OF_ABOVE
+       have:1
+       jeans:1
+       yaahnemba:1
+../../dataset/economics/result_Maid/671_FOR
+       free:1
+../../dataset/economics/result_Maid/672_FOR
+       enews:1
+       equality:1
+       tell:1
+       terrencej:1
+       women:2
+../../dataset/economics/result_Maid/673_FOR
+       causes:1
+       contrary:1
+       feminists:1
+       heforshe:1
+       media:1
+       men:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/674_NONE_OF_ABOVE
+       joewellmade:1
+       mrramsbottom:1
+       wants:1
+../../dataset/economics/result_Maid/675_NONE_OF_ABOVE
+       bam:1
+       internalized:1
+../../dataset/economics/result_Maid/676_FOR
+       girls:1
+       people:1
+       toni:1
+../../dataset/economics/result_Maid/677_NONE_OF_ABOVE
+       crimes:1
+       male:1
+../../dataset/economics/result_Maid/678_FOR
+       empowerallbodies:1
+       empoweringwomen:1
+       morals:1
+       u:1
+../../dataset/economics/result_Maid/679_FOR
+       additudes:1
+       men:1
+       women:1
+       yes:1
+../../dataset/economics/result_Maid/680_AGAINST
+       equalpayday:1
+       less:1
+       look:1
+       men:2
+       women:2
+../../dataset/economics/result_Maid/681_AGAINST
+       jodiarias:1
+       travisalexander:1
+       violenceagainstwomen:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/682_NONE_OF_ABOVE
+       ananddaranand:1
+       foe:1
+       tl:2
+       topics:1
+       vaw:1
+../../dataset/economics/result_Maid/683_AGAINST
+       feminists:1
+../../dataset/economics/result_Maid/684_AGAINST
+       jowilliams:1
+../../dataset/economics/result_Maid/685_FOR
+       girls:1
+       links:1
+../../dataset/economics/result_Maid/686_FOR
+       laws:1
+       mslatina:1
+       rights:1
+../../dataset/economics/result_Maid/687_AGAINST
+       cnews:1
+       minutes:1
+       most:2
+       ral:1
+       s:1
+       thomas:1
+../../dataset/economics/result_Maid/688_FOR
+       men:1
+       people:1
+../../dataset/economics/result_Maid/689_NONE_OF_ABOVE
+       bethany:1
+       jaynew:1
+../../dataset/economics/result_Maid/690_AGAINST
+       a:1
+       bristolben:1
+       feminists:1
+       helen:1
+../../dataset/economics/result_Maid/691_AGAINST
+       feminists:1
+       thanks:1
+       ukip:1
+       voteukip:1
+../../dataset/economics/result_Maid/692_FOR
+       clitoris:1
+       my:1
+       penis:1
+../../dataset/economics/result_Maid/694_AGAINST
+       beings:1
+       women:1
+../../dataset/economics/result_Maid/695_NONE_OF_ABOVE
+       facts:1
+       votepedro:1
+../../dataset/economics/result_Maid/696_AGAINST
+       emmasulkowicz:1
+       paulnungesser:1
+       well:1
+../../dataset/economics/result_Maid/697_FOR
+       christians:1
+       francis:1
+       pope:1
+       popefrancis:1
+       women:1
+../../dataset/economics/result_Maid/698_AGAINST
+       gender:1
+       killallmen:1
+       women:1
+../../dataset/economics/result_Maid/699_NONE_OF_ABOVE
+       baltimoreriots:1
+       cyberstalin:1
+       godfreyelfwick:1
+       it:1
+       nero:1
+       piddy:1
+       proteinworld:1
+       x:1
+../../dataset/economics/result_Maid/700_AGAINST
+       lynne:1
+       maybe:1
+../../dataset/economics/result_Maid/701_FOR
+       a:1
+       and:1
+       be:1
+       drive:1
+       girl:1
+       have:1
+       must:1
+       sex:1
+       slut:1
+       you:1
+../../dataset/economics/result_Maid/702_AGAINST
+       amazing:1
+       holy:1
+../../dataset/economics/result_Maid/703_NONE_OF_ABOVE
+       twitter:1
+../../dataset/economics/result_Maid/704_FOR
+       feminists:2
+       men:2
+       more:1
+       p:1
+       privileges:1
+       they:1
+       women:1
+../../dataset/economics/result_Maid/705_AGAINST
+       men:1
+       stupid:1
+       tears:1
+../../dataset/economics/result_Maid/706_FOR
+       aliciapoosays:1
+       equality:1
+       its:1
+       longer:1
+       why:1
+../../dataset/economics/result_Maid/707_FOR
+       lies:1
+       people:1
+../../dataset/economics/result_Maid/708_FOR
+       hollywood:1
+       kristen:1
+       stewart:1
+       women:1
+../../dataset/economics/result_Maid/709_NONE_OF_ABOVE
+       dear:1
+       starsthomas:1
+../../dataset/economics/result_Maid/710_NONE_OF_ABOVE
+       levels:1
+../../dataset/economics/result_Maid/711_NONE_OF_ABOVE
+       ppl:1
+../../dataset/economics/result_Maid/712_AGAINST
+       vapours:1
+       women:1
+../../dataset/economics/result_Maid/713_NONE_OF_ABOVE
+       cooimemegirl:1
+       years:1
+../../dataset/economics/result_Maid/714_AGAINST
+       feminists:1
+       gotta:1
+       idontneedfeminism:1
+../../dataset/economics/result_Maid/715_FOR
+       stylistmagazine:1
+       very:1
+       views:1
+../../dataset/economics/result_Maid/716_AGAINST
+       celebrities:1
+       meninisttweet:1
+../../dataset/economics/result_Maid/717_AGAINST
+       females:1
+       feminists:1
+       s:2
+../../dataset/economics/result_Maid/719_FOR
+       contempo:1
+       hours:1
+       qiwaamah:1
+       rooms:1
+../../dataset/economics/result_Maid/720_NONE_OF_ABOVE
+       amin:1
+       very:1
+../../dataset/economics/result_Maid/721_FOR
+       rights:1
+       women:1
+../../dataset/economics/result_Maid/722_AGAINST
+       go:1
+       hilaryclinton:1
+       kellyhollon:1
+../../dataset/economics/result_Maid/724_FOR
+       msluuna:1
+       women:1
+../../dataset/economics/result_Maid/725_AGAINST
+       feminism:1
+       krewellajahan:1
+       not:1
+       rights:1
+       s:1
+../../dataset/economics/result_Maid/726_AGAINST
+       baltimoreriots:1
+       fox:1
+../../dataset/economics/result_Maid/727_FOR
+       people:1
+       women:1
+../../dataset/economics/result_Maid/729_FOR
+       boys:1
+       less:1
+       she:1
+       upandgouk:1
+../../dataset/economics/result_Maid/730_NONE_OF_ABOVE
+       andybud:1
+       eve:1
+       mito:1
+       o:1
+       similarities:1
+../../dataset/economics/result_Maid/731_AGAINST
+       animal:1
+       farm:1
+       feminists:1
+       florencesmith:1
+       go:1
+       men:1
+       not:1
+       rights:1
+       women:2
+../../dataset/economics/result_Maid/732_FOR
+       pizzapartyben:1
+../../dataset/economics/result_Maid/733_FOR
+       cpd:1
+       cpdvoices:1
+       et:1
+       humanrights:1
+       join:1
+       rights:1
+       women:1
+../../dataset/economics/result_Maid/734_NONE_OF_ABOVE
+       selfies:1
+../../dataset/economics/result_Maid/735_NONE_OF_ABOVE
+       awyee:1
+       dolls:1
+       gamergate:1
+       things:1
+       tigerclaud:1
+       you:1
+../../dataset/economics/result_Maid/736_AGAINST
+       actions:1
+       choices:1
+       hellwillfreezeover:1
+       see:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/737_AGAINST
+       danibchristen:1
+       greater:1
+       idontneedfeminism:1
+       lol:1
+       s:1
+       yes:1
+../../dataset/economics/result_Maid/738_FOR
+       men:2
+       quote:1
+       shequotes:1
+       women:1
+../../dataset/economics/result_Maid/740_FOR
+       a:1
+       because:1
+       feminism:1
+       men:1
+       women:1
+../../dataset/economics/result_Maid/741_FOR
+       ericakinsman:1
+       falseaccuser:1
+       keith:1
+       olbermann:1
+       paul:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/742_FOR
+       girls:1
+../../dataset/economics/result_Maid/743_NONE_OF_ABOVE
+       extremerules:1
+       freddiegray:1
+       nepalearthquake:1
+       rhoareunion:1
+../../dataset/economics/result_Maid/744_FOR
+       crosswords:1
+       standard:1
+../../dataset/economics/result_Maid/745_NONE_OF_ABOVE
+       can:1
+       v:1
+../../dataset/economics/result_Maid/746_NONE_OF_ABOVE
+       facts:1
+../../dataset/economics/result_Maid/747_FOR
+       jest:1
+       kaitlyn:1
+../../dataset/economics/result_Maid/748_FOR
+       s:1
+../../dataset/economics/result_Maid/749_FOR
+       condemns:1
+       sisters:1
+../../dataset/economics/result_Maid/750_FOR
+       askhillary:1
+       ceo:1
+../../dataset/economics/result_Maid/751_FOR
+       attitudes:1
+       focuses:1
+       microagressions:1
+../../dataset/economics/result_Maid/752_FOR
+       women:2
+../../dataset/economics/result_Maid/753_NONE_OF_ABOVE
+       man:1
+       picks:1
+       stanton:1
+../../dataset/economics/result_Maid/754_NONE_OF_ABOVE
+       myrainbowninja:1
+       notallbhas:1
+       this:1
+../../dataset/economics/result_Maid/756_FOR
+       ericwynalda:1
+       foxsports:1
+       meganrapinoe:1
+       s:1
+       uswnt:1
+       way:1
+       what:1
+       women:1
+../../dataset/economics/result_Maid/757_AGAINST
+       best:1
+       fuck:1
+       klarajoelsson:1
+       you:1
+../../dataset/economics/result_Maid/758_NONE_OF_ABOVE
+       james:1
+       truths:1
+       wtf:1
+../../dataset/economics/result_Maid/759_NONE_OF_ABOVE
+       feel:1
+       fuck:2
+       gotta:2
+       i:1
+       like:1
+       never:1
+       somebody:1
+       to:1
+../../dataset/economics/result_Maid/760_FOR
+       agree:1
+       evelynlns:1
+       she:1
+../../dataset/economics/result_Maid/761_NONE_OF_ABOVE
+       cltnroberts:1
+       gleaves:1
+       lehi:1
+       mondaymotivation:1
+       ps:1
+       whatareyouafraidof:1
+../../dataset/economics/result_Maid/762_FOR
+       females:1
+       more:1
+       people:1
+../../dataset/economics/result_Maid/763_FOR
+       best:1
+../../dataset/economics/result_Maid/764_FOR
+       laughs:1
+       thanks:1
+../../dataset/economics/result_Maid/765_FOR
+       hashtags:1
+../../dataset/economics/result_Maid/766_NONE_OF_ABOVE
+       babies:1
+       men:1
+       stompa:1
+       tc:1
+       women:1
+       you:1
+../../dataset/economics/result_Maid/767_FOR
+       uselections:1
+../../dataset/economics/result_Maid/769_NONE_OF_ABOVE
+       carly:1
+       nice:1
+       senatore:1
+../../dataset/economics/result_Maid/770_FOR
+       maryjanelives:1
+       people:1
+       women:1
+../../dataset/economics/result_Maid/771_AGAINST
+       nazi:1
+       shares:1
+       traits:1
+../../dataset/economics/result_Maid/772_AGAINST
+       all:1
+       are:2
+       but:1
+       equal:1
+       men:2
+       okay:1
+       rapists:1
+       women:1
+../../dataset/economics/result_Maid/773_AGAINST
+       feminists:1
+../../dataset/economics/result_Maid/774_FOR
+       camillebogrand:1
+       don:1
+       equalpayday:1
+../../dataset/economics/result_Maid/775_AGAINST
+       figureheads:1
+       mt:1
+       sarcasmspasm:1
+       their:1
+       then:1
+../../dataset/economics/result_Maid/776_FOR
+       elam:1
+       men:1
+       paul:1
+../../dataset/economics/result_Maid/777_NONE_OF_ABOVE
+       beeeatles:1
+       better:1
+../../dataset/economics/result_Maid/778_NONE_OF_ABOVE
+       ers:1
+       socrates:1
+../../dataset/economics/result_Maid/779_FOR
+       lucyblakeman:1
+       you:1
+../../dataset/economics/result_Maid/780_AGAINST
+       agratha:1
+       be:1
+       feminist:1
+       means:1
+       nice:1
+       you:1
+../../dataset/economics/result_Maid/781_FOR
+       anyone:1
+       equality:1
+       heads:1
+       peoples:1
+../../dataset/economics/result_Maid/782_NONE_OF_ABOVE
+       mt:1
+       schadenfreudes:1
+../../dataset/economics/result_Maid/783_FOR
+       feminists:1
+       in:1
+       jsgingersnap:1
+       men:1
+       ok:1
+../../dataset/economics/result_Maid/784_NEUTRAL
+       atheistadvocate:1
+       greater:1
+../../dataset/economics/result_Maid/785_FOR
+       which:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/786_FOR
+       media:1
+       womensrights:1
+../../dataset/economics/result_Maid/787_AGAINST
+       condoms:1
+       cooimemegirl:1
+       either:1
+       parents:1
+       pregs:1
+       rights:1
+       stompa:1
+       tc:1
+       unplanned:1
+../../dataset/economics/result_Maid/788_FOR
+       better:1
+../../dataset/economics/result_Maid/789_FOR
+       hindenburg:1
+       mras:1
+../../dataset/economics/result_Maid/790_AGAINST
+       wow:1
+../../dataset/economics/result_Maid/791_FOR
+       feminists:1
+       feministsarebeautiful:1
+       men:1
+       rights:1
+       women:1
+../../dataset/economics/result_Maid/792_AGAINST
+       my:1
+../../dataset/economics/result_Maid/793_NONE_OF_ABOVE
+       gamergate:1
+../../dataset/economics/result_Maid/795_AGAINST
+       feminists:1
+../../dataset/economics/result_Maid/796_AGAINST
+       bigots:1
+       feminists:1
+       papers:1
+       people:1
+../../dataset/economics/result_Maid/797_NONE_OF_ABOVE
+       baltimoreriots:1
+       blacklivesmatter:1
+       maybe:1
+       meninist:1
+       topics:1
+../../dataset/economics/result_Maid/798_FOR
+       dresses:1
+       everydaysexism:1
+       streetharassment:1
+       suns:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/799_FOR
+       lol:1
+../../dataset/economics/result_Maid/800_FOR
+       angrier:1
+       feminismisawfullygreat:1
+       fuuuuuuuuuuuck:1
+       gg:1
+       men:1
+       time:1
+       tweets:1
+../../dataset/economics/result_Maid/801_AGAINST
+       all:1
+       asap:1
+       do:1
+       feminist:1
+       shall:1
+       stop:1
+       we:1
+       what:1
+../../dataset/economics/result_Maid/803_FOR
+       people:1
+../../dataset/economics/result_Maid/804_FOR
+       wearefemstrong:1
+       wonder:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/805_FOR
+       guys:1
+       vivvyyy:1
+../../dataset/economics/result_Maid/806_FOR
+       aaronhernandez:1
+       fiance:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/807_FOR
+       men:1
+       women:1
+../../dataset/economics/result_Maid/808_NONE_OF_ABOVE
+       beercans:1
+       faildiscuss:1
+       herbs:1
+       insects:1
+       malaysia:1
+       media:1
+       radio:1
+       services:1
+       y:1
+../../dataset/economics/result_Maid/809_AGAINST
+       takeitlikeaman:1
+../../dataset/economics/result_Maid/810_FOR
+       females:1
+       guys:1
+       theruies:1
+       xdirtydianna:1
+../../dataset/economics/result_Maid/812_AGAINST
+       eyes:1
+       nothing:1
+../../dataset/economics/result_Maid/813_FOR
+       lexialex:1
+       nototally:1
+       qotd:1
+../../dataset/economics/result_Maid/814_NONE_OF_ABOVE
+       bye:1
+       yrs:1
+../../dataset/economics/result_Maid/815_FOR
+       elleuk:1
+       months:1
+       politics:2
+       victoriacoren:1
+       women:2
+../../dataset/economics/result_Maid/816_AGAINST
+       feminismvibes:1
+       women:1
+../../dataset/economics/result_Maid/817_FOR
+       awyee:1
+       girls:1
+../../dataset/economics/result_Maid/818_AGAINST
+       cooimemegirl:1
+       mothers:1
+../../dataset/economics/result_Maid/819_NONE_OF_ABOVE
+       blenders:1
+       themoreyouknow:1
+       vhs:1
+../../dataset/economics/result_Maid/820_NONE_OF_ABOVE
+       heforshe:1
+       thisfuckingguy:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/821_FOR
+       females:1
+       limits:1
+../../dataset/economics/result_Maid/822_FOR
+       feminists:1
+../../dataset/economics/result_Maid/823_AGAINST
+       disagreement:1
+       people:1
+../../dataset/economics/result_Maid/824_AGAINST
+       feminism:1
+       malaysia:1
+       radios:1
+       tactics:1
+       their:1
+../../dataset/economics/result_Maid/825_NONE_OF_ABOVE
+       least:1
+../../dataset/economics/result_Maid/826_AGAINST
+       cooimemegirl:1
+       damn:1
+       hours:1
+       jobs:1
+       longer:1
+       men:1
+       sneaky:1
+../../dataset/economics/result_Maid/827_FOR
+       people:1
+       s:1
+../../dataset/economics/result_Maid/828_FOR
+       age:1
+       excited:1
+       internet:1
+       leoratanenbaum:1
+       shaming:1
+       slut:1
+../../dataset/economics/result_Maid/829_AGAINST
+       cooimemegirl:1
+       men:2
+       stompa:1
+       tc:1
+       women:1
+../../dataset/economics/result_Maid/830_FOR
+       feel:1
+       like:1
+       man:1
+       woman:1
+../../dataset/economics/result_Maid/831_NONE_OF_ABOVE
+       alllivesmatter:1
+       blacklivesmatter:1
+       rights:1
+../../dataset/economics/result_Maid/832_NONE_OF_ABOVE
+       condoms:1
+       messages:1
+../../dataset/economics/result_Maid/834_NONE_OF_ABOVE
+       court:1
+       supreme:1
+       united:1
+../../dataset/economics/result_Maid/835_FOR
+       a:1
+       as:1
+       body:1
+       can:1
+       do:1
+       he:1
+       his:1
+       man:2
+       sydneygrunklee:1
+       well:1
+       what:1
+       with:1
+../../dataset/economics/result_Maid/836_NONE_OF_ABOVE
+       sirwilliamvalen:1
+../../dataset/economics/result_Maid/837_FOR
+       fathers:1
+../../dataset/economics/result_Maid/838_FOR
+       feministsarebeautifulisalovemovement:1
+       women:3
+../../dataset/economics/result_Maid/839_FOR
+       kombat:1
+       mortal:1
+       x:1
+../../dataset/economics/result_Maid/840_NONE_OF_ABOVE
+       baltimoreriots:1
+       faster:1
+       gets:1
+       media:1
+../../dataset/economics/result_Maid/841_AGAINST
+       feminists:1
+       gap:1
+       lawsuits:1
+       less:1
+       wage:1
+       women:1
+../../dataset/economics/result_Maid/842_AGAINST
+       anita:1
+       sexism:1
+../../dataset/economics/result_Maid/843_FOR
+       standards:1
+../../dataset/economics/result_Maid/844_FOR
+       bellhooks:1
+       causes:1
+       hooks:1
+       people:1
+../../dataset/economics/result_Maid/845_AGAINST
+       honest:1
+       men:2
+../../dataset/economics/result_Maid/846_FOR
+       questions:1
+../../dataset/economics/result_Maid/847_FOR
+       ada:1
+       jaan:1
+       umrao:1
+       womanpower:1
+../../dataset/economics/result_Maid/848_FOR
+       girls:1
+       hello:1
+       peach:1
+       princess:1
+       samus:1
+       women:1
+       zelda:1
+../../dataset/economics/result_Maid/849_NONE_OF_ABOVE
+       asrc:1
+       honoured:1
+       k:1
+       kon:1
+../../dataset/economics/result_Maid/850_AGAINST
+       modern:1
+       simone:1
+../../dataset/economics/result_Maid/851_AGAINST
+       feminist:1
+       gentlerapists:1
+       killallmen:1
+       ladies:1
+       mt:1
+       oh:1
+       sarcasmspasm:1
+../../dataset/economics/result_Maid/852_FOR
+       pics:1
+       pornstars:1
+       women:1
+../../dataset/economics/result_Maid/853_NONE_OF_ABOVE
+       can:1
+       duh:3
+       just:1
+       stompa:1
+       tc:1
+../../dataset/economics/result_Maid/855_FOR
+       best:1
+       gender:1
+       job:1
+       paulhenry:1
+../../dataset/economics/result_Maid/856_FOR
+       equality:1
+       let:1
+       read:1
+       rights:1
+       s:2
+       women:1
+../../dataset/economics/result_Maid/858_AGAINST
+       men:1
+../../dataset/economics/result_Maid/859_FOR
+       dudes:1
+../../dataset/economics/result_Maid/860_AGAINST
+       any:1
+       don:1
+       feminists:1
+       products:1
+       proteinworld:1
+../../dataset/economics/result_Maid/861_AGAINST
+       feminismvibes:1
+       men:1
+       rights:1
+       women:1
+../../dataset/economics/result_Maid/862_FOR
+       nomeansno:1
+       rt:1
+       yes:1
+       yesallwomen:2
+../../dataset/economics/result_Maid/863_AGAINST
+       claus:1
+       santa:1
+       think:1
+../../dataset/economics/result_Maid/864_NONE_OF_ABOVE
+       mondaymotivation:1
+       s:1
+       twitter:1
+       worlds:1
+../../dataset/economics/result_Maid/865_NONE_OF_ABOVE
+       allcapsbro:1
+       words:1
+../../dataset/economics/result_Maid/866_FOR
+       demias:1
+       etc:3
+       harasser:1
+       misogynist:1
+       patriarchy:1
+../../dataset/economics/result_Maid/867_FOR
+       now:1
+../../dataset/economics/result_Maid/868_FOR
+       men:1
+       riots:1
+../../dataset/economics/result_Maid/869_AGAINST
+       cooimemegirl:1
+       ignore:1
+       women:1
+../../dataset/economics/result_Maid/870_AGAINST
+       men:1
+../../dataset/economics/result_Maid/871_AGAINST
+       girls:1
+       women:1
+../../dataset/economics/result_Maid/872_FOR
+       wonder:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/873_NONE_OF_ABOVE
+       crap:1
+       damn:1
+       don:1
+       holy:1
+       madmen:1
+       no:1
+       peggy:2
+       spoilers:1
+../../dataset/economics/result_Maid/874_AGAINST
+       men:1
+       women:1
+../../dataset/economics/result_Maid/875_NONE_OF_ABOVE
+       baltimore:1
+       baltimoreriots:1
+       people:1
+       philosophy:1
+       ugliest:1
+../../dataset/economics/result_Maid/876_AGAINST
+       closest:1
+../../dataset/economics/result_Maid/877_FOR
+       exploitation:1
+       men:1
+       self:1
+       women:1
+../../dataset/economics/result_Maid/878_NONE_OF_ABOVE
+       canucks:1
+       sedins:1
+       writers:1
+../../dataset/economics/result_Maid/879_NONE_OF_ABOVE
+       anders:1
+       data:2
+       friedan:1
+       mit:1
+       more:1
+../../dataset/economics/result_Maid/880_NONE_OF_ABOVE
+       organs:1
+       uncorbeau:1
+../../dataset/economics/result_Maid/881_FOR
+       for:1
+       president:1
+       running:1
+       women:1
+../../dataset/economics/result_Maid/882_FOR
+       hollywood:1
+       less:1
+       women:1
+../../dataset/economics/result_Maid/883_NONE_OF_ABOVE
+       suicidaljac:1
+../../dataset/economics/result_Maid/885_NONE_OF_ABOVE
+       antihero:1
+../../dataset/economics/result_Maid/886_AGAINST
+       agendas:1
+       cooimemegirl:1
+       equality:1
+       feminists:1
+../../dataset/economics/result_Maid/887_FOR
+       femalepower:1
+       foxtrotjames:1
+../../dataset/economics/result_Maid/889_NONE_OF_ABOVE
+       nicerinternet:1
+../../dataset/economics/result_Maid/890_FOR
+       equality:1
+../../dataset/economics/result_Maid/891_AGAINST
+       feminists:1
+       people:1
+../../dataset/economics/result_Maid/892_FOR
+       ones:1
+       women:1
+../../dataset/economics/result_Maid/893_NONE_OF_ABOVE
+       children:1
+       cooimemegirl:1
+       so:1
+       stompa:1
+       tc:1
+../../dataset/economics/result_Maid/894_AGAINST
+       cooimemegirl:1
+       feminists:1
+       stompa:1
+       tc:1
+       you:1
+../../dataset/economics/result_Maid/895_NONE_OF_ABOVE
+       about:1
+       am:1
+       evan:1
+       fuck:1
+       i:1
+       literal:1
+       sseing:1
+       thing:1
+       this:1
+       wtf:1
+../../dataset/economics/result_Maid/896_FOR
+       dressing:1
+       grow:1
+       optimist:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/897_FOR
+       conclusion:1
+       eamonnholmes:1
+       skyjacquie:1
+       skynews:1
+../../dataset/economics/result_Maid/898_FOR
+       yvrmoms:1
+../../dataset/economics/result_Maid/899_AGAINST
+       go:1
+       hell:1
+       joey:1
+       women:1
+../../dataset/economics/result_Maid/900_NONE_OF_ABOVE
+       dead:1
+       girl:1
+       harry:1
+       rapemurdering:1
+../../dataset/economics/result_Maid/901_FOR
+       angelou:1
+       maya:1
+../../dataset/economics/result_Maid/902_AGAINST
+       baltimore:1
+       get:1
+       guys:1
+../../dataset/economics/result_Maid/903_AGAINST
+       aaigh:1
+       feminists:1
+       growa:1
+       humor:1
+       m:2
+       male:1
+       misandreeeeeeeeeee:1
+       need:1
+       of:1
+       okay:1
+       sense:1
+       tears:1
+       to:1
+       w:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/904_FOR
+       fnm:1
+       men:1
+       more:1
+       well:1
+       women:1
+../../dataset/economics/result_Maid/905_FOR
+       men:1
+       women:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/906_FOR
+       beliefs:1
+../../dataset/economics/result_Maid/907_FOR
+       feminists:1
+       people:1
+../../dataset/economics/result_Maid/908_FOR
+       disempower:1
+       empower:1
+       langhi:1
+       libya:1
+       warlords:1
+       wilpf:1
+       women:1
+       wsw:1
+       zahara:1
+../../dataset/economics/result_Maid/909_AGAINST
+       prisons:1
+       theactualsarah:1
+       uk:1
+       women:1
+../../dataset/economics/result_Maid/910_AGAINST
+       bleated:1
+       don:1
+       intelligence:1
+../../dataset/economics/result_Maid/911_FOR
+       cats:2
+       dogscancometoo:1
+       feminist:1
+       less:1
+       let:1
+       more:1
+       wgsndsu:1
+../../dataset/economics/result_Maid/912_AGAINST
+       jahmmarastafari:1
+       mensrights:1
+       vosnic:1
+../../dataset/economics/result_Maid/913_FOR
+       husbands:1
+       mcp:1
+       wives:1
+       womensprogress:1
+../../dataset/economics/result_Maid/914_FOR
+       heforshe:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/916_NONE_OF_ABOVE
+       dabs:1
+       people:1
+       pls:1
+../../dataset/economics/result_Maid/917_NONE_OF_ABOVE
+       body:1
+       in:1
+       mind:1
+       people:1
+       sjws:1
+../../dataset/economics/result_Maid/918_FOR
+       rights:1
+       women:1
+../../dataset/economics/result_Maid/919_FOR
+       thought:1
+../../dataset/economics/result_Maid/920_NONE_OF_ABOVE
+       lawofattraction:1
+../../dataset/economics/result_Maid/921_FOR
+       feminism:1
+       women:1
+../../dataset/economics/result_Maid/922_NONE_OF_ABOVE
+       announces:1
+       chip:1
+       gloriasteinem:1
+       kidd:1
+       readers:1
+../../dataset/economics/result_Maid/923_FOR
+       politics:1
+       women:1
+../../dataset/economics/result_Maid/924_FOR
+       people:1
+       rush:1
+       women:1
+../../dataset/economics/result_Maid/925_FOR
+       cisneros:1
+       sandra:1
+../../dataset/economics/result_Maid/926_AGAINST
+       abortion:1
+       do:1
+       klarajoelsson:1
+       not:1
+       women:1
+../../dataset/economics/result_Maid/927_FOR
+       get:1
+       misogynists:1
+       raped:1
+../../dataset/economics/result_Maid/928_FOR
+       fashionopolis:1
+       views:1
+       you:1
+../../dataset/economics/result_Maid/929_FOR
+       people:1
+       thanks:1
+       women:1
+../../dataset/economics/result_Maid/930_AGAINST
+       men:1
+../../dataset/economics/result_Maid/931_FOR
+       guys:1
+       oliviajeniferx:1
+../../dataset/economics/result_Maid/933_FOR
+       bye:1
+../../dataset/economics/result_Maid/934_FOR
+       be:1
+       let:1
+       me:1
+       rights:1
+       then:1
+       ugly:1
+../../dataset/economics/result_Maid/935_AGAINST
+       men:1
+       mezzomiller:1
+       women:1
+../../dataset/economics/result_Maid/936_NONE_OF_ABOVE
+       best:1
+       lcottrell:1
+       lesbians:1
+       women:1
+../../dataset/economics/result_Maid/938_AGAINST
+       children:1
+       roles:1
+       strict:1
+       substitutes:1
+../../dataset/economics/result_Maid/939_FOR
+       bad:1
+       bitch:1
+../../dataset/economics/result_Maid/940_FOR
+       s:1
+../../dataset/economics/result_Maid/941_AGAINST
+       feminists:1
+       schoolers:1
+../../dataset/economics/result_Maid/942_AGAINST
+       twitter:1
+../../dataset/economics/result_Maid/943_AGAINST
+       funniest:1
+../../dataset/economics/result_Maid/944_NONE_OF_ABOVE
+       listen:1
+       mj:1
+       mrmikecalta:1
+       proud:1
+../../dataset/economics/result_Maid/945_AGAINST
+       people:1
+       reasons:2
+../../dataset/economics/result_Maid/946_NONE_OF_ABOVE
+       essays:1
+       taxes:1
+../../dataset/economics/result_Maid/947_FOR
+       did:1
+       gender:1
+       stereotypes:1
+../../dataset/economics/result_Maid/948_AGAINST
+       fem:1
+       henry:1
+       paul:1
+       persons:1
+../../dataset/economics/result_Maid/949_NONE_OF_ABOVE
+       socceroos:1
+       supports:1
+../../dataset/economics/result_Maid/950_NONE_OF_ABOVE
+       feminists:1
+       looks:1
+       more:1
+       nepal:1
+       nepalearthquake:1
+       s:1
+       things:1
+../../dataset/economics/result_Maid/951_AGAINST
+       bruiseaurora:1
+       men:1
+       women:1
+../../dataset/economics/result_Maid/952_FOR
+       im:1
+       women:1
+../../dataset/economics/result_Maid/953_NONE_OF_ABOVE
+       baltimore:1
+       events:1
+       issues:1
+../../dataset/economics/result_Maid/954_AGAINST
+       proteinworld:1
+       s:1
+       uberfacts:1
+../../dataset/economics/result_Maid/955_FOR
+       apps:1
+       are:1
+       by:1
+       girls:1
+       hackforgirlsrights:1
+       happens:1
+       these:1
+       us:2
+       what:1
+       when:1
+../../dataset/economics/result_Maid/956_AGAINST
+       full:1
+       wolfwhistling:1
+       women:1
+       wrightstuff:1
+../../dataset/economics/result_Maid/959_NONE_OF_ABOVE
+       britain:1
+       equality:1
+       folk:1
+       folklore:1
+       legend:1
+       multicultural:1
+       myth:1
+       storytelling:1
+       time:1
+       uktourism:1
+../../dataset/economics/result_Maid/960_AGAINST
+       at:1
+       look:1
+       me:1
+       yesallwomen:1
+../../dataset/economics/result_Maid/961_AGAINST
+       cry:1
+       then:1
+       uglyfeminist:1
+       want:1
+../../dataset/economics/result_Maid/962_FOR
+       s:1
+../../dataset/economics/result_Maid/963_NONE_OF_ABOVE
+       a:16
+       christopher:1
+       funny:1
+       hitchens:1
+../../dataset/economics/result_Maid/964_NONE_OF_ABOVE
+       peace:1
+       people:1
+../../dataset/economics/result_Maid/966_AGAINST
+       awwam:1
+       blessedten:1
+       ibn:1
+       islam:1
+       zubair:1
+../../dataset/economics/result_Maid/967_NONE_OF_ABOVE
+       alwaysoptimistic:1
+       gonna:1
+../../dataset/economics/result_Maid/968_FOR
+       god:1
+       greatest:1
+       lol:1
+       seangillies:1
+       yeah:1
+../../dataset/economics/result_Maid/969_NONE_OF_ABOVE
+       humanrights:1
+../../dataset/economics/result_Maid/970_FOR
+       bigfoot:1
+       god:1
+       loch:1
+       monster:1
+       ness:1
+       richarddawkins:1
+../../dataset/economics/result_Maid/971_AGAINST
+       faithful:1
+       god:1
+../../dataset/economics/result_Maid/972_NONE_OF_ABOVE
+       carries:1
+       dogs:1
+       faithreei:1
+       hero:1
+       love:1
+../../dataset/economics/result_Maid/973_FOR
+       keep:1
+../../dataset/economics/result_Maid/974_AGAINST
+       don:1
+       iamisthepotter:1
+../../dataset/economics/result_Maid/975_FOR
+       superstition:1
+../../dataset/economics/result_Maid/976_AGAINST
+       best:3
+       mohammad:1
+       pbuh:1
+       people:1
+       prophet:1
+       women:2
+../../dataset/economics/result_Maid/977_FOR
+       kinds:1
+       magic:1
+       miracles:1
+       myth:1
+       oh:1
+       people:1
+       rational:1
+       regards:1
+../../dataset/economics/result_Maid/978_AGAINST
+       gates:1
+       king:1
+       let:1
+       prayerbullets:1
+       ps:1
+../../dataset/economics/result_Maid/980_NONE_OF_ABOVE
+       trebor:1
+../../dataset/economics/result_Maid/982_AGAINST
+       bible:1
+       hears:1
+       holyspirit:1
+       jesus:1
+       luke:1
+       rejects:1
+       s:1
+       teamcogic:1
+../../dataset/economics/result_Maid/984_AGAINST
+       better:1
+       do:1
+       god:1
+       keep:1
+       store:1
+       teamperserverance:1
+       things:1
+../../dataset/economics/result_Maid/985_AGAINST
+       bt:1
+       childofgod:1
+       kip:1
+       s:1
+       tears:1
+../../dataset/economics/result_Maid/986_AGAINST
+       all:1
+       butgod:1
+       god:1
+       hold:1
+       powerful:1
+       stop:1
+       then:1
+       win:1
+       you:1
+../../dataset/economics/result_Maid/987_AGAINST
+       christ:1
+       god:2
+       jesus:1
+       john:1
+../../dataset/economics/result_Maid/988_FOR
+       argument:1
+       design:1
+       eng:1
+       god:1
+       rational:1
+       response:1
+       rt:1
+       the:1
+       truthway:1
+../../dataset/economics/result_Maid/989_NONE_OF_ABOVE
+       abdur:1
+       auf:1
+       blessedten:1
+       ibn:1
+       rahman:1
+../../dataset/economics/result_Maid/990_NONE_OF_ABOVE
+       beware:1
+       doctrines:1
+       greed:1
+../../dataset/economics/result_Maid/991_FOR
+       beliefs:1
+       gods:1
+../../dataset/economics/result_Maid/992_FOR
+       doctrines:1
+../../dataset/economics/result_Maid/993_AGAINST
+       christian:1
+       sexiest:1
+../../dataset/economics/result_Maid/994_NONE_OF_ABOVE
+       others:1
+../../dataset/economics/result_Maid/995_AGAINST
+       destination:1
+       life:1
+../../dataset/economics/result_Maid/996_AGAINST
+       best:1
+       means:1
+       ponder:1
+       qur:1
+       want:1
+../../dataset/economics/result_Maid/997_AGAINST
+       elders:1
+       muhammad:1
+       ones:1
+       pbuh:1
+       prophet:1
+       younger:1
+../../dataset/economics/result_Maid/998_AGAINST
+       let:1
+       prayerbullets:1
+       rom:1
+../../dataset/economics/result_Maid/999_AGAINST
+       ask:1
+       comprehensive:1
+       everything:1
+       god:1
+       holycrapthatsgoodnews:1
+       lovemyjesus:1
+       selective:1
+../../dataset/economics/result_Maid/1000_AGAINST
+       answers:1
+       islam:1
+       questions:1
+../../dataset/economics/result_Maid/1001_NONE_OF_ABOVE
+       die:1
+       fucking:1
+       garimabhatt:1
+       godless:1
+       mom:1
+       mylife:1
+       myview:1
+       richarddawkins:1
+../../dataset/economics/result_Maid/1002_NONE_OF_ABOVE
+       alittle:1
+       guuurl:1
+       laur:1
+       yougotit:1
+../../dataset/economics/result_Maid/1003_NONE_OF_ABOVE
+       muslim:1
+       waleed:1
+../../dataset/economics/result_Maid/1004_FOR
+       almighty:1
+       claims:1
+../../dataset/economics/result_Maid/1005_AGAINST
+       god:1
+       mind:1
+       soul:1
+../../dataset/economics/result_Maid/1006_FOR
+       atheistrepublic:1
+       atheists:1
+       humanrights:1
+       our:1
+       where:1
+../../dataset/economics/result_Maid/1007_AGAINST
+       happines:1
+       jeremysumpter:1
+       love:1
+       sunday:1
+       thank:1
+../../dataset/economics/result_Maid/1008_AGAINST
+       god:1
+       stay:1
+       things:1
+../../dataset/economics/result_Maid/1009_AGAINST
+       exchange:1
+       muhammad:1
+       prophet:1
+       quran:1
+       towards:1
+../../dataset/economics/result_Maid/1010_FOR
+       bush:1
+       if:1
+       liberalbias:1
+       morality:1
+       transcends:1
+../../dataset/economics/result_Maid/1011_AGAINST
+       seek:1
+       your:1
+../../dataset/economics/result_Maid/1012_AGAINST
+       ask:1
+       followdms:1
+       matt:1
+../../dataset/economics/result_Maid/1013_AGAINST
+       creator:1
+       sustainer:1
+       systems:1
+../../dataset/economics/result_Maid/1014_FOR
+       sting:1
+../../dataset/economics/result_Maid/1015_AGAINST
+       bible:1
+       christianity:1
+       coming:1
+       didn:1
+       he:1
+       how:1
+       jesus:1
+       know:2
+       time:1
+../../dataset/economics/result_Maid/1016_AGAINST
+       god:1
+       heaven:1
+       islamrevisited:1
+../../dataset/economics/result_Maid/1017_AGAINST
+       god:1
+       more:1
+       papa:1
+       shower:1
+../../dataset/economics/result_Maid/1018_AGAINST
+       india:1
+       jesus:2
+       missions:1
        people:1
        power:1
-       still:1
-       than:1
-       the:1
-       to:1
-       us:1
-../../dataset/economics/result_Maid/179_Neutral
-       a:1
-       building:1
-       charge:1
-       diarrhea:1
-       drilling:1
-       enough:1
-       far:1
-       get:1
-       gone:1
-       has:1
-       in:1
-       lib:1
-       mention:1
-       muslim:1
-       nuclear:1
-       oil:1
-       patriot:1
-       plants:1
-       power:1
+../../dataset/economics/result_Maid/1019_AGAINST
+       god:1
+       his:1
+       things:1
+       trust:1
+../../dataset/economics/result_Maid/1020_FOR
+       god:2
+       impossible:2
+       miracles:1
+       miraculous:1
        rt:1
-       start:1
-       stop:1
-       talking:1
-       this:1
-       verbal:1
-../../dataset/economics/result_Maid/180_Neutral
-       about:2
-       coal:1
-       from:1
-       fukushima:1
-       isn:1
-       it:1
-       link:1
-       mention:1
-       nuclear:1
-       power:1
-       radioactive:1
-       rt:1
+       then:1
+../../dataset/economics/result_Maid/1021_AGAINST
+       deen:1
+       our:1
+../../dataset/economics/result_Maid/1022_NONE_OF_ABOVE
+       baltimore:1
+../../dataset/economics/result_Maid/1023_AGAINST
+       finds:1
+       kids:1
+../../dataset/economics/result_Maid/1024_NONE_OF_ABOVE
+       alteringbabies:1
+       coloradotrips:1
+       flaws:1
+       genetics:1
+       godmadeushowhewants:1
+       marv:1
+       normalornot:1
        s:1
-       studying:1
-       sulfur:1
-       t:1
-../../dataset/economics/result_Maid/181_Neutral
-       a:2
-       be:1
-       book:1
-       bribery:1
-       food:1
-       future:2
-       in:1
-       issues:1
-       it:1
-       japan:1
-       like:1
-       mention:1
-       nuclear:1
-       power:1
-       quake:1
-       s:2
-       saw:1
-       tainted:1
-       there:1
-       too:1
-       will:1
-       with:1
-       you:1
-../../dataset/economics/result_Maid/182_Negative
-       and:1
-       at:1
-       be:1
-       conciderations:1
-       fukushima:1
-       health:1
-       heat:1
-       illness:1
-       mention:1
-       nice:1
-       nuclear:1
-       of:1
-       plant:1
-       power:1
-       quot:2
-       realted:1
-       risk:1
-       safety:1
-       that:1
-       workers:1
-       would:1
-../../dataset/economics/result_Maid/183_Neutral
-       and:1
-       are:1
-       at:1
-       blogs:1
-       carnival:1
-       find:1
-       is:1
-       link:1
-       mention:1
-       nei:1
-       notes:1
-       nuclear:2
-       nukes:1
-       of:1
-       out:1
-       podcasts:1
-       pro:1
-       rt:1
-       saying:1
-       th:1
-       the:2
-       up:1
-       what:1
-../../dataset/economics/result_Maid/184_Neutral
-       a:2
-       and:1
-       became:1
-       cement:1
-       engulfed:1
-       everything:1
-       except:1
-       forged:1
-       he:1
-       heart:2
-       his:2
-       man:1
-       mention:1
-       muscles:1
-       nuclear:1
-       of:1
-       organs:1
-       power:1
-       rt:1
-       skin:1
-       stone:1
-       the:1
-       with:1
-../../dataset/economics/result_Maid/185_Neutral
-       at:1
-       bird:1
-       drinking:1
-       gas:1
-       mention:1
-       nuclear:1
-       plant:1
-       power:1
-       predisposed:1
-       springfield:1
-       the:2
-       venting:1
-       was:1
-../../dataset/economics/result_Maid/186_Neutral
-       accident:1
-       featuring:1
-       firs:1
-       first:1
-       for:1
-       fukushima:1
-       is:2
-       link:1
-       mention:1
-       nuclear:1
-       reactivated:1
-       reactivation:1
-       reactor:1
-       rt:1
-       s:1
-       since:1
-       the:3
-../../dataset/economics/result_Maid/187_Neutral
-       all:1
-       by:1
-       entry:1
-       fukushima:1
-       government:1
-       in:1
-       land:1
-       link:1
-       mention:1
-       no:1
-       nuclear:1
-       of:2
-       owned:1
-       parts:1
-       plans:1
-       plant:1
-       power:1
-       rent:1
-       residents:1
-       rt:1
-       the:1
-       to:1
-       zone:1
-../../dataset/economics/result_Maid/188_Neutral
-       energy:1
+       topics:1
+../../dataset/economics/result_Maid/1025_NONE_OF_ABOVE
+       brahmin:1
+       don:1
+       gandhi:1
+       ha:1
        hindu:1
-       important:1
-       link:2
-       manmohan:1
-       mention:1
-       national:1
-       news:1
-       nuclear:1
-       play:1
-       role:1
-       rt:1
-       the:1
-       will:1
-../../dataset/economics/result_Maid/189_Neutral
-       b:1
-       book:1
-       cohen:1
-       energy:1
-       famous:1
-       free:1
-       is:1
-       l:1
-       link:1
-       mention:1
-       nuclear:1
-       of:1
-       option:1
-       prof:1
-       rt:1
+       nehru:1
+       varun:1
+       you:1
+../../dataset/economics/result_Maid/1026_AGAINST
+       josh:1
+       ricketson:1
+       rush:1
+       rushswag:1
+../../dataset/economics/result_Maid/1027_NONE_OF_ABOVE
+       claims:1
+       jvx:1
+       people:1
+       remember:1
+       spooks:1
+       wow:1
+../../dataset/economics/result_Maid/1028_AGAINST
+       figs:1
+       luke:1
+       men:1
+       thorns:1
+../../dataset/economics/result_Maid/1029_NONE_OF_ABOVE
+       breaking:1
+       criminals:1
+       police:1
+../../dataset/economics/result_Maid/1030_AGAINST
+       christianity:1
+       christians:1
+       god:1
+       lives:1
+../../dataset/economics/result_Maid/1031_AGAINST
+       jlhministries:1
+       people:1
+../../dataset/economics/result_Maid/1032_NONE_OF_ABOVE
+       imagine:1
+../../dataset/economics/result_Maid/1033_AGAINST
+       heavens:1
+../../dataset/economics/result_Maid/1034_AGAINST
+       dies:1
+       prov:1
+       words:1
+../../dataset/economics/result_Maid/1035_AGAINST
+       god:2
+       love:1
+../../dataset/economics/result_Maid/1036_AGAINST
+       believes:1
+       god:1
+       receives:1
+       sees:1
+../../dataset/economics/result_Maid/1037_AGAINST
+       dancer:1
+       godfirst:1
+       hardwork:1
+       letswork:1
+       separates:1
+       vision:1
+       work:1
+../../dataset/economics/result_Maid/1038_AGAINST
+       jesus:1
+../../dataset/economics/result_Maid/1039_AGAINST
+       god:1
+../../dataset/economics/result_Maid/1040_AGAINST
+       be:1
+       forever:1
+       gnt:1
+       lord:1
+       people:1
+       psalm:1
+       save:1
+       yours:1
+../../dataset/economics/result_Maid/1041_AGAINST
+       jesus:1
+       sauls:1
+       scott:1
+../../dataset/economics/result_Maid/1042_NONE_OF_ABOVE
+       axn:1
+       gfyh:1
+       good:1
+       gwg:1
+       tag:1
+       ting:1
+../../dataset/economics/result_Maid/1043_AGAINST
+       believing:1
+       faith:1
+       in:1
+       not:1
+       skepticism:1
+../../dataset/economics/result_Maid/1044_NONE_OF_ABOVE
+       interesting:1
+       people:1
+       thecorruptorr:1
+       tonymiano:1
+       words:1
+       you:1
+../../dataset/economics/result_Maid/1045_AGAINST
+       conqueror:1
+       god:2
+       timothy:1
+../../dataset/economics/result_Maid/1046_AGAINST
+       god:1
+       gotfaith:1
+       his:1
+       sayyes:1
+../../dataset/economics/result_Maid/1047_AGAINST
+       answe:1
+       is:2
+       islam:1
+       life:1
+       question:1
        the:2
-../../dataset/economics/result_Maid/190_Neutral
-       amp:1
-       at:1
-       emergency:1
-       industry:1
-       is:1
+../../dataset/economics/result_Maid/1048_AGAINST
+       atheism:1
+       ed:1
+       measures:1
+       miliband:1
+       scourges:1
+../../dataset/economics/result_Maid/1049_FOR
+       christianity:2
+       enables:1
+       people:1
+../../dataset/economics/result_Maid/1050_NONE_OF_ABOVE
+       catholic:1
+       less:1
+       men:1
+       pontifex:1
+       thinks:1
+       vatican:1
+       women:2
+../../dataset/economics/result_Maid/1051_AGAINST
+       judge:1
+       kjv:1
+       lk:1
+../../dataset/economics/result_Maid/1052_AGAINST
+       connection:1
+       glory:1
+       king:1
+../../dataset/economics/result_Maid/1053_AGAINST
+       christians:1
+       decisions:1
+       don:1
+       god:1
+       others:1
+       truth:1
+../../dataset/economics/result_Maid/1054_FOR
+       better:1
+../../dataset/economics/result_Maid/1055_AGAINST
+       blessings:1
+       sins:1
+../../dataset/economics/result_Maid/1056_FOR
+       s:1
+       years:1
+../../dataset/economics/result_Maid/1057_AGAINST
+       lord:1
+       thisiswhoiwasmeanttobeallalong:1
+       women:1
+       wow:1
+../../dataset/economics/result_Maid/1058_AGAINST
+       god:1
+       people:1
+../../dataset/economics/result_Maid/1059_NONE_OF_ABOVE
+       better:1
+../../dataset/economics/result_Maid/1060_FOR
+       freethinkers:1
+       prevails:1
+../../dataset/economics/result_Maid/1061_AGAINST
+       heb:1
+       let:1
+       prayerbullets:1
+       your:1
+../../dataset/economics/result_Maid/1062_AGAINST
+       corinthians:1
+       freedom:1
+       lord:2
+       nlt:1
+       spirit:2
+../../dataset/economics/result_Maid/1063_AGAINST
+       quran:1
+../../dataset/economics/result_Maid/1065_FOR
+       religions:1
+../../dataset/economics/result_Maid/1066_AGAINST
+       christ:1
+       christians:1
+       he:1
+       tweeters:1
+../../dataset/economics/result_Maid/1067_AGAINST
+       blessed:1
+       god:1
+       life:1
+       loves:1
+       my:2
+       urs:1
+../../dataset/economics/result_Maid/1068_FOR
+       believers:1
+       dear:1
+       regards:1
+../../dataset/economics/result_Maid/1069_FOR
+       best:1
+       freethinkers:1
+       sahd:1
+../../dataset/economics/result_Maid/1070_FOR
+       judemymum:1
+       krusader:1
+../../dataset/economics/result_Maid/1071_NONE_OF_ABOVE
+       al:1
+       ali:1
+       amin:1
+       iran:1
+       leader:1
+       lebanon:1
+       shia:1
+       w:1
+../../dataset/economics/result_Maid/1072_AGAINST
+       christ:2
+       holybible:1
+       i:1
+       lives:1
+       longer:1
+       teamjesus:1
+../../dataset/economics/result_Maid/1073_AGAINST
+       god:1
+       thoughts:1
+../../dataset/economics/result_Maid/1074_AGAINST
+       houses:1
+       quran:1
+       times:1
+       yourselves:1
+../../dataset/economics/result_Maid/1075_AGAINST
+       al:1
+       allah:1
+       maoon:1
+       prayers:1
+       salah:1
+       surah:1
+../../dataset/economics/result_Maid/1076_AGAINST
+       happynote:1
+       maker:1
+../../dataset/economics/result_Maid/1077_FOR
+       thanks:1
+       theists:1
+../../dataset/economics/result_Maid/1078_AGAINST
+       athanasius:1
+       god:2
+       son:1
+../../dataset/economics/result_Maid/1079_AGAINST
+       deut:1
+       ensures:1
+       god:2
+       loves:1
+       orphans:1
+       strangers:1
+../../dataset/economics/result_Maid/1080_AGAINST
+       children:1
+../../dataset/economics/result_Maid/1081_NONE_OF_ABOVE
+       alena:1
+       jnai:1
        learn:1
-       link:1
-       mention:1
+       people:1
+../../dataset/economics/result_Maid/1082_AGAINST
+       chaos:1
+       days:1
+       god:1
+       phn:1
+       reeks:1
+../../dataset/economics/result_Maid/1083_NONE_OF_ABOVE
+       ed:1
+       miliband:1
+../../dataset/economics/result_Maid/1084_AGAINST
+       christians:2
+       god:1
+../../dataset/economics/result_Maid/1085_FOR
+       ups:1
+../../dataset/economics/result_Maid/1086_FOR
+       canada:1
+       canadians:1
+       harper:1
+       scoc:1
+../../dataset/economics/result_Maid/1087_AGAINST
+       love:1
+       sahaba:1
+../../dataset/economics/result_Maid/1088_AGAINST
+       abominations:1
+       fatima:1
+       ginestarros:1
+       ze:1
+../../dataset/economics/result_Maid/1089_NONE_OF_ABOVE
+       ed:1
+       things:1
+       welch:1
+../../dataset/economics/result_Maid/1090_NONE_OF_ABOVE
+       addiction:1
+       daveabernethy:1
+       hallways:1
+       sounds:1
+       xtianity:1
+../../dataset/economics/result_Maid/1091_AGAINST
+       quran:1
+       s:1
+       scientists:1
+       years:1
+../../dataset/economics/result_Maid/1092_FOR
+       freethinker:1
+       superstitions:1
+       thoughts:1
+../../dataset/economics/result_Maid/1093_AGAINST
+       bible:1
+       god:1
+../../dataset/economics/result_Maid/1094_AGAINST
+       god:1
+../../dataset/economics/result_Maid/1095_AGAINST
+       him:1
+       lord:1
+       odds:1
+       savior:1
+../../dataset/economics/result_Maid/1096_AGAINST
+       let:1
+../../dataset/economics/result_Maid/1097_FOR
+       people:3
+../../dataset/economics/result_Maid/1098_AGAINST
+       ayatollah:1
+       imnus:1
+       islam:1
+       khomeini:1
+       music:1
+       persons:1
+       q:2
+../../dataset/economics/result_Maid/1099_FOR
+       ask:1
+       atheist:1
+       day:1
+       have:1
+../../dataset/economics/result_Maid/1100_NONE_OF_ABOVE
+       equalityforall:1
+       men:1
+../../dataset/economics/result_Maid/1101_AGAINST
+       scary:1
+../../dataset/economics/result_Maid/1102_AGAINST
+       chip:1
+       christ:1
+       fb:1
+       his:1
+       ingram:1
+       quote:1
+       teamjesus:1
+../../dataset/economics/result_Maid/1103_AGAINST
+       disconnect:1
+       souls:1
+../../dataset/economics/result_Maid/1104_FOR
+       dhiggins:1
+       pvtfraser:1
+       true:1
+../../dataset/economics/result_Maid/1105_NONE_OF_ABOVE
+       alpharomeo:1
+       dhiggins:1
+       pvtfraser:1
+       you:1
+../../dataset/economics/result_Maid/1106_AGAINST
+       dream:1
+       dreams:1
+       focus:1
+       god:1
+       kingdom:1
+       others:1
+../../dataset/economics/result_Maid/1107_AGAINST
+       best:1
+       god:1
+       know:1
+       prayerworks:1
+       ways:2
+../../dataset/economics/result_Maid/1108_AGAINST
+       amen:1
+       lord:1
+       remove:1
+../../dataset/economics/result_Maid/1109_FOR
+       ama:1
+       askanatheistday:1
+       est:1
+       questions:1
+../../dataset/economics/result_Maid/1110_AGAINST
+       father:1
+       togodbetheglory:1
+../../dataset/economics/result_Maid/1111_FOR
+       discoveries:1
+       texts:1
+../../dataset/economics/result_Maid/1112_AGAINST
+       amen:1
+       god:1
+       holy:1
+       mary:1
+       mother:1
+       sinners:1
+../../dataset/economics/result_Maid/1113_AGAINST
+       god:1
+       molecules:1
        more:1
-       nuclear:2
-       plants:1
-       preparedness:1
-       reconfirm:1
-       rt:1
-       safety:1
-       steps:1
-       taking:1
+       what:1
+../../dataset/economics/result_Maid/1114_AGAINST
+       god:1
+       government:1
+       p:1
+../../dataset/economics/result_Maid/1115_FOR
+       who:1
+../../dataset/economics/result_Maid/1116_AGAINST
+       amen:1
+       god:1
+       holy:1
+       mary:1
+       mother:1
+       sinners:1
+../../dataset/economics/result_Maid/1117_NONE_OF_ABOVE
+       change:1
+       norman:1
+       peale:1
+       positivity:1
+       quotes:1
+       thoughts:1
+       vincent:1
+../../dataset/economics/result_Maid/1118_NONE_OF_ABOVE
+       humanpog:1
+../../dataset/economics/result_Maid/1119_AGAINST
+       baltimore:1
+       i:1
+       people:1
+       prayers:1
+../../dataset/economics/result_Maid/1120_FOR
+       argument:1
+       design:1
+       god:1
+       rational:1
+       response:1
+../../dataset/economics/result_Maid/1121_AGAINST
+       god:1
+       s:1
+../../dataset/economics/result_Maid/1122_AGAINST
+       helives:1
+       lol:1
+       love:1
+       o:1
+       still:1
+       thee:1
+../../dataset/economics/result_Maid/1123_FOR
+       faith:1
+       theists:1
+../../dataset/economics/result_Maid/1124_NONE_OF_ABOVE
+       nan:1
+       wonder:1
+       worst:1
+../../dataset/economics/result_Maid/1125_FOR
+       atheist:1
+       free:1
+../../dataset/economics/result_Maid/1126_AGAINST
+       bible:1
+       god:1
+       goldanuli:1
+../../dataset/economics/result_Maid/1128_FOR
+       gaps:1
+../../dataset/economics/result_Maid/1129_FOR
+       green:1
+       ingersoll:1
+       politics:1
+       republic:1
+       robert:1
+../../dataset/economics/result_Maid/1130_FOR
+       athestpwer:1
+       certainly:1
+       eyewitnesses:1
+       john:1
+       liar:1
+       matthew:1
+       robeddy:1
+../../dataset/economics/result_Maid/1131_AGAINST
+       cares:1
+       concerns:1
+       god:1
+       him:1
+../../dataset/economics/result_Maid/1132_NONE_OF_ABOVE
+       neversaydiespirit:1
+       s:1
+       win:1
+../../dataset/economics/result_Maid/1133_NONE_OF_ABOVE
+       commodities:1
+       economics:1
+       india:1
+       temples:1
+       urges:1
+       worldnews:1
+../../dataset/economics/result_Maid/1134_AGAINST
+       angel:1
+       angels:1
+       god:1
+       maryjaneveloso:1
+       may:1
        the:1
-       to:1
-       us:1
+../../dataset/economics/result_Maid/1135_AGAINST
+       gospel:1
+       studies:1
+       unt:2
+../../dataset/economics/result_Maid/1136_NONE_OF_ABOVE
+       marks:1
+       think:1
+../../dataset/economics/result_Maid/1137_NONE_OF_ABOVE
+       angelou:1
+       hearts:1
+       maya:1
+       stars:1
+../../dataset/economics/result_Maid/1138_NONE_OF_ABOVE
+       i:1
+       if:1
+       manny:1
+       pacquiao:1
+       scfeatured:1
+       teampacquiao:1
+../../dataset/economics/result_Maid/1139_AGAINST
+       children:1
+       god:1
+       matthew:1
+       peacemakers:1
+../../dataset/economics/result_Maid/1140_AGAINST
+       boom:1
+       dontdoministryalone:1
+../../dataset/economics/result_Maid/1142_AGAINST
+       king:1
+../../dataset/economics/result_Maid/1143_NONE_OF_ABOVE
+       things:1
+../../dataset/economics/result_Maid/1144_AGAINST
+       constitution:1
+       framers:1
+       graham:1
+../../dataset/economics/result_Maid/1145_AGAINST
+       god:1
+       ispeaklife:1
+../../dataset/economics/result_Maid/1147_AGAINST
+       amen:1
+       god:2
+       holy:1
+       mary:1
+       mother:1
+       sinners:1
+../../dataset/economics/result_Maid/1148_NONE_OF_ABOVE
+       pop:1
+../../dataset/economics/result_Maid/1149_NONE_OF_ABOVE
+       deficiencies:1
+       lacks:1
+../../dataset/economics/result_Maid/1150_FOR
+       belief:1
+       facts:1
+../../dataset/economics/result_Maid/1151_FOR
+       freedom:1
+../../dataset/economics/result_Maid/1152_FOR
+       chameleon:1
+       x:1
+       you:1
+../../dataset/economics/result_Maid/1153_FOR
+       beinghu:1
+       better:1
+       maheshhindu:1
+       po:1
+       religions:1
+       saimarani:1
+       sikhism:1
+       st:1
+       swamy:1
+../../dataset/economics/result_Maid/1154_FOR
+       best:1
+       don:1
+       jesus:1
+       peter:1
+../../dataset/economics/result_Maid/1155_AGAINST
+       athiest:1
+       heavens:1
+       quran:1
+../../dataset/economics/result_Maid/1156_AGAINST
+       god:1
+       negatives:1
+       positives:1
+../../dataset/economics/result_Maid/1157_NONE_OF_ABOVE
+       grrrrrrrreat:1
+../../dataset/economics/result_Maid/1158_NEUTRAL
+       deeper:1
+       inv:1
+       love:1
+../../dataset/economics/result_Maid/1159_AGAINST
+       lord:1

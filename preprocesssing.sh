@@ -1,5 +1,7 @@
 filename="discover3.arff"
 
+rm -Rf ../dataset/economics/result/* -v
+rm -Rf ../dataset/economics/result_Maid/* -v
 python3 pos_extractor.py
 cd pretext
 perl Start.pl
@@ -8,8 +10,8 @@ cd ..
 rm -Rf $filename -v
 echo "@relation sentiment "  >> $filename 
 tail -n +2 pretext/discover/discover.names  |  sed 's/"//g' | sed 's/^/@attribute /g' | sed 's/:[^:]*$/ REAL/g'  >> $filename
-echo '@attribute classification_name {"Neutral","Positive","Negative","Not_Related"}'  >> $filename 
-#echo '@attribute classification_name {"FOR","NEUTRAL","AGAINST","NONE_OF_THE_ABOVE"}'  >> $filename 
+#echo '@attribute classification_name {"Neutral","Positive","Negative","Not_Related"}'  >> $filename 
+echo '@attribute classification_name {"FOR","NEUTRAL","AGAINST","NONE_OF_ABOVE"}'  >> $filename 
 echo "@data" >> $filename
 
 # working on terminal
