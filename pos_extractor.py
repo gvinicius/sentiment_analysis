@@ -53,28 +53,27 @@ def vectorize_data(texts):
     vectorizer = TfidfVectorizer(min_df=1)
     return vectorizer.fit_transform(texts)
 
+def classify_by_algorithm(classifier_name, X_test, y_test):
+    classifier = None
+    if (classifier_name == 'SVM'):
+        classifier = train_svm(X_test, y_test)
+    elif(classifier_name == 'NBM'):
+        classifier = MultinomialNB().fit(X_test, y_test)
+    elif(classifier_name == 'C4.5'):
+        classifier = tree.DecisionTreeClassifier().fit(X_test, y_test)
+    pred = classifier.predict(X_test)
+    print(classifier_name)
+    print(confusion_matrix(pred, y_test))
+    print(classifier.score(X_test, y_test))
+
 def main():
     print ("Selected only words of desired POS.")
     rows = treat_csv_dataset(sys.argv[1], sys.argv[2])
     rows_text, rows_label = generate_matrix(rows)
     X = vectorize_data(rows_text)
     X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
-    svm = train_svm(X_train, y_train)
-    pred = svm.predict(X_test)
-    print('SVM')
-    print(confusion_matrix(pred, y_test))
-    print(svm.score(X_train, y_test))
-    quit()
-    print('NBM')
-    clf = MultinomialNB().fit(X_test, y_test)
-    pred = clf.predict(X_test)
-    print(confusion_matrix(pred, y_test))
-    print(clf.score(X_test, y_test))
-    print('C4.5')
-    c45 = tree.DecisionTreeClassifier()
-    c45 = c45.fit(X_test, y_test)
-    pred = c45.predict(X_test)
-    print(confusion_matrix(pred, y_test))
-    print(c45.score(X_test, y_test))
+    classify_by_algorithm('SVM', X_test, y_test)
+    classify_by_algorithm('NBM', X_test, y_test)
+    classify_by_algorithm('C4.5', X_test, y_test)
 if __name__ == "__main__":
     main()
