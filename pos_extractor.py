@@ -67,11 +67,12 @@ def main():
     pred = clf.predict(X_test)
     print(confusion_matrix(pred, y_test))
     print(clf.score(X_test, y_test))
-    c45 = tree.DecisionTreeClassifier().fit(X_test, y_test)
-    pred = tree.predict(X_test)
     print('C4.5')
+    c45 = tree.DecisionTreeClassifier()
+    c45 = c45.fit(X_test, y_test)
+    pred = c45.predict(X_test)
     print(confusion_matrix(pred, y_test))
-    print(tree.score(X_test, y_test))
+    print(c45.score(X_test, y_test))
 #    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
 #    os.system(run_classification)
 if __name__ == "__main__":
