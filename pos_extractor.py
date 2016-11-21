@@ -29,10 +29,9 @@ def train_svm(X, y):
     svm.fit(X, y)
     return svm
 
-def main():
-    print ("Selected only words of desired POS.")
-    rows = []
-    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
+def treat_csv_dataset(dataset):
+    with open(dataset, 'r', encoding="latin1") as csvfile:
+        rows = []
         csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -41,19 +40,22 @@ def main():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            if sys.argv[1] == 'tags':
+            if sys.argv[2] == 'tags':
                 selected_tokens = [word for word,pos in tagged if pos in ['JJR','JJS','NNS','NNP'] ]
             else:
                 selected_tokens = raw_tokens
-#            selected_tokens = [word for word,pos in tagged if pos in ['RBR','JJR','JJS','NNS','NNP'] ]
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word + " " 
             #final_tokens = tokenizer.tokenize(final_tokens)
             rows.append((final_tokens, classification))
+        return rows
+
+def main():
+    print ("Selected only words of desired POS.")
+    rows = treat_csv_dataset(sys.argv[1])
     rows_text = [r[0] for r in rows]
     rows_label = [r[1] for r in rows]
-    #print(rows_text) 
     vectorizer = TfidfVectorizer(min_df=1)
     X = vectorizer.fit_transform(rows_text)
     X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
