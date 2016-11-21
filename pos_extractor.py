@@ -31,7 +31,7 @@ def train_svm(X, y):
 def main():
     print ("Selected only words of desired POS.")
     rows = []
-    with open('../dataset/economics/progressive-tweet-sentiment.csv', 'r', encoding="latin1") as csvfile:
+    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
         csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -53,11 +53,17 @@ def main():
     #print(rows_text) 
     vectorizer = TfidfVectorizer(min_df=1)
     X = vectorizer.fit_transform(rows_text)
-    X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2, random_state=42)
+    X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
     svm = train_svm(X_train, y_train)
     pred = svm.predict(X_test)
+    print('SVM')
     print(confusion_matrix(pred, y_test))
     print(svm.score(X_test, y_test))
+    print('NBM')
+    clf = MultinomialNB().fit(X_test, y_test)
+    pred = clf.predict(X_test)
+    print(confusion_matrix(pred, y_test))
+    print(clf.score(X_test, y_test))
 #    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
 #    os.system(run_classification)
 if __name__ == "__main__":
