@@ -19,6 +19,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cross_validation import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix
+from sklearn import tree
 # -*- coding: latin-1 -*-
 def train_svm(X, y):
     """
@@ -40,9 +41,11 @@ def main():
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos in ['JJR','JJS','NNS','NNP'] ]
+            if sys.argv[1] == 'tags':
+                selected_tokens = [word for word,pos in tagged if pos in ['JJR','JJS','NNS','NNP'] ]
+            else:
+                selected_tokens = raw_tokens
 #            selected_tokens = [word for word,pos in tagged if pos in ['RBR','JJR','JJS','NNS','NNP'] ]
-#            selected_tokens = raw_tokens
             final_tokens = ""
             for word in selected_tokens:
                 final_tokens += word + " " 
@@ -64,6 +67,11 @@ def main():
     pred = clf.predict(X_test)
     print(confusion_matrix(pred, y_test))
     print(clf.score(X_test, y_test))
+    c45 = tree.DecisionTreeClassifier().fit(X_test, y_test)
+    pred = tree.predict(X_test)
+    print('C4.5')
+    print(confusion_matrix(pred, y_test))
+    print(tree.score(X_test, y_test))
 #    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
 #    os.system(run_classification)
 if __name__ == "__main__":
