@@ -12,6 +12,11 @@ import os
 import codecs
 
 from nltk.corpus import treebank
+import numpy
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.feature_extraction.text import TfidfVectorizer
+from pandas import DataFrame
 # -*- coding: latin-1 -*-
 
 #path = 'gesteira_corpus/'
@@ -20,52 +25,31 @@ destination_path = "../dataset/output-g-{0}".format(sys.argv[1])
 destination_path_file = destination_path + '/file'
 
 def generate_bases():
-    counter = 1
-    for subdir, dirs, files in os.walk(path):
-        for file in files:
-            classification = "noncfb" if "non-CFB" in os.path.dirname(subdir) else "cfb"
-            file_path = subdir + os.path.sep + file
-            text = codecs.open(file_path, 'r',encoding='utf-8', errors='ignore' )
-            lowers = text.read().lower()
-            tokenizer = RegexpTokenizer(r'\w+') 
-            raw_tokens = tokenizer.tokenize(lowers)
-            tagged = nltk.tag.pos_tag(raw_tokens)
-            selected_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJ', 'NNS', 'NNP'] or (pos =='CC' and word in ['but', 'yet', 'still', 'although', 'though', 'however'])]
-            final_tokens = ""
-            for word in selected_tokens:
-                final_tokens += word +" "
-            filename = str(counter) + "_" + classification
-            counter += 1
-            print (counter)
-            open(destination_path_file.replace('file',filename), "w").write(str(final_tokens))
+#    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
+#    with open('../dataset/economics/nuclear.csv', 'r', encoding="latin1") as csvfile:
 
-def generate_bases_common():
-    counter = 1
-    for subdir, dirs, files in os.walk(path):
-        for file in files:
-            classification = "noncfb" if "non-CFB" in os.path.dirname(subdir) else "cfb"
-            file_path = subdir + os.path.sep + file
-            text = codecs.open(file_path, 'r',encoding='utf-8', errors='ignore' )
-            lowers = text.read().lower()
-            tokenizer = RegexpTokenizer(r'\w+') 
-            raw_tokens = tokenizer.tokenize(lowers)
-            final_tokens = ""
-            for word in raw_tokens:
-                final_tokens += word +" "
-            filename = str(counter) + "_" + classification
-            counter += 1
-            print (counter)
-            open(destination_path_file.replace('file',filename), "w").write(str(final_tokens))
 
 def main():
-    delection_command = 'rm -Rf ' + destination_path + '/* ' + destination_path + '_Maid/* -v' 
-    os.system(delection_command)
-    if(sys.argv[2]=='tag'):
-        generate_bases()
-        print "tags"
-    if(sys.argv[2]=='nontag'):
-        generate_bases_common()
     print ("Selected only words of desired POS.")
+    rows = []
+    with open('../dataset/economics/progressive-tweet-sentiment.csv', 'r', encoding="latin1") as csvfile:
+        csv_reader = csv.reader(csvfile, quotechar='\"')
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            text = row['tweet_text']
+            classification = str(row['sentiment']).replace(" ","_").replace("/","").replace("'","")
+            tokenizer = RegexpTokenizer(r'\w+') 
+            raw_tokens = tokenizer.tokenize(text)
+            tagged = nltk.tag.pos_tag(raw_tokens)
+            selected_tokens = [word for word,pos in tagged if pos in ['JJR','JJS','NNS','NNP'] ]
+#            selected_tokens = [word for word,pos in tagged if pos in ['RBR','JJR','JJS','NNS','NNP'] ]
+#            selected_tokens = raw_tokens
+            final_tokens = ""
+            for word in selected_tokens:
+                final_tokens += word + " " 
+            rows.append((final_tokens, classification))
+    vectorizer = TfidfVectorizer(min_df=1)
+    X = vectorizer.fit_transform(rows[0])
 #    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
 #    os.system(run_classification)
 if __name__ == "__main__":
