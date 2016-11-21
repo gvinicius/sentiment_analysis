@@ -2,16 +2,9 @@ import nltk
 import sys
 from nltk.corpus import wordnet
 from nltk.corpus import stopwords
-
-from nltk.tokenize import RegexpTokenizer
-
-import time
-
-import os
-
-import codecs
-import csv
 from nltk.corpus import treebank
+from nltk.tokenize import RegexpTokenizer
+import csv
 import numpy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
@@ -29,7 +22,7 @@ def train_svm(X, y):
     svm.fit(X, y)
     return svm
 
-def treat_csv_dataset(dataset):
+def treat_csv_dataset(dataset, preprocessing_param):
     with open(dataset, 'r', encoding="latin1") as csvfile:
         rows = []
         csv_reader = csv.reader(csvfile, quotechar='\"')
@@ -40,7 +33,7 @@ def treat_csv_dataset(dataset):
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
             tagged = nltk.tag.pos_tag(raw_tokens)
-            if sys.argv[2] == 'tags':
+            if preprocessing_param == 'tags':
                 selected_tokens = [word for word,pos in tagged if pos in ['JJR','JJS','NNS','NNP'] ]
             else:
                 selected_tokens = raw_tokens
@@ -51,11 +44,15 @@ def treat_csv_dataset(dataset):
             rows.append((final_tokens, classification))
         return rows
 
+def generate_matrix(corpus):
+    data = [c[0] for c in corpus]
+    labels = [c[1] for c in corpus]
+    return data, labels
+
 def main():
     print ("Selected only words of desired POS.")
-    rows = treat_csv_dataset(sys.argv[1])
-    rows_text = [r[0] for r in rows]
-    rows_label = [r[1] for r in rows]
+    rows = treat_csv_dataset(sys.argv[1], sys.argv[2])
+    rows_text, rows_label = generate_matrix(rows)
     vectorizer = TfidfVectorizer(min_df=1)
     X = vectorizer.fit_transform(rows_text)
     X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
@@ -64,6 +61,7 @@ def main():
     print('SVM')
     print(confusion_matrix(pred, y_test))
     print(svm.score(X_test, y_test))
+    quit()
     print('NBM')
     clf = MultinomialNB().fit(X_test, y_test)
     pred = clf.predict(X_test)
@@ -75,7 +73,5 @@ def main():
     pred = c45.predict(X_test)
     print(confusion_matrix(pred, y_test))
     print(c45.score(X_test, y_test))
-#    run_classification = 'bash preprocesssing.sh ' + sys.argv[1]
-#    os.system(run_classification)
 if __name__ == "__main__":
     main()
