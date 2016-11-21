@@ -49,12 +49,15 @@ def generate_matrix(corpus):
     labels = [c[1] for c in corpus]
     return data, labels
 
+def vectorize_data(texts):
+    vectorizer = TfidfVectorizer(min_df=1)
+    return vectorizer.fit_transform(texts)
+
 def main():
     print ("Selected only words of desired POS.")
     rows = treat_csv_dataset(sys.argv[1], sys.argv[2])
     rows_text, rows_label = generate_matrix(rows)
-    vectorizer = TfidfVectorizer(min_df=1)
-    X = vectorizer.fit_transform(rows_text)
+    X = vectorize_data(rows_text)
     X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
     svm = train_svm(X_train, y_train)
     pred = svm.predict(X_test)
