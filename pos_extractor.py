@@ -63,7 +63,7 @@ def main():
     pred = svm.predict(X_test)
     print('SVM')
     print(confusion_matrix(pred, y_test))
-    print(svm.score(X_test, y_test))
+    print(svm.score(X_train, y_test))
     quit()
     print('NBM')
     clf = MultinomialNB().fit(X_test, y_test)
