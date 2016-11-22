@@ -1,4 +1,4 @@
-import nltk, csv, pandas, numpy, sys, collections
+import nltk, csv, numpy, sys, collections
 from nltk.corpus import wordnet
 from nltk.corpus import stopwords
 from nltk.corpus import treebank
@@ -69,11 +69,11 @@ def classify_by_algorithm(classifier_name, X_test, y_test):
 def main():
     print ("Automated classfication of sentiment analysis datasets.")
     rows, classes_counter = treat_csv_dataset(sys.argv[1], sys.argv[2])
-    print(classes_counter.most_common()[0][1]/(sum(classes_counter.values())))
-    quit()
+    majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
     rows_text, rows_label = generate_matrix(rows)
     X = vectorize_data(rows_text)
-    X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
+    X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2, random_state=0)
+    print(majoritary_class)
     classify_by_algorithm('SVM', X_test, y_test)
     classify_by_algorithm('NBM', X_test, y_test)
     classify_by_algorithm('C4.5', X_test, y_test)
