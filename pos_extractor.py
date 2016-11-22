@@ -1,11 +1,8 @@
-import nltk
-import sys
+import nltk, csv, pandas, numpy, sys, collections
 from nltk.corpus import wordnet
 from nltk.corpus import stopwords
 from nltk.corpus import treebank
 from nltk.tokenize import RegexpTokenizer
-import csv
-import numpy
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -14,6 +11,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix
 from sklearn import tree
 # -*- coding: latin-1 -*-
+
 def train_svm(X, y):
     """
     Create and train the Support Vector Machine.
@@ -23,6 +21,7 @@ def train_svm(X, y):
     return svm
 
 def treat_csv_dataset(dataset, preprocessing_param):
+    classes_counter = collections.Counter()
     with open(dataset, 'r', encoding="latin1") as csvfile:
         rows = []
         csv_reader = csv.reader(csvfile, quotechar='\"')
@@ -30,6 +29,7 @@ def treat_csv_dataset(dataset, preprocessing_param):
         for row in reader:
             text = row['tweet_text']
             classification = str(row['sentiment']).replace(" ","_").replace("/","").replace("'","")
+            classes_counter[classification] += 1
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
             tagged = nltk.tag.pos_tag(raw_tokens)
@@ -42,7 +42,7 @@ def treat_csv_dataset(dataset, preprocessing_param):
                 final_tokens += word + " " 
             #final_tokens = tokenizer.tokenize(final_tokens)
             rows.append((final_tokens, classification))
-        return rows
+        return rows, classes_counter
 
 def generate_matrix(corpus):
     data = [c[0] for c in corpus]
@@ -67,8 +67,10 @@ def classify_by_algorithm(classifier_name, X_test, y_test):
     print(classifier.score(X_test, y_test))
 
 def main():
-    print ("Selected only words of desired POS.")
-    rows = treat_csv_dataset(sys.argv[1], sys.argv[2])
+    print ("Automated classfication of sentiment analysis datasets.")
+    rows, classes_counter = treat_csv_dataset(sys.argv[1], sys.argv[2])
+    print(classes_counter.most_common()[0][1]/(sum(classes_counter.values())))
+    quit()
     rows_text, rows_label = generate_matrix(rows)
     X = vectorize_data(rows_text)
     X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.2)
