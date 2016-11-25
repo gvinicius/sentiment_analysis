@@ -1,4 +1,5 @@
 import nltk, csv, numpy, sys, collections
+from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from nltk.corpus import treebank
 from nltk.tokenize import RegexpTokenizer
@@ -27,15 +28,17 @@ def treat_csv_dataset(dataset, text_field, category_field):
         csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
-            text = row[text_field]
+            text = BeautifulSoup(row[text_field], 'html5lib').get_text()
             classification = str(row[category_field]).replace(" ","_").replace("/","").replace("'","")
             classes_counter[classification] += 1
             tokenizer = RegexpTokenizer(r'\w+') 
             raw_tokens = tokenizer.tokenize(text)
-            tagged = nltk.tag.pos_tag(raw_tokens)
+            porter = nltk.PorterStemmer()
+            stemmed_tokens = [porter.stem(t) for t in raw_tokens]
             final_tokens = ""
-            for word in raw_tokens:
-                final_tokens += word + " " 
+            for word in stemmed_tokens:
+                if word not in stopwords.words('english'):
+                    final_tokens += word + " "  
             rows.append((final_tokens, classification))
         return rows, classes_counter
 
@@ -45,7 +48,7 @@ def generate_matrix(corpus):
     return data, labels
 
 def vectorize_data(texts):
-    vectorizer = TfidfVectorizer()
+    vectorizer = TfidfVectorizer(min_df=1)
     return vectorizer.fit_transform(texts)
 
 def classify_by_algorithm(classifier_name, X_situation, y_situation):
