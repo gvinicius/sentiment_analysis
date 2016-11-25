@@ -73,7 +73,7 @@ def main():
         majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
         rows_text, rows_label = generate_matrix(rows)
         X = vectorize_data(rows_text)
-        X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.1, random_state=0)
+        X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.1)
         print("Majoritary class: {0}".format(majoritary_class))
         classifiers = ['SVM', 'NBM', 'C4.5']
         for classifier in classifiers:
