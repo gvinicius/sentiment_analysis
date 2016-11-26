@@ -8,17 +8,16 @@ from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import cross_val_score
 # -*- coding: latin-1 -*-
 
 def train_svm(x_data, y_data):
-    """
-    Create and train the Support Vector Machine.
-    """
-    svm = SVC(C=1000000.0, gamma=0.0, kernel='rbf')
+    """ Create and train the Support Vector Machine. """
+    svm = SVC(C=1000000.0, kernel='rbf')
     svm.fit(x_data, y_data)
     return svm
 
@@ -65,6 +64,7 @@ def classify_by_algorithm(classifier_name, x_situation, y_situation):
     print(confusion_matrix(prediction, y_situation))
     print(classification_report(prediction, y_situation))
     print(classifier.score(x_situation, y_situation))
+    #print(cross_val_score(classifier, x_situation, y_situation, cv=10))
 
 def main():
     """Main funcation of the application."""
