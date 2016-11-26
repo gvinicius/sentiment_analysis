@@ -1,85 +1,87 @@
-import nltk, csv, numpy, sys, collections
+"""This module does automated text classification ensuring AB tests for preprocessing techniques."""
+import sys
+import csv
+import collections
+import nltk as nt
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
-from nltk.corpus import treebank
 from nltk.tokenize import RegexpTokenizer
-from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cross_validation import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, classification_report
-from sklearn import tree
+from sklearn.tree import DecisionTreeClassifier
 # -*- coding: latin-1 -*-
 
-def train_svm(X, y):
+def train_svm(x_data, y_data):
     """
     Create and train the Support Vector Machine.
     """
     svm = SVC(C=1000000.0, gamma=0.0, kernel='rbf')
-    svm.fit(X, y)
+    svm.fit(x_data, y_data)
     return svm
 
-# def treat_csv_dataset(dataset, text_field, category_field, preprocessing_param):
 def treat_csv_dataset(dataset, text_field, category_field):
+    """This function does preprocessing upon csv dataset files."""
     classes_counter = collections.Counter()
     with open(dataset, 'r', encoding="latin1") as csvfile:
         rows = []
-        csv_reader = csv.reader(csvfile, quotechar='\"')
         reader = csv.DictReader(csvfile)
         for row in reader:
             text = BeautifulSoup(row[text_field], 'html5lib').get_text()
-            classification = str(row[category_field]).replace(" ","_").replace("/","").replace("'","")
+            classification = str(row[category_field])
             classes_counter[classification] += 1
-            tokenizer = RegexpTokenizer(r'\w+') 
-            raw_tokens = tokenizer.tokenize(text)
-            porter = nltk.PorterStemmer()
-            stemmed_tokens = [porter.stem(t) for t in raw_tokens]
+            raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
+            stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
             for word in stemmed_tokens:
                 if word not in stopwords.words('english'):
-                    final_tokens += word + " "  
+                    final_tokens += word + " "
             rows.append((final_tokens, classification))
         return rows, classes_counter
 
 def generate_matrix(corpus):
+    """This function prepares the attribute-value matrices."""
     data = [c[0] for c in corpus]
     labels = [c[1] for c in corpus]
     return data, labels
 
 def vectorize_data(texts):
-    vectorizer = TfidfVectorizer(min_df=1)
+    """This function vectorizes text to matrices."""
+    vectorizer = TfidfVectorizer()
     return vectorizer.fit_transform(texts)
 
-def classify_by_algorithm(classifier_name, X_situation, y_situation):
-    classifier = None
-    if (classifier_name == 'SVM'):
-        classifier = train_svm(X_situation, y_situation)
-    elif(classifier_name == 'NBM'):
-        classifier = MultinomialNB().fit(X_situation, y_situation)
-    elif(classifier_name == 'C4.5'):
-        classifier = tree.DecisionTreeClassifier().fit(X_situation, y_situation)
-    prediction = classifier.predict(X_situation)
+def classify_by_algorithm(classifier_name, x_situation, y_situation):
+    """This function enables classification by a series of algorithms and train/test situation."""
+    if classifier_name == 'SVM':
+        classifier = train_svm(x_situation, y_situation)
+    elif classifier_name == 'NBM':
+        classifier = MultinomialNB().fit(x_situation, y_situation)
+    elif classifier_name == 'C4.5':
+        classifier = DecisionTreeClassifier().fit(x_situation, y_situation)
+    prediction = classifier.predict(x_situation)
     print(classifier_name)
     print(confusion_matrix(prediction, y_situation))
     print(classification_report(prediction, y_situation))
-    print(classifier.score(X_situation, y_situation))
+    print(classifier.score(x_situation, y_situation))
 
 def main():
-    print ('Automated classfication of sentiment analysis datasets.')
+    """Main funcation of the application."""
+    print('Automated classfication of sentiment analysis datasets.')
     if len(sys.argv) != 4:
-        print('Wrong number of parameters. The correct is: $1 = dataset csv file; $2 = text fieldname in csv; $3 category fieldname in csv')
-        quit() 
+        print('Wrong parameter list. $1 = csv dataset; $2 = text fieldname; $3 category fieldname')
+        quit()
     else:
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
         rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column)
         majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
         rows_text, rows_label = generate_matrix(rows)
-        X = vectorize_data(rows_text)
-        X_train, X_test, y_train, y_test = train_test_split(X, rows_label, test_size=0.1)
+        x_raw = vectorize_data(rows_text)
+        x_train, x_test, y_train, y_test = train_test_split(x_raw, rows_label, test_size=0.1)
         print("Majoritary class: {0}".format(majoritary_class))
         classifiers = ['SVM', 'NBM', 'C4.5']
         for classifier in classifiers:
-            classify_by_algorithm(classifier,  X_test, y_test)
+            classify_by_algorithm(classifier, x_test, y_test)
 if __name__ == "__main__":
     main()
