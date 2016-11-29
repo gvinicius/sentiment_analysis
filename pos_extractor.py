@@ -12,8 +12,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.model_selection import cross_val_score, KFold
+from sklearn.model_selection import cross_val_score, StratifiedKFold
 from sklearn.multiclass import OneVsRestClassifier
+from scipy import stats
 # -*- coding: latin-1 -*-
 
 def train_svm(x_data, y_data):
@@ -52,23 +53,27 @@ def vectorize_data(texts):
     vectorizer = TfidfVectorizer(ngram_range=(1, 3))
     return vectorizer.fit_transform(texts)
 
-def classify_by_algorithm(classifier_name, x_situation, y_situation):
+def classify_by_algorithm(classifier_name, x_original, rows_label):
     """This function enables classification by a series of algorithms and train/test situation."""
+    x_train, x_test, y_train, y_test = train_test_split(x_original, rows_label, test_size=0.1, random_state=0)
     if classifier_name == 'SVM':
-        classifier = train_svm(x_situation, y_situation)
+        classifier = train_svm(x_test, y_test)
     elif classifier_name == 'NBM':
-        classifier = MultinomialNB().fit(x_situation, y_situation)
+        classifier = MultinomialNB().fit(x_test, y_test)
     elif classifier_name == 'C4.5':
-        classifier = DecisionTreeClassifier().fit(x_situation, y_situation)
-    prediction = classifier.predict(x_situation)
+        classifier = DecisionTreeClassifier().fit(x_test, y_test)
+    prediction = classifier.predict(x_test)
     print(classifier_name)
-    print(confusion_matrix(prediction, y_situation))
-    print(classification_report(prediction, y_situation))
-    print("Score:{0}".format(classifier.score(x_situation, y_situation)))
-    kfold = KFold(n_splits=10)
-    print("Acc.:{0}".format(cross_val_score(classifier, x_situation, y_situation, cv=kfold).mean()))
-    print("Std.:{0}".format(cross_val_score(classifier, x_situation, y_situation, cv=kfold).std()))
-    return classifier
+    # print(confusion_matrix(prediction, y_test))
+    # print(classification_report(prediction, y_test))
+    print("Score:{0}".format(classifier.score(x_test, y_test)))
+    kfold = StratifiedKFold(n_splits=10, shuffle = False)
+    cross_result = cross_val_score(classifier, x_test, y_test, cv=kfold)
+    accuracy = cross_result.mean()
+    standard_deviation = cross_result.std()
+    print("Acc:{0}".format(accuracy))
+    print("Acc:{0}".format(standard_deviation))
+    return (classifier_name, cross_result)
 
 def main():
     """Main funcation of the application."""
@@ -82,11 +87,16 @@ def main():
         majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
         rows_text, rows_label = generate_matrix(rows)
         x_raw = vectorize_data(rows_text)
-        x_train, x_test, y_train, y_test = train_test_split(x_raw, rows_label, test_size=0.1, random_state=0)
         print("Majoritary class: {0}".format(majoritary_class))
         classifiers = ['SVM', 'NBM', 'C4.5']
         predictions = []
         for classifier in classifiers:
-            predictions.append(classify_by_algorithm(classifier, x_test, y_test))
+            predictions.append(classify_by_algorithm(classifier, x_raw, rows_label))
+        for i in range(0,len(predictions)):
+            for j in range(0,len(predictions)):
+                if predictions[i] != predictions[j]:
+                    print("{0} x {1}".format(predictions[i][0], predictions[j][0]))
+                    paired_sample = stats.ttest_rel(predictions[i][1], predictions[j][1])
+                    print("The t-statistic is %.3f and the p-value is %.3f." % paired_sample)
 if __name__ == "__main__":
     main()
