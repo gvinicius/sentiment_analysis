@@ -6,6 +6,7 @@ import nltk as nt
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
+from scipy import stats
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
@@ -14,7 +15,6 @@ from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import cross_val_score, StratifiedKFold
 from sklearn.multiclass import OneVsRestClassifier
-from scipy import stats
 # -*- coding: latin-1 -*-
 
 def train_svm(x_data, y_data):
@@ -75,8 +75,25 @@ def classify_by_algorithm(classifier_name, x_original, rows_label):
     print("Acc:{0}".format(standard_deviation))
     return (classifier_name, cross_result)
 
+def validate_tstat(predictions_pair):
+    """This method implements t student comparison of two classifiers runnings."""
+    print("{0} x {1}".format(predictions_pair[0][0], predictions_pair[1][0]))
+    paired_sample = stats.ttest_rel(predictions_pair[0][1], predictions_pair[1][1])
+    p_value = paired_sample[1]
+    if (p_value < 0.05):
+        if predictions_pair[0][1].mean() > predictions_pair[1][1].mean():
+            best_classifier = predictions_pair[0][0]
+        elif predictions_pair[0][1].mean() < predictions_pair[1][1].mean():
+            best_classifier = predictions_pair[1][0]
+        else:
+            best_classifier = 'None'
+        print('The best classifier is: {0}.'.format(best_classifier))
+    else:
+        print('There is no significant difference between the two algorithms performance.')
+        
+
 def main():
-    """Main funcation of the application."""
+    """Main method of the application."""
     print('Automated classfication of sentiment analysis datasets.')
     if len(sys.argv) != 4:
         print('Wrong parameter list. $1 = csv dataset; $2 = text fieldname; $3 category fieldname')
@@ -85,18 +102,15 @@ def main():
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
         rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column)
         majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
-        rows_text, rows_label = generate_matrix(rows)
+        rows_text, row_labels = generate_matrix(rows)
         x_raw = vectorize_data(rows_text)
         print("Majoritary class: {0}".format(majoritary_class))
         classifiers = ['SVM', 'NBM', 'C4.5']
         predictions = []
         for classifier in classifiers:
-            predictions.append(classify_by_algorithm(classifier, x_raw, rows_label))
-        for i in range(0,len(predictions)):
-            for j in range(0,len(predictions)):
-                if predictions[i] != predictions[j]:
-                    print("{0} x {1}".format(predictions[i][0], predictions[j][0]))
-                    paired_sample = stats.ttest_rel(predictions[i][1], predictions[j][1])
-                    print("The t-statistic is %.3f and the p-value is %.3f." % paired_sample)
+            predictions.append(classify_by_algorithm(classifier, x_raw, row_labels))
+        validate_tstat([predictions[0],predictions[1]])
+        validate_tstat([predictions[0],predictions[2]])
+        validate_tstat([predictions[1],predictions[2]])
 if __name__ == "__main__":
     main()
