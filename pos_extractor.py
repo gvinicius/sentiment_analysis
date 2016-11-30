@@ -75,23 +75,28 @@ def classify_by_algorithm(classifier_name, x_original, rows_label):
     print("Acc:{0}".format(standard_deviation))
     return (classifier_name, cross_result)
 
-def validate_tstat(predictions_pair):
+def validate_stat(predictions_pair, test_name):
     """This method implements t student comparison of two classifiers runnings."""
     print("{0} x {1}".format(predictions_pair[0][0], predictions_pair[1][0]))
-    paired_sample = stats.ttest_rel(predictions_pair[0][1], predictions_pair[1][1])
+    if test_name == 'student_t':
+        paired_sample = stats.ttest_rel(predictions_pair[0][1], predictions_pair[1][1])
+    elif test_name == 'wilcoxon':
+        paired_sample = stats.ranksums(predictions_pair[0][1], predictions_pair[1][1])
     p_value = paired_sample[1]
     if (p_value < 0.05):
         if predictions_pair[0][1].mean() > predictions_pair[1][1].mean():
-            best_classifier = predictions_pair[0][0]
+            best_classifier = predictions_pair[0]
         elif predictions_pair[0][1].mean() < predictions_pair[1][1].mean():
-            best_classifier = predictions_pair[1][0]
+            best_classifier = predictions_pair[1]
         else:
-            best_classifier = 'None'
-        print('The best classifier is: {0}.'.format(best_classifier))
+            print('There is no significant difference between the two algorithms performance.')
+            return [0, 'none']
+        print('The best classifier is: {0}.'.format(best_classifier[0]))
+        return [best_classifier[1].mean(), best_classifier[0]]
     else:
         print('There is no significant difference between the two algorithms performance.')
+        return [0, 'none']
         
-
 def main():
     """Main method of the application."""
     print('Automated classfication of sentiment analysis datasets.')
@@ -109,8 +114,21 @@ def main():
         predictions = []
         for classifier in classifiers:
             predictions.append(classify_by_algorithm(classifier, x_raw, row_labels))
-        validate_tstat([predictions[0],predictions[1]])
-        validate_tstat([predictions[0],predictions[2]])
-        validate_tstat([predictions[1],predictions[2]])
+        test_name = 'wilcoxon'
+        test_results = dict()
+        r1 = validate_stat([predictions[0],predictions[1]], test_name)
+        r2 = validate_stat([predictions[0],predictions[2]], test_name)
+        r3 = validate_stat([predictions[1],predictions[2]], test_name)
+        test_results[r1[0]] = r1[1]
+        test_results[r2[0]] = r2[1]
+        test_results[r3[0]] = r3[1]
+        best_score = max(test_results.keys())
+        print(best_score)
+        if best_score != 0:
+            best = test_results[best_score]
+            print("After the statistical test, the best classifier is: {0}".format(best))
+        else:
+            print("After the statistical test, there is no difference between classifiers.")
+
 if __name__ == "__main__":
     main()
