@@ -19,7 +19,7 @@ from sklearn.multiclass import OneVsRestClassifier
 
 def train_svm(x_data, y_data):
     """ Create and train the Support Vector Machine. """
-    svm = SVC(C=1000000.0, kernel='rbf')
+    svm = SVC(C=1000000.0, gamma='auto', kernel='rbf')
     svm.fit(x_data, y_data)
     return svm
 
@@ -72,7 +72,7 @@ def classify_by_algorithm(classifier_name, x_original, rows_label):
     accuracy = cross_result.mean()
     standard_deviation = cross_result.std()
     print("Acc:{0}".format(accuracy))
-    print("Acc:{0}".format(standard_deviation))
+    print("Std:{0}".format(standard_deviation))
     return (classifier_name, cross_result)
 
 def validate_stat(predictions_pair, test_name):
@@ -129,6 +129,5 @@ def main():
             print("After the statistical test, the best classifier is: {0}".format(best))
         else:
             print("After the statistical test, there is no difference between classifiers.")
-
 if __name__ == "__main__":
     main()
