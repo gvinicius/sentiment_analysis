@@ -67,8 +67,6 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
         classifier = DecisionTreeClassifier().fit(x_test, y_test)
     prediction = classifier.predict(x_test)
     print(classifier_name)
-    # print(confusion_matrix(prediction, y_test))
-    # print(classification_report(prediction, y_test))
     cross_result = cross_val_score(classifier, x_test, y_test, cv=kfold)
     accuracy = cross_result.mean()
     standard_deviation = cross_result.std()
@@ -76,7 +74,6 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     print("Std: {0}".format(standard_deviation))
     return accuracy
 
-        
 def main():
     """Main method of the application."""
     print('Automated classfication of sentiment analysis datasets.')
@@ -99,7 +96,7 @@ def main():
         predictions = np.asarray(predictions)
         classifiers = np.asarray(classifiers)
         mc1 = multi.MultiComparison(predictions, classifiers)
-        print(mc1.__dict__)
+        print(mc1.kruskal(multimethod='T'))
         m = multic.multipletests(mc1.data, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
         print(m)
 if __name__ == "__main__":
