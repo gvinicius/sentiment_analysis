@@ -53,9 +53,9 @@ def vectorize_data(texts):
     vectorizer = TfidfVectorizer(ngram_range=(1, 3))
     return vectorizer.fit_transform(texts)
 
-def classify_by_algorithm(classifier_name, x_original, rows_label):
+
+def classify_by_algorithm(classifier_name, x_test, y_test):
     """This function enables classification by a series of algorithms and train/test situation."""
-    x_train, x_test, y_train, y_test = train_test_split(x_original, rows_label, test_size=0.1, random_state=0)
     if classifier_name == 'SVM':
         classifier = train_svm(x_test, y_test)
     elif classifier_name == 'NBM':
@@ -112,8 +112,9 @@ def main():
         print("Majoritary class: {0}".format(majoritary_class))
         classifiers = ['SVM', 'NBM', 'C4.5']
         predictions = []
+        x_train, x_test, y_train, y_test = train_test_split(x_raw, row_labels, test_size=0.1, random_state=0)
         for classifier in classifiers:
-            predictions.append(classify_by_algorithm(classifier, x_raw, row_labels))
+            predictions.append(classify_by_algorithm(classifier, x_test, y_test))
         test_name = 'wilcoxon'
         test_results = dict()
         r1 = validate_stat([predictions[0],predictions[1]], test_name)
