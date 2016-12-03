@@ -3,6 +3,9 @@ import sys
 import csv
 import collections
 import nltk as nt
+import numpy as np
+import statsmodels.stats.multicomp as multi 
+import statsmodels.sandbox.stats.multicomp as multic
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
@@ -54,7 +57,7 @@ def vectorize_data(texts):
     return vectorizer.fit_transform(texts)
 
 
-def classify_by_algorithm(classifier_name, x_test, y_test):
+def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     """This function enables classification by a series of algorithms and train/test situation."""
     if classifier_name == 'SVM':
         classifier = train_svm(x_test, y_test)
@@ -66,36 +69,13 @@ def classify_by_algorithm(classifier_name, x_test, y_test):
     print(classifier_name)
     # print(confusion_matrix(prediction, y_test))
     # print(classification_report(prediction, y_test))
-    print("Score:{0}".format(classifier.score(x_test, y_test)))
-    kfold = StratifiedKFold(n_splits=10, shuffle = False)
     cross_result = cross_val_score(classifier, x_test, y_test, cv=kfold)
     accuracy = cross_result.mean()
     standard_deviation = cross_result.std()
-    print("Acc:{0}".format(accuracy))
-    print("Std:{0}".format(standard_deviation))
-    return (classifier_name, cross_result)
+    print("Acc: {0}".format(accuracy))
+    print("Std: {0}".format(standard_deviation))
+    return accuracy
 
-def validate_stat(predictions_pair, test_name):
-    """This method implements t student comparison of two classifiers runnings."""
-    print("{0} x {1}".format(predictions_pair[0][0], predictions_pair[1][0]))
-    if test_name == 'student_t':
-        paired_sample = stats.ttest_rel(predictions_pair[0][1], predictions_pair[1][1])
-    elif test_name == 'wilcoxon':
-        paired_sample = stats.ranksums(predictions_pair[0][1], predictions_pair[1][1])
-    p_value = paired_sample[1]
-    if (p_value < 0.05):
-        if predictions_pair[0][1].mean() > predictions_pair[1][1].mean():
-            best_classifier = predictions_pair[0]
-        elif predictions_pair[0][1].mean() < predictions_pair[1][1].mean():
-            best_classifier = predictions_pair[1]
-        else:
-            print('There is no significant difference between the two algorithms performance.')
-            return [0, 'none']
-        print('The best classifier is: {0}.'.format(best_classifier[0]))
-        return [best_classifier[1].mean(), best_classifier[0]]
-    else:
-        print('There is no significant difference between the two algorithms performance.')
-        return [0, 'none']
         
 def main():
     """Main method of the application."""
@@ -111,24 +91,16 @@ def main():
         x_raw = vectorize_data(rows_text)
         print("Majoritary class: {0}".format(majoritary_class))
         classifiers = ['SVM', 'NBM', 'C4.5']
-        predictions = []
+        predictions = [] 
         x_train, x_test, y_train, y_test = train_test_split(x_raw, row_labels, test_size=0.1, random_state=0)
+        kfold = StratifiedKFold(n_splits=10, shuffle = False)
         for classifier in classifiers:
-            predictions.append(classify_by_algorithm(classifier, x_test, y_test))
-        test_name = 'wilcoxon'
-        test_results = dict()
-        r1 = validate_stat([predictions[0],predictions[1]], test_name)
-        r2 = validate_stat([predictions[0],predictions[2]], test_name)
-        r3 = validate_stat([predictions[1],predictions[2]], test_name)
-        test_results[r1[0]] = r1[1]
-        test_results[r2[0]] = r2[1]
-        test_results[r3[0]] = r3[1]
-        best_score = max(test_results.keys())
-        print(best_score)
-        if best_score != 0:
-            best = test_results[best_score]
-            print("After the statistical test, the best classifier is: {0}".format(best))
-        else:
-            print("After the statistical test, there is no difference between classifiers.")
+            predictions.append(classify_by_algorithm(classifier, x_test, y_test, kfold))
+        predictions = np.asarray(predictions)
+        classifiers = np.asarray(classifiers)
+        mc1 = multi.MultiComparison(predictions, classifiers)
+        print(mc1.__dict__)
+        m = multic.multipletests(mc1.data, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
+        print(m)
 if __name__ == "__main__":
     main()
