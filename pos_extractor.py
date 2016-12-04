@@ -72,7 +72,7 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     standard_deviation = cross_result.std()
     print("Acc: {0}".format(accuracy))
     print("Std: {0}".format(standard_deviation))
-    return accuracy
+    return cross_result
 
 def main():
     """Main method of the application."""
@@ -92,12 +92,16 @@ def main():
         x_train, x_test, y_train, y_test = train_test_split(x_raw, row_labels, test_size=0.1, random_state=0)
         kfold = StratifiedKFold(n_splits=10, shuffle = False)
         for classifier in classifiers:
-            predictions.append(classify_by_algorithm(classifier, x_test, y_test, kfold))
+            predictions.append(list(classify_by_algorithm(classifier, x_test, y_test, kfold)))
+        k_test = stats.kruskal(predictions[0],predictions[1],predictions[2])
+        f_value, p_value = stats.f_oneway(predictions[0],predictions[1],predictions[2])
+        print(k_test)
+        quit()
         predictions = np.asarray(predictions)
         classifiers = np.asarray(classifiers)
         mc1 = multi.MultiComparison(predictions, classifiers)
         print(mc1.kruskal(multimethod='T'))
-        m = multic.multipletests(mc1.data, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
+        m = multic.multipletests(p_value, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
         print(m)
 if __name__ == "__main__":
     main()
