@@ -4,6 +4,7 @@ import csv
 import collections
 import nltk as nt
 import numpy as np
+import nonparametric_tests
 import statsmodels.stats.multicomp as multi 
 import statsmodels.sandbox.stats.multicomp as multic
 from bs4 import BeautifulSoup
@@ -91,11 +92,19 @@ def main():
         predictions = [] 
         x_train, x_test, y_train, y_test = train_test_split(x_raw, row_labels, test_size=0.1, random_state=0)
         kfold = StratifiedKFold(n_splits=10, shuffle = False)
-        for classifier in classifiers:
-            predictions.append(list(classify_by_algorithm(classifier, x_test, y_test, kfold)))
-        k_test = stats.kruskal(predictions[0],predictions[1],predictions[2])
-        f_value, p_value = stats.f_oneway(predictions[0],predictions[1],predictions[2])
-        print(k_test)
+        with open('results.csv', 'w') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter=',')
+            final_results = []
+            for classifier in classifiers:
+                results = list(classify_by_algorithm(classifier, x_test, y_test, kfold))
+                final_results.append(np.asarray(results))
+                # csvwriter.writerow(results)
+        print("Classification ends.")
+        predictions = np.asarray(final_results)
+        print(predictions)
+        test_data = {     "A": [3, 4, 5, 6, 1, 5],     "B": [4, 3, 2, 1, 2, 6],     "C": [4, 3, 5, 6, 3, 7], }
+        statistic, p_value, ranking, rank_cmp = nonparametric_tests.friedman_test(*predictions)
+        print(ranking)
         quit()
         predictions = np.asarray(predictions)
         classifiers = np.asarray(classifiers)
