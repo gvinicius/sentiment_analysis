@@ -5,6 +5,7 @@ import collections
 import nltk as nt
 import numpy as np
 import nonparametric_tests
+import parametric_tests
 import statsmodels.stats.multicomp as multi 
 import statsmodels.sandbox.stats.multicomp as multic
 from bs4 import BeautifulSoup
@@ -27,7 +28,7 @@ def train_svm(x_data, y_data):
     svm.fit(x_data, y_data)
     return svm
 
-def treat_csv_dataset(dataset, text_field, category_field):
+def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
     """This function does preprocessing upon csv dataset files."""
     classes_counter = collections.Counter()
     with open(dataset, 'r', encoding="latin1") as csvfile:
@@ -38,6 +39,9 @@ def treat_csv_dataset(dataset, text_field, category_field):
             classification = str(row[category_field])
             classes_counter[classification] += 1
             raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
+            if(pos_condition == 'tag'):
+                tagged = nt.tag.pos_tag(raw_tokens)
+                raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS', 'NNP']]
             stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
             for word in stemmed_tokens:
@@ -69,11 +73,11 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     prediction = classifier.predict(x_test)
     print(classifier_name)
     cross_result = cross_val_score(classifier, x_test, y_test, cv=kfold)
-    accuracy = cross_result.mean()
+    accuracy = cross_result.mean()*100
     standard_deviation = cross_result.std()
-    print("Acc: {0}".format(accuracy))
+    print("Acc: {0} %".format(accuracy))
     print("Std: {0}".format(standard_deviation))
-    return cross_result
+    return accuracy
 
 def main():
     """Main method of the application."""
@@ -83,34 +87,26 @@ def main():
         quit()
     else:
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
-        rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column)
-        majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
-        rows_text, row_labels = generate_matrix(rows)
-        x_raw = vectorize_data(rows_text)
-        print("Majoritary class: {0}".format(majoritary_class))
+        pos_conditions = ['notag', 'tag']
         classifiers = ['SVM', 'NBM', 'C4.5']
-        predictions = [] 
-        x_train, x_test, y_train, y_test = train_test_split(x_raw, row_labels, test_size=0.1, random_state=0)
-        kfold = StratifiedKFold(n_splits=10, shuffle = False)
         with open('results.csv', 'w') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
-            final_results = []
-            for classifier in classifiers:
-                results = list(classify_by_algorithm(classifier, x_test, y_test, kfold))
-                final_results.append(np.asarray(results))
-                # csvwriter.writerow(results)
-        print("Classification ends.")
-        predictions = np.asarray(final_results)
-        print(predictions)
-        test_data = {     "A": [3, 4, 5, 6, 1, 5],     "B": [4, 3, 2, 1, 2, 6],     "C": [4, 3, 5, 6, 3, 7], }
-        statistic, p_value, ranking, rank_cmp = nonparametric_tests.friedman_test(*predictions)
-        print(ranking)
-        quit()
-        predictions = np.asarray(predictions)
-        classifiers = np.asarray(classifiers)
-        mc1 = multi.MultiComparison(predictions, classifiers)
-        print(mc1.kruskal(multimethod='T'))
-        m = multic.multipletests(p_value, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
-        print(m)
+            csvwriter.writerow(classifiers)
+        for pos in pos_conditions:
+            print(pos)
+            predictions = []
+            rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column, pos)
+            majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
+            rows_text, labels = generate_matrix(rows)
+            x_raw = vectorize_data(rows_text)
+            print("Majoritary class: {0}".format(majoritary_class))
+            x_train, x_test, y_train, y_test = train_test_split(x_raw, labels, test_size=0.1, random_state=0)
+            kfold = StratifiedKFold(n_splits=10, shuffle = False)
+            with open('results.csv', 'a') as csvfile:
+                csvwriter = csv.writer(csvfile, delimiter=',')
+                predictions = []
+                for classifier in classifiers:
+                    predictions.append(classify_by_algorithm(classifier, x_test, y_test, kfold))
+                csvwriter.writerow(predictions)
 if __name__ == "__main__":
     main()
