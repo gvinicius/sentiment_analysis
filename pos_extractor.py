@@ -4,8 +4,6 @@ import csv
 import collections
 import nltk as nt
 import numpy as np
-import nonparametric_tests
-import parametric_tests
 import statsmodels.stats.multicomp as multi 
 import statsmodels.sandbox.stats.multicomp as multic
 from bs4 import BeautifulSoup
@@ -44,9 +42,9 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
                 raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS', 'NNP']]
             stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
-            for word in stemmed_tokens:
-                if word not in stopwords.words('english'):
-                    final_tokens += word + " "
+            for word in raw_tokens:
+                # if word not in stopwords.words('english'):
+                final_tokens += word + " "
             rows.append((final_tokens, classification))
         return rows, classes_counter
 
@@ -58,8 +56,11 @@ def generate_matrix(corpus):
 
 def vectorize_data(texts):
     """This function vectorizes text to matrices."""
-    vectorizer = TfidfVectorizer(ngram_range=(1, 3))
-    return vectorizer.fit_transform(texts)
+    # vectorizer = TfidfVectorizer(ngram_range=(1, 3))
+    vectorizer = TfidfVectorizer()
+    transformation = vectorizer.fit_transform(texts)
+    dimensionality_notion = len(transformation.toarray()[0])
+    return transformation, dimensionality_notion 
 
 
 def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
@@ -89,24 +90,35 @@ def main():
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
         pos_conditions = ['notag', 'tag']
         classifiers = ['SVM', 'NBM', 'C4.5']
+        result_labels = ['SVM', 'NBM', 'C4.5']
+        result_labels.append('din')
         with open('results.csv', 'w') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
-            csvwriter.writerow(classifiers)
+            csvwriter.writerow(result_labels)
         for pos in pos_conditions:
             print(pos)
-            predictions = []
+            results = []
             rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column, pos)
             majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
             rows_text, labels = generate_matrix(rows)
-            x_raw = vectorize_data(rows_text)
+            x_raw, din = vectorize_data(rows_text)
             print("Majoritary class: {0}".format(majoritary_class))
             x_train, x_test, y_train, y_test = train_test_split(x_raw, labels, test_size=0.1, random_state=0)
             kfold = StratifiedKFold(n_splits=10, shuffle = False)
             with open('results.csv', 'a') as csvfile:
                 csvwriter = csv.writer(csvfile, delimiter=',')
-                predictions = []
+                results = []
+                csv_results = []
                 for classifier in classifiers:
-                    predictions.append(classify_by_algorithm(classifier, x_test, y_test, kfold))
-                csvwriter.writerow(predictions)
+                    results.append(classify_by_algorithm(classifier, x_test, y_test, kfold))
+                csv_results.append(results)
+                csv_results.append(din)
+                csvwriter.writerow(csv_results)
+        print(results)
+        print(classifiers)
+        mc1 = multi.MultiComparison(results, classifiers)
+        print(mc1.kruskal(multimethod='T'))
+        # m = multic.multipletests(p_value, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
+        # print(m)
 if __name__ == "__main__":
     main()
