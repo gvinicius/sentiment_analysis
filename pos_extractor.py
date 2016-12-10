@@ -6,6 +6,7 @@ import nltk as nt
 import numpy as np
 import statsmodels.stats.multicomp as multi 
 import statsmodels.sandbox.stats.multicomp as multic
+from scipy.stats import mstats 
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
@@ -78,7 +79,7 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     standard_deviation = cross_result.std()
     print("Acc: {0} %".format(accuracy))
     print("Std: {0}".format(standard_deviation))
-    return accuracy
+    return accuracy, cross_result
 
 def main():
     """Main method of the application."""
@@ -92,6 +93,8 @@ def main():
         classifiers = ['SVM', 'NBM', 'C4.5']
         result_labels = ['SVM', 'NBM', 'C4.5']
         result_labels.append('din')
+        runs_set = []
+        results_set = []
         with open('results.csv', 'w') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
             csvwriter.writerow(result_labels)
@@ -110,15 +113,17 @@ def main():
                 results = []
                 csv_results = []
                 for classifier in classifiers:
-                    results.append(classify_by_algorithm(classifier, x_test, y_test, kfold))
-                csv_results.append(results)
+                    accuracy, runs = classify_by_algorithm(classifier, x_test, y_test, kfold) 
+                    results.append(accuracy)
+                    runs_set.append(runs)
+                results_set.extend(results)
+                csv_results.extend(results)
                 csv_results.append(din)
                 csvwriter.writerow(csv_results)
-        print(results)
-        print(classifiers)
-        mc1 = multi.MultiComparison(results, classifiers)
-        print(mc1.kruskal(multimethod='T'))
-        # m = multic.multipletests(p_value, alpha=0.05, method='bonferroni', is_sorted=False, returnsorted=False)
-        # print(m)
+        elements_notag = [results_set[0], results_set[1], results_set[2]]
+        elements_tag = [results_set[3], results_set[4], results_set[5]]
+        H, pval = mstats.kruskalwallis(elements_notag, elements_tag)
+        print("H-statistic:", H)
+        print("P-Value:", pval)
 if __name__ == "__main__":
     main()
