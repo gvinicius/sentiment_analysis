@@ -22,7 +22,7 @@ from sklearn.multiclass import OneVsRestClassifier
 # -*- coding: latin-1 -*-
 
 def train_svm(x_data, y_data):
-    """ Create and train the Support Vector Machine. """
+    """ Create and train a Support Vector Machine. """
     svm = SVC(C=1000000.0, gamma='auto', kernel='rbf')
     svm.fit(x_data, y_data)
     return svm
@@ -40,8 +40,8 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
             raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
             if(pos_condition == 'tag'):
                 tagged = nt.tag.pos_tag(raw_tokens)
-                raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS', 'NNP']]
-            stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
+                raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS', 'NP']]
+            # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
             for word in raw_tokens:
                 # if word not in stopwords.words('english'):
@@ -58,6 +58,8 @@ def generate_matrix(corpus):
 def vectorize_data(texts):
     """This function vectorizes text to matrices."""
     # vectorizer = TfidfVectorizer(ngram_range=(1, 3))
+    #vectorizer = TfidfVectorizer(max_features=555)
+    #vectorizer = TfidfVectorizer(max_features=111)
     vectorizer = TfidfVectorizer()
     transformation = vectorizer.fit_transform(texts)
     dimensionality_notion = len(transformation.toarray()[0])
@@ -120,9 +122,10 @@ def main():
                 csv_results.extend(results)
                 csv_results.append(din)
                 csvwriter.writerow(csv_results)
+        """ Statistical test to check tagging technique impact. """
         elements_notag = [results_set[0], results_set[1], results_set[2]]
         elements_tag = [results_set[3], results_set[4], results_set[5]]
-        H, pval = mstats.kruskalwallis(elements_notag, elements_tag)
+        H, pval = stats.mannwhitneyu(elements_notag, elements_tag)
         print("H-statistic:", H)
         print("P-Value:", pval)
 if __name__ == "__main__":
