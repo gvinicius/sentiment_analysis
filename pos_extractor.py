@@ -72,7 +72,7 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
         classifier = train_svm(x_test, y_test)
     elif classifier_name == 'NBM':
         classifier = MultinomialNB().fit(x_test, y_test)
-    elif classifier_name == 'C4.5':
+    elif classifier_name == 'CART':
         classifier = DecisionTreeClassifier(random_state=0).fit(x_test, y_test)
     prediction = classifier.predict(x_test)
     print(classifier_name)
@@ -92,8 +92,8 @@ def main():
     else:
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
         pos_conditions = ['untagged', 'tagged']
-        classifiers = ['SVM', 'NBM', 'C4.5']
-        result_labels = ['SVM', 'NBM', 'C4.5']
+        classifiers = ['SVM', 'NBM', 'CART']
+        result_labels = ['SVM', 'NBM', 'CART']
         result_labels.append('din')
         runs_set = []
         results_set = []
