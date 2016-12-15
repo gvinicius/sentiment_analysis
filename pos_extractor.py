@@ -38,9 +38,9 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
             classification = str(row[category_field])
             classes_counter[classification] += 1
             raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
-            if(pos_condition == 'tag'):
+            if(pos_condition == 'tagged'):
                 tagged = nt.tag.pos_tag(raw_tokens)
-                raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS', 'NP']]
+                raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS']]
             # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
             for word in raw_tokens:
@@ -58,7 +58,7 @@ def generate_matrix(corpus):
 def vectorize_data(texts):
     """This function vectorizes text to matrices."""
     # vectorizer = TfidfVectorizer(ngram_range=(1, 3))
-    #vectorizer = TfidfVectorizer(max_features=555)
+    #vectorizer = TfidfVectorizer(max_features=111)
     #vectorizer = TfidfVectorizer(max_features=111)
     vectorizer = TfidfVectorizer()
     transformation = vectorizer.fit_transform(texts)
@@ -73,7 +73,7 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     elif classifier_name == 'NBM':
         classifier = MultinomialNB().fit(x_test, y_test)
     elif classifier_name == 'C4.5':
-        classifier = DecisionTreeClassifier().fit(x_test, y_test)
+        classifier = DecisionTreeClassifier(random_state=0).fit(x_test, y_test)
     prediction = classifier.predict(x_test)
     print(classifier_name)
     cross_result = cross_val_score(classifier, x_test, y_test, cv=kfold)
@@ -91,7 +91,7 @@ def main():
         quit()
     else:
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
-        pos_conditions = ['notag', 'tag']
+        pos_conditions = ['untagged', 'tagged']
         classifiers = ['SVM', 'NBM', 'C4.5']
         result_labels = ['SVM', 'NBM', 'C4.5']
         result_labels.append('din')
@@ -104,10 +104,10 @@ def main():
             print(pos)
             results = []
             rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column, pos)
-            majoritary_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
+            majority_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
             rows_text, labels = generate_matrix(rows)
             x_raw, din = vectorize_data(rows_text)
-            print("Majoritary class: {0}".format(majoritary_class))
+            print("Majority class: {0}".format(majority_class))
             x_train, x_test, y_train, y_test = train_test_split(x_raw, labels, test_size=0.1, random_state=0)
             kfold = StratifiedKFold(n_splits=10, shuffle = False)
             with open('results.csv', 'a') as csvfile:
