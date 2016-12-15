@@ -4,9 +4,6 @@ import csv
 import collections
 import nltk as nt
 import numpy as np
-import statsmodels.stats.multicomp as multi 
-import statsmodels.sandbox.stats.multicomp as multic
-from scipy.stats import mstats 
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
@@ -15,10 +12,8 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
-from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import cross_val_score, StratifiedKFold
-from sklearn.multiclass import OneVsRestClassifier
 # -*- coding: latin-1 -*-
 
 def train_svm(x_data, y_data):
@@ -38,9 +33,9 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
             classification = str(row[category_field])
             classes_counter[classification] += 1
             raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
-            if(pos_condition == 'tagged'):
+            if pos_condition == 'tagged':
                 tagged = nt.tag.pos_tag(raw_tokens)
-                raw_tokens = [word for word,pos in tagged if pos in ['JJS', 'JJR', 'NNS']]
+                raw_tokens = [word for word, pos in tagged if pos in ['JJS', 'JJR', 'NNS']]
             # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
             for word in raw_tokens:
@@ -63,8 +58,7 @@ def vectorize_data(texts):
     vectorizer = TfidfVectorizer()
     transformation = vectorizer.fit_transform(texts)
     dimensionality_notion = len(transformation.toarray()[0])
-    return transformation, dimensionality_notion 
-
+    return transformation, dimensionality_notion
 
 def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
     """This function enables classification by a series of algorithms and train/test situation."""
@@ -74,7 +68,6 @@ def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
         classifier = MultinomialNB().fit(x_test, y_test)
     elif classifier_name == 'CART':
         classifier = DecisionTreeClassifier(random_state=0).fit(x_test, y_test)
-    prediction = classifier.predict(x_test)
     print(classifier_name)
     cross_result = cross_val_score(classifier, x_test, y_test, cv=kfold)
     accuracy = cross_result.mean()*100
@@ -108,14 +101,15 @@ def main():
             rows_text, labels = generate_matrix(rows)
             x_raw, din = vectorize_data(rows_text)
             print("Majority class: {0}".format(majority_class))
-            x_train, x_test, y_train, y_test = train_test_split(x_raw, labels, test_size=0.1, random_state=0)
-            kfold = StratifiedKFold(n_splits=10, shuffle = False)
+            x_train, x_test, y_train, y_test = train_test_split(x_raw, labels,
+                                                                  test_size=0.1, random_state=0)
+            kfold = StratifiedKFold(n_splits=10, shuffle=False)
             with open('results.csv', 'a') as csvfile:
                 csvwriter = csv.writer(csvfile, delimiter=',')
                 results = []
                 csv_results = []
                 for classifier in classifiers:
-                    accuracy, runs = classify_by_algorithm(classifier, x_test, y_test, kfold) 
+                    accuracy, runs = classify_by_algorithm(classifier, x_test, y_test, kfold)
                     results.append(accuracy)
                     runs_set.append(runs)
                 results_set.extend(results)
@@ -125,8 +119,8 @@ def main():
         """ Statistical test to check tagging technique impact. """
         elements_notag = [results_set[0], results_set[1], results_set[2]]
         elements_tag = [results_set[3], results_set[4], results_set[5]]
-        H, pval = stats.mannwhitneyu(elements_notag, elements_tag)
-        print("H-statistic:", H)
-        print("P-Value:", pval)
+        h_statistic, p_value = stats.mannwhitneyu(elements_notag, elements_tag)
+        print("H-statistic:", h_statistic)
+        print("P-Value:", p_value)
 if __name__ == "__main__":
     main()
