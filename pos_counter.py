@@ -22,32 +22,37 @@ def treat_csv_dataset(dataset, text_field, category_field):
             classes_counter[classification] += 1
             raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
             tagged = nt.tag.pos_tag(raw_tokens)
-            final_pos = ""
-            for word in raw_tokens:
-                if word not in stopwords.words('english'):
-                    final_tokens += nt.PorterStemmer().stem(word) + " "
-            rows.append((final_tokens, classification))
-        return rows, classes_counter
+            pos = [str(pos) for word, pos in tagged]
+            rows.append((' '.join(pos), classification))
+        return rows
 
 def vectorize_data(texts):
     """This function vectorizes text to matrices."""
     vectorizer = TfidfVectorizer()
     transformation = vectorizer.fit_transform(texts)
-    dimensionality_notion = len(transformation.toarray()[0])
-    indices = np.argsort(vectorizer.idf_)[::-1]
+    indices = np.argsort(vectorizer.idf_)[::1]
     features = vectorizer.get_feature_names()
-    top_n = 2
+    top_n = 11
     top_features = [features[i] for i in indices[:top_n]]
-    return transformation, dimensionality_notioni, top_feature
+    return top_features, features
+
+def generate_matrix(corpus):
+    """This function prepares the attribute-value matrices."""
+    data = [c[0] for c in corpus]
+    labels = [c[1] for c in corpus]
+    return data, labels
 
 def main():
     """Main method of the application."""
     print('Automated classfication of sentiment analysis datasets.')
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 4:
         print('Wrong parameter list. $1 = csv dataset; $2 = text fieldname')
         quit()
     else:
-        treat_csv_dataset(dataset, text_field, category_field)
-        print(vectorize_data(texts))
+        rows = treat_csv_dataset(sys.argv[1], sys.argv[2], sys.argv[3])
+        rows_text, labels = generate_matrix(rows)
+        top, features = vectorize_data(rows_text)
+        print(features)
+        print(top)
 if __name__ == "__main__":
     main()
