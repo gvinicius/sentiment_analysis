@@ -35,12 +35,12 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
             raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
             if pos_condition == 'tagged':
                 tagged = nt.tag.pos_tag(raw_tokens)
-                raw_tokens = [word for word, pos in tagged if pos in ['JJS', 'JJR', 'NNS']]
+                raw_tokens = [word for word, pos in tagged if pos not in ['CC', 'VB', 'JJ', 'VBZ']]
             # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
             final_tokens = ""
             for word in raw_tokens:
-                # if word not in stopwords.words('english'):
-                final_tokens += word + " "
+                if word not in stopwords.words('english'):
+                    final_tokens += nt.PorterStemmer().stem(word) + " "
             rows.append((final_tokens, classification))
         return rows, classes_counter
 
@@ -52,7 +52,7 @@ def generate_matrix(corpus):
 
 def vectorize_data(texts):
     """This function vectorizes text to matrices."""
-    # vectorizer = TfidfVectorizer(ngram_range=(1, 3))
+    # vectorizer = TfidfVectorizer()
     #vectorizer = TfidfVectorizer(max_features=111)
     #vectorizer = TfidfVectorizer(max_features=111)
     vectorizer = TfidfVectorizer()
