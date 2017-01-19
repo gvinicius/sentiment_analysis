@@ -93,7 +93,7 @@ def main():
         results_set = []
         with open('results.csv', 'a') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
-            csvwriter.writerow(dataset)
+            csvwriter.writerow([dataset])
             csvwriter.writerow(result_labels)
         for pos in pos_conditions:
             print(pos)
@@ -127,6 +127,6 @@ def main():
         print("P-Value:", p_value)
         with open('results.csv', 'a') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
-            csvwriter.writerow(p_value)
+            csvwriter.writerow([p_value])
 if __name__ == "__main__":
     main()
