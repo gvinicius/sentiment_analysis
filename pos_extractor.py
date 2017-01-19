@@ -127,6 +127,6 @@ def main():
         print("P-Value:", p_value)
         with open('results.csv', 'a') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
-            csvwriter.writerow([p_value])
+            csvwriter.writerow([str(p_value)])
 if __name__ == "__main__":
     main()
