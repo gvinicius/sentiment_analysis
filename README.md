@@ -2,7 +2,7 @@
 
 * Requirements:
 - Python3;
-- Modules: numpy, scipy, beautifulsoup4, sklearn (and sckit-learn), nltk.
+- Modules: numpy, scipy, beautifulsoup4, sklearn (and sckit-learn), nltk (you can use pip3 to install them).
 - In python3 console, type:
   # import nltk
   # nltk.download()
@@ -12,4 +12,4 @@
 * Suggested datasets: https://www.crowdflower.com/data-for-everyone/
 
 * Basic usage:
-# python3 pos_extractor.py CSV_DATSET_FILEPATH TEXT_COLUMN SENTIMENT_COLUMN
+`python3 pos_extractor.py CSV_DATSET_FILEPATH TEXT_COLUMN SENTIMENT_COLUMN`

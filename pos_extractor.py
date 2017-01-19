@@ -84,14 +84,16 @@ def main():
         quit()
     else:
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
+        print(dataset)
         pos_conditions = ['untagged', 'tagged']
         classifiers = ['SVM', 'NBM', 'CART']
         result_labels = ['SVM', 'NBM', 'CART']
         result_labels.append('din')
         runs_set = []
         results_set = []
-        with open('results.csv', 'w') as csvfile:
+        with open('results.csv', 'a') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
+            csvwriter.writerow(dataset)
             csvwriter.writerow(result_labels)
         for pos in pos_conditions:
             print(pos)
@@ -105,6 +107,7 @@ def main():
                                                                   test_size=0.1, random_state=0)
             kfold = StratifiedKFold(n_splits=10, shuffle=False)
             with open('results.csv', 'a') as csvfile:
+
                 csvwriter = csv.writer(csvfile, delimiter=',')
                 results = []
                 csv_results = []
@@ -122,5 +125,8 @@ def main():
         h_statistic, p_value = stats.mannwhitneyu(elements_notag, elements_tag)
         print("H-statistic:", h_statistic)
         print("P-Value:", p_value)
+        with open('results.csv', 'a') as csvfile:
+            csvwriter = csv.writer(csvfile, delimiter=',')
+            csvwriter.writerow(p_value)
 if __name__ == "__main__":
     main()
