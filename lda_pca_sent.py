@@ -54,12 +54,12 @@ def vectorize_data(texts, condition):
     vectorizer = TfidfVectorizer()
     transformation = vectorizer.fit_transform(texts)
     if condition == 'pca':
-        pca = PCA()
+        pca = TruncatedSVD(algorithm='arpack', random_state=0)
         transformation = pca.fit_transform(transformation)
         # r = robjects.r
         # pca = r.princomp(transformation)
         # transformation =  pca.rotation
-    dimensionality_notion = len(transformation.toarray()[0])
+    dimensionality_notion = 1 # len(transformation.toarray()[0])
     return transformation, dimensionality_notion
 
 def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
@@ -88,8 +88,8 @@ def main():
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
         print(dataset)
         matrix_conditions = ['tdidf', 'pca']
-        classifiers = ['SVM', 'NBM', 'CART']
-        result_labels = ['SVM', 'NBM', 'CART']
+        classifiers = ['SVM', 'CART']
+        result_labels = ['SVM', 'CART']
         result_labels.append('dim')
         runs_set = []
         results_set = []
@@ -123,6 +123,7 @@ def main():
                 csv_results.append(dim)
                 csvwriter.writerow(csv_results)
         """ Statistical test to check tagging technique impact. """
+        """
         elements_notag = [results_set[0], results_set[1], results_set[2]]
         elements_tag = [results_set[3], results_set[4], results_set[5]]
         h_statistic, p_value = stats.mannwhitneyu(elements_notag, elements_tag)
@@ -131,5 +132,6 @@ def main():
         with open('results.csv', 'a') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
             csvwriter.writerow([round(p_value,2)])
+        """
 if __name__ == "__main__":
     main()
