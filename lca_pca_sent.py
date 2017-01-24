@@ -14,7 +14,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import cross_val_score, StratifiedKFold
-from sklearn.decomposition import PCA
+from sklearn.decomposition import TruncatedSVD 
 
 def train_svm(x_data, y_data):
     """ Create and train a Support Vector Machine. """
