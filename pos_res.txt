@@ -1,2 +1,17 @@
+
 Automated classfication of sentiment analysis datasets.
 ../dataset/economics/1377191648_sentiment_nuclear_power.csv
+Majority class: 0.8421052631578947
+SVM
+Acc: 88.33333333333331 %
+Std: 0.1452966314513558
+CART
+Acc: 88.33333333333331 %
+Std: 0.1452966314513558
+Majority class: 0.8421052631578947
+SVM
+Acc: 88.33333333333331 %
+Std: 0.1452966314513558
+CART
+Acc: 70.83333333333333 %
+Std: 0.2212653007891959
