@@ -1,15 +1,17 @@
-* Text Mining-based Sentiment Analysis with python, dealing with parts-of-speech preprocessing filter.
+* Sentiment analysis
 
-* Requirements:
-- Python3;
-- Modules: numpy, scipy, beautifulsoup4, sklearn (and sckit-learn), nltk (you can use pip3 to install them).
-- In python3 console, type:
-  # import nltk
-  # nltk.download()
-  # d
-  And then download stopwords and averaged_perceptron_tagger modules.
+Text Mining-based Sentiment Analysis with python, dealing with parts-of-speech preprocessing filter.
 
-* Suggested datasets: https://www.crowdflower.com/data-for-everyone/
+ Requirements:
+ Python3;
+ Modules: numpy, scipy, beautifulsoup4, sklearn (and sckit-learn), nltk (you can use pip3 to install them).
+ In python3 console, type:
+ `import nltk`
+ `nltk.download()`
+ `d`
+ And then download stopwords and averaged_perceptron_tagger modules.
 
-* Basic usage:
-`python3 pos_extractor.py CSV_DATSET_FILEPATH TEXT_COLUMN SENTIMENT_COLUMN`
+ Suggested datasets: https://www.crowdflower.com/data-for-everyone/
+
+ Basic usage:
+python3 pos_extractor.py CSV_DATSET_FILEPATH TEXT_COLUMN SENTIMENT_COLUMN`
