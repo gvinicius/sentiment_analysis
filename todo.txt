@@ -1,0 +1,15 @@
+
+New application
+1- POS
+2- SENTENCES
+3- PROLOG RULES
+4- FUZZIFICATION ETC
+5- INFERENCE
+6- PATTERN EXTRACTION UPON IT
+
+
+REFACTOR
+1- Modularize
+2- Automated test
+3- Define preprocessing profile
+4- Define classifiers' set profile
