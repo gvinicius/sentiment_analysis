@@ -15,6 +15,7 @@ from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import cross_val_score, StratifiedKFold
 from sklearn.decomposition import TruncatedSVD 
+from sklearn.decomposition import FactorAnalysis as LDA
 
 def train_svm(x_data, y_data):
     """ Create and train a Support Vector Machine. """
@@ -54,12 +55,13 @@ def vectorize_data(texts, condition):
     vectorizer = TfidfVectorizer()
     transformation = vectorizer.fit_transform(texts)
     if condition == 'pca':
-        pca = PCA()
-        transformation = pca.fit_transform(transformation)
+        lda = LDA()
+        transformation = lda.fit_transform(transformation.toarray())
         # r = robjects.r
         # pca = r.princomp(transformation)
         # transformation =  pca.rotation
-    dimensionality_notion = len(transformation.toarray()[0])
+    #dimensionality_notion = len(transformation.toarray()[0])
+    dimensionality_notion = 1
     return transformation, dimensionality_notion
 
 def classify_by_algorithm(classifier_name, x_test, y_test, kfold):
