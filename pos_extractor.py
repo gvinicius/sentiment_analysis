@@ -37,7 +37,7 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
                 if pos_condition == 'tagged':
                     tagged = nt.tag.pos_tag(raw_tokens)
                     raw_tokens = [word for word, pos in tagged if pos in ['JJ', 'RB', 'RBR', 'RBS' ]]
-                # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
+                raw_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
                 final_tokens = ""
                 for word in raw_tokens:
                     if word not in stopwords.words('english'):

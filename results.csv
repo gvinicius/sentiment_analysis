@@ -175,3 +175,7 @@ SVM,din
 SVM,din
 58.2222222222,3534
 63.3611111111,561
+../dataset/economics/progressive-tweet-sentiment.csv
+SVM,din
+58.2222222222,2971
+65.7222222222,539
