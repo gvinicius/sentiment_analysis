@@ -31,7 +31,7 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
         for row in reader:
             text = BeautifulSoup(row[text_field], 'html5lib').get_text()
             classification = str(row[category_field])
-            if classification.upper() in ["POSITIVE", "NEGATIVE"]:
+            if classification.upper() in ["POSITIVE", "NEGATIVE", "B", "FOR", "AGAINST"]:
                 classes_counter[classification] += 1
                 raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
                 if pos_condition == 'tagged':

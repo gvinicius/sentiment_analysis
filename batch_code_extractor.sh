@@ -7,5 +7,5 @@ python3 pos_extractor.py ../dataset/economics/Coachella-2015-2-DFE.csv text coac
 python3 pos_extractor.py ../dataset/economics/Deflategate-DFE.csv text deflate_sentiment
 python3 pos_extractor.py ../dataset/economics/GOP_REL_ONLY.csv text sentiment
 python3 pos_extractor.py ../dataset/economics/New-years-resolutions-DFE.csv text resolution_topics
-python3 pos_extractor.py ../dataset/economics/Political-media-DFE.csv message bias
+# python3 pos_extractor.py ../dataset/economics/Political-media-DFE.csv message bias
 python3 pos_extractor.py ../dataset/economics/progressive-tweet-sentiment.csv tweet_text sentiment

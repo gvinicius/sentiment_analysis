@@ -167,3 +167,11 @@ SVM,CART,dim
 0.59
 57.3833783176,48.1157219973,1
 0.59
+../dataset/economics/1377191648_sentiment_nuclear_power.csv
+SVM,din
+../dataset/economics/1377884570_tweet_global_warming.csv
+SVM,din
+../dataset/economics/progressive-tweet-sentiment.csv
+SVM,din
+58.2222222222,3534
+63.3611111111,561
