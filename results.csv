@@ -157,3 +157,13 @@ SVM,NBM,CART,dim
 0.42
 46.951048951,46.8661338661,47.377955378,1
 0.42
+../dataset/economics/progressive-tweet-sentiment.csv
+SVM,CART,dim
+0.42
+40.5065876153,52.0254940711,1
+0.42
+../dataset/economics/Coachella-2015-2-DFE.csv
+SVM,CART,dim
+0.59
+57.3833783176,48.1157219973,1
+0.59

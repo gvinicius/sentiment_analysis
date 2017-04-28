@@ -31,17 +31,18 @@ def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
         for row in reader:
             text = BeautifulSoup(row[text_field], 'html5lib').get_text()
             classification = str(row[category_field])
-            classes_counter[classification] += 1
-            raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
-            if pos_condition == 'tagged':
-                tagged = nt.tag.pos_tag(raw_tokens)
-                raw_tokens = [word for word, pos in tagged if pos not in ['JJ', 'JJS','CC','RBR','JJR', 'DT']]
-            # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
-            final_tokens = ""
-            for word in raw_tokens:
-                if word not in stopwords.words('english'):
-                    final_tokens += word + " "
-            rows.append((final_tokens, classification))
+            if classification.upper() in ["POSITIVE", "NEGATIVE"]:
+                classes_counter[classification] += 1
+                raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
+                if pos_condition == 'tagged':
+                    tagged = nt.tag.pos_tag(raw_tokens)
+                    raw_tokens = [word for word, pos in tagged if pos in ['JJ', 'RB', 'RBR', 'RBS' ]]
+                # stemmed_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
+                final_tokens = ""
+                for word in raw_tokens:
+                    if word not in stopwords.words('english'):
+                        final_tokens += word + " "
+                rows.append((final_tokens, classification))
         return rows, classes_counter
 
 def generate_matrix(corpus):
@@ -86,8 +87,9 @@ def main():
         dataset, text_column, category_column = sys.argv[1], sys.argv[2], sys.argv[3]
         print(dataset)
         pos_conditions = ['untagged', 'tagged']
-        classifiers = ['SVM', 'NBM', 'CART']
-        result_labels = ['SVM', 'NBM', 'CART']
+        # classifiers = ['SVM', 'NBM', 'CART']
+        classifiers = ['SVM']
+        result_labels = ['SVM']
         result_labels.append('din')
         runs_set = []
         results_set = []
@@ -120,6 +122,7 @@ def main():
                 csv_results.append(din)
                 csvwriter.writerow(csv_results)
         """ Statistical test to check tagging technique impact. """
+        """ 
         elements_notag = [results_set[0], results_set[1], results_set[2]]
         elements_tag = [results_set[3], results_set[4], results_set[5]]
         h_statistic, p_value = stats.mannwhitneyu(elements_notag, elements_tag)
@@ -128,5 +131,6 @@ def main():
         with open('results.csv', 'a') as csvfile:
             csvwriter = csv.writer(csvfile, delimiter=',')
             csvwriter.writerow([str(p_value)])
+        """ 
 if __name__ == "__main__":
     main()
