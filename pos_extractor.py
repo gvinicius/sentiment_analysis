@@ -25,24 +25,28 @@ def train_svm(x_data, y_data):
 def treat_csv_dataset(dataset, text_field, category_field, pos_condition):
     """This function does preprocessing upon csv dataset files."""
     classes_counter = collections.Counter()
+    count = 0
     with open(dataset, 'r', encoding="latin1") as csvfile:
         rows = []
         reader = csv.DictReader(csvfile)
         for row in reader:
             text = BeautifulSoup(row[text_field], 'html5lib').get_text()
             classification = str(row[category_field])
-            if classification.upper() in ["POSITIVE", "NEGATIVE", "B", "FOR", "AGAINST"]:
-                classes_counter[classification] += 1
-                raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
-                if pos_condition == 'tagged':
-                    tagged = nt.tag.pos_tag(raw_tokens)
-                    raw_tokens = [word for word, pos in tagged if pos in ['JJ', 'RB', 'RBR', 'RBS' ]]
-                raw_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
-                final_tokens = ""
-                for word in raw_tokens:
-                    if word not in stopwords.words('english'):
-                        final_tokens += word + " "
-                rows.append((final_tokens, classification))
+#            if classification.upper() in ["POSITIVE", "NEGATIVE", "B", "FOR", "AGAINST", "YES", "NO", "1", "0", "WORRY", "HAPPINESS"]:
+            # print(classification)
+            count += 1
+            classes_counter[classification] += 1
+            raw_tokens = RegexpTokenizer(r'\w+').tokenize(text)
+            if pos_condition == 'tagged':
+                tagged = nt.tag.pos_tag(raw_tokens)
+                raw_tokens = [word for word, pos in tagged if pos in ['JJ', 'RB', 'RBR', 'RBS' ]]
+            # raw_tokens = [nt.PorterStemmer().stem(t) for t in raw_tokens]
+            final_tokens = ""
+            for word in raw_tokens:
+                if word not in stopwords.words('english'):
+                    final_tokens += word + " "
+            rows.append((final_tokens, classification))
+        print("Quantity of texts: {0}".format(count))
         return rows, classes_counter
 
 def generate_matrix(corpus):
@@ -88,8 +92,8 @@ def main():
         print(dataset)
         pos_conditions = ['untagged', 'tagged']
         # classifiers = ['SVM', 'NBM', 'CART']
-        classifiers = ['SVM']
-        result_labels = ['SVM']
+        classifiers = ['CART']
+        result_labels = ['CART']
         result_labels.append('din')
         runs_set = []
         results_set = []
@@ -103,8 +107,9 @@ def main():
             rows, classes_counter = treat_csv_dataset(dataset, text_column, category_column, pos)
             majority_class = classes_counter.most_common()[0][1]/(sum(classes_counter.values()))
             rows_text, labels = generate_matrix(rows)
-            x_raw, din = vectorize_data(rows_text)
+            x_raw, dim = vectorize_data(rows_text)
             print("Majority class: {0}".format(majority_class))
+            print("Dimensionality: {0}".format(dim))
             x_train, x_test, y_train, y_test = train_test_split(x_raw, labels,
                                                                   test_size=0.1, random_state=0)
             kfold = StratifiedKFold(n_splits=10, shuffle=False)
@@ -119,7 +124,7 @@ def main():
                     runs_set.append(runs)
                 results_set.extend(results)
                 csv_results.extend(results)
-                csv_results.append(din)
+                csv_results.append(dim)
                 csvwriter.writerow(csv_results)
         """ Statistical test to check tagging technique impact. """
         """ 
